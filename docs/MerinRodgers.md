@@ -7,7 +7,7 @@
 ---
 ### **To Do List- Monday**
 ---
- ##### *Homework*
+ #### *Homework*
  1. Digital History:
     *  Create file in Markdown and turn it in under the docs for
     *  ***If I have time***: find a project for next critique
@@ -23,9 +23,9 @@
    * write a reflection on Chpt. 5
    * Do the Homework for Chpt. 5 
 
-##### *To Do for Fun*
+#### *To Do for Fun*
 1. Celebrate 19th birthday with friends
-##### *Some Awesome Music*
+#### *Some Awesome Music*
 [Kygo & Aha- Take on me Remix](https://www.youtube.com/watch?v=dIK81cpOXYg)
 
 [Snow Patrol-Just say yes](https://www.youtube.com/watch?v=vW1hv37imjw&list=RDMMvW1hv37imjw)
