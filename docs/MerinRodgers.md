@@ -1,6 +1,7 @@
 # Merin's Randomness
 >Hi guys, so I'm sitting here trying to think of something to write but I'm drawing a blank, so I've decided to write my to do list for today (which I end up doing more than actually getting my list done). 
  ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS867E6LvXrldoBVSGrQH-ATxrTTvXHqyplSQ4y0xM0iJAc8pH "Laughing at his victims")
+ 
  *^this took forever to link and I've never been more proud of myself*
 ---
 ### **To Do List- Monday**
