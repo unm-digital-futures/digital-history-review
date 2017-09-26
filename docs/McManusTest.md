@@ -11,12 +11,4 @@
  
 * [WookiePedia](http://starwars.wikia.com/wiki/Main_Page)
 
-
-Enjoy 
-| Character | Profile |
-| ------ | ------ |
-| Padme | http://starwars.wikia.com/wiki/Padm%C3%A9_Amidala |
-| Ahsoka | http://starwars.wikia.com/wiki/Ahsoka_Tano |
-| Leia | http://starwars.wikia.com/wiki/Leia_Organa |
-
   
