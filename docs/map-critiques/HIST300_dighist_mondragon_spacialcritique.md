@@ -28,7 +28,7 @@ This series provides maps of camp sub-divisions, labor colonies, and settlement 
 This series lists the numerous penal institutions and colonies for men, women, juvenile boys, and juvenile boys. This series has the same problem as series 3, there are different maps with different information.  The “Prison Hospital” map displays the distribution of hospitals throughout Russia. A population 30,000,00 million is indicated by a star. In the “Correctional Colonies for Women,” the same population is indicated with a triangle. The maps should be universal to prevent the user from being confused. 
 
 ![Distribution of Prison Hospitals](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/map-critiques/images/HIST300-012-DigitalHistory-ser4.png "Distribution of Prison Hospitals")
-![Distribution of Correctional Colonies for Adult Women](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/map-critiques/images/HIST300-012-DigitalHistory-ser4-2.png) "Distribution of Correctional Colonies for Adult Women")
+![Distribution of Correctional Colonies for Adult Women](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/map-critiques/images/HIST300-012-DigitalHistory-ser4-2.png "Distribution of Correctional Colonies for Adult Women")
 
 #### Series 5
 Series 5 displays the numerous penal institutions in the regions around Russia. Along with Series 3 and 4, the maps and information are different. One map displays the 15 republics of the USSR, but another map shows the rate of imprisonment in European Russia. Although they provide great visualization of penal locations, the differing images make it difficult to locate and access.
