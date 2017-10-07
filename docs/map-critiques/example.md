@@ -22,4 +22,4 @@ let's try:
 
 ![sample screen shot](images/image1.png "sample screen shot")
 
-It worked! 
+It worked! Above you can see my screen shot I so carefully made in class on Thursday.
