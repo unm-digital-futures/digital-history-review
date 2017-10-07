@@ -3,15 +3,15 @@ Hello.
 This simplistic markdown page shows how to link to images in your markdown files.
 
 ## IMAGES
-The syntax for displaying an image from your markdown file is like (copy the punctuation exactly):
+The syntax for displaying an image from your markdown file is as follows:
 ```
 ![ALT-TEXT](URL "HOVER-TEXT")
 ```
 You need to replace ALT-TEXT, URL, and HOVER-TEXT for each of your images.
 
-The `URL` is most important; it specifies the location of your image. This is called the image `path`. In this case, we want to specify our `images` folder, because that's where we're uploading all the images.
+The `URL` is most important; it specifies the virtual location of your image. This is called the image `path`. In this case, we want to specify our `images` folder, because that's where we're uploading all our images.
 
-`ALT-TEXT` is text that will appear if your image cannot be found (usually because there's a typo in the location of the image) 
+`ALT-TEXT` is text that will appear if your image cannot be found (usually because there's a typo in the image path) 
 
 `HOVER-TEXT` is text that will appear when you hover the cursor over the image. 
 
