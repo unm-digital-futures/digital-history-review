@@ -13,12 +13,16 @@ let's see if i can get a link to [my website](http://fredgibbs.net). yes!
 
 ## IMAGES
 the syntax for displaying an image from your markdown file is like (copy the punctuation exactly):
-`![ALT-TEXT](URL "HOVER-TEXT")`
+```
+![ALT-TEXT](URL "HOVER-TEXT")
+```
 
 You need to replace ALT-TEXT, URL, and HOVER-TEXT for your images.
 
-let's try:
-`![sample screen shot](images/image1.png "sample screen shot")`
+let's try: 
+```
+![sample screen shot](images/image1.png "sample screen shot")
+```
 
 ![sample screen shot](images/image1.png "sample screen shot")
 
