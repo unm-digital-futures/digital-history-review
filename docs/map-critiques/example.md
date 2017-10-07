@@ -20,4 +20,4 @@ You need to replace ALT-TEXT, URL, and HOVER-TEXT for your images.
 let's try:
 `![sample screen shot](/images/image1.png "sample screen shot")`
 
-![sample screen shot](/images/image1.png "sample screen shot")
+![sample screen shot](../images/image1.png "sample screen shot")
