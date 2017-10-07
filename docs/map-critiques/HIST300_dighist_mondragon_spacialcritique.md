@@ -12,12 +12,12 @@ The maps are broken down into several series. The first series displays the dist
 #### Series 1 
 Series 1 provides the distribution of camps in the USSR from 1929-1960. The black dots on the pictures and video provided represent the camp locations in the country. This information is listed chronologically starting from 1939 to 1960. The star represents the capital of Moscow. Both the pictures and video indicate that camp locations steadily increase in the Eastern and Southern regions of the country.  These maps are beneficial because they’re simple and not too confusing. 
 
-![Ser1](digital-history-review/docs/map-critiques/images/HIST300-012-DigitalHistory-ser1.png "Distribution of Camps in USSR, 1959-1960")
+![Ser1](map-critiques/images/HIST300-012-DigitalHistory-ser1.png "Distribution of Camps in USSR, 1959-1960")
 
 #### Series 2
 Series 2 is the distribution of prisoners in gulags from 1931-1960. Data from Russia and the USSR are listed chronologically. The black dots on the maps and video indicate the number of prisoners recorded. Black triangles indicate that no prisoner population was recorded. Maps in this series are color coded. White indicates no prisoner population in the region whereas red indicates 200,000-300,000 prisoner population.  These color-coded maps are beneficial because help the user to easily identifying and understanding the content. 
 
-![Ser2](digital-history-review/docs/map-critiques/images/HIST300-012-DigitalHistory-ser2.png "Distribution of Prisoners in the Gulag USSR.")
+![Ser2](map-critiques/images/HIST300-012-DigitalHistory-ser2.png "Distribution of Prisoners in the Gulag USSR.")
 
 #### Series 3
 This series provides maps of camp sub-divisions, labor colonies, and settlement outposts in 1952. In the previous series, the map appearance was identical, whereas in this series they’re different. Each map displays a specific topic with its own information. For example; the “Location of Camp Headquarters” map display headquarters of colonies which are color-coded by region. However; the “Special Settler” map displays a specific region of Russia.  Colored circles indicating which job duty the settler is performing. The different maps in this series make it difficult for the user to understand or follow along. 
