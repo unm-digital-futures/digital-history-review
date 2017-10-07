@@ -9,6 +9,13 @@ This simplistic markdown page shows how to link to images in your markdown files
 Remember, you need to save your screenshot image as a separate file that you will upload to the GitHub repository, into the `images` folder. I've put my screenshot from class in there as an example.
 
 
+## Naming files
+All the files we create from now on are destined to go on the web, both markdown and image files. For our future mental health, we should start being careful to name files appropriately, as they accumulate quickly. Following a few simple rules helps a ton:
+- No spaces! All the files we create will ultimately be referenced in a URL, which cannot have spaces.
+- Be clear. Don't turn the file names into a dectective investigation. They should be informative so that we can tell what they are two months from now.
+
+If you're writing about the [AfricaMap project](http://worldmap.harvard.edu/africamap/), for instance, your critique should be named something like `africa-map.md`. Your images might be named `africa-map-1.jpg` and `africa-map-2.jpg` and so on.
+
 ## Linking to images in your markdown files
 The syntax for displaying an image from your markdown file is as follows:
 ```
