@@ -19,7 +19,7 @@ Series 2 is the distribution of prisoners in gulags from 1931-1960. Data from Ru
 
 ![Ser2](digital-history-review/docs/map-critiques/images/HIST300-012-DigitalHistory-ser2.png "Distribution of Prisoners in the Gulag USSR.")
 
-####$ Series 3
+#### Series 3
 This series provides maps of camp sub-divisions, labor colonies, and settlement outposts in 1952. In the previous series, the map appearance was identical, whereas in this series they’re different. Each map displays a specific topic with its own information. For example; the “Location of Camp Headquarters” map display headquarters of colonies which are color-coded by region. However; the “Special Settler” map displays a specific region of Russia.  Colored circles indicating which job duty the settler is performing. The different maps in this series make it difficult for the user to understand or follow along. 
 
 ![Ser3](digital-history-review/docs/map-critiques/images/HIST300-012-DigitalHistory-ser3.png "Location of Camp Headquarters.")
