@@ -23,3 +23,5 @@ let's try: (you can copy this code into your own markdown page and change the UR
 ![sample screen shot](images/image1.png "sample screen shot")
 
 It worked! Above you can see my screen shot I so carefully made in class on Thursday.
+
+As you remember, by dragging and dropping my image file into the images folder (like you have already done with your test markdown files a few weeks ago), I uploaded my image to the `images` folder in the `docs` folder in our repository: https://github.com/unm-digital-futures/digital-history-review. 
