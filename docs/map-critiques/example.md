@@ -1,25 +1,21 @@
 Hello.
 
-This is a simplistic markdown example that you can see on GitHub.
-
-# YES!
-## Another heading
-### yet another
-
-this is *bold*, i mean **this** is bold. 
-_underline_? nope. try __underline__. 
-
-let's see if i can get a link to [my website](http://fredgibbs.net). yes!
+This simplistic markdown page shows how to link to images in your markdown files.
 
 ## IMAGES
-the syntax for displaying an image from your markdown file is like (copy the punctuation exactly):
+The syntax for displaying an image from your markdown file is like (copy the punctuation exactly):
 ```
 ![ALT-TEXT](URL "HOVER-TEXT")
 ```
+You need to replace ALT-TEXT, URL, and HOVER-TEXT for each of your images.
 
-You need to replace ALT-TEXT, URL, and HOVER-TEXT for your images.
+The `URL` is most important; it specifies the location of your image. This is called the image `path`. In this case, we want to specify our `images` folder, because that's where we're uploading all the images.
 
-let's try: 
+`ALT-TEXT` is text that will appear if your image cannot be found (usually because there's a typo in the location of the image) 
+
+`HOVER-TEXT` is text that will appear when you hover the cursor over the image. 
+
+let's try: (you can copy this code into your own markdown page and change the URL to match your image)
 ```
 ![sample screen shot](images/image1.png "sample screen shot")
 ```
