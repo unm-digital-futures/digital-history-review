@@ -6,7 +6,8 @@ This simplistic markdown page shows how to link to images in your markdown files
 - For Windows: https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots.
 - For Mac: https://support.apple.com/en-us/HT201361
 
-Remember, you need to save your screenshot image as a separate file that you will upload into the GitHub repository.
+Remember, you need to save your screenshot image as a separate file that you will upload to the GitHub repository, into the `images` folder. I've put my screenshot from class in there as an example.
+
 
 ## Linking to images in your markdown files
 The syntax for displaying an image from your markdown file is as follows:
