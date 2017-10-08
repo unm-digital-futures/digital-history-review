@@ -6,7 +6,7 @@ The purpose of the dictionary of Sydney website is to act as a repository for Sy
 
 ## Interface
 
-![The Homepage tab.](images/TBImageHome.png "Home tab")
+![The Homepage tab.](images/TBImageHomepage.png "Home tab")
 
 The search tool bar and browsing bubbles with guided information (e.g. the category places) work well together to assist users in finding relevant information. One way the browsing bubbles compliment the search tool bar is when a user does a search (i.e. a question, term, name, etc.) they do not have to go back to the home page to access the browsing bubbles, as they’re present with the results from the search for easy access. Additionally, each search is laid into two columns that show the title and the type of classification for each result, which can help the user get a sense of what each result will be in relation to.
 
