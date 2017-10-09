@@ -3,7 +3,7 @@ Digital Review:Desiree' Martinez
 
 <http://www.redjuderias.org/google.index.php>
 
-Spain _Routes of Sefarad_, is a digital humanities project intended to demonstrate through 500 sites the Jewish heritage and cultural events that occured within the Iberian penisula particularly Spain. Though the website is enitrely in Spanish, _Camino De Sefarad Red De Juderias De Espana_'s collaboration with Google makes it easy to convert the text to English and view the maps. And once this is done your met with the the exact number of cities, enclaves, images, texts, and voice commented options in which the site has explored and acquired to provide an interactive experience. Thus, a mulitude of options and interfaces are available to begin exploring. 
+Spain _Routes of Sefarad_, is a digital humanities project intended to demonstrate through 500 sites the Jewish heritage and cultural events that occured within the Iberian penisula particularly Spain. Though the website is enitrely in Spanish, _Camino De Sefarad Red De Juderias De Espana_'s collaboration with Google makes it easy to convert the text to English. And once this is done your met with the the exact number of cities, enclaves, images and text options in which the site has explored and acquired to provide an interactive experience. Thus, a mulitude of options and interfaces are available to begin exploring. 
 
 [![RoadsofSepharad|Index](Spain_image1_intro.png"introindex")](http://www.redjuderias.org/google/index.php?l=es)
 
