@@ -10,8 +10,8 @@ The writing style of the website is informational and easy for any type of audie
 
 https://hiddenflorence.org/
 
-![Florence1!](images/Florence1.png "Florence1 Home")
-![Florence2!](images/Florence2.png "Florence2 Map")
-![Florence3!](images/Florence3.png "Florence3 Stories")
-![Florence4!](images/Florence4.png "Florence4 Reviews")
+![Florence1](images/Florence1.png "Florence1 Home")
+![Florence2](images/Florence2.png "Florence2 Map")
+![Florence3](images/Florence3.png "Florence3 Stories")
+![Florence4](images/Florence4.png "Florence4 Reviews")
 
