@@ -5,11 +5,11 @@ Digital Review:Desiree' Martinez
 
 Spain _Routes of Sefarad_, is a digital humanities project intended to demonstrate through 500 sites the Jewish heritage and cultural events that occured within the Iberian penisula particularly Spain. Though the website is enitrely in Spanish, _Camino De Sefarad Red De Juderias De Espana_'s collaboration with Google makes it easy to convert the text to English. And once this is done your met with the the exact number of cities, enclaves, images and text options in which the site has explored and acquired to provide an interactive experience. Thus, a mulitude of options and interfaces are available to begin exploring. 
 
-![RoadsofSepharad|Index](images/dmartinez_image1_intro.png "popup text")
+![RoadsofSepharad|Index](images/dmartinez_image1_Intro.png "popup text")
 
 Maps are definitely key to understanding this site. Once entering the exlporatory page, navigation across the peninsula can be accessed by selecting the location you would like to explore. 
 
-[![RoadofSepharad|Map](Spain_image2.png"Maps")](http://www.redjuderias.org/google/map.php?l=es)
+![RoadofSepharad|Map](images/dmartinez_image2.png"Maps")](http://www.redjuderias.org/google/map.php?l=es)
 
 For example, if the city of Barcelona was chosen the enclave of the Jewish community could be explored by selecting one of the various tabs available. Each tab has an image of either a castle, flag, or menorah which enables access to various artifacts, historical sites, and heritage centers within the space.  This feature can also be accessed by the "View Places" tab on the righthand side of the screen. This allows for even easier exploration due to the highlighting effect that correspondes with each site. Once you have selected your tab for exploration, information regarding the history of that particular location including architectural information is provided. For example, *Calle de Banos Nuevos*, which translates to, *Street of New Bathrooms*, has long been a site used for public bathing starting in 1160 A.D. Throughout the website current images are provided to aid in spatial and visual perspective of the current state of the space being used. However, having more antiquated images of the sites would have further aided in understanding the space at the time of occupation. Nevertheless, additional **"Did you know?"** information is provided on why the sites are special to the Sephardic culture. For example, the Calle de Banos Nuevos,**"Did you know?"** image provides insight into the importance of bathrooms by way of the tradition of *Purification Baths.* 
 
