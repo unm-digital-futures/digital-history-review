@@ -4,8 +4,8 @@ by Merin Rodgers
 
 > Authorial London is a Spacial History Project focusing on Authors and their works in London between the 14th and 20th century. This project was created for researchers and instructors to use as both a teaching and investigative tool. With this in mind the creators, Mark Evans (English Professor at Stanford University), Kenneth Ligda, Karl Grossner,and David McClure (All PhDs working in the Stanford University Libraries) have designed the project around a modern day map of London, (with options of 19th and 18th century maps) and to the left you can search the database by author, works, or a place (neighborhood).
 
-![Authorial London Home Page](images/merin1.PNG "Authorial London Home Page")
-There are three main sections of the project that I think are worth mentioning in more detail. Those being the Maps, Design, and the Database itself. 
+> ![Authorial London Home Page](images/merin1.PNG "Authorial London Home Page")
+> There are three main sections of the project that I think are worth mentioning in more detail. Those being the Maps, Design, and the Database itself. 
 #### Maps
 This project was a massive undertaking by the creators, in order to create the corpus they analyzed 1,600 passages from 47 authors between the 14th and 20th century. To organize the corpus the creators organized the locations based off a modern day map, but they also have functions for both a 19th century, late 18th century and early 18th century map. Giving the user the option of referencing a map from the time the author was prevalent. 
 
