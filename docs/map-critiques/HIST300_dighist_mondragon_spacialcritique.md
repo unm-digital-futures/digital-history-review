@@ -1,4 +1,4 @@
-# Visual Essay Critique
+# Mapping Critique
 Jerome T. Mondragon
 
 ### Russian Gulag
