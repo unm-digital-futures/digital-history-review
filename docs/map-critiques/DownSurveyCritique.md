@@ -9,12 +9,12 @@ According to the website, the Down Survey was "...the first systematic mapping o
  
 ### Website Usability
 
-The first thing I should have done when looking at this website was look at the "user guide" tab on the top of the page. I did not though and spent the first few minutes floudering around trying to understand what the website was trying to tell me. Needless to say, the website has a relatively non-intuitive design. However, after reading the user guide, everything became much more user friendly. Within the user guide it uses titles that show that the program is designed for those that live in Ireland such as "I want to see the 17th Century map of my Parish." 
+The first thing I should have done when looking at this website was look at the "user guide" tab on the top of the page. I did not though and spent the first few minutes floundering around trying to understand what the website was trying to tell me. Needless to say, the website has a relatively non-intuitive design. However, after reading the user guide, everything became much more user friendly. Within the user guide it uses titles that show that the program is designed for those that live in Ireland such as "I want to see the 17th Century map of my Parish." 
 
 There are multiple interfaces that can be used. The main one is that Down Survey compilation. In this interface you can choose to search through Parish, Barony, and County. You can go from big picture to more focused. However, as mentioned before, some maps are missing. 
 ![DownSurveyImage1](images/DownSurveyImage1.png "Down Survey Barony Map")
 
-Before continuing it should be noted that most these interfaces can be switched from four different map overlays. The first is the Google Terrain map. Then there is Satelite mode, the 1670 Down Survey overlay, and the 1890 Ordinance Survey. This is really interesting to see using the data from the 1641 Depositions. In this map, there is a visual representations of the recorded murders in Ireland. 
+Before continuing it should be noted that most these interfaces can be switched from four different map overlays. The first is the Google Terrain map. Then there is Satellite mode, the 1670 Down Survey overlay, and the 1890 Ordinance Survey. This is really interesting to see using the data from the 1641 Depositions. In this map, it is a visual representations of the recorded murders in Ireland. 
 ![DownSurveyImage2](images/DownSurveyImage2.png "Down Survey Google Map")
 ![DownSurveyImage3](images/DownSurveyImage3.png "Down Survey Terrain Map")
 ![DownSurveyImage4](images/DownSurveyImage4.png "Down Survey 1670 Map")
@@ -31,7 +31,7 @@ The last map interface that can be looked at is the Landowner by Name. On this p
 
 ### Conclusion
 
-Though there is definently some trial and error, this GIS Project is rather neat to explore. I would presonally recommend this for researchers looking to see the changes that happened from the 1640 survey and the 1670 survey in a more big picture way. However, it could definently be used by a causual user. It could work on the way information is found, such as how some maps do not have a full search bar. Another idea that the website could use is a combination of all the maps together, the Land Ownership tries to do this, but does not contain all the information. The about page does state that the creators have recieved so many requests to improve the website, they have turned off that specific way to contact them. Other than that, this is a really interesting site to spend a few hours digging through. 
+Though there is definitely some trial and error, this GIS Project is rather neat to explore. I would presonally recommend this for researchers looking to see the changes that happened from the 1640 survey and the 1670 survey in a more big picture way. However, it could definitely be used by a casual user. It could work on the way information is found, such as how some maps do not have a full search bar. Another idea that the website could use is a combination of all the maps together; the Land Ownership tries to do this, but does not contain all the information. The about page does state that the creators have received so many requests to improve the website, they have turned off that specific way to contact them. Other than that, this is a really interesting site to spend a few hours digging through. 
 
 
 
