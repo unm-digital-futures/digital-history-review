@@ -1,0 +1,25 @@
+# Texas Slave Project ![texas slave shot] (images/texas-slave-map-1.png "young texas")
+## The Texas Slave Project goes through the history of slavery in the modern state of Texas, which was its own governed state or country at the time. It teaches a dark history of slavery with detail, maps, databases, and sources.
+## A Quick History ![texas map] (images/texas-slave-map-2.png "texas map")
+### Between the years of 1820 and 1850 American slaveholders began migrating to the Mexican providence of Texas. While Mexican officials opposed to slavery, the American slaveholders overthrew the Mecixan officials. Soon after Texas became its own independent country where slavery was legal. Many other slaveholders began migrating to this new found country to conduct their slave trade.
+### This article is for everyone. One might want to look into the history of the state of Texas and find the slave trade practiced there, but it is set as a reminder that slavery was real even in Texas. Anyone who is interested in the history of slavery of the United States or North America will learn alot about slavery from this article
+# Critique Begins
+## All the previous information was found in just one page, the cover page. There is alot of detail you can find here, but there are other links for more inforation. We will now go through each link and discuss what each of these links bring to the table. 
+## Staff and Sponsors
+### The first link is a link where we are able to see the staff and sponsors responsible for creating this website. Although this information may be irrilevant, it is there for anyone who wants credibility.
+## Honors
+### For those who perfer highly praised articles, there is a link dedicated to their honor in a competition for which they won. If you are only into award winning media, this link lets you know that this is such article.
+## Onto the Maps
+### ![slave distrobution] (images/texas-slave-map-3 "slave distrobutions") The Map is very informative and detailed. It has a legend on the right side so the viewers can see what part of Texas has how many slaves. It is color coded. There is also a timeline at the bottom of the map so the reader is able to go through the years, as the number of slaves increased. The reader can also go to a database which will give the reader a different view of the information presented by the map. This single link gives the reader a great perspective of the slave trade of the mid 19th century.
+## Map Information
+### Right beneath the map is another link with information on how the map was created, and how the county state lines were drawn on the map. Although it is good information, the website focuses on the slave trade of The Republic of Texas and this link does not serve any purposes in informing the reader on the slave information. This link is like the sources or honors where the information is more for credibility, but does not further inform the reader on the topic in hand. The one good piece of information in this link was the one paragraph where the website indicates the information gathered for the map was gathered from tax assesments. Again no vital information, but rather for the credibility.
+## Search & Browse
+### There is a link for the search engine which gives you an option of searching for more specific informion. There are a total of 12 different search engines, which focuses more on what the reader is looking for. This link gives the reader great options so they can find exactly what they are looking for. 
+## Population Database
+### This link does not provide crucial information on the topic in hand, but it is useful since it gives details on all the different topics found throughout the site, especially the map. Things like populations of slaves and slaveowners. This link gives some information so that the reader is sble to better understand everything on in the website.
+## About the Database
+### Another link dedicated to helping the reader further understand the information presented throughout the website. This website focuses on making sure the reader knows exactly what is presented in their website.
+## Primary Sources
+### This link gives information on the sources where the information was retrieved. There are 5 total sources found here with name and at least one sentence describing the content found in the source, and how or why it is relevent for the information covered in the article. 1[the laws of texas] (images/texas-slave-map-4 "laws of texas") Again not information that will cover the main topic of the website, but it lets the readers know how the information was retreaved and why it is reliable. Not all the information can be lost however, as some of the information found in this link can be relevant to the research of the history of Texas.
+## Final Thoughts
+### The map gives detail into what the slave trade was when Texas was its own Republic. There are links that go through details on the map and the credibility of the map. Overall the website is very informative in the Texas slave trade.
