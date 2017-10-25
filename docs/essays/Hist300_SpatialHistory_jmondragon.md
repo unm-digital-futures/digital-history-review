@@ -3,7 +3,7 @@
 ### You are Here- Spatial Project Critique
 Jerome T. Mondragon
 
-![here5]("digital-history-review/docs/images/here5.jpg "You are Here 5, 2017.")
+![here5]("../images/here5.jpg "You are Here 5, 2017.")
 
 The “You Are Here” art project is an artwork display comprising of five colorful windows. It’s located in the Westside near Universe and Irving Road. The artwork is representation of Albuquerque’s Ventanas Ranch community. The purpose of this artwork is to make the visitor slowdown from their bustling life and appreciate their surroundings. The artwork was designed and created by Rachel Stevens. The project was constructed by many groups including the Albuquerque Public Art Program, Dona Ana Community College, and New Mexico State University. The artwork was dedicated in April 13, 2013. 
 
