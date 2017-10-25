@@ -17,6 +17,7 @@ The second window is blue and has a pointed archway. It also has several window 
 
 #### Space
 The artwork is actually located in the Ventanas Ranch Park. The word “ventana” is actually Spanish for the work “window.” The artwork is perfectly located in a quiet, secluded, and open environment. The colorful artwork compliments the bright green trees and the pristine blue sky.  The artwork also does a good job in reflecting the harmony and tranquility of the environment. Each window is mounted on a concrete slabs which serve as seating for visitors. The windows are all arranged in a concave manner. The purpose of this design is to frame many points of view for the visitor which includes the Sandia Mountains, the park playground, or the nearby shopping center. Seating is encouraged at its base so that the visitor can observe and appreciate their surroundings.
+
 ![here1]("digital-history-review/blob/master/docs/images/here1.jpg?raw=true "You are Here 1, 2017.")
 
 Because it’s located in park, the convenient parking makes it completely accessible to view the artwork up close. A person can just step outside their vehicle and walk a short distance to view the artwork.  It can also be accessed by the sidewalks emerging from the playground or neighborhoods. The playground is directly located to the right of artwork.  A shopping center can be seen in the distance but isn’t too much of an interference to environment’s peacefulness.  
@@ -27,6 +28,7 @@ the artwork.  It also makes viewing the artwork from the opposite side slightly 
 
 #### Artist Links
 http://www.rachelstevenssculptor.com/
+
 https://artdepartment.nmsu.edu/rachel-stevens/
 
 Bibliography 
