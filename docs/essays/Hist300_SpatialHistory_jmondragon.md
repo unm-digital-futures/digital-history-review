@@ -11,7 +11,7 @@ Rachel Stevens is a distinguished professor from New Mexico State University and
 ### Appearance
 The artwork is comprised of five windows but each is distinct in appearance. Each window is either painted in blue or green. The first window is green and the pane appears to held up by a soda can. It also has a charming bird located on the top-right of the window.
 
-![here2]("github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/here2.jpg?raw=true "You are Here 2, 2017.")
+![here2]("unm-digital-futures/digital-history-review/blob/master/docs/images/here2.jpg?raw=true "You are Here 2, 2017.")
 
 The second window is blue and has a pointed archway. It also has several window panes arranged in four rows and three columns. The third window is green and has a perfectly square frame. It also has for window panes. The fourth window is blue and is square. It’s slightly different from the previous display with its extended head portion. The last window display is green. It’s distinct from the previous with its bold and extend head portion. Each window has its own cranks and locks to open the windows but are nonfunctional. 
 
