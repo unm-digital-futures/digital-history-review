@@ -1,6 +1,6 @@
 # Parq Central Hotel
 
-![Parq Central Hotel.](images/TBImage2.png "Parq Central Hotel")
+![Parq Central Hotel.](images/TBImage2.png)
 
 The purpose of the Parq Central Hotel is to facilitate economic growth by promoting tourism as well as preserving a piece of history. The Parq Central Hotel (2010-present) remained vacant from 2006-2010 but was formerly a mental institution for children from 1982-2006, called Memorial Hospital, but more importantly the Parq Central Hotel was preserved for its significance in supporting the creation of faster travel to the west coast by providing medical services for railway employees during its time as the Santa Fe Railway hospital from 1926-1982.
 
