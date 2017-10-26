@@ -2,7 +2,7 @@
 In 1939, C.G. Wallace and S.D. Hambaugh took advantage of the new automobile boom and built a motor lodge along Route 66 in Albuquerque, New Mexico. It was created to be a trading post for the Zuni Indians, in order to provide cash flow to the Zuni reservation, exposing the travellers to Zuni culture, and a unique place to stay for Route 66.
 ![De Anza Postcard](images/The%20De%20Anza%20Postcard.jpg)
 ## The Art Inside the De Anza Motor Lodge
-The motor lodge itself represented a work of art. Before building the motor lodge Wallace he began to form a bond with the Zuni tribe. The motor lodge connected people from the Zuni tribe to travellers from all over the U.S.. The motor lodge soon became a trading post that displayed various types of art created by the people of the Zuni tribe. 
+The motor lodge itself represented a work of art. Before building the motor lodge Wallace he began to form a bond with the Zuni tribe. The relationship Wallace cerated with the Zuni tribe helped the motor lodge connect people from the Zuni tribe to travellers from all over the U.S.. The motor lodge soon became a trading post that displayed various types of art created by the people of the Zuni tribe. 
 
 ![Picture from 1957](images/Picture%20from%201957.jpg)
 
