@@ -21,9 +21,6 @@ The De Anza Motor Lodge sits on the same property that it was built on. The foun
 
 ## The Fall Out Of The De Anza Motor Lodge
 After WWII in the late 1950's, hotel chains began to pop up and eventually put local motor lodges out of business. The remodling and changes Wallace had made to the De Anza had allowed it to stay in business much longer than many other motor lodges. The motor lodge was listed as American Automobile Association-approved accomodation until the ealry 1990's. C.G. Wallace died in 1993, shortly after the motor lodge was sold and continued this cycle until purchased by the city of Albuquerque. 
-
-![The De Anza](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/The%20De%20Anza.jpg)
-
 ### The Art Left Behind 
 The only art that isn't able to be displayed or sold is the mural in the basement. The mural in the basement has been the sole reason for preserving the historic De Anza Motor Lodge. Culture of the Zuni people has been eteched into the history of this building only for it to be hidden away. 
 ## De Anza Motor Lodge Today
