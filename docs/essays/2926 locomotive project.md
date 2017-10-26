@@ -1,4 +1,6 @@
 
+![2926](images/20171021_122248train4.jpg 
+ 
 ![Zimmerman](images/Zimm1.PNG "Zimmerman Library")
 # The Santa Fe 2926 locomotive
 
