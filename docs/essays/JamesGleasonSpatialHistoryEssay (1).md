@@ -4,13 +4,13 @@
 
 Acequias, sometimes referred to as ‘ditches’ or ‘arroyos’ are community-based forms of sharing water used for irrigation, first introduced to the region that is today New Mexico by the Spanish in the seventeenth-century (CESSOS.org). The acequia system itself is much older, dating back to methods developed by the Moors and brought to the Iberian Peninsula during their occupation of the region (ca.700-1492).
 
-![South Valley Acequia](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/acequia1.jpeg)
+![South Valley Acequia](images/acequia1.jpeg)
 
 ### The Valle Atrisco (South Valley)
 
 The Valle Atrisco, commonly referred to the South Valley, is one of the oldest areas of Albuquerque owing its name to the Atrisco Land Grant of 1692 (CESSOS.org). The word "Atrisco" is derived from the Nahuatl word "Atlixo", which means “surface of a body of water (CESSOS.org)" and is an indication of how important acequias and water systems are to the area. The land grant was designed to spur settlement in the area and is still relatively intact to this day as families and individuals whose histories date back centuries still claim rights to land and water in the area (http://dev.newmexicohistory.org/). The acequia system played an integral part in irrigating the land to cultivate corn, wheat, beans, alfalfa, and allowed the area to grow and prosper throughout the seventeenth and eighteenth centuries (http://dev.newmexicohistory.org/). Acequias were the critical point around which farmlands were built and maintained. The space surrounding acequias from the period of the seventeenth century until the end of World War II was essentially rural farmland subdivided between families based on land grants that were centuries old (http://greenfiretimes.com/2015/11/the-genesis-of-acequias-in-atrisco-the-south-valley/).
 
-![South Valley Acequia](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/acequia2.jpeg)
+![South Valley Acequia](images/acequia2.jpeg)
 
 ### The Arenal Acequia
 
@@ -22,7 +22,7 @@ The Arenal acequia runs through the South Valley beginning at the intersection o
 
 The trail that runs along the acequia south from Sanchez Farms runs though a diverse range of residential neighborhoods and farmlands. Along the trail it is easy to see where the acequia is diverted for agricultural purposes. The diversion of water to homes with farmland are not necessarily isolated from the homes that don't, and serves to highlight the dual urban/rural nature of the acequias. Walking along the acequia it can be easy to forget that you are actually less than one hundred yards from major streets, intersections, and commercial shopping centers. This close proximity to commercial centers and residential neighborhoods has made the acequia popular amongst walkers, runners and bike riders.
 
-![South Valley Acequia](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/acequia3.jpeg)
+![South Valley Acequia](images/acequia3.jpeg)
 
 ### South Valley Acequias Today and into the Future
 
