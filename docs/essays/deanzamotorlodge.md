@@ -10,7 +10,7 @@ Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mur
 
 ![The Mural](images/The%20Mural.jpg)
 
-### The Architecture & Location
+## The Architecture & Location
 The Spanish and Pueblo inspired architecture was a sole reflection of the vast culture Albuquerque had to offer. Adobe Pueblo style with arches and tight corners are shown in the structure of the De Anza. Later on in the 1950's, a coffee shop and gift shop were added to the motor lodge along with several other buildings. In 1957 a swimming pool was added to the two-point-five acre lot along Route 66. The original structure of the motor lodge was a two-story building and several one story building in a U-shape. The U-Shape structure alloswed customers to park right in front of their rooms creating a more convenient stay.
 The incorporation of both Spanish and Pueblo inspiration made the De Anza motor lodge different than the surrounding motor lodges. The influence not only came from the culture of the state and city but of the art from the Zuni tribe. 
 ![Map of De Anza](images/Map%20of%20De%20Anza.png)
