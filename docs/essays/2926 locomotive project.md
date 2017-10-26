@@ -1,5 +1,5 @@
+
 ![Zimmerman](images/Zimm1.PNG "Zimmerman Library")
- 
 # The Santa Fe 2926 locomotive
 
 To start, whoa, never have I stood in front of a locomotive that immense, ever! This train was built during World War 2, 1944 to be exact. Trains built before and after this train used materials that were not so scarce. Essentially,  this was the last model of its kind built. This locomotive was part of the last group of steam passenger locomotives, the class of 2900 trains, built for the Santa Fe railway. This class of locomotives were the heaviest 4-8-4's built in the United States, and among the largest. The railroad used the locomotive in both fast freight and passenger service, accumulating over one million miles of usage before its last revenue run on December 24, 1953. The locomotive and a caboose were donated to the city of Albuquerque in 1956, in recognition of the city's 250th anniversary, and placed in a city park. Unfortunately, the park housed many transients and was vulnerable to vandalism. 
@@ -13,9 +13,8 @@ The city displayed the locomotive as a static exhibit in Coronado Park until it 
 During WWII, with a critical need for more motive power, Atchison Topeka & Santa Fe Railroad  petitioned the U.S. War Production Board for permission to acquire new locomotives to meet increased rail service demand.  In 1944, steam power was already giving way to diesel.  Diesel  engines were quickly replacing steam engines, but the materials needed for Diesel and the uses of diesel engines were mainly used to move military equipment. AT&SF preferred diesel, but due to the production strains and need for diesel in other areas, the WPB would only approve steam, using existing mid-century steam locomotive technology.  The WPB approved the acquisition of thirty 4-8-4 (Northern) type steam locomotives—the 2900 Series.  The 4-8-4 type locomotives were considered by many rail experts to represent the pinnacle of high speed steam.  This particular model of steam engine could travel as fast as 100 mph.
 -Where did this train go in its travels?
 
-![2926locomative](images/2929locomotive.jpg)
-
-. When this series of train was operational, the 2926 and its stable mates regularly ran through New Mexico between Kansas City and Los Angeles. Santa Fe 2926 has pulled iconic passenger trains like The Chief, The Scout, The El Capitan, and The Grand Canyon Special.  Operating across the central and southwest U.S., it carried ordinary citizens, tourists, and celebrities in comfort and safety.  It was often seen resting quietly under steam as travelers disembarked for a stay at historic Harvey House facilities such as La Casteñda in Las Vegas, NM, Santa Fe’s La Fonda, Albuquerque’s Alado, La Posada in Winslow, AZ, and El Tovar at the Grand Canyon.   Many people have fond memories of that rail heritage, and seek out such items of remembrance.  
+![2926locomative](images/2926.png)
+	. When this series of train was operational, the 2926 and its stable mates regularly ran through New Mexico between Kansas City and Los Angeles. Santa Fe 2926 has pulled iconic passenger trains like The Chief, The Scout, The El Capitan, and The Grand Canyon Special.  Operating across the central and southwest U.S., it carried ordinary citizens, tourists, and celebrities in comfort and safety.  It was often seen resting quietly under steam as travelers disembarked for a stay at historic Harvey House facilities such as La Casteñda in Las Vegas, NM, Santa Fe’s La Fonda, Albuquerque’s Alado, La Posada in Winslow, AZ, and El Tovar at the Grand Canyon.   Many people have fond memories of that rail heritage, and seek out such items of remembrance.  
   
 ## What was around the outlying areas while this train was centralized?
 
