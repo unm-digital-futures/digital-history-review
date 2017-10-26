@@ -1,7 +1,7 @@
 # The Historic El Rey Theater
 ***Visual_Essay_rev1***
 
-https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/Title%20El%20Rey%20Theater_photo2.png
+![image name](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/Title%20El%20Rey%20Theater_photo2.png)
 # **Past & History**
 The *Historic El Rey Theater*, located in downtown Albuquerque [here](https://www.google.com/maps/place/35%C2%B005'04.9%22N+106%C2%B039'18.0%22W/@35.084681,-106.6560843,18z/data=!4m5!3m4!1s0x0:0x0!8m2!3d35.084681!4d-106.65499>), has taken on many roles over the years including a grocery store, a few different bars, various kinds of shops, but mostly a movie theater and a venue for shows. The architect, Joseph B. Burwinkle, combined his efforts with the Lembke Construction company to produce the El Rey Theater as it is today. Since 1981, the El Rey Theater building itself has solely been used to further bring art to as many people as possible in the form of musical shows. The architects in-laws, the Bachechi's, built the *Kimo Theater* which, along with the El Rey Theater is also a historical building of Albuequerque.
 
