@@ -1,8 +1,8 @@
 # Old Albuquerque High
 ##### By Audriana McManus  
 
-![ABQhighfront1](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/ABQhighfront1.jpg "The Front of Old Albuquerque High")
-![ABQhighfront](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/ABQhighfront.jpg "The Front of Old Albuquerque High")
+![ABQhighfront1](images/ABQhighfront1.jpg "The Front of Old Albuquerque High")
+![ABQhighfront](images/ABQhighfront.jpg "The Front of Old Albuquerque High")
 
  School buildings may not seem like the biggest historical landmark in a city; however, they have probably seen the most life and changes through the years. When Albuquerque was established, school was not the most important thing on the agenda. Though when the city began to grow larger and larger and more saloons established themselves on the street that would eventually be called Central, Albuquerque High was created. 
 
@@ -14,7 +14,7 @@ The area around the school was also in constant flux. One of the buildings, the 
 
 >The arroyo which ran along the north side was quite deep and it often was the ground used for settling disputes. In 1915, it was the meeting place of two rival gangs, the Capulets and the Montagues; and in 1917 the rival gangs who used the area were the Hatfields and the McCoys.
 
-![ABQhighgym](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/ABQhighgym.jpg "The Gymnasium of Old Albuquerque High")
+![ABQhighgym](images/ABQhighgym.jpg "The Gymnasium of Old Albuquerque High")
 
 The other buildings included the Manual Arts Building which was built in 1927, the Classroom Administration Building built in 1937, and the Library Building, the final structure, in 1940. 
 
@@ -25,17 +25,17 @@ Before the idea of Albuquerque High came about, the city had to be planned. With
 
 When the first building was commisioned, it was created by an El Paso architect Henry C. Trost who designed it to face Central. Old Main was designed in the Gothic Revival style, which was mimicked by the next four buildings. The second building, the Manual Arts Building, was designed by local artist Gorge Williamson in 1927 on Arno Street. Another local architect, Louis Hesselden, was commissioned to create the last three buildings, due to New Deal funding and WPA manpower.
 
-![ABQhighcourtyard](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/ABQhighcourtyard.jpg "Albuquerque High")
+![ABQhighcourtyard](images/ABQhighcourtyard.jpg "Albuquerque High")
 
-![ABQhighbirdseye](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/ABQhighbirdseye.jpg "The Lofts at Albuquerque High")
+![ABQhighbirdseye](images/ABQhighbirdseye.jpg "The Lofts at Albuquerque High")
 
 ### What is it Now?
 
 The school was unable to keep up with new health codes and began to fall apart. A new Albuquerque High was built only about a mile away, and Old Albuquerque was closed in 1974. The building was eventually marked as a "blighted area" by City Council and was scheduled to be bulldozed and turned into a parking lot. The Albuquerque High School Alumni Association, created in 1994, became the leaders in helping to preserve the old school. Eventually, the developer Paradign & Company was brought on to convert the campus to office space and loft apartments. The project was completed in 2002 and was so successful that the city decided to draft a master plan in 2005 to guide further revitilization to the surrounding areas of the East Downtown District. As the school was considered a historic building at this point, the school walls, chalkboards, floors, and ceilings were preserved.  
 
-![ABQhighrecent1](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/ABQhighrecent1.JPG "The Lofts at Albuquerque High")
+![ABQhighrecent1](images/ABQhighrecent1.JPG "The Lofts at Albuquerque High")
 
-![ABQhighrecent2](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/ABQhighrecent2.jpg "The Lofts at Albuquerque High")
+![ABQhighrecent2](images/ABQhighrecent2.jpg "The Lofts at Albuquerque High")
 
 ### Tourist Stop?
 
