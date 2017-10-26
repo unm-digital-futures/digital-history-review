@@ -1,5 +1,5 @@
 ![Zimmerman](images/Zimm1.PNG "Zimmerman Library")
-![2926locomative](images/2926.png)
+![2926locomative](images/2929locomotive.jpg) 
 # The Santa Fe 2926 locomotive
 
 To start, whoa, never have I stood in front of a locomotive that immense, ever! This train was built during World War 2, 1944 to be exact. Trains built before and after this train used materials that were not so scarce. Essentially,  this was the last model of its kind built. This locomotive was part of the last group of steam passenger locomotives, the class of 2900 trains, built for the Santa Fe railway. This class of locomotives were the heaviest 4-8-4's built in the United States, and among the largest. The railroad used the locomotive in both fast freight and passenger service, accumulating over one million miles of usage before its last revenue run on December 24, 1953. The locomotive and a caboose were donated to the city of Albuquerque in 1956, in recognition of the city's 250th anniversary, and placed in a city park. Unfortunately, the park housed many transients and was vulnerable to vandalism. 
