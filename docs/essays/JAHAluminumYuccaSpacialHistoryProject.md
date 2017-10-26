@@ -7,9 +7,8 @@ The Aluminum Yucca can be seen day or night as you are entering the East Side of
 ### Location & What The Yucca is Made Of
 
 Located on the east end entrance of Albuquerque, there is a tall Alumninum Yucca sitting on an mountain side. It can easily be viewed on I-40 just as you pass the Carneul exit and before the Tramway exit. To visiters it serves as a passage reminding Albuquerque's ties with places like Route 66, Kirkland Air Force Base, and Sandia National Labratories, while serving as a entrance to the East Mountains, and the Estancia Valley. According to an article created by Ron Warnick for the website http://www.route66news.com/2013/05/19/the-story-behind-albuquerques-big-aluminum-yucca/ the structure is about Twenty-Two feet tall Yucca made entirly out of Aluminum. According to the artist's website According to Huethner's website https://www.gordonhuether.com/aluminum-yucca the Yucca itself is made out of recycled tanks from an F-16 fighter jet, and was made to look like a Datil Yucca. To allow the project to be lit up and be seen at night, the yucca is powered by a solar power cell to be lit up by a multitude of different colors.
-![Aluminum Yucca Location]
 
-(images/AYucca3.jpg "Aluminum Yucca Location")
+![Aluminum Yucca Location](images/AYucca3.jpg "Aluminum Yucca Location")
 
 ### The Idea Behind The Yucca
 
