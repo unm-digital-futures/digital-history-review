@@ -14,6 +14,7 @@ The architect Tom Danahy designed the building in a Streamline Moderne style. A 
 ![Original Design](images/merin-historic-3.jpg "Orignal Design")
 ### Location
 ![Lights](images/merin-modern-3.jpg "Lights")
+
 Jones Motor Co. Is located on the corner of Central Ave. and Wellseley in the Nob Hill area of Southweast Albuquerque.
 ##### *Central & Route 66*
 Until 1937 Route 66 had a completely different route. Instead of a straight western path between Tijeras and Grants. Before the realignment of Route 66 travelers would have to make a winding 107 mile trail through the state. In 1937 when the route was realigned to shave of this unncessary 107 miles the route was moved right through the previously dirt road of Central, becoming the only paved road in all of Albuuerque. With relocation came a fluctuation of people and travelers into the area, and soon businesses such as motor lodges, restaurants and retail stores became extremely prevalent to the area. 
