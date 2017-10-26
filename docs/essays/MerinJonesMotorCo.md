@@ -2,6 +2,7 @@
 ![Jones Motor Co.](images/merin-historic-3.JPG "Jones Motor Co.")
 
 Jones Motor Co. was originally built in 1939. Ralph Jones (the creator of this historical site) commisioned this project, a service station, car dealership and gas station in 1939 with Tom Danahy as the architect and designer. The building served its intendended purpose until 1957 when Jones Motor Co. moved out and into a bigger, newer building farther down the street. After this decision the building had been used for various types of businesses, including at one point a *Goodwill* as well as a *Furniture Mart*.
+
 ![During the Transitional Period](images/merin-historic-2.jpg "Transitional Period")
 
 In 1993 the building was nominated as a Historic Landmark, becoming a praised and protected piece of work. As one of the few examples of Moderne style, it was preserved for both its Architecural wonder but also due to its example of transportation and commerce in the fifties. 
