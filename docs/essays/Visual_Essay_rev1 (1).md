@@ -15,7 +15,7 @@ The Street the building resides on, Central, was once the central axis of commer
 
 ### **In Conclusion**
 Not only is The Historic El Rey Theater a physical & visual piece of art regarding the actual building but it is a whole lot more. The building itself is a historical landmark and artful in its design & physical properties but its function since its inception but especially at present brings a great deal of musical art and cultural art by providing a space and necessary equipment to world renown artists, groups, bands, djs, and actors to anyone who wishes to particiapte in the city of Albuquerque.
-https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater%20Tickets_photo4.jpg
+![Ticket Image](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater%20Tickets_photo4.jpg)
 
 
 references:
