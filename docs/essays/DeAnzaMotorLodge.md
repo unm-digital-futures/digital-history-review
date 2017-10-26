@@ -4,11 +4,12 @@ In 1939, C.G. Wallace and S.D. Hambaugh took advantage of the new automobile boo
 ## The Art Inside the De Anza Motor Lodge
 The motor lodge itself represented a work of art. Before building the motor lodge Wallace he began to form a bond with the Zuni tribe. The motor lodge connected people from the Zuni tribe to travellers from all over the U.S.. The motor lodge soon became a trading post that displayed various types of art created by the people of the Zuni tribe. 
 
-![The Mural](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/The%20Mural.jpg)
+![Picture from 1957](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/Picture%20from%201957.jpg)
 
 Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mural at the lodge to represent the presence of Zuni culture at the motor lodge. He had created a mural in the basement of the conference room at the De Anza Motor lodge. The mural repsresents the Zuni's winter *shalako* ceremony line. The mural follows east to west, symobolically. The leading procession *Shulawitsi*, meaning The Little Fire God, ending with the six *Salimopia*, meaning the gaurdians of the six cardnial directions of Zuni cosmology. The representative ideology of the Kachina's of the Zuni tribe portray beauty, color, and form of Zuni ceremony.
 
-![Picture from 1957](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/Picture%20from%201957.jpg)
+![The Mural](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/The%20Mural.jpg)
+
 ### The Architecture & Location
 The Spanish and Pueblo inspired architecture was a sole reflection of the vast culture Albuquerque had to offer. Adobe Pueblo style with arches and tight corners are shown in the structure of the De Anza. Later on in the 1950's, a coffee shop and gift shop were added to the motor lodge along with several other buildings. In 1957 a swimming pool was added to the two-point-five acre lot along Route 66. The original structure of the motor lodge was a two-story building and several one story building in a U-shape. The U-Shape structure alloswed customers to park right in front of their rooms creating a more convenient stay.
 The incorporation of both Spanish and Pueblo inspiration made the De Anza motor lodge different than the surrounding motor lodges. The influence not only came from the culture of the state and city but of the art from the Zuni tribe. 
