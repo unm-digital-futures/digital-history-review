@@ -2,6 +2,7 @@
 Dequez Irving
 
 It would be kind of crazy to think a place like Albuquerque, New Mexico would have a holocaust memorial.And if they did then why would they ? Well for starters New Mexico is also a place of that has held numerous immigrants. With having people from different backgrounds means different cultures. Here in New Mexico there is many items around the state representing different cultures. As in the likes of artwork, food, music, clothes. Obviously the holocaust is apart the worlds history, but extremely apart of the jewish people's history.
+
 ![Holocaust-1.jpg](images/Holocaust-1.jpg)
 
 
