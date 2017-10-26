@@ -4,7 +4,7 @@
 
 Acequias, sometimes referred to as ‘ditches’ or ‘arroyos’ are community-based forms of sharing water used for irrigation that was first introduced to the people of New Mexico by the Spanish in the seventeenth-century (CESSOS.org). The acequia system of irrigation dates back to methods developed by the Moors and brought to the Iberian peninsula during their occupation of the region (ca.700-1492).
 
-![AfricaMap Homepage](images/Acequia3.png "sample screen shot")
+![Maxwell Museum](images/Acequia3.png "sample screen shot")
 
 ### The Valle Atrisco (South Valley)
 
