@@ -22,6 +22,8 @@ The Arenal acequia runs through the South Valley beginning at the intersection o
 
 The trail that runs along the acequia south from Sanchez Farms runs though a diverse range of residential neighborhoods and farmlands. Along the trail it is easy to see where the acequia is diverted for agricultural purposes. The diversion of water to homes with farmland are not necessarily isolated from the homes that don't, and serves to highlight the dual urban/rural nature of the acequias. Walking along the acequia it can be easy to forget that you are actually less than one hundred yards from major streets, intersections, and commercial shopping centers. This close proximity to commercial centers and residential neighborhoods has made the acequia popular amongst walkers, runners and bike riders.
 
+![South Valley Acequia](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/acequia3.jpeg)
+
 ### South Valley Acequias Today and into the Future
 
 Today, acequias of the South Valley occupy spaces that serve the dual function of providing an open recreational space for urban non-farmers, while maintaining its distiction as a sacred space that is of vital use to farmers and their land. While increased urbanization of areas around the acequias have made them popular public spaces, it must be kept in mind that this has also led to issues regarding water rights pertaining to usage; i.e. as more people and commercial development move into the area, less water is available for the acequias. These are spatial issues that are currently playing out in the South Valley and will continue into the future as Albuquerque continues to expands.    
