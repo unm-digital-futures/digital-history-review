@@ -1,11 +1,13 @@
 # Jones Motor Company
 ![Jones Motor Co.](images/merin-historic-3.JPG "Jones Motor Co.")
+
 Jones Motor Co. was originally built in 1939. Ralph Jones (the creator of this historical site) commisioned this project, a service station, car dealership and gas station in 1939 with Tom Danahy as the architect and designer. The building served its intendended purpose until 1957 when Jones Motor Co. moved out and into a bigger, newer building farther down the street. After this decision the building had been used for various types of businesses, including at one point a *Goodwill* as well as a *Furniture Mart*.
 ![During the Transitional Period](images/merin-historic-2.jpg "Transitional Period")
 
 In 1993 the building was nominated as a Historic Landmark, becoming a praised and protected piece of work. As one of the few examples of Moderne style, it was preserved for both its Architecural wonder but also due to its example of transportation and commerce in the fifties. 
 
 Finally in 1999 it was bought by Kellys Brewery and restored many of the original design, going as far as installing Texaco pumps and original garage doors. The building now houses Kelly's Brew Pub on one side and a Cold stone on the opposite. 
+
 ![Picture of Kelly's](images/merin-modern-2.jpeg "Kelly's Today")
 ![Picture of Cold Stone](images/merin-modern-4.jpg "Cold Stone Today")
 
@@ -24,7 +26,7 @@ Jones Motor Co. was created with the its expressed location in mind. Located on 
 Today, Route 66 has changed from the major highway it once was into clipped sections of its former glory.Now Jones Motor Co. or Kelly's Brew Pub as its known as today sits on 3222 Central Avenue. Dispite the changes the area has historically faced, this area is still at the center of the city and the center of commerce. Located directly in the middle of the Nob Hill area the building is surrounded by small shops and restaurants. Directly across Central is a favorite is a craft beer hub called Matanza Beer Kitchen, diagonally across the intersection are cafes and frozen yogurt shops. Finally across Wellseley on the same side of Central is a jewelery store. On the same side of both Central and Wellsley directly west is the Hiway House Motel, with its own interesting back story. 
 ##### *Hiway House Motel*
 ![Hiway House Motel](images/merin-modern-5.jpg "Hiway House Motel")
-The Hiway House Motel was built in 1958, a year after Jone's Motor Company had moved out. What makes this HiwayHouse Motel so unique and interesting is the fact that it mimics the color scheme of the Jones Motor Co. seemingly designed with the intention of complimenting the Jones Motor Co. even as the company itself has already moved out of the Area.
+The Hiway House Motel was built in 1958, a year after Jone's Motor Company had moved out. What makes this Hiway House Motel so unique and interesting is the fact that it mimics the color scheme of the Jones Motor Co. seemingly designed with the intention of complimenting the Jones Motor Co. even as the company itself has already moved out of the Area.
 
 To add fule to this flame this specific  HiwayHouse Motel is one of if not the only location still in existance. In the 1960s the creator, Del Webb, sold the chain. It then was held many different companies until finally owned by Bicu Corporation who restored both the orignal sign as well as orignal design. 
 #### **References**
