@@ -6,7 +6,7 @@ Digital Project Review
 
 Mr.Gibbs
 
-![SisterofCharity](images/dmartinez_AngelitasDeCaridad_image1.png "SisterofCharityimage")
+![SisterofCharity](images/dmartinez_AngelitasDeCaridad_image1.jpg "SisterofCharityimage")
 
 **Martineztown Park** is situated at the crossroads of Lomas Boulevard and Edith Boulevard on the east side of downtown Albuquerque along the famous _El Camino Real_, The Royal Road. However, hidden in the east side of the park near High St. is a sculpture dedicated to the *Sisters of Charity of Cincinnati*, *"Angelitas De Caridad"* by Linda DaBeau. If you were unfamiliar with Albuquerque and its unique history like me, you may have not known that this park or sculpture existed or that there was a story to tell. Encompassed by the urban sprawl of the central business district Martineztown Park is a hidden gem within one of Albuquerque's oldest neighborhoods. And the *Angelitas De Carido* sculpture gives an insight into Albuquerque's special relationship with its residents and landscape. 
 
