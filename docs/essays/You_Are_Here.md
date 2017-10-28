@@ -25,7 +25,8 @@ The artwork is perfectly located in a quiet, secluded, and open environment. The
 
 ![here1](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/here1.jpg "You are Here 1")
 
-Because it’s located in park, the convenient parking makes it completely accessible to view the artwork up close. A person can just step outside their vehicle and walk a short distance to view the artwork.  It can also be accessed by the sidewalks emerging from the playground or neighborhoods. The playground is directly located to the right of artwork.  A shopping center can be seen in the distance but isn’t too much of an interference to environment’s peacefulness.  
+The convenient parking makes it completely accessible to view the artwork up close. A person can just step outside their vehicle and walk a short distance to view the artwork.  It can also be accessed by the sidewalks emerging from the playground or neighborhoods. The playground is directly located to the right of artwork.  A shopping center can be seen in the distance but isn’t too much of an interference to environment’s peacefulness.  
+
 Because of its concave arrangement, some trees block the view of the windows. The blocking trees make it difficult to fully appreciate the scope of the artwork. The same can also be said about the protruding light posts from the nearby parking lot. The artwork is also situated near the entrance of the park. The noise of the approaching vehicles occasionally interrupts the tranquility of 
 the artwork.  It also makes viewing the artwork from the opposite side slightly hazardous because of the approaching vehicles. 
 
