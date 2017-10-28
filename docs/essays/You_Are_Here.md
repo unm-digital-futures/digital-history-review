@@ -11,7 +11,7 @@ The artwork was designed and created by Rachel Stevens. The project was construc
 
 ### Location
 
-The art project is located in the Albuquerque's Westside near Universe and Irving Road. It's directly located at the entrance of Ventanas Ranch Park. It's a fitting location because “ventana” is actually the Spanish word for “window.” Access to this loction is quite difficult because of its distant location. This artwork can easily overlooked while driving on the street if you don't know what to look for.  
+The art project is located in the Albuquerque's Westside near Universe and Irving Road. It's directly located at the entrance of Ventanas Ranch Park. It's a fitting location because “ventana” is actually the Spanish word for “window.” Access to this location is quite difficult because of its distant location. This artwork can easily be overlooked while driving on the street if you don't know what to look for.  
 
 ### Appearance
 The artwork is comprised of five windows but each is distinct in appearance. Each window is either painted in blue or green. The first window is green and the pane appears to held up by a soda can. It also has a charming bird located on the top-right of the window.
@@ -34,7 +34,7 @@ the artwork.  It also makes viewing the artwork from the opposite side slightly 
 
 
 ### Bibliography
-"You Are Here" Rachel Stevens-Sculputure. 2011-2016. http://www.rachelstevenssculptor.com/
+"You Are Here" Rachel Stevens-Sculpture. 2011-2016. http://www.rachelstevenssculptor.com/
 
 Board of Regents, University of New Mexico. "Rachel Stevens" New Mexico State University. 2016. 
 https://artdepartment.nmsu.edu/rachel-stevens/ 
