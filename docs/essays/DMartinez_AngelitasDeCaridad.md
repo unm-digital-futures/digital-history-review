@@ -2,13 +2,11 @@
 ## "Angels of Charity" Sculpture at Martineztown Park 
 Desiree' Martinez
 
-Digital Project Review
-
-Mr.Gibbs
-
 ![SisterofCharity](images/dmartinez_AngelitasDeCaridad_image1.jpg "SisterofCharityimage")
 
-**Martineztown Park** is situated at the crossroads of Lomas Boulevard and Edith Boulevard on the east side of downtown Albuquerque along the famous _El Camino Real_, The Royal Road. However, hidden in the east side of the park near High St. is a sculpture dedicated to the *Sisters of Charity of Cincinnati*, *"Angelitas De Caridad"* by Linda DaBeau. If you were unfamiliar with Albuquerque and its unique history like me, you may have not known that this park or sculpture existed or that there was a story to tell. Encompassed by the urban sprawl of the central business district Martineztown Park is a hidden gem within one of Albuquerque's oldest neighborhoods. And the *Angelitas De Carido* sculpture gives an insight into Albuquerque's special relationship with its residents and landscape. 
+Encompassed by the urban sprawl of the central business district *Martineztown Park* is a hidden gem within one of Albuquerque's oldest neighborhoods. The park is situated between Edith Boulevard and Broadway Boulevard on the east side of downtown. Surrounded by Spanish Adobe homes, the historic Longfellow Elementary School, and Lovelace Hosptial, it is easy to see how the park may be overlooked. Though, it is the rich histoy of this neighborhood that makes the park and its surroundings so special. And neslted peacefully in the corner of the park sits the sculpture, *"Angelitas De Caridad"* by Linda DaBeau, that symbolizes not only a time in New Mexico history but United States History.  
+
+Located at the bottom of the hill with Lovelace Hospital as a backdrop sits the sculpture which is dedicated to the *Sisters of Charity of Cincinnati.* The Sister's came to Martineztown at the height of the Tuberculosis epedemic which has seen more Americans killed than any other disease and became one of the most deadly diseases in the world. The Sister's established St. Joseph Sanitarium housing TB victims and would later become Lovelace Hosptial. *"Angelitas De Caridad"* sculpture beatifully illustrates how these Sister's were truly "Angels of Charity."  
 
 ## History of Martineztown
 ![Martineztown](images/dmartinez_1800s_image2.png "1800s")
