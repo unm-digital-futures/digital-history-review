@@ -9,12 +9,10 @@ Encompassed by the urban sprawl of the central business district *Martineztown P
 Located at the bottom of the hill with Lovelace Hospital as a backdrop sits the sculpture which is dedicated to the *Sisters of Charity of Cincinnati.* The Sister's came to Martineztown at the height of the Tuberculosis epedemic which has seen more Americans killed than any other disease and became one of the most deadly diseases in the world. The Sister's established St. Joseph Sanitarium housing TB victims and would later become Lovelace Hosptial. *"Angelitas De Caridad"* sculpture beatifully illustrates how these Sister's were truly "Angels of Charity."  
 
 ## History of Martineztown
-![Martineztown](images/dmartinez_1800s_image2.png "1800s")
+![Martineztown](images/dmartinez_Martineztown_image2.png "Martineztown")
 
 Martineztown is located directly on the The *El Camino Real.* This 1,600 miles long trade road was established by the Spanish in 1598 A.D. to connect political and economical interest from Mexico City to the San Juan Pueblo, 25 miles north of Santa Fe. However, it is important to note that this area had long been inhabited by the Native American Pueblos of the region for centuries prior to European contact. The land sits upon sandhills and were surrounded by pastured lands that were used by prominent families of *Old Town* Albuquerque located 2 miles west. This land was perfectly situated for breathtaking views that allowed for views of mountains, mesa, and volcanos. In 1850 Don Miguel Martin established a permanent settlement of adobe homes along the *Acequia Madre de Los Barelas*. This irrigation ditch is no longer in use today but can still be seen today by its commemorative walkway which connects Edith to Broadway Boulevard. 
 There were very few businesses at this time and in 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown and Albuquerque. The railroad urbanized the city and an influx of businesses and people followed. In 1890 The First Ward School was created, St. Joseph's Sanitarium followed in 1902, and Longfellow Elementary School in 1920. Not only did the railroad bring tourist to the "Wild West" but also brought Turberculosis "Lungers" victims looking for cures in the dry New Mexico desert. 
-
-![Acequia](images/dmartinez_Acequia_image3.png "Acequia")
 
 ![ElCaminoReal](images/dmartinez_ElCamino_image4.png "ElCamino")
 
