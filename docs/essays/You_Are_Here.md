@@ -33,7 +33,7 @@ the artwork.  It also makes viewing the artwork from the opposite side slightly 
 ![here7](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/here7.jpg "You are Here 7")
 
 
-### Artist Links
+### Bibliography
 "You Are Here" Rachel Stevens-Sculputure. 2011-2016. http://www.rachelstevenssculptor.com/
 
 Board of Regents, University of New Mexico. "Rachel Stevens" New Mexico State University. 2016. 
