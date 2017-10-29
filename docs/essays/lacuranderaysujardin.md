@@ -8,7 +8,6 @@
 ### Material: Bronze
 ### Artwork: Sculpture
 ### Location: Botanic Garden (Near entrance) Albuquerque, New Mexico
-### Coordinates: N 35°05.615 W 106° 40.947
 ### Description: A representation of a scene in a room with with a medicine woman entering a house to visit a patient in the center. The medicine woman enters while there are other female figures throughout the room.
 
 ## Intro
