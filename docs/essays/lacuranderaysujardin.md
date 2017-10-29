@@ -7,12 +7,12 @@
 ### Opening: January 1, 1998 (For Opening)
 ### Material: Bronze
 ### Artwork: Sculpture
-### Location: Botanic Garden (Near entrance) Albuquerque, New Mexico
+### Location: Botanic Garden (Near entrance) Albuquerque, New Mexico ![Curandera] (images/curandera-7 "la curandera")
 ### Description: A representation of a scene in a room with with a medicine woman entering a house to visit a patient in the center. The medicine woman enters while there are other female figures throughout the room.
 
 ## Intro
 
-### This is a website dedicated to the structure known as "La Curandera y su Jardin". The name translates to "The Medicine Woman and her Garden". The Sculpture was made by Reynaldo Rivera, and is prominent to New Mexicans as it pays Homage to the book "Bless Me Ultima". It is located in Albuquerque's (New Mexico's largest and most populus city) Botanical Garden.
+### This is a website dedicated to the structure known as "La Curandera y su Jardin". The name translates to "The Medicine Woman and her Garden". The Sculpture was made by Reynaldo Rivera, and is prominent to New Mexicans as it pays Homage to the book "Bless Me Ultima". It is located in Albuquerque's Botanical Garden.
 
 ## The Artist
 
