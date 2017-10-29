@@ -1,4 +1,4 @@
-# La Curandera y Su Jardin ![curandera2](images/curandera2.JPG "la curandera 2, 2017")
+# La Curandera y Su Jardin ![curandera2](images/curandera-2.JPG "la curandera 2, 2017")
 #### Will Moreno
 
 ## Art Introduction
