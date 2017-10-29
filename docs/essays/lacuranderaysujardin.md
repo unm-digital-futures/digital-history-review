@@ -1,4 +1,4 @@
-# La Curandera y Su Jardin ![curandera2](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/curandera2.jpg "la curandera 2, 2017")
+# La Curandera y Su Jardin ![curandera2](images/curandera2.JPG "la curandera 2, 2017")
 #### Will Moreno
 
 ## Art Introduction
