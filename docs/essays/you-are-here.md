@@ -5,7 +5,7 @@ Jerome T. Mondragon
 
 ![here5](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/here5.jpg "You Are Here art project")
 
-Figure 1. Here 5- You Are Here 
+^Figure 1. Here 5- You Are Here^ 
 
 The “You Are Here” art project is the perfect place where one can relax and reflect on their surroundings. This artwork comprises of five colorful windows and is a representation of Albuquerque’s Ventanas Ranch community. The purpose of this artwork is to make the visitor slowdown from their bustling life and appreciate the calm environment ("You are Here, 2011-2016). 
 
@@ -20,7 +20,7 @@ The artwork is comprised of five windows but each is distinct in appearance. The
 
 ![here2](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/here2.jpg "First window with bird and can")
 
-Figure 2. Here 2-First window with bird and can
+^Figure 2. Here 2-First window with bird and can^
 
 The second window is blue and has a pointed archway. It also has several window panes arranged in four rows and three columns. The third window is green and has a perfectly square frame. It also has for window panes. The fourth window is blue and is square. It’s slightly different from the previous display with its extended head portion. The last window display is green. It’s distinct from the previous with its bold and extend head portion. Each window has its own cranks and locks to open the windows but are nonfunctional. 
 
@@ -32,7 +32,7 @@ According to the Ventana Ranch Community Park Jumper Map provided by the City of
 
 ![here1](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/here1.jpg "Concave Appearance")
 
-Figure 3. Here 1- Concave Appearance
+^Figure 3. Here 1- Concave Appearance^
 
 The convenient parking makes it completely accessible to view the artwork up close. A person can just step outside their vehicle and walk a short distance to view the artwork.  It can also be accessed by the sidewalks emerging from the playground or neighborhoods. The playground is directly located to the right of artwork.  A shopping center can be seen in the distance but isn’t too much of an interference to environment’s peacefulness.  
 
@@ -41,7 +41,7 @@ the artwork.  It also makes viewing the artwork from the opposite side slightly 
 
 ![here7](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/here7.jpg "Blocking of trees and light post")
 
-Figure 4. Here 7-Blocking trees and light post 
+^Figure 4. Here 7-Blocking trees and light post^ 
 
 ### Sources
 "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/ 
