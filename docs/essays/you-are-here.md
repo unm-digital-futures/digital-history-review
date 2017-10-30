@@ -14,14 +14,17 @@ The artwork was designed and created by Rachel Stevens. The project was construc
 The art project is located in the Albuquerque's Westside near Universe and Irving Road. It's directly located at the entrance of Ventanas Ranch Park ("You Are Here," n.d.). It's a fitting location because “ventana” is actually the Spanish word for “window.” Access to this location is quite difficult because of its distant location. This artwork can easily be overlooked while driving on the street if you don't know what to look for.  
 
 ### Appearance
-The artwork is comprised of five windows but each is distinct in appearance. They're all made of steel and are  painted in blue or green hues ("Dedication Ceremony," n.d.). The first window is green and the pane appears to held up by a soda can. It also has a charming bird located on the top-right of the window.
+The artwork is comprised of five windows but each is distinct in appearance. They're all made of steel and are painted in blue or green hues ("Dedication Ceremony," n.d.). The first window is green and the pane appears to held up by a soda can. It also has a charming bird located on the top-right of the window.
 
 ![here2](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/here2.jpg "First window with bird and can")
 
 The second window is blue and has a pointed archway. It also has several window panes arranged in four rows and three columns. The third window is green and has a perfectly square frame. It also has for window panes. The fourth window is blue and is square. It’s slightly different from the previous display with its extended head portion. The last window display is green. It’s distinct from the previous with its bold and extend head portion. Each window has its own cranks and locks to open the windows but are nonfunctional. 
 
 ### Space
+
 The artwork is perfectly located in a quiet, secluded, and open environment. The colorful artwork compliments the bright green trees and the pristine blue sky.  The artwork also does a good job in reflecting the harmony and tranquility of the environment. Each window is mounted on a concrete slabs which serve as seating for visitors. The windows are all arranged in a concave manner. The purpose of this design is to frame many points of view for the visitor which includes the Sandia Mountains, the park playground, or the nearby shopping center. Seating is encouraged at its base so that the visitor can observe and appreciate their surroundings ("You are Here", 2011-2016).
+
+According to the Ventana Ranch Community Park Jumper Map provided by the City of Albuquerque, there was nothing but desert and dirt before 2013. Taken in August, 2012, the aerial photograph undoubtedly indicates that the Ventana Ranch Park did'nt exist before August 2012. The original location is sorrounded by the desert to the East, Universe Road to the West, and the shopping center to the South. Its current and vibrant location is drastically different from its desolate desert origins (Ventana Ranch Community Park Jumper Map 8/2012," 2012). 
 
 ![here1](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/here1.jpg "You are Here 1")
 
@@ -41,3 +44,4 @@ https://artdepartment.nmsu.edu/rachel-stevens/
 
 "Dedication Ceremony for 'You Are Here' by Rachel Stevens." City of Albuquerque. 2017. https://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens
 
+"Ventana Ranch Community Park Jumper Map." City of Albuquerque. 2017. https://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view
