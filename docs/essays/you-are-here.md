@@ -5,7 +5,7 @@ Jerome T. Mondragon
 
 ![here5](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/here5.jpg "You Are Here art project")
 
-^Figure 1. Here 5- You Are Here^ 
+<Figure 1. Here 5- You Are Here> 
 
 The “You Are Here” art project is the perfect place where one can relax and reflect on their surroundings. This artwork comprises of five colorful windows and is a representation of Albuquerque’s Ventanas Ranch community. The purpose of this artwork is to make the visitor slowdown from their bustling life and appreciate the calm environment ("You are Here, 2011-2016). 
 
