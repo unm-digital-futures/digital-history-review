@@ -1,6 +1,6 @@
 
 
-### You are Here- Spatial Project Critique
+#### You are Here- Spatial Project Critique
 Jerome T. Mondragon
 
 ![here5](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/here5.jpg "You Are Here art project")
@@ -43,23 +43,23 @@ the artwork.  It also makes viewing the artwork from the opposite side slightly 
 Figure 4. Here 7-Blocking trees and light post 
 
 ### Sources
-"You Are Here" Rachel Stevens-Sculpture. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/ 
+"You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/ 
 
-Board of Regents, New Mexico State University. "Rachel Stevens" New Mexico State University. 2016. 
+Board of Regents, New Mexico State University. "Rachel Stevens" *New Mexico State University*. 2016. 
 https://artdepartment.nmsu.edu/rachel-stevens/ 
 
-"Dedication Ceremony for 'You Are Here' by Rachel Stevens." City of Albuquerque. 2017. https://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens
+"Dedication Ceremony for 'You Are Here' by Rachel Stevens." *City of Albuquerque*. 2017. https://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens
 
-"Ventana Ranch Community Park Jumper Map." City of Albuquerque. 2017. https://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view
+"Ventana Ranch Community Park Jumper Map." *City of Albuquerque*. 2017. https://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view
 
 ### Figures
 
-Figure 1. Mondragon, Jerome T., Here 5. 2017. Digital Image. Albuquerque, NM. 
+Figure 1. Mondragon, Jerome T., *Here 5*. 2017. Digital Image. Albuquerque, NM. 
 
-Figure 2. Mondragon, Jerome T., Here 2. 2017. Digital Image. Albuquerque, NM. 
+Figure 2. Mondragon, Jerome T., *Here 2*. 2017. Digital Image. Albuquerque, NM. 
 
-Figure 3. Mondragon, Jerome T., Here 1. 2017. Digital Image. Albuquerque, NM. 
+Figure 3. Mondragon, Jerome T., *Here 1*. 2017. Digital Image. Albuquerque, NM. 
 
-Figure 4. Mondragon, Jerome T., Here 7. 2017. Digital Image. Albuquerque, NM. 
+Figure 4. Mondragon, Jerome T., *Here 7*. 2017. Digital Image. Albuquerque, NM. 
 
 
