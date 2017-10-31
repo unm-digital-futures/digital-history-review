@@ -1,4 +1,4 @@
-
+!
 ![2926](images/20171021_122248train4.jpg) 
 # The Santa Fe 2926 locomotive
 To start, whoa, never have I stood in front of a locomotive that immense, ever! This train was built during World War 2, 1944 to be exact. Trains built before and after this train used materials that were not so scarce. Essentially,  this was the last model of its kind built. This locomotive was part of the last group of steam passenger locomotives, the class of 2900 trains, built for the Santa Fe railway. This class of locomotives were the heaviest 4-8-4's built in the United States, and among the largest. The railroad used the locomotive in both fast freight and passenger service, accumulating over one million miles of usage before its last revenue run on December 24, 1953. The locomotive and a caboose were donated to the city of Albuquerque in 1956, in recognition of the city's 250th anniversary, and placed in a city park. Unfortunately, the park housed many transients and was vulnerable to vandalism. 
@@ -26,7 +26,7 @@ varado, La Posada in Winslow, AZ, and El Tovar at the Grand Canyon. Many people 
 ## What was around the outlying areas while this train was centralized?
 Just unexplored land, most of the freeways that we use today to get from state to state were not built yet and routes that the airlines travel were only going to major cities, so the only way to visit some cities were by train. Some of the cities even built hospitals and apartment buildings by the railroad for passers-by. 
 ## What is next for the Santa Fe 2926?
-
+![2926](images/2926front.jpg)
 At the train’s current resting place, a private railroad society is rebuilding the 2926 for an opportunity to run specialty tours up to Las Vegas, New Mexico. A society member and I spoke a bit, he mentioned that so many repairs were needed, several retired mechanical engineers, machinists, and electrical retirees are spending time reinventing this marvel. The 2926 could be up and running later next year. The society plans to take passengers up to the Harvey House hotel (currently also being renovated by a conglomerated effort between the hotel and historical society.) and may go on further if the tours are successful. Making this the only 4-8-4 train on the tracks today. 
 http://www.chucksville.com/steam.html
 check utabby.com
