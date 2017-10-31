@@ -6,9 +6,9 @@ Desiree' Martinez
 
 Encompassed by the urban sprawl of the central business district *Martineztown Park* is a hidden gem within one of Albuquerque's oldest neighborhoods. The park is situated at the crossroads of Edith Boulevard and Dr. Martin Luther King Jr. Ave on the east side of downtown. Surrounded by Spanish Adobe homes, the historic Longfellow Elementary School, and Lovelace Hosptial, it is easy to see how the park may be overlooked. However, it is the rich histoy of the neighborhood that makes the park and its surroundings so special. 
 
-![ParkviewLovelace](images/dmartinez_Parkview_image6.png "Parkview")
-
 Neslted peacefully in the corner of the park at the bottom of the hill as Lovelace Hosptial as the backdrop sits the sculpture, *"Angelitas De Caridad"* by Linda DaBeau. This sculpture is dedicated to the *Sisters of Charity of Cincinnati* who came to New Mexico at the height of the Tuberculosis epedemic. Killing more Americans than any other disease and becoming the deadliest disease in the world, the Sister's established St. Joseph Sanitarium which would later become Lovelace Hosptial. *"Angelitas De Caridad"* sculpture beatifully illustrates the history of Martineztown and its role the significant role these "Angeles of Charity" played in our states history. 
+
+![ParkviewLovelace](images/dmartinez_Parkview_image6.png "Parkview")
 
 ## History of Martineztown
 ![Martineztown](images/dmartinez_Martineztown_image2.jpg "Martineztown")
