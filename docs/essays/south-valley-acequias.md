@@ -24,6 +24,8 @@ The Sanchez Farms Open Space serves as a public area that is centralized in the 
 
 The trail running south along the acequia south from Sanchez Farms passes through a diverse range of old residential neighborhoods and lush farmlands. The trail is lined with trees throughout, which are especially beautiful in the fall months as the leaves become shades of golden yellow and red. Walking along the acequia it can be easy to forget that you are actually less than one hundred yards from major streets, intersections, and commercial shopping centers. This close proximity to commercial centers and residential neighborhoods has made the acequia popular amongst walkers, runners and bike riders.
 
+![South Valley Acequia](images/acequia4.jpeg)
+
 ### South Valley Acequias Today and into the Future
 
 Today, acequias of the South Valley serve the dual function of providing an beautiful recreational space for outdoor enthusiasts, while maintaining its distiction as a sacred space that is of vital use to farmers and their land. While increased urbanization of areas around the acequias have made them popular public spaces, it must be kept in mind that this has also led to issues regarding water rights pertaining to usage; i.e. as more people and commercial development move into the area, less water is available for the acequias. These are spatial issues that are currently playing out in the South Valley and will continue into the future as Albuquerque continues to expands.    
