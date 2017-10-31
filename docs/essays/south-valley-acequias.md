@@ -18,11 +18,11 @@ There are five acequias that currently run through the South Valley. They are th
 
 What exsists today in the South Valley in terms of its environment is a mix of the rich agricultural lands centered around the acequias which were first established by settlers of the Atrisco Land Grant, and an expanding urban development spurred by the city of Albuquerque and private developers. The expansion of Albuquerque, largely due to factors like modernization and gentrification, has meant that acequias of the Atrisco operate in a semi-urban/semi-rural environment that is unique from most acequias, which tend to be rurally isolated. 
 
+![South Valley Acequia](images/acequia3.jpeg)
+
 The Arenal acequia runs through the South Valley beginning at the intersection of I-40 and Coors Blvd. running south, diverting at various points, to the border of the city limits and the Isleta Pueblo. The Sanchez Farms Open Space serves as a public area that is centralized in the South Valley, and highlights the hybrid spatial reality of the acequias. The vast open space that sits beside the acequia is a dirt-shrub field within a basin and surrounded by a circular trail. Overlooking the basin, sitting beside the acequia, is a circular terrace area with rocks around its perimeter, effectively serving as chairs. The terrace area and field are designed to promote the use of the space surrounding the acequia for recreational purposes and social gatherings. 
 
 The trail that runs along the acequia south from Sanchez Farms runs though a diverse range of residential neighborhoods and farmlands. Along the trail it is easy to see where the acequia is diverted for agricultural purposes. The diversion of water to homes with farmland are not necessarily isolated from the homes that don't, and serves to highlight the dual urban/rural nature of the acequias. Walking along the acequia it can be easy to forget that you are actually less than one hundred yards from major streets, intersections, and commercial shopping centers. This close proximity to commercial centers and residential neighborhoods has made the acequia popular amongst walkers, runners and bike riders.
-
-![South Valley Acequia](images/acequia3.jpeg)
 
 ### South Valley Acequias Today and into the Future
 
