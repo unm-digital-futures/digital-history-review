@@ -6,6 +6,8 @@ Desiree' Martinez
 
 Encompassed by the urban sprawl of the central business district *Martineztown Park* is a hidden gem within one of Albuquerque's oldest neighborhoods. The park is situated at the crossroads of Edith Boulevard and Dr. Martin Luther King Jr. Ave on the east side of downtown. Surrounded by Spanish Adobe homes, the historic Longfellow Elementary School, and Lovelace Hosptial, it is easy to see how the park may be overlooked. However, it is the rich histoy of the neighborhood that makes the park and its surroundings so special. 
 
+![ParkviewLovelace](images/dmartinez_Parkview_image6.png "Parkview")
+
 Neslted peacefully in the corner of the park at the bottom of the hill as Lovelace Hosptial as the backdrop sits the sculpture, *"Angelitas De Caridad"* by Linda DaBeau. This sculpture is dedicated to the *Sisters of Charity of Cincinnati* who came to New Mexico at the height of the Tuberculosis epedemic. Killing more Americans than any other disease and becoming the deadliest disease in the world, the Sister's established St. Joseph Sanitarium which would later become Lovelace Hosptial. *"Angelitas De Caridad"* sculpture beatifully illustrates the history of Martineztown and its role the significant role these "Angeles of Charity" played in our states history. 
 
 ## History of Martineztown
@@ -21,7 +23,6 @@ Founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati und
 
 ![LovelaceHosptial](images/dmartinez_Lovelace_image5.png "Lovelace")
 
-![ParkviewLovelace](images/dmartinez_Parkview_image6.png "Parkview")
 
 ## *"Angelitas De Caridad"* Sculpture
 Commissioned by the South Martineztown community and created by Albuquerque artist Linda DaBeau, it is a limestone winged angel standing at 25 feet tall and 16 feet wide with a bronze wrap around fountain base. Though it is situated in Martineztown Park and below the hill of Lovelace, the site itself is nestled away along the curving road of High St. enclosed by trees and flowers making it an almost hidden location within the urban surrounding. Adobe homes line the north and west blocks referencing its Hispanic roots. Once you walk up to the scuplture the beauty and effort put into this area begin to truly amaze. The white limestone wings stands out against the green and brown of the trees. Along the bronze base are depictions of the Sisters of Charity begining with founder Elizabeth Seton and depicts a narrative style, with each scene illustrating the charity work conducted within the community and progression of the hopsital. Walking around the base each cardinal direction displays a plaque with words like Hope, Temperance, and Faith which are in both Spanish and English. The last plaque which is in line with Lovelace Hosptial and the sculpture state, "In Unity There is Strength". This message defines the Sisters of Charity and the unity brought to the commumnity of Martineztown and Albuquerque.
