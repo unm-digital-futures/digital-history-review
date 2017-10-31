@@ -29,15 +29,14 @@ Founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati und
 
 ## *"Angelitas De Caridad"* Sculpture
 
-Commissioned by the South Martineztown community and created by Albuquerque artist Linda DaBeau, the sculpture is a limestone winged angel standing at 25 feet tall and 16 feet wide with a bronze wrap around fountain base. Though it is situated in Martineztown Park and below the hill of Lovelace, the site itself is nestled away along the curving road of High St. enclosed by trees and flowers making it an almost hidden location within the urban surrounding. Adobe homes beautifully line the north and west blocks referencing its characteristically Hispanic roots. However, it is once you walk up to the scuplture itself to you witness the beauty and effort put into this space.  The white limestone wings stands out against the green and brown of the trees. Along the bronze base are depictions of the Sisters of Charity begining with founder Elizabeth Seton and depicts a narrative style, with each scene illustrating the charity work conducted within the community and progression of the hopsital. Walking around the base each cardinal direction displays a plaque with words like Hope, Temperance, and Faith which are in both Spanish and English. The last plaque which is in line with Lovelace Hosptial and the sculpture state, "In Unity There is Strength". This message defines the Sisters of Charity and the unity brought to the commumnity of Martineztown and Albuquerque.
-
-![Linda](images/dmartinez_linda_image10.jpg "linda")
+Commissioned by the South Martineztown community and created by Albuquerque artist Linda DaBeau, the sculpture is a limestone winged angel standing at 25 feet tall and 16 feet wide with a bronze wrap around fountain base. Though it is situated in Martineztown Park and below the hill of Lovelace, the site itself is nestled away along the curving road of High St. enclosed by trees and flowers making it an almost hidden location within the urban surrounding. Adobe homes beautifully line the north and west blocks referencing its characteristically Hispanic roots. However, it is once you walk up to the scuplture itself that you witness the beauty hidden away in the space.  
+The white limestone wings stands out against the green and brown of the trees. Along the bronze base are depictions of the *Sisters of Charity* and as artist Linda DaBeau suggests should be viewed in a narrative style. Thus, each scene illustrates the charity work conducted within the community and progression to the formation of the hopsital. Walking around the base each cardinal direction displays a plaque with words like Hope, Temperance, and Faith which are in both Spanish and English. The last plaque which is in direct line with Lovelace Hosptial state, "In Unity There is Strength". This message defines the motto of not only *Sisters of Charity* but what they brought to the commumnity of Martineztown and Albuquerque.
 
 ![Sculpture](images/dmartinez_Sculpture_image7.png "Sculpture")
 
-![Base](images/dmartinez_Base_image8.png "Base")
+![Linda](images/dmartinez_linda_image10.jpg "linda")
 
-![Base2](images/dmartinez_Base2_image9.png "Base2")
+![Base](images/dmartinez_Base_image8.png "Base")
 
 ## Conclusion
 Martineztown Park *"Angelitas De Caridad"* is a hidden gem of Albuquerque History. When looking on the city website there is little to no information regarding the sculpture. However, the sculpture represents an era in American history and Albuquerque history when the city shifted to a truly urban character.  
