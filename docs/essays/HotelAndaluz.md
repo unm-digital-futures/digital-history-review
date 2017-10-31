@@ -2,8 +2,7 @@
 
 Hotel Andaluz
 
-![AndaluzH1](images/AndaluzH1.jpg "AndaluzH1 Historic Building")
-![AndaluzH3](images/AndaluzP3.jpg "AndaluzH3 Present Building")
+![AndaluzH1](images/AndaluzH1.jpg "AndaluzH1 Historic Building") ![AndaluzH3](images/AndaluzP3.jpg "AndaluzH3 Present Building")
 
 Space
 
