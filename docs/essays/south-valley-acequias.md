@@ -26,7 +26,7 @@ The trail that runs along the acequia south from Sanchez Farms runs though a div
 
 ### South Valley Acequias Today and into the Future
 
-Today, acequias of the South Valley occupy spaces that serve the dual function of providing an open recreational space for urban non-farmers, while maintaining its distiction as a sacred space that is of vital use to farmers and their land. While increased urbanization of areas around the acequias have made them popular public spaces, it must be kept in mind that this has also led to issues regarding water rights pertaining to usage; i.e. as more people and commercial development move into the area, less water is available for the acequias. These are spatial issues that are currently playing out in the South Valley and will continue into the future as Albuquerque continues to expands.    
+Today, acequias of the South Valley occupy space that serve the dual function of providing an open recreational space for urban non-farmers, while maintaining its distiction as a sacred space that is of vital use to farmers and their land. While increased urbanization of areas around the acequias have made them popular public spaces, it must be kept in mind that this has also led to issues regarding water rights pertaining to usage; i.e. as more people and commercial development move into the area, less water is available for the acequias. These are spatial issues that are currently playing out in the South Valley and will continue into the future as Albuquerque continues to expands.    
 
 http://www.albuqhistsoc.org/SecondSite/pkfiles/pk208landgrants.htm
 https://lajicarita.wordpress.com/2014/10/01/say-no-to-zombie-developments/
