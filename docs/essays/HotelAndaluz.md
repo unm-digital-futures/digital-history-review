@@ -1,4 +1,5 @@
 
+
 Hotel Andaluz
 
 ![AndaluzH1](images/AndaluzH1.jpg "AndaluzH1 Historic Building")
@@ -14,9 +15,13 @@ The Hotel Andaluz is located at 125 2nd St NW, Albuquerque, NM. The building was
 Architecture
 
 ![AndaluzH2](images/AndaluzH2.jpg "AndaluzH2 Historic Meeting")
+
+
+The original architect of the building was Anton F. Korn who designed the ten-story building in a New Mexico Territorial style. He used an earth tone stucco, brick coping along the roofline, and southwest-style woodwork and furnishings. Korn initially considered this style as well, proposing a building with rounded corners and protruding vigas around its base, before he turned in the executed design to the crisper massing and brick cornices of the typical style. 
+
 ![AndaluzH3](images/AndaluzH3.jpg "AndaluzH3 Historic Dining Room")
 
-The original architect of the building was Anton F. Korn who designed the ten-story building in a New Mexico Territorial style. He used an earth tone stucco, brick coping along the roofline, and southwest-style woodwork and furnishings. Korn initially considered this style as well, proposing a building with rounded corners and protruding vigas around its base, before he turned in the executed design to the crisper massing and brick cornices of the typical style. John Gaw Meem and Willard C. Kruger had revived this style in the 1930s as a more formal alternative to the hybrid Spanish-Pueblo Style, and its formality made it well-suited to the rectilinear precision and planarity of the Hilton Hotel’s structure of cast-in-place concrete. The two-story entrance lobby tempered this modernity, and its promise of comfort, with tile floors and ornamental details in carved wood, round arches overlooked by balconies and a beamed ceiling above, and murals by Ben Turner and Lloyd Moylan: New Mexican, Mexican, and Spanish motifs are freely combined in a romantic evocation of the Land of Enchantment. The new property features Más restaurant, the rooftop bar Ibiza and 6,000 square feet of conference facilities.
+John Gaw Meem and Willard C. Kruger had revived this style in the 1930s as a more formal alternative to the hybrid Spanish-Pueblo Style, and its formality made it well-suited to the rectilinear precision and planarity of the Hilton Hotel’s structure of cast-in-place concrete. The two-story entrance lobby tempered this modernity, and its promise of comfort, with tile floors and ornamental details in carved wood, round arches overlooked by balconies and a beamed ceiling above, and murals by Ben Turner and Lloyd Moylan: New Mexican, Mexican, and Spanish motifs are freely combined in a romantic evocation of the Land of Enchantment. The new property features Más restaurant, the rooftop bar Ibiza and 6,000 square feet of conference facilities.
 
 Style
 
@@ -29,10 +34,7 @@ Location
 Hotel Andaluz is located surrounded by a variety of places of interest and things to do. J C’s New York Pizza Department is a family pizza and pasta dine-in or take out restaurant. The Library Bar & Grill and Lotus Night Club are adult joints for nights out dancing and dining. Historic Sunshine Theater right up the road, great for couples and families fond of plays and theater performances happen regularly. If not up for that type of theater the downtown Century 14 movie theater is equip for great movie watching experience. The location of the hotel in Downtown Albuquerque makes it easy to jump on the New Mexico Rail Runner that makes various stops throughout central New Mexico from Belen to Santa Fe.
 
 
-
 ![AndaluzH4](images/AndaluzH4.jpg "AndaluzH4 Historic Lobby")
-
-
 
 
 
