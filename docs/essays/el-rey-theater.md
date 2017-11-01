@@ -1,3 +1,6 @@
+---
+---
+
 # The Historic El Rey Theater
 ***Visual_Essay_rev1***
 
@@ -13,7 +16,7 @@ The El Rey Theater building is a work of art in architecture but Movie Theaters 
 Below is a picture of an event page selling tickets to various attractions being held at the El Rey during the current month of October.
 http://albuquerque.eventful.com/venues/el-rey-theater-/V0-001-000249267-5#more-info
 [Picture of The El Rey Theater](http://cinematreasures.org/theaters/743)
-The Street the building resides on, Central, was once the central axis of commerce in Albuquerque. This can be physically experienced in very common traffic jams that happen right outside The El Rey Theater's spatial position on this ever popular east-west street. 
+The Street the building resides on, Central, was once the central axis of commerce in Albuquerque. This can be physically experienced in very common traffic jams that happen right outside The El Rey Theater's spatial position on this ever popular east-west street.
 
 ## **In Conclusion**
 Not only is The Historic El Rey Theater a physical & visual piece of art regarding the actual building but it is a whole lot more. The building itself is a historical landmark and artful in its design & physical properties but its function since its inception but especially at present brings a great deal of musical art and cultural art by providing a space and necessary equipment to world renown artists, groups, bands, djs, and actors to anyone who wishes to particiapte in the city of Albuquerque.

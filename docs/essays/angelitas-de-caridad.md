@@ -1,12 +1,15 @@
+---
+---
+
 # *Angelitas De Carido*
-## "Angels of Charity" Sculpture at Martineztown Park 
+## "Angels of Charity" Sculpture at Martineztown Park
 Desiree' Martinez
 
 ![SisterofCharity](images/dmartinez_AngelitasDeCaridad_image1.jpg "SisterofCharityimage")
 
-Encompassed by the urban sprawl of the central business district *Martineztown Park* is a hidden gem within one of Albuquerque's oldest neighborhoods. The park is situated at the crossroads of Edith Boulevard and Dr. Martin Luther King Jr. Ave on the east side of downtown. Surrounded by Spanish Adobe homes, the historic Longfellow Elementary School, and Lovelace Hosptial, it is easy to see how this park may be overlooked. However, it is the rich histoy of the neighborhood that makes the park and its surroundings so special. 
+Encompassed by the urban sprawl of the central business district *Martineztown Park* is a hidden gem within one of Albuquerque's oldest neighborhoods. The park is situated at the crossroads of Edith Boulevard and Dr. Martin Luther King Jr. Ave on the east side of downtown. Surrounded by Spanish Adobe homes, the historic Longfellow Elementary School, and Lovelace Hosptial, it is easy to see how this park may be overlooked. However, it is the rich histoy of the neighborhood that makes the park and its surroundings so special.
 
-Neslted peacefully in the corner of the park at the bottom of the hill with Lovelace Hosptial as the backdrop sits the sculpture, *"Angelitas De Caridad"* by Linda DaBeau. The sculpture is dedicated to the *Sisters of Charity of Cincinnati* who came to New Mexico at the height of the Tuberculosis epedemic. Killing more Americans than any other disease and becoming the deadliest disease in the world, the Sister's established St. Joseph Sanitarium which would later become Lovelace Hosptial. *"Angelitas De Caridad"* sculpture beautifully illustrates the history of Martineztown and the significant role the "Angeles of Charity" played in our states history. 
+Neslted peacefully in the corner of the park at the bottom of the hill with Lovelace Hosptial as the backdrop sits the sculpture, *"Angelitas De Caridad"* by Linda DaBeau. The sculpture is dedicated to the *Sisters of Charity of Cincinnati* who came to New Mexico at the height of the Tuberculosis epedemic. Killing more Americans than any other disease and becoming the deadliest disease in the world, the Sister's established St. Joseph Sanitarium which would later become Lovelace Hosptial. *"Angelitas De Caridad"* sculpture beautifully illustrates the history of Martineztown and the significant role the "Angeles of Charity" played in our states history.
 
 ![ParkviewLovelace](images/dmartinez_Parkview_image6.png "Parkview")
 
@@ -22,7 +25,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 
 ## Who were _The Sisters of Charity of Cincinnati_?
 
-Founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George, is a Catholic group of woman who aid in missionary work around the country. In 1902 as people poured into New Mexico looking for a cure to Tuberculosis, Sister Blandina Segale of the *Sister of Charity* opened St. Joseph's Sanitarium, present day Lovelace Hospital.The santiarium was turned into a hospital as the number of Turberculosis victims increased. The hospital became one if not the only facility to treat pulmonary disease in the Southwest. The Sisters of Charity aided the community for over 100 years and expanded their work to include orphanages. In 2002 when the hospital was sold, the community came together to dedicate the sculpture *"Angelitas De Caridad"* or "Angels of Charity" to the brave Sisters. Now *"Angelitas De Caridad"* can be viewed sitting below the hill of Lovelace Hosptial. 
+Founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George, is a Catholic group of woman who aid in missionary work around the country. In 1902 as people poured into New Mexico looking for a cure to Tuberculosis, Sister Blandina Segale of the *Sister of Charity* opened St. Joseph's Sanitarium, present day Lovelace Hospital.The santiarium was turned into a hospital as the number of Turberculosis victims increased. The hospital became one if not the only facility to treat pulmonary disease in the Southwest. The Sisters of Charity aided the community for over 100 years and expanded their work to include orphanages. In 2002 when the hospital was sold, the community came together to dedicate the sculpture *"Angelitas De Caridad"* or "Angels of Charity" to the brave Sisters. Now *"Angelitas De Caridad"* can be viewed sitting below the hill of Lovelace Hosptial.
 
 ![LovelaceHosptial](images/dmartinez_Lovelace_image5.png "Lovelace")
 
@@ -51,19 +54,3 @@ http://www.srcharitycinti.org/news_events/images/dabeau.jpg
 <chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=https://dspace2.creighton.edu/xmlui/bitstream/handle/10504/85176/Lawlor_Sr.%20Catherine%20Miriam-MA-1938.pdf?sequence=1>
 
 <http://newmexicohistory.org/places/albuquerques-20th-century-suburban-growth>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  

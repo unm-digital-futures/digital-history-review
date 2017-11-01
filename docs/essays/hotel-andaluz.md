@@ -1,3 +1,5 @@
+---
+---
 
 
 Hotel Andaluz
@@ -6,7 +8,7 @@ Hotel Andaluz
 
 Space
 
-The Hotel Andaluz is located at 125 2nd St NW, Albuquerque, NM. The building was built on June 9, 1939 and originally named the Hilton Hotel, after the original owner and native New Mexican Conrad Hilton. This building at the time was the tallest building in New Mexico and had the first air conditioner and elevator with 176 rooms. The property was sold twice being renamed to Hotel Plaza and then Hotel Bradford but never opened. Again in 1983 the hotel was sold and named Southwest Resorts and was renovated with 114 rooms and four suits. A year later the hotel re-opened as La Posada de Albuquerque. By 2005 the building was up for auction and was up for auction. The hotel was the last of three historic hotels that Albuquerque had. Gary Goodman went to the auction with no intentions of buying anything, he felt the need to preserve the historical property to New Mexico instead of allowing other international chains to take over the hotel. He purchased the hotel for $4 million and in 2005 renamed the hotel to Hotel Andaluz. 
+The Hotel Andaluz is located at 125 2nd St NW, Albuquerque, NM. The building was built on June 9, 1939 and originally named the Hilton Hotel, after the original owner and native New Mexican Conrad Hilton. This building at the time was the tallest building in New Mexico and had the first air conditioner and elevator with 176 rooms. The property was sold twice being renamed to Hotel Plaza and then Hotel Bradford but never opened. Again in 1983 the hotel was sold and named Southwest Resorts and was renovated with 114 rooms and four suits. A year later the hotel re-opened as La Posada de Albuquerque. By 2005 the building was up for auction and was up for auction. The hotel was the last of three historic hotels that Albuquerque had. Gary Goodman went to the auction with no intentions of buying anything, he felt the need to preserve the historical property to New Mexico instead of allowing other international chains to take over the hotel. He purchased the hotel for $4 million and in 2005 renamed the hotel to Hotel Andaluz.
 
 ![AndaluzH4](images/AndaluzH4.jpg "AndaluzH4 Historic Lobby")
 ![AndaluzH2](images/AndaluzP2.jpg "AndaluzH2 Present Lobby")
@@ -16,7 +18,7 @@ Architecture
 
 
 
-The original architect of the building was Anton F. Korn who designed the ten-story building in a New Mexico Territorial style. He used an earth tone stucco, brick coping along the roofline, and southwest-style woodwork and furnishings. Korn initially considered this style as well, proposing a building with rounded corners and protruding vigas around its base, before he turned in the executed design to the crisper massing and brick cornices of the typical style. 
+The original architect of the building was Anton F. Korn who designed the ten-story building in a New Mexico Territorial style. He used an earth tone stucco, brick coping along the roofline, and southwest-style woodwork and furnishings. Korn initially considered this style as well, proposing a building with rounded corners and protruding vigas around its base, before he turned in the executed design to the crisper massing and brick cornices of the typical style.
 
 ![AndaluzH3](images/AndaluzH3.jpg "AndaluzH3 Historic Dining Room")
 
