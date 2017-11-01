@@ -69,11 +69,13 @@
 
 <div class="container-fluid single-col">
 
-<p><em>This page provides a bogus essay, beginning with a full bleed header image to illustrate how to implement the various typographic features we’re using. The gray boxes should show you exactly what code you need to use; copy and paste it into your own essay pages and adjust the attributes as you need to.</em></p>
+<p><em>This page provides a bogus essay, beginning with a full bleed header image (a jumbotron!) to illustrate how to implement the various typographic features we’re using. The gray boxes should show you exactly what code you need to use; copy and paste it into your own essay pages and adjust the attributes as you need to.</em></p>
 
-<p><strong>To use this layout, make sure you have <code class="highlighter-rouge">layout: single-col</code> in your page header</strong></p>
+<hr />
+<h3 id="-in-all-of-the-below-examples-make-sure-you-take-extreme-care-with-your-quotation-marks-and-other-coding-symbols">• In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!</h3>
 
-<p>In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!</p>
+<h3 id="-do-not-use-double-quotation-marks--in-your-titles-or-captions-single-quotation-marks--are-fine">• DO NOT use double quotation marks <code class="highlighter-rouge">"</code> in your titles or captions. Single quotation marks <code class="highlighter-rouge">'</code> are fine.</h3>
+<hr />
 
 <p>To achieve a jumbotron header, use the following code on your page, and alter the image filename and text accordingly:</p>
 
@@ -101,12 +103,17 @@ text="This is where you put your catchy subtitle."
 <p>Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.</p>
 
 <p>To embed the image above, we use:</p>
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">include</span><span class="w"> </span><span class="err">figure.html</span><span class="w"> </span><span class="err">class=</span><span class="nt">"img-right"</span><span class="w"> </span><span class="err">width=</span><span class="nt">"33%"</span><span class="w"> </span><span class="err">caption=</span><span class="nt">"Centennial Hotel"</span><span class="w"> </span><span class="err">src=</span><span class="nt">"images/centennial-hotel.jpg"</span><span class="w"> </span><span class="err">%}</span><span class="w">
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">include</span><span class="w"> </span><span class="err">figure.html</span><span class="w">
+  </span><span class="err">class=</span><span class="nt">"img-right"</span><span class="w">
+  </span><span class="err">width=</span><span class="nt">"33%"</span><span class="w">
+  </span><span class="err">caption=</span><span class="nt">"Centennial Hotel"</span><span class="w">
+  </span><span class="err">src=</span><span class="nt">"images/centennial-hotel.jpg"</span><span class="w">
+</span><span class="err">%}</span><span class="w">
 </span></code></pre>
 </div>
 
 <h3 id="use-whatever-width-you-want">Use whatever width you want</h3>
-<p>You can alter the width of the image as a percentage of our standard page width. You can have them appear on the left, right, or center of the page.</p>
+<p>You can alter the width of the image <strong>as a percentage of our standard page width</strong>. You can have them appear on the left, right, or center of the page.</p>
 
 <figure class="img-left" style="width:50%">
   <a href="/images/centennial-hotel.jpg"><img src="/images/centennial-hotel.jpg" alt="Obviously we need a 50% image somewhere." width="100%" /></a>
@@ -124,6 +131,7 @@ text="This is where you put your catchy subtitle."
 <div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">include</span><span class="w"> </span><span class="err">figure.html</span><span class="w">
 </span><span class="err">class=</span><span class="nt">"img-left"</span><span class="w">
 </span><span class="err">width=</span><span class="nt">"50%"</span><span class="w">
+</span><span class="err">caption=</span><span class="nt">"Obviously we need a 50% image somewhere."</span><span class="w">
 </span><span class="err">src=</span><span class="nt">"images/centennial-hotel.jpg"</span><span class="w">
 </span><span class="err">%}</span><span class="w">
 </span></code></pre>
@@ -132,16 +140,20 @@ text="This is where you put your catchy subtitle."
 <p>Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.</p>
 
 <figure class="img-center" style="width:100%">
-  <a href="images/centennial-hotel.jpg"><img src="images/centennial-hotel.jpg" alt="Centennial Hotel" width="100%" /></a>
+  <a href="images/centennial-hotel.jpg"><img src="images/centennial-hotel.jpg" alt="Make sure your image is large enough to be 100% width or it will look grainy. See above." width="100%" /></a>
 <figcaption class="img-center">
-  <p>Centennial Hotel</p>
+  <p>Make sure your image is large enough to be 100% width or it will look grainy. See above.</p>
 
 </figcaption>
 </figure>
 
 <p>To achieve the above full-width (but not jumbotron) image, use:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">include</span><span class="w"> </span><span class="err">figure.html</span><span class="w"> </span><span class="err">class=</span><span class="nt">"img-center"</span><span class="w"> </span><span class="err">width=</span><span class="nt">"100%"</span><span class="w"> </span><span class="err">caption=</span><span class="nt">"Centennial Hotel"</span><span class="w"> </span><span class="err">src=</span><span class="nt">"images/centennial-hotel.jpg"</span><span class="w"> </span><span class="err">%}</span><span class="w">
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">include</span><span class="w"> </span><span class="err">figure.html</span><span class="w">
+  </span><span class="err">class=</span><span class="nt">"img-center"</span><span class="w">
+  </span><span class="err">width=</span><span class="nt">"100%"</span><span class="w">
+  </span><span class="err">caption=</span><span class="nt">"Make sure your image is large enough to be 100% width or it will look grainy. See above."</span><span class="w">
+  </span><span class="err">src=</span><span class="nt">"images/centennial-hotel.jpg"</span><span class="w"> </span><span class="err">%}</span><span class="w">
 </span></code></pre>
 </div>
 
@@ -152,10 +164,17 @@ text="This is where you put your catchy subtitle."
   <img src="/images/kimo-1928.jpg" />
   <img src="/images/kimo-1938.jpg" />
 </div>
+<figcaption class="">
+  <p>These sliders are way more effective the more closely you line up the before and after images.</p>
+
+</figcaption>
+
+<p>Include the change-over-time-slider, we use</p>
 
 <div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">include</span><span class="w"> </span><span class="err">juxtapose.html</span><span class="w">
 </span><span class="err">image1=</span><span class="nt">"/images/kimo-1928.jpg"</span><span class="w">
 </span><span class="err">image2=</span><span class="nt">"/images/kimo-1938.jpg"</span><span class="w">
+</span><span class="err">caption=</span><span class="nt">"These sliders are way more effective the more closely you line up the before and after images."</span><span class="w">
 </span><span class="err">%}</span><span class="w">
 </span></code></pre>
 </div>
@@ -175,8 +194,10 @@ text="This is where you put your catchy subtitle."
 
 <p>To place a pull quote as above, we use:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">include</span><span class="w"> </span><span class="err">aside.html</span><span class="w"> </span><span class="err">class=</span><span class="nt">"pullquote"</span><span class="w"> </span><span class="err">text=</span><span class="nt">"
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque."</span><span class="w"> </span><span class="err">%}</span><span class="w">
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">include</span><span class="w"> </span><span class="err">aside.html</span><span class="w">
+  </span><span class="err">class=</span><span class="nt">"pullquote"</span><span class="w">
+  </span><span class="err">text=</span><span class="nt">"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque."</span><span class="w">
+  </span><span class="err">%}</span><span class="w">
 </span></code></pre>
 </div>
 
@@ -190,8 +211,10 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 </div>
 
 <p>To achieve the above full width pull quote, use:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">include</span><span class="w"> </span><span class="err">full-width.html</span><span class="w"> </span><span class="err">class=</span><span class="nt">"pullquote"</span><span class="w"> </span><span class="err">text=</span><span class="nt">" Vestibulum ante ipsum primis in faucibus orci luctus ..."</span><span class="w"> </span><span class="err">%}</span><span class="w">
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">include</span><span class="w"> </span><span class="err">full-width.html</span><span class="w">
+  </span><span class="err">class=</span><span class="nt">"pullquote"</span><span class="w">
+  </span><span class="err">text=</span><span class="nt">" Vestibulum ante ipsum primis in faucibus orci luctus ..."</span><span class="w">
+</span><span class="err">%}</span><span class="w">
 </span></code></pre>
 </div>
 

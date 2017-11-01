@@ -1,1 +1,7 @@
 baseurl:
+defaults:
+  -
+    scope:
+      path: "essays"
+    values:
+      layout: "single-col"

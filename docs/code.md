@@ -11,12 +11,13 @@ date: 2017-02-19
 " %}
 
 
-*This page provides a bogus essay, beginning with a full bleed header image to illustrate how to implement the various typographic features we're using. The gray boxes should show you exactly what code you need to use; copy and paste it into your own essay pages and adjust the attributes as you need to.*
+*This page provides a bogus essay, beginning with a full bleed header image (a jumbotron!) to illustrate how to implement the various typographic features we're using. The gray boxes should show you exactly what code you need to use; copy and paste it into your own essay pages and adjust the attributes as you need to.*
 
-**To use this layout, make sure you have `layout: single-col` in your page header**
+---
+### • In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!
 
-In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!
-
+### • DO NOT use double quotation marks `"` in your titles or captions. Single quotation marks `'` are fine.
+---
 
 To achieve a jumbotron header, use the following code on your page, and alter the image filename and text accordingly:
 
@@ -41,12 +42,17 @@ Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis s
 
 To embed the image above, we use:
 ```
-{%raw%}{% include figure.html class="img-right" width="33%" caption="Centennial Hotel" src="images/centennial-hotel.jpg" %}{%endraw%}
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Centennial Hotel"
+  src="images/centennial-hotel.jpg"
+%}{%endraw%}
 ```
 
 
 ### Use whatever width you want
-You can alter the width of the image as a percentage of our standard page width. You can have them appear on the left, right, or center of the page.
+You can alter the width of the image **as a percentage of our standard page width**. You can have them appear on the left, right, or center of the page.
 
 
 {% include figure.html class="img-left" width="50%" src="/images/centennial-hotel.jpg" caption="Obviously we need a 50% image somewhere."%}
@@ -61,6 +67,7 @@ To achieve the above half-width image, use:
 {%raw%}{% include figure.html
 class="img-left"
 width="50%"
+caption="Obviously we need a 50% image somewhere."
 src="images/centennial-hotel.jpg"
 %}{%endraw%}
 ```
@@ -68,12 +75,16 @@ src="images/centennial-hotel.jpg"
 
 Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
-{% include figure.html class="img-center" width="100%" caption="Centennial Hotel" src="images/centennial-hotel.jpg" %}
+{% include figure.html class="img-center" width="100%" caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."  src="images/centennial-hotel.jpg" %}
 
 To achieve the above full-width (but not jumbotron) image, use:
 {%raw%}
 ```
-{% include figure.html class="img-center" width="100%" caption="Centennial Hotel" src="images/centennial-hotel.jpg" %}
+{% include figure.html
+  class="img-center"
+  width="100%"
+  caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."
+  src="images/centennial-hotel.jpg" %}
 ```
 {%endraw%}
 
@@ -84,12 +95,16 @@ It's easy to set up a slider to compare historic and contemporary photos. If you
 {% include juxtapose.html
 image1="/images/kimo-1928.jpg"
 image2="/images/kimo-1938.jpg"
+caption="These sliders are way more effective the more closely you line up the before and after images."
 %}
+
+Include the change-over-time-slider, we use
 
 ```
 {%raw%}{% include juxtapose.html
 image1="/images/kimo-1928.jpg"
 image2="/images/kimo-1938.jpg"
+caption="These sliders are way more effective the more closely you line up the before and after images."
 %}{%endraw%}
 ```
 
@@ -111,8 +126,10 @@ To place a pull quote as above, we use:
 
 
 ```
-{%raw%}{% include aside.html class="pullquote" text="
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}{%endraw%}
+{%raw%}{% include aside.html
+  class="pullquote"
+  text="Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque."
+  %}{%endraw%}
 ```
 
 ### Full-width usage
@@ -123,7 +140,9 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 " %}
 
 To achieve the above full width pull quote, use:
-
 ```
-{%raw%}{% include full-width.html class="pullquote" text=" Vestibulum ante ipsum primis in faucibus orci luctus ..." %}{%endraw%}
+{%raw%}{% include full-width.html
+  class="pullquote"
+  text=" Vestibulum ante ipsum primis in faucibus orci luctus ..."
+%}{%endraw%}
 ```

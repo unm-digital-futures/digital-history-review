@@ -2,7 +2,7 @@
 ---
 
 <!DOCTYPE html>
-<html>
+<html style="height:100%">
 
 {% include header-default.html %}
 
@@ -31,13 +31,15 @@
 
 <div class="main" style="height:100%">
 
+<div id="mapid"></div>
+
 <!--Sheetrock expects to be outputting HTML for each row, so here's a place to put it.-->
 <div id="sheetrock"></div>
 
 <div class="container-fluid">
   <div class="row">
     <div class="col">
-      <div id="mapid"></div>
+<!--      <div id="mapid"></div> -->
     </div>
   </div>
 </div>
@@ -47,7 +49,7 @@
 
 <script>
 
-var map = L.map('mapid').setView([35.077225,-106.6041097], 11);
+var map = L.map('mapid').setView([35.077225,-106.6041097], 13);
 var featureGroup = new L.FeatureGroup();
 
 L.tileLayer('https://api.mapbox.com/styles/v1/fwgibbs/cizd8o5in008t2rnq4advsa25/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZndnaWJicyIsImEiOiJJaXJoT2JBIn0.nh7hFFVgOnPApRImOtXcCQ', {
