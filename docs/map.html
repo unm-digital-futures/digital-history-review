@@ -1,0 +1,82 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+
+{% include header-default.html %}
+
+<body style="height:100%">
+
+{% include nav.html %}
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+
+<script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+
+
+<script src="https://unpkg.com/leaflet-responsive-popup@0.2.0/leaflet.responsive.popup.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet-responsive-popup@0.2.0/leaflet.responsive.popup.css" />
+
+
+<script src="{{site.baseurl}}/js/sheetrock.min.js"></script>
+<script src="{{site.baseurl}}/js/map.js"></script>
+<script src="{{site.baseurl}}/js/togeojson.js"></script>
+
+
+<div class="main" style="height:100%">
+
+<!--Sheetrock expects to be outputting HTML for each row, so here's a place to put it.-->
+<div id="sheetrock"></div>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col">
+      <div id="mapid"></div>
+    </div>
+  </div>
+</div>
+
+</div> <!-- /main -->
+
+
+<script>
+
+var map = L.map('mapid').setView([35.077225,-106.6041097], 11);
+var featureGroup = new L.FeatureGroup();
+
+L.tileLayer('https://api.mapbox.com/styles/v1/fwgibbs/cizd8o5in008t2rnq4advsa25/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZndnaWJicyIsImEiOiJJaXJoT2JBIn0.nh7hFFVgOnPApRImOtXcCQ', {
+  maxZoom: 20,
+  attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+    '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+    'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+  id: 'mapbox.streets'
+}).addTo(map);
+
+$( function() {
+  getMarkers(function(markers) {
+      $.each(markers, loadMarker);
+      console.log("done looping through markers.");
+      map.addLayer(featureGroup);
+    }
+
+  );
+
+});
+</script>
+
+<!-- Menu Toggle Script -->
+<script>
+$("#menu-toggle").click(function(e) {
+    e.preventDefault();
+    $("#wrapper").toggleClass("toggled");
+});
+</script>
+
+</body>
+</html>

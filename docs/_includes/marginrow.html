@@ -1,0 +1,19 @@
+<div class="row building-row">
+  <div class="col-sm-12 col-md-2 sidebar">
+    <p>
+      {{ include.left | markdownify }}
+    </p>
+  </div>
+
+  <div class="col-sm-12 col-md-7 ">
+      {{ include.middle | markdownify}}
+  </div>
+
+  <div class="col-sm-12 col-md-3">
+    {% assign image = {{include.right}} %}
+
+      {% include figure.html src=image class=img-right-side %}
+
+  </div>
+
+</div>
