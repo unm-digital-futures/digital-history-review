@@ -2,14 +2,13 @@
 ---
 
 
-## You are Here- Spatial Project Critique
-Jerome T. Mondragon
-
 {% include jumbotron.html
 title="You Are Here"
-src="images/here5.jpg"
+image="images/here5.jpg"
 text="The catchy subtitle."
 %} 
+
+Jerome T. Mondragon
 
 Figure 1. Here 5- You Are Here
 
