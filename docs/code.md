@@ -1,7 +1,7 @@
 ---
 layout: single-col
 title: Sample Essay
-date: 2017-02-19
+date: 2017-11-02
 ---
 
 {% include jumbotron.html
