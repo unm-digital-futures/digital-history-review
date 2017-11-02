@@ -5,7 +5,7 @@
 ## You are Here- Spatial Project Critique
 Jerome T. Mondragon
 
-![here5](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/here5.jpg "You Are Here art project")
+![here5](images/here5.jpg "You Are Here art project")
 
 Figure 1. Here 5- You Are Here
 
@@ -32,7 +32,7 @@ The artwork is perfectly located in a quiet, secluded, and open environment. The
 
 According to the Ventana Ranch Community Park Jumper Map provided by the City of Albuquerque, there was nothing but desert and dirt before 2013. Taken in August, 2012, the aerial photograph undoubtedly indicates that the Ventana Ranch Park did'nt exist before August 2012. The original location is sorrounded by the desert to the East, Universe Road to the West, and the shopping center to the South. Its current and vibrant location is drastically different from its desolate desert origins (Ventana Ranch Community Park Jumper Map 8/2012," 2012).
 
-![here1](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/here1.jpg "Concave Appearance")
+![here1](images/here1.jpg "Concave Appearance")
 
 Figure 3. Here 1- Concave Appearance
 
@@ -41,7 +41,7 @@ The convenient parking makes it completely accessible to view the artwork up clo
 Because of its concave arrangement, some trees block the view of the windows. The blocking trees make it difficult to fully appreciate the scope of the artwork. The same can also be said about the protruding light posts from the nearby parking lot. The artwork is also situated near the entrance of the park. The noise of the approaching vehicles occasionally interrupts the tranquility of
 the artwork.  It also makes viewing the artwork from the opposite side slightly hazardous because of the approaching vehicles.
 
-![here7](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/here7.jpg "Blocking of trees and light post")
+![here7](images/here7.jpg "Blocking of trees and light post")
 
 Figure 4. Here 7-Blocking trees and light post
 
