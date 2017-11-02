@@ -36,14 +36,10 @@ The second window is blue and has a pointed archway. It also has several window 
 
 ### Space
 
-The artwork is perfectly located in a quiet, secluded, and open environment. The colorful artwork compliments the bright green trees and the pristine blue sky.  The artwork also does a good job in reflecting the harmony and tranquility of the environment. Each window is mounted on a concrete slabs which serve as seating for visitors. The windows are all arranged in a concave manner. The purpose of this design is to frame many points of view for the visitor which includes the Sandia Mountains, the park playground, or the nearby shopping center. 
-
 {% include aside.html
   class="pullquote"
   text="Seating is encouraged at its base so that the visitor can observe and appreciate their surroundings"
-  %}
-  
-  Seating is encouraged at its base so that the visitor can observe and appreciate their surroundings ("You are Here", 2011-2016).
+  %} The artwork is perfectly located in a quiet, secluded, and open environment. The colorful artwork compliments the bright green trees and the pristine blue sky.  The artwork also does a good job in reflecting the harmony and tranquility of the environment. Each window is mounted on a concrete slabs which serve as seating for visitors. The windows are all arranged in a concave manner. The purpose of this design is to frame many points of view for the visitor which includes the Sandia Mountains, the park playground, or the nearby shopping center. Seating is encouraged at its base so that the visitor can observe and appreciate their surroundings ("You are Here", 2011-2016).
 
 According to the Ventana Ranch Community Park Jumper Map provided by the City of Albuquerque, there was nothing but desert and dirt before 2013. Taken in August, 2012, the aerial photograph undoubtedly indicates that the Ventana Ranch Park did'nt exist before August 2012. The original location is sorrounded by the desert to the East, Universe Road to the West, and the shopping center to the South. Its current and vibrant location is drastically different from its desolate desert origins (Ventana Ranch Community Park Jumper Map 8/2012," 2012).
 
