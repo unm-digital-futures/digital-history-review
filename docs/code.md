@@ -24,7 +24,7 @@ To achieve a jumbotron header, use the following code on your page, and alter th
 ``` html
 {%raw%}{% include jumbotron.html
 title="Essay Example"
-image="/images/BirdsEye_1886.jpg"
+image="images/BirdsEye_1886.jpg"
 text="This is where you put your catchy subtitle."
 %} {%endraw%}
 ```
