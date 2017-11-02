@@ -24,7 +24,7 @@ To achieve a jumbotron header, use the following code on your page, and alter th
 ``` html
 {%raw%}{% include jumbotron.html
 title="Essay Example"
-image="images/BirdsEye_1886.jpg"
+image="/images/BirdsEye_1886.jpg"
 text="This is where you put your catchy subtitle."
 %} {%endraw%}
 ```
@@ -35,7 +35,7 @@ There is one basic way we will embed images in our essay files. Note that it is 
 
 ### Standard Usage
 
-{% include figure.html class="img-right" width="33%" caption="Centennial Hotel" src="images/centennial-hotel.jpg" %}
+{% include figure.html class="img-right" width="33%" caption="Centennial Hotel" src="/images/centennial-hotel.jpg" %}
 
 Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
@@ -75,7 +75,7 @@ src="images/centennial-hotel.jpg"
 
 Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
-{% include figure.html class="img-center" width="100%" caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."  src="images/centennial-hotel.jpg" %}
+{% include figure.html class="img-center" width="100%" caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."  src="/images/centennial-hotel.jpg" %}
 
 To achieve the above full-width (but not jumbotron) image, use:
 {%raw%}
@@ -102,8 +102,8 @@ Include the change-over-time-slider, we use
 
 ```
 {%raw%}{% include juxtapose.html
-image1="/images/kimo-1928.jpg"
-image2="/images/kimo-1938.jpg"
+image1="images/kimo-1928.jpg"
+image2="images/kimo-1938.jpg"
 caption="These sliders are way more effective the more closely you line up the before and after images."
 %}{%endraw%}
 ```
