@@ -1,6 +1,12 @@
 ---
 ---
 
+{% include jumbotron.html
+title="Acequias"
+image="images/acequia1.jpeg"
+text="Public Spaces of Tradition and Culture in the South Valley"
+%}
+
 # Acequias: Public Spaces of Tradition and Culture in the South Valley
 
 ### The Valle Atrisco (South Valley)
