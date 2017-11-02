@@ -15,7 +15,7 @@ date: 2017-11-01
 - [Hotel Andaluz](essays/hotel-andaluz)
 - [Kelly's Brewpub](essays/kellys-brewpub)
 - [La Curandera y Su Jardin @ Botantic Garden](essays/la-curandera-y-su-jardin)
-- [Old Albuquerque High](essays/old-ablquerque-high)
+- [Old Albuquerque High](essays/old-albuquerque-high)
 - [Parq Central Hotel](essays/parq-central-hotel)
 - [Simms Building](essays/simms-building)
 - [South Valley Acequias](essays/south-valley-acequias)
