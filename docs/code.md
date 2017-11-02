@@ -35,7 +35,7 @@ There is one basic way we will embed images in our essay files. Note that it is 
 
 ### Standard Usage
 
-{% include figure.html class="img-right" width="33%" caption="Centennial Hotel" src="/images/centennial-hotel.jpg" %}
+{% include figure.html class="img-right" width="33%" caption="Centennial Hotel" src="images/centennial-hotel.jpg" %}
 
 Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
@@ -55,7 +55,7 @@ To embed the image above, we use:
 You can alter the width of the image **as a percentage of our standard page width**. You can have them appear on the left, right, or center of the page.
 
 
-{% include figure.html class="img-left" width="50%" src="/images/centennial-hotel.jpg" caption="Obviously we need a 50% image somewhere."%}
+{% include figure.html class="img-left" width="50%" src="images/centennial-hotel.jpg" caption="Obviously we need a 50% image somewhere."%}
 
 Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla.
 
@@ -75,7 +75,7 @@ src="images/centennial-hotel.jpg"
 
 Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
-{% include figure.html class="img-center" width="100%" caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."  src="/images/centennial-hotel.jpg" %}
+{% include figure.html class="img-center" width="100%" caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."  src="images/centennial-hotel.jpg" %}
 
 To achieve the above full-width (but not jumbotron) image, use:
 {%raw%}
