@@ -13,7 +13,7 @@ date: 2017-11-01
 - [El Rey Theater](essays/el-rey-theater)
 - [Holocaust Memorial @ Civic Plaza](essays/holocaust-memorial)
 - [Hotel Andaluz](essays/hotel-andaluz)
-- [Kelley's Brewpub](essays/kelleys-brewpub)
+- [Kelly's Brewpub](essays/kellys-brewpub)
 - [La Curandera y Su Jardin @ Botantic Garden](essays/la-curandera-y-su-jardin)
 - [Old Albuquerque High](essays/old-ablquerque-high)
 - [Parq Central Hotel](essays/parq-central-hotel)
