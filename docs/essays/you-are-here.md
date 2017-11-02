@@ -7,7 +7,7 @@ Jerome T. Mondragon
 
 {% include jumbotron.html
 title="You Are Here"
-image="images/here2.jpg"
+src="images/here5.jpg"
 text="The catchy subtitle."
 %} 
 
