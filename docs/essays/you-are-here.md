@@ -20,7 +20,7 @@ The art project is located in the Albuquerque's Westside near Universe and Irvin
 ### Appearance
 The artwork is comprised of five windows but each is distinct in appearance. They're all made of steel and are painted in blue or green hues ("Dedication Ceremony," n.d.). The first window is green and the pane appears to held up by a soda can. It also has a charming bird located on the top-right of the window.
 
-![here2](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/here2.jpg "First window with bird and can")
+![here2](images/here2.jpg "First window with bird and can")
 
 Figure 2. Here 2-First window with bird and can
 
