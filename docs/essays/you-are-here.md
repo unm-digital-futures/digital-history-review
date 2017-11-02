@@ -27,7 +27,7 @@ The artwork is comprised of five windows but each is distinct in appearance. The
 
 {% include figure.html
   class="img-center"
-  width="33%"
+  width="50%"
   caption="Bird and can"
   src="images/here2.jpg"
 %}
@@ -47,7 +47,7 @@ According to the Ventana Ranch Community Park Jumper Map provided by the City of
 
 {% include figure.html
   class="img-center"
-  width="33%"
+  width="50%"
   caption="Concave Appearance"
   src="images/here1.jpg"
 %}
@@ -62,10 +62,10 @@ Because of its concave arrangement, some trees block the view of the windows. Th
 the artwork.  It also makes viewing the artwork from the opposite side slightly hazardous because of the approaching vehicles.
 
 {% include figure.html
-  class="img-right"
-  width="33%"
+  class="img-center"
+  width="50%"
   caption="Centennial Hotel"
-  src="images/centennial-hotel.jpg"
+  src="images/here7.jpg"
 %}
 
 ![here7](images/here7.jpg "Blocking of trees and light post")
