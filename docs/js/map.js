@@ -47,7 +47,7 @@ function createPopupRows(pages) {
   console.log("about to begin page loop.");
 
   $.each(pages, function(i,val) {
-    var filename = '/essays/' + val + '.html';
+    var filename = 'essays/' + val + '.html';
     console.log("processing " + filename);
 
     var $div = $('<div>');
@@ -65,7 +65,7 @@ function createPopupRows(pages) {
       if (!subtitle) subtitle = $(this).find("h2:first").text();
       var image = $(this).find("img:first").attr('src');
       console.log(image);
-      image = image.replace("images/", "/essays/images/"); //  use thumbs path instead
+      image = image.replace("images/", "essays/images/"); //  use thumbs path instead
       var rowString = '<a href='+filename+'><div class="popup-row">';
       rowString += '<img src="' + image + '">';
       rowString += '<h4>' + title + '</h4>';
