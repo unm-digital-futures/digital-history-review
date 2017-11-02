@@ -4,7 +4,7 @@
 {% include jumbotron.html
 title="Kelly's Brewpub"
 image="images/BirdsEye_1886.jpg"
-text="Drink, Eat, Explore"
+text="Eat, Drink and Explore"
 %} 
 ![Kelly's Brew Pub](images/merin-modern-6.jpg "Kelly's Brew Pub.")
 
