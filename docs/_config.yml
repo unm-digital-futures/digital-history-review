@@ -1,3 +1,4 @@
+baseurl: digital-history-review/
 defaults:
   -
     scope:
