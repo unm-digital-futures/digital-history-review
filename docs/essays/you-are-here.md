@@ -10,7 +10,6 @@ title="You Are Here"
 image="images/here5.jpg"
 text="The catchy subtitle."
 %} 
-![here5](images/here5.jpg "You Are Here art project")
 
 Figure 1. Here 5- You Are Here
 
@@ -32,9 +31,6 @@ The artwork is comprised of five windows but each is distinct in appearance. The
   src="images/here2.jpg"
 %}
 
-
-![here2](images/here2.jpg "First window with bird and can")
-
 Figure 2. Here 2-First window with bird and can
 
 The second window is blue and has a pointed archway. It also has several window panes arranged in four rows and three columns. The third window is green and has a perfectly square frame. It also has for window panes. The fourth window is blue and is square. It’s slightly different from the previous display with its extended head portion. The last window display is green. It’s distinct from the previous with its bold and extend head portion. Each window has its own cranks and locks to open the windows but are nonfunctional.
@@ -52,8 +48,6 @@ According to the Ventana Ranch Community Park Jumper Map provided by the City of
   src="images/here1.jpg"
 %}
 
-![here1](images/here1.jpg "Concave Appearance")
-
 Figure 3. Here 1- Concave Appearance
 
 The convenient parking makes it completely accessible to view the artwork up close. A person can just step outside their vehicle and walk a short distance to view the artwork.  It can also be accessed by the sidewalks emerging from the playground or neighborhoods. The playground is directly located to the right of artwork.  A shopping center can be seen in the distance but isn’t too much of an interference to environment’s peacefulness.  
@@ -64,11 +58,9 @@ the artwork.  It also makes viewing the artwork from the opposite side slightly 
 {% include figure.html
   class="img-center"
   width="50%"
-  caption="Centennial Hotel"
+  caption="Blocking trees and light post"
   src="images/here7.jpg"
 %}
-
-![here7](images/here7.jpg "Blocking of trees and light post")
 
 Figure 4. Here 7-Blocking trees and light post
 
