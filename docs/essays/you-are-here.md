@@ -26,11 +26,9 @@ The artwork is comprised of five windows but each is distinct in appearance. The
 {% include figure.html
   class="img-center"
   width="50%"
-  caption="Bird and can"
+  caption="Figure 2. Here 2- Bird and can"
   src="images/here2.jpg"
 %}
-
-Figure 2. Here 2-First window with bird and can
 
 The second window is blue and has a pointed archway. It also has several window panes arranged in four rows and three columns. The third window is green and has a perfectly square frame. It also has for window panes. The fourth window is blue and is square. It’s slightly different from the previous display with its extended head portion. The last window display is green. It’s distinct from the previous with its bold and extend head portion. Each window has its own cranks and locks to open the windows but are nonfunctional.
 
@@ -45,10 +43,10 @@ The artwork is perfectly located in a quiet, secluded, and open environment. The
 {% include figure.html
   class="img-center"
   width="50%"
-  caption="Concave Appearance"
+  caption="Figure 3. Here 1- Concave Appearance"
   src="images/here1.jpg"
 %
-Figure 3. Here 1- Concave Appearance
+
 
 According to the Ventana Ranch Community Park Jumper Map provided by the City of Albuquerque, there was nothing but desert and dirt before 2013. Taken in August, 2012, the aerial photograph undoubtedly indicates that the Ventana Ranch Park did'nt exist before August 2012. The original location is sorrounded by the desert to the East, Universe Road to the West, and the shopping center to the South. Its current and vibrant location is drastically different from its desolate desert origins (Ventana Ranch Community Park Jumper Map 8/2012," 2012).
 
@@ -60,11 +58,8 @@ the artwork.  It also makes viewing the artwork from the opposite side slightly 
 {% include figure.html
   class="img-center"
   width="50%"
-  caption="Blocking trees and light post"
-  src="images/here7.jpg"
-%}
-
-Figure 4. Here 7-Blocking trees and light post
+  caption="Figure 4. Here 7-Blocking trees and light post"
+  src="images/here7.jpg" %}
 
 ### Sources
 "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
