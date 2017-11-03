@@ -19,13 +19,13 @@ The Parq Central Hotel is now a source of economic stability through the steady 
 
 The Santa Fe Railway Hospital as well as the Memorial Hospital served their purpose by redefining the space in which it occupied. A plot of dirt transformed into medical assistance for railway workers and medical treatment for mentally ill children. Beyond this however, the cultural perception and meaning of the space literally began to create a community around it; later supporting another mode of transportation when the freeway and streets were built around it marking its importance.
 
-##Architecture
+## Architecture
 
 ![Hotel Map.](images/TBImage6.png "Hotel map")
 
 The chosen Italianate architecture style was popular from 1840-1890 reminiscent of the Italian Renaissance; this style was considered elegant, up-scale, and primarily used for designing mansions or public buildings. Recently, renovations to refurbish Memorial Hospital into the Parq Central Hotel consisted of reconditioning and reinstalling the original windows, maintaining the original interior doors (hospital building), utilizing the original buildings, and the addition of exterior suites.
 
-##Around the Hotel
+## Around the Hotel
 
 ![Albuquerque Press Club.](images/TBImage8.png "The Albuquerque Press Club")
 
