@@ -2,7 +2,7 @@
 ---
 
 {% include jumbotron.html
-title="Parq Central Hotel 2010-present."
+title="Parq Central Hotel"
 image="images/TBImage2.png"
 text="Convenience & Luxury"
 %}
@@ -25,6 +25,8 @@ A scenic view of the city of Albuquerque welcomes  anyone from the former mental
 
 The Parq Central Hotel is now a source of economic stability through the steady flow of tourists. However, it was originally known as the Santa Fe Railway Hospital which was created out of necessity in 1926 in order to treat injured railway workers. Three buildings were created: the hospital, the physician's residence, and the boiler building. Later, it would be repurposed as a mental institution for children before it would be considered a historic site.
 
+
+
 ## Medical Treatment
 
 {% include figure.html
@@ -39,7 +41,7 @@ The Santa Fe Railway Hospital as well as the Memorial Hospital served their purp
 ## Architecture
 
 {% include figure.html
-  class="img-center"
+  class="img-right"
   width="40%"
   caption="Layout of Parq Central Hotel buildings."
   src="images/TBImage6.png"
@@ -55,11 +57,12 @@ The chosen Italianate architecture style was popular from 1840-1890 reminiscent 
 ## Around the Hotel
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="30%"
   caption="The Albuquerque Press Club."
   src="images/TBImage8.png"
 %}
+
 
 {% include aside.html
   class="pullquote"
@@ -71,7 +74,7 @@ Parq Central hotel is conveniently located next to the freeway for fast travel, 
 ## What is Space?
 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="30%"
   caption="Santa Fe Railway Hospital vs. the Parq Central Hotel experience."
   src="images/TBImage5.png"
