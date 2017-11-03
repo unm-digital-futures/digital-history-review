@@ -1,7 +1,11 @@
 ---
 ---
+{% include jumbotron.html
+  title="Sunshine Building"
+  image="images/Sunshine1.jpg"
+  text="Albuquerque's Second Skyscraper"
+%}
 
-# **Sunshine Building**
 
 ![Sunshine Building, 2nd and Central, Albuquerque](images/Sunshine1.jpg "Sunshine Building in 2015.")
 
