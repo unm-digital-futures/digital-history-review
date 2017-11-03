@@ -62,12 +62,6 @@ The chosen Italianate architecture style was popular from 1840-1890 reminiscent 
   caption="The Albuquerque Press Club."
   src="images/TBImage8.png"
 %}
-
-
-{% include aside.html
-  class="pullquote"
-  text="...local businesses close by."
-  %}
   
 Parq Central hotel is conveniently located next to the freeway for fast travel, Highland's Park for a relaxing afternoon walk, and has many local businesses close by. The Albuquerque Press Club is less than a five minute walk away where membership allows you to have ownership of the club, discounts on drinks, and use of the club for private or public social gatherings.
 
