@@ -39,7 +39,7 @@ The Santa Fe Railway Hospital as well as the Memorial Hospital served their purp
 ## Architecture
 
 {% include figure.html
-  class="img-right"
+  class="img-center"
   width="40%"
   caption="Layout of Parq Central Hotel buildings."
   src="images/TBImage6.png"
