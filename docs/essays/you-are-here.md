@@ -1,3 +1,5 @@
+
+
 ---
 ---
 
@@ -5,7 +7,7 @@
 {% include jumbotron.html
 title="You Are Here"
 image="images/here5.jpg"
-text="The catchy subtitle."
+text="The Catchy Subtitle"
 %} 
 
 Jerome T. Mondragon
@@ -37,8 +39,8 @@ The second window is blue and has a pointed archway. It also has several window 
 
 {% include aside.html
   class="pullquote"
-  text="The purpose of this design is to frame many points of view for the visitor which includes the Sandia Mountains, the park playground, or the nearby shopping center."
-  %} 
+  text="The purpose of this design is to frame many points of view for the visitor which includes the Sandia Mountains, the park playground, or the nearby shopping center."  %}
+  
 The artwork is perfectly located in a quiet, secluded, and open environment. The colorful artwork compliments the bright green trees and the pristine blue sky.  The artwork also does a good job in reflecting the harmony and tranquility of the environment. Each window is mounted on a concrete slabs which serve as seating for visitors. The windows are all arranged in a concave manner. The purpose of this design is to frame many points of view for the visitor which includes the Sandia Mountains, the park playground, or the nearby shopping center. Seating is encouraged at its base so that the visitor can observe and appreciate their surroundings ("You are Here", 2011-2016).
 
 {% include figure.html
