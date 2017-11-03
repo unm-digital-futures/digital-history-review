@@ -90,7 +90,7 @@ The Santa Fe Railway Hospital as well as the Memorial Hospital's original purpos
   src="images/TBImage4.png"
 %}
 
-The Parq Central Hotel did serve its purpose in boosting the economy by using historical memory, modern perspective (renovation), and an exotic appeal to successfully promote tourism. The historical memory allows guests to visit a historical landmark that provided a vital service during railroad construction westward. Modern perspective combined historical memory with a modern touch of comfort to create a pleasing experience. An exotic appeal is the signature brand of the perception of New Mexican culture by [highlighting local features](http://hotelparqcentral.com), such as being considered an oasis in the desert.
+The Parq Central Hotel did serve its purpose in boosting the economy by using historical memory, modern perspective (renovation), and an exotic appeal to successfully promote tourism. The historical memory allows guests to visit a historical landmark that provided a vital service during railroad construction westward. Modern perspective combined historical memory with a modern touch of comfort to create a pleasing experience. An exotic appeal is the signature brand of the perception of New Mexican culture by highlighting local features, such as being considered an oasis in the desert.
 
 <a href="http://hotelparqcentral.com">highlighting local features</a>
 
