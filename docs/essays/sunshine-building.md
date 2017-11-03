@@ -6,8 +6,7 @@
   text="Albuquerque's Second Skyscraper"
 %}
 
-
-![Sunshine Building, 2nd and Central, Albuquerque](images/Sunshine1.jpg "Sunshine Building in 2015.")
+![Modern day Sunshine Theatre](images/Sunshine4.jpg "Modern day Sunshine Theatre.")
 
 Enjoying a *Marble Brewery Pale Ale* while watching a reggae, hip-hop, or rock concert at Sunshine Theater is an experience that most people fail to appreciate for many reasons. First, some locals may think that the venue quality in the Sunshine Theater is not as good as other venues downtown. Second, the aging facade also could be considered an eye sore to some locals. Third, many don't have any other historical knowledge about the building besides the use of a concert hall by locals. As Albuquerquens, it is our duty to carry the history of our city in to the future as well as to remember all the places that make up and have made up our city skyline; so, this essay is an attempt to give a greater understanding to importance of the Sunshine Building to the local community as well as visitors to Albuquerque.
 
@@ -28,8 +27,6 @@ The building also includes offices on the upper levels of the building that hous
 ![Sunshine Theatre before closure in 1980 ](images/SunshineE.jpg "Last days of Sunshine Theatre.")
 
 ### Sushine Building Today
-
-![Modern day Sunshine Theatre](images/Sunshine4.jpg "Modern day Sunshine Theatre.")
 
 Today, a quick drive by the Sunshine building or a google search on Google maps will reveal that it is now mostly known to the public, specifically to the youth as an one of the few underage venues, as a concert stage for artists visiting Albuquerque. Another quick search on google will also reveal yelp reviews of the venues current condition which include: sound quality in theater being really bad, the restrooms to be falling apart with little to no maitennece by building staff, the venue layout being too small for crowds that tickets sales allow, and most importantly the customer service given by staff, bartenders, and security in the venue was by far the most commented on. One review, from a resident that moved to Albuquerque, praised the small venue sized becuase it was much ore of an intamate setting...  
 
