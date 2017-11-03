@@ -18,7 +18,7 @@ A scenic view of the city of Albuquerque welcomes  anyone from the former mental
 
 {% include figure.html
   class="img-right"
-  width="40%"
+  width="60%"
   caption="Santa Fe Railway Hospital 1926-1982."
   src="images/TBImage3.png"
 %}
@@ -29,7 +29,7 @@ The Parq Central Hotel is now a source of economic stability through the steady 
 
 {% include figure.html
   class="img-left"
-  width="40%"
+  width="60%"
   caption="Memorial Hospital 1982-2006."
   src="images/TBImage1.png"
 %}
@@ -88,7 +88,7 @@ The Santa Fe Railway Hospital as well as the Memorial Hospital's original purpos
   src="images/TBImage4.png"
 %}
 
-The Parq Central Hotel did serve its purpose in boosting the economy by using historical memory, modern perspective (renovation), and an exotic appeal to successfully promote tourism. The historical memory allows guests to visit a historical landmark that provided a vital service during railroad construction westward. Modern perspective combined historical memory with a modern touch of comfort to create a pleasing experience. An exotic appeal is the signature brand of the perception of New Mexican culture by highlighting local features, such as being considered an oasis in the desert.
+The Parq Central Hotel did serve its purpose in boosting the economy by using historical memory, modern perspective (renovation), and an exotic appeal to successfully promote tourism. The historical memory allows guests to visit a historical landmark that provided a vital service during railroad construction westward. Modern perspective combined historical memory with a modern touch of comfort to create a pleasing experience. An exotic appeal is the signature brand of the perception of New Mexican culture by highlighting local features, being considered an oasis in the desert.
 
 <a href="http://hotelparqcentral.com">highlighting local features</a>
 
