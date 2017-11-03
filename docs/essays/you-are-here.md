@@ -48,7 +48,7 @@ The artwork is perfectly located in a quiet, secluded, and open environment. The
   width="50%"
   caption="Figure 3. Here 1- Concave Appearance"
   src="images/here1.jpg"
-%
+%}
 
 According to the Ventana Ranch Community Park Jumper Map provided by the City of Albuquerque, there was nothing but desert and dirt before 2013. Taken in August, 2012, the aerial photograph undoubtedly indicates that the Ventana Ranch Park did'nt exist before August 2012. The original location is sorrounded by the desert to the East, Universe Road to the West, and the shopping center to the South. Its current and vibrant location is drastically different from its desolate desert origins (Ventana Ranch Community Park Jumper Map 8/2012," 2012).
 
