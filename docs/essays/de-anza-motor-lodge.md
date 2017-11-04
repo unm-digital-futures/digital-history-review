@@ -2,8 +2,8 @@
 ---
 {% include jumbotron.html
 title="The De Anza Motor Lodge"
-image="images/DeAnzaBlackandWhite.jpg"
-text="The Best Art on Route 66"
+image="images/TheDeAnza.jpg"
+text="The Artistic Secret of Route 66"
 %} 
 # The De Anza Motor Lodge
 ## History 
