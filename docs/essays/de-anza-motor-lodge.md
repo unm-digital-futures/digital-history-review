@@ -25,7 +25,7 @@ The motor lodge itself represented a work of art. Before building the motor lodg
 Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mural at the lodge to represent the presence of Zuni culture at the motor lodge. He had created a mural in the basement of the conference room at the De Anza Motor lodge. The mural repsresents the Zuni's winter *shalako* ceremony line. The mural follows east to west, symobolically. The leading procession *Shulawitsi*, meaning The Little Fire God, ending with the six *Salimopia*, meaning the gaurdians of the six cardnial directions of Zuni cosmology. The representative ideology of the Kachina's of the Zuni tribe portray beauty, color, and form of Zuni ceremony.
 {% include figure.html
   class="img-center"
-  width="50%"
+  width="65%"
   caption="The hidden art in the basement of the De Anza Motor Lodge."
   src="images/The Mural.jpg"%}
 ## The Architecture & Location
@@ -52,9 +52,11 @@ The only art that isn't able to be displayed or sold is the mural in the basemen
 In 2004, the De Anza Motor Lodge was placed on The National Register of Historic Places. Owned by the city of Albuquerque, several community based businesses and Route 66 restorators are working endlessly to revive and restore all that Route 66 was in a classic manner. The De Anza Motor Lodge plays a major role in restoring what Route 66 was by being a landmark for culture. Redesigning the motor lodge owuld begin to restore it's rich hisotry and life. The De Anza Motor Lodge is currently under renovation to better serve it's history.
 {% include figure.html
   class="img-left"
-  width="35%"
+  width="45%"
   caption="The abandoned motor lodge"
   src="images/TheDeAnzaNow.jpg"%}
+
+
 #### References
 http://www.nmcomreal.com/housingresources/city-deanza/files/Files-DeAnzaHistoricNotes.pdf
 https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html
