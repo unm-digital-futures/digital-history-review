@@ -1,9 +1,9 @@
 ---
 ---
 {% include jumbotron.html
-title="2926front.jpg"
-image="images/2926front.jpg"
-text="restored 2926 locomotive."%} 
+title='2926front.jpg'
+image='images/2926front.jpg'
+text='restored 2926 locomotive.'%} 
 
 ![2926](images/20171021_122248train4.jpg)
 # The Santa Fe 2926 locomotive
