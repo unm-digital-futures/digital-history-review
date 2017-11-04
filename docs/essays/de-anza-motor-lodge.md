@@ -34,15 +34,15 @@ The incorporation of both Spanish and Pueblo inspiration made the De Anza motor 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Centennial Hotel"
-  src="images/MapofDeAnza.jpg"%}
+  caption="Map of the De Anza in the 50's"
+  src="images/MapofDeAnza.png"%}
 The De Anza Motor Lodge sat encased by four streets, Central and Copper running East/West and Graceland and Washington running North/South. The rectangluar property allowed for easy remodleing and a convenient location to access from Route 66.
 The De Anza Motor Lodge sits on the same property that it was built on. The foundation in crumbles, the paint peeling, and the prpoperty guarded. Central, Route 66, ranges from a more modern to poverty stricken area. There ranges from thrift shops to modern shops to tents from homeless people. The motel sits within a mile of the University of New Mexico, which creates the surrounding neighborhood to be extremely diverse. Sitting next to it is a bank and on the other is shoe repair man store. Across from it lie a bar and a Thai resturant, a much different community than in it's prime.
 {% include figure.html
   class="img-right"
   width="40%"
   caption="Current Location"
-  src="images/DeAnzaMap2017.jpg"%}
+  src="images/DeAnzaMap2017.png"%}
 ## The Fall Out Of The De Anza Motor Lodge
 After WWII in the late 1950's, hotel chains began to pop up and eventually put local motor lodges out of business. The remodling and changes Wallace had made to the De Anza had allowed it to stay in business much longer than many other motor lodges. The motor lodge was listed as American Automobile Association-approved accomodation until the ealry 1990's. C.G. Wallace died in 1993, shortly after the motor lodge was sold and continued this cycle until purchased by the city of Albuquerque.
 ### The Art Left Behind
