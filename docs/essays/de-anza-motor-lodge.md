@@ -2,7 +2,7 @@
 ---
 {% include jumbotron.html
 title="The De Anza Motor Lodge"
-image="DeAnzaMap2017.png"
+image="Postcard#2.jpg"
 text="Welcome to the De Anza"
 %} 
 # The De Anza Motor Lodge
