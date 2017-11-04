@@ -11,7 +11,7 @@ In 1939, C.G. Wallace and S.D. Hambaugh took advantage of the new automobile boo
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="40%"
   caption="Postcard of The De Anza"
   src="images/TheDeAnzaPostcard.jpg"%} 
 ## The Art Inside the De Anza Motor Lodge
@@ -25,7 +25,7 @@ The motor lodge itself represented a work of art. Before building the motor lodg
 Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mural at the lodge to represent the presence of Zuni culture at the motor lodge. He had created a mural in the basement of the conference room at the De Anza Motor lodge. The mural repsresents the Zuni's winter *shalako* ceremony line. The mural follows east to west, symobolically. The leading procession *Shulawitsi*, meaning The Little Fire God, ending with the six *Salimopia*, meaning the gaurdians of the six cardnial directions of Zuni cosmology. The representative ideology of the Kachina's of the Zuni tribe portray beauty, color, and form of Zuni ceremony.
 {% include figure.html
   class="img-center"
-  width="65%"
+  width="75%"
   caption="The hidden art in the basement of the De Anza Motor Lodge."
   src="images/TheMural.jpg"%}
 ## The Architecture & Location
@@ -33,14 +33,14 @@ The Spanish and Pueblo inspired architecture was a sole reflection of the vast c
 The incorporation of both Spanish and Pueblo inspiration made the De Anza motor lodge different than the surrounding motor lodges. The influence not only came from the culture of the state and city but of the art from the Zuni tribe.
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="45%"
   caption="Map of the De Anza in the 50's"
   src="images/MapofDeAnza.png"%}
 The De Anza Motor Lodge sat encased by four streets, Central and Copper running East/West and Graceland and Washington running North/South. The rectangluar property allowed for easy remodleing and a convenient location to access from Route 66.
 The De Anza Motor Lodge sits on the same property that it was built on. The foundation in crumbles, the paint peeling, and the prpoperty guarded. Central, Route 66, ranges from a more modern to poverty stricken area. There ranges from thrift shops to modern shops to tents from homeless people. The motel sits within a mile of the University of New Mexico, which creates the surrounding neighborhood to be extremely diverse. Sitting next to it is a bank and on the other is shoe repair man store. Across from it lie a bar and a Thai resturant, a much different community than in it's prime.
 {% include figure.html
-  class="img-right"
-  width="40%"
+  class="img-left"
+  width="45%"
   caption="Current Location"
   src="images/DeAnzaMap2017.png"%}
 ## The Fall Out Of The De Anza Motor Lodge
@@ -51,7 +51,7 @@ The only art that isn't able to be displayed or sold is the mural in the basemen
 In 2004, the De Anza Motor Lodge was placed on The National Register of Historic Places. Owned by the city of Albuquerque, several community based businesses and Route 66 restorators are working endlessly to revive and restore all that Route 66 was in a classic manner. The De Anza Motor Lodge plays a major role in restoring what Route 66 was by being a landmark for culture. Redesigning the motor lodge owuld begin to restore it's rich hisotry and life. The De Anza Motor Lodge is currently under renovation to better serve it's history.
 {% include figure.html
   class="img-left"
-  width="45%"
+  width="50%"
   caption="The abandoned motor lodge"
   src="images/TheDeAnzaNow.jpg"%}
 #### References
