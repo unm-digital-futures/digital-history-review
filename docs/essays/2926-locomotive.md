@@ -1,9 +1,9 @@
 ---
 ---
 {% include jumbotron.html
-title="Essay Example"
-image="images/BirdsEye_1886.jpg"
-text="This is where you put your catchy subtitle."%} 
+title="2926front.jpg"
+image="images/2926front.jpg"
+text="restored 2926 locomotive."%} 
 
 ![2926](images/20171021_122248train4.jpg)
 # The Santa Fe 2926 locomotive
