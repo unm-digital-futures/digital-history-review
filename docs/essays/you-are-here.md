@@ -7,7 +7,7 @@
 {% include jumbotron.html
 title="You Are Here"
 image="images/here5.jpg"
-text="The Catchy Subtitle"
+text="Windows to Glorious Landscapes"
 %} 
 
 Jerome T. Mondragon
