@@ -12,7 +12,7 @@ text='restored 2926 locomotive.'%}
 To start, whoa, never have I stood in front of a locomotive that immense, ever! This train was built during World War 2, 1944 to be exact. Trains built before and after this train used materials that were not so scarce. Essentially,  this was the last model of its kind built. This locomotive was part of the last group of steam passenger locomotives, the class of 2900 trains, built for the Santa Fe railway. This class of locomotives were the heaviest 4-8-4's built in the United States, and among the largest. The railroad used the locomotive in both fast freight and passenger service, accumulating over one million miles of usage before its last revenue run on December 24, 1953. The locomotive and a caboose were donated to the city of Albuquerque in 1956, in recognition of the city's 250th anniversary, and placed in a city park. Unfortunately, the park housed many transients and was vulnerable to vandalism.
 
 {% include figure.html
-  class='img-center'
+ class='img-center'
   width='100%'
   caption='new brake system for future travel'
   src='images/2926-brake-system.jpg'%}
@@ -37,11 +37,9 @@ Just unexplored land, most of the freeways that we use today to get from state t
 
 {% include figure.html
 class='img-left'
-width='75%'
+width='50%'
 caption='Bataan Park Train Depot'
 src='images/Bataanpark.jpg'%}
-
-
 At the train’s current resting place, a private railroad society is rebuilding the 2926 for an opportunity to run specialty tours up to Las Vegas, New Mexico. A society member and I spoke a bit, he mentioned that so many repairs were needed, several retired mechanical engineers, machinists, and electrical retirees are spending time reinventing this marvel. The 2926 could be up and running later next year. The society plans to take passengers up to the Harvey House hotel (currently also being renovated by a conglomerated effort between the hotel and historical society.) ado, La Posada in Winslow, AZ, and El Tovar at the Grand Canyon.   Many people have fond memories of that rail heritage, and seek out such items of remembrance.  
 
 ## What is next for the Santa Fe 2926?
