@@ -19,7 +19,7 @@ To start, whoa, never have I stood in front of a locomotive that immense, ever! 
 ## Where is the train now?
 ![brake-system](images/2926-brake-system.jpg)
 The city displayed the locomotive as a static exhibit in Coronado Park until it was sold to the New Mexico Steam Locomotive and Railroad Historical Society on July 26, 1999. Subsequently, May 2002, the locomotive was moved by the railroad to its current location near the intersection of 8th Street and Haines Ave where it is undergoing restoration to operating condition by the Railroad Historical Society. There the 1,000,000lb engine and the caboose has been repainted and major rebuilding of the steam engine. In addition, a major overhaul of the brake system was needed to get the locomotive up to specifications in order to be an operational future tourist train.
-u
+
 ## Why this train and not a modern diesel?
 During WWII, with a critical need for more motive power, Atchison Topeka & Santa Fe Railroad  petitioned the U.S. War Production Board for permission to acquire new locomotives to meet increased rail service demand.  In 1944, steam power was already giving way to diesel.  Diesel  engines were quickly replacing steam engines, but the materials needed for Diesel and the uses of diesel engines were mainly used to move military equipment. AT&SF preferred diesel, but due to the production strains and need for diesel in other areas, the WPB would only approve steam, using existing mid-century steam locomotive technology.  The WPB approved the acquisition of thirty 4-8-4 (Northern) type steam locomotives—the 2900 Series.  The 4-8-4 type locomotives were considered by many rail experts to represent the pinnacle of high speed steam.  This particular model of steam engine could travel as fast as 100 mph.
 ## Where did this train go in its travels?
@@ -44,6 +44,9 @@ At the train’s current resting place, a private railroad society is rebuilding
 
 ## What is next for the Santa Fe 2926?
 ![HarveyHouse](images/harveyhouse-LV-NM.jpg)
+{% include aside.html
+  class='pullquote'
+  text='The 2926 locomotive will be taking tourists on a weekend journey to Las Vegas, New Mexico where they will be staying at the newly remodeled Harvey House Hotel. The 2926 may be touirng as early as next year.'%}
 At the train’s current resting place, a private railroad society is rebuilding the 2926 for an opportunity to run specialty tours up to Las Vegas, New Mexico. A society member and I spoke a bit, he mentioned that so many repairs were needed, several retired mechanical engineers, machinists, and electrical retirees are spending time reinventing this marvel. The 2926 could be up and running later next year. The society plans to take passengers up to the Harvey House hotel (currently also being renovated by a conglomerated effort between the hotel and historical society.) and may go on further if the tours are successful. Making this the only 4-8-4 train on the tracks today. And may go on further if the tours are successful. Making this the only 4-8-4 train on the tracks today.
 varado, La Posada in Winslow, AZ, and El Tovar at the Grand Canyon. Many people have fond memories of that rail heritage, and seek out such items of remembrance.  
 ## What was around the outlying areas while this train was centralized?
