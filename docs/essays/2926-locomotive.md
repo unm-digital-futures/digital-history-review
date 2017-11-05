@@ -1,4 +1,5 @@
 
+
 ---
 ---
 {% include jumbotron.html
@@ -22,7 +23,6 @@ The city displayed the locomotive as a static exhibit in Coronado Park until it 
 ## Why this train and not a modern diesel?
 During WWII, with a critical need for more motive power, Atchison Topeka & Santa Fe Railroad  petitioned the U.S. War Production Board for permission to acquire new locomotives to meet increased rail service demand.  In 1944, steam power was already giving way to diesel.  Diesel  engines were quickly replacing steam engines, but the materials needed for Diesel and the uses of diesel engines were mainly used to move military equipment. AT&SF preferred diesel, but due to the production strains and need for diesel in other areas, the WPB would only approve steam, using existing mid-century steam locomotive technology.  The WPB approved the acquisition of thirty 4-8-4 (Northern) type steam locomotives—the 2900 Series.  The 4-8-4 type locomotives were considered by many rail experts to represent the pinnacle of high speed steam.  This particular model of steam engine could travel as fast as 100 mph.
 ## Where did this train go in its travels?
-
 {% include figure.html
 class='img-left'
 width='75%'
@@ -34,7 +34,14 @@ When this series of train was operational, the 2926 and its stable mates regular
 ## What was around the outlying areas while this train was centralized?
 Just unexplored land, most of the freeways that we use today to get from state to state were not built yet and routes that the airlines travel were only going to major cities, so the only way to visit some cities were by train. Some of the cities even built hospitals and apartment buildings by the railroad for passers-by.
 ## What is next for the Santa Fe 2926?
-![Bataan](images/Bataanpark.jpg)
+
+{% include figure.html
+class='img-left'
+width='75%'
+caption='Bataan Park Train Depot'
+src='images/Bataanpark.jpg'%}
+
+
 At the train’s current resting place, a private railroad society is rebuilding the 2926 for an opportunity to run specialty tours up to Las Vegas, New Mexico. A society member and I spoke a bit, he mentioned that so many repairs were needed, several retired mechanical engineers, machinists, and electrical retirees are spending time reinventing this marvel. The 2926 could be up and running later next year. The society plans to take passengers up to the Harvey House hotel (currently also being renovated by a conglomerated effort between the hotel and historical society.) ado, La Posada in Winslow, AZ, and El Tovar at the Grand Canyon.   Many people have fond memories of that rail heritage, and seek out such items of remembrance.  
 
 ## What is next for the Santa Fe 2926?
