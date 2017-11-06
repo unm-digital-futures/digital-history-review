@@ -48,14 +48,14 @@ Finally in 1999 it was bought by Kellys Brewery and restored many of the origina
 
 {% include figure.html
 class="img-left"
-width="100%"
+width="50%"
 caption="Kelly's Today"
 src="images/merin-modern-2.jpeg"
 %}
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="50%"
   caption="Cold Stone Today"
   src="images/merin-modern-4.jpg"
 %}
