@@ -63,7 +63,7 @@ src="images/merin-modern-2.jpeg"
 # Design
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="50%"
   caption="Original Design"
   src="images/merin-historic-3.JPG
