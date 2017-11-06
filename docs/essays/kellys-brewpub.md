@@ -74,7 +74,7 @@ The architect Tom Danahy designed the building in a Streamline Moderne style. A 
 # Location
 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="50%"
   caption="Lights"
   src="images/merin-modern-3.jpg"
