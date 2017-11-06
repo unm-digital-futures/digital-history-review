@@ -44,20 +44,20 @@ src="images/merin-historic-2.jpg"
 
 In 1993 the building was nominated as a Historic Landmark, becoming a praised and protected piece of work. As one of the few examples of Moderne style, it was preserved for both its Architecural wonder but also due to its example of transportation and commerce in the fifties.
 
-Finally in 1999 it was bought by Kellys Brewery and restored many of the original design, going as far as installing Texaco pumps and original garage doors. The building now houses Kelly's Brew Pub on one side and a Cold stone on the opposite.
+Finally in 1999 it was bought by Kellys Brewery and restored many of the original design, going as far as installing Texaco pumps and original garage doors. The building now houses Kelly's Brew Pub on one side and a Cold Stone on the opposite.
 
 {% include figure.html
 class="img-left"
-width="50%"
-caption="Kelly's Today."
+width="100%"
+caption="Kelly's Today"
 src="images/merin-modern-2.jpeg"
 %}
 
 {% include figure.html
   class="img-right"
-  width="50%"
+  width="33%"
   caption="Cold Stone Today"
-  src="merin-modern-4.jpg"
+  src="images/merin-modern-4.jpg"
 %}
 
 # Design
@@ -66,7 +66,7 @@ src="images/merin-modern-2.jpeg"
   class="img-right"
   width="50%"
   caption="Original Design"
-  src="merin-historic-3.jpg"
+  src="images/merin-historic-3.jpg"
 %}
 
 The architect Tom Danahy designed the building in a Streamline Moderne style. A prevalent design at the end of the Art Deco period this design featuring smooth surfaces, curved edges and strong horizontal lines to give it a more aerodynamic feel. Danahy decided on a classing color scheme of white, red and black, a major color scheme at the time. Going along with this design Danahy placed the main entrance to the building on a corner, diagnal to the block in which it was built on. As you would face the entrance of the building there would be Texaco gas stations in the middle, the service station on the left and the car dealership on the right, complete with a large glass show room.
@@ -77,7 +77,7 @@ The architect Tom Danahy designed the building in a Streamline Moderne style. A 
   class="img-left"
   width="50%"
   caption="Lights"
-  src="merin-modern-3.jpg"
+  src="images/merin-modern-3.jpg"
 %}
 
 Jones Motor Co. Is located on the corner of Central Ave. and Wellseley in the Nob Hill area of Southweast Albuquerque.
@@ -101,7 +101,7 @@ Today, Route 66 has changed from the major highway it once was into clipped sect
   class="img-right"
   width="50%"
   caption="Hiway House Motel"
-  src="merin-modern-5.jpg"
+  src="images/merin-modern-5.jpg"
 %}
 
 The Hiway House Motel was built in 1958, a year after Jone's Motor Company had moved out. What makes this Hiway House Motel so unique and interesting is the fact that it mimics the color scheme of the Jones Motor Co. seemingly designed with the intention of complimenting the Jones Motor Co. even as the company itself has already moved out of the Area.
