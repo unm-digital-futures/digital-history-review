@@ -66,7 +66,7 @@ src="images/merin-modern-2.jpeg"
   class="img-right"
   width="50%"
   caption="Original Design"
-  src="images/merin-historic-3.jpg"
+  src="images/merin-historic-3.JPG
 %}
 
 The architect Tom Danahy designed the building in a Streamline Moderne style. A prevalent design at the end of the Art Deco period this design featuring smooth surfaces, curved edges and strong horizontal lines to give it a more aerodynamic feel. Danahy decided on a classing color scheme of white, red and black, a major color scheme at the time. Going along with this design Danahy placed the main entrance to the building on a corner, diagnal to the block in which it was built on. As you would face the entrance of the building there would be Texaco gas stations in the middle, the service station on the left and the car dealership on the right, complete with a large glass show room.
