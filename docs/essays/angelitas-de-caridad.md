@@ -40,14 +40,15 @@ Neslted peacefully in the corner of the park at the bottom of the hill with Love
 
 ## History of Martineztown
 
+Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used by prominent families for pastured lands and as a rest stop for travelers. In 1850 Don Miguel Martin built a permanent settlement along the *Acequia Madre de Los Barelas* and Martineztown was established. Slowly new businesses began to emerge connecting the old town with the new.
+
+
 {% include figure.html
   class="img-center"
   width="60%"
   caption="Martineztown"
   src="images/dmartinez_Martineztown_image2.jpg"
 %}
-
-Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used by prominent families for pastured lands and as a rest stop for travelers. In 1850 Don Miguel Martin built a permanent settlement along the *Acequia Madre de Los Barelas* and Martineztown was established. Slowly new businesses began to emerge connecting the old town with the new.
 
 In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown. As the railroads urbanized cities across the country, New Mexico's climate offered something different, aid for Tuberculosis victims. The dry air and high elevations made Albuquerque the ideal place to live and establish hopsitals. Tuberculosis as the catalyst and the railroad as the facilitator, Martineztown became a new hub for Albuquerque society. Businesses would eventually enclose Martineztown Park to its current position, thus creating an timecaplse within the cityscape.  
 
