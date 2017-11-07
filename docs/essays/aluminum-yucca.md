@@ -52,7 +52,7 @@ In April of 2003, the Aluminum Yucca was first set up, with the completion occur
 Overtime the space around the Aluminum Yucca, has served to travelers going in and out of Albuquerque's East side as a final or beginning into the culture of the city itself. It also shows an idea into what the history is behind the city is. This type of a history existing in a realm located in around the 1950's. It was during this time Albuquerque's ties to Kirkland and Sandia National Labs, were at the strong point. This being New Mexico's part in Nuclear Resaerch, and U.S Airforce bases being used at this time. The second part is the history itslef behind Route 66. It was during the 1960's to 1970's Route 66, traveled through Albuquerque. During this time the road was thriving, and through the location where the Yucca currently is had a hotel and several buissnesses existing. Finally the Yucca is desgined to give off the feel of being in a desert. With it being inspired by a Yucca, and during night its is lit up a green color for the idea the structure itself is a breathing plant.
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="20%"
   src="images/AYucca2.jpg"
 %}
