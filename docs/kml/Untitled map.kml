@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled map</name>
+    <description/>
+    <Style id="poly-000000-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-000000-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-000000-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-000000-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-000000-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Zimmerman Library</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -106.6213301,35.085391,0
+                -106.6213328,35.0852154,0
+                -106.6215742,35.085211,0
+                -106.6215768,35.0851123,0
+                -106.6214132,35.0851079,0
+                -106.6214052,35.0848511,0
+                -106.6215768,35.0848511,0
+                -106.6215822,35.084726,0
+                -106.6212228,35.084726,0
+                -106.6212255,35.0846118,0
+                -106.6210994,35.0846075,0
+                -106.621094,35.0847655,0
+                -106.6210404,35.0847655,0
+                -106.6210404,35.0847172,0
+                -106.6209009,35.0847106,0
+                -106.6208982,35.0847391,0
+                -106.6206729,35.084737,0
+                -106.6205227,35.0847304,0
+                -106.6205281,35.0847084,0
+                -106.6203913,35.0846996,0
+                -106.6203913,35.0847984,0
+                -106.620166,35.084794,0
+                -106.6201687,35.0849959,0
+                -106.6201231,35.0849938,0
+                -106.6201606,35.0851935,0
+                -106.6203779,35.0851935,0
+                -106.6203779,35.0853032,0
+                -106.6205174,35.085301,0
+                -106.6205174,35.0852659,0
+                -106.6207239,35.0852593,0
+                -106.6207239,35.0851364,0
+                -106.6209224,35.0851364,0
+                -106.6209251,35.085211,0
+                -106.6211852,35.085211,0
+                -106.6211906,35.085391,0
+                -106.6213301,35.085391,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
