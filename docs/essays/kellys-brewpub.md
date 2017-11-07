@@ -1,4 +1,7 @@
 ---
+title: Kelly's Brewpub
+author: Merin Rodgers
+css: rodgers.css
 ---
 
 {% include jumbotron.html
