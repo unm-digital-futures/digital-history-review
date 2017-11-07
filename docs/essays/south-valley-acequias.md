@@ -22,8 +22,6 @@ width="50%"
 caption="Obviously we need a 50% image somewhere."
 src="images/acequia1.jpeg"
 %}
-
-![South Valley Acequia](images/acequia1.jpeg)
   
 ### What is an Acequia?
 
