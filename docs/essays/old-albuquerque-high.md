@@ -1,7 +1,11 @@
 ---
 ---
+{% include jumbotron.html
+title="Old Albuquerque High"
+image="images/ABGhighfront1.jpg"
+text="Would You Live in a High School?"
+%} 
 
-# Old Albuquerque High
 ##### By Audriana McManus  
 
 ![ABQhighfront1](images/ABQhighfront1.jpg "The Front of Old Albuquerque High")
