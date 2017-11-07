@@ -30,5 +30,5 @@ The Holocaust mounment was built in 1998 by a sculptor Jake Lovato. There were a
 While the monument was going through the process of getting built, there was a group of jewish people who did not want monument up. They felt like the monument's figure showed too much. Due to the monument showing people burning in smoke. Which was something that exactly happened during the Holocaust.  During the summer of 2017 the monument had been vandaliezed for the second time. Glass on one of the panels were smashed. The memorial was rededicated in July according to KRQE news.
 
 ##### Sources
-Krqe.com
-waymarking.com
+ - http://Krqe.com
+- http://waymarking.com
