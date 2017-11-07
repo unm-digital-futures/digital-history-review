@@ -3,15 +3,9 @@
 
 {% include jumbotron.html
 title="Kelly's Brewpub"
-image="images/BirdsEye_1886.jpg"
+image="images/merin-modern-6.jpg"
 text="Eat, Drink and Explore"
 %} 
-{% include figure.html
-  class="img-center"
-  width="100%"
-  caption="Kelly's Brewpub"
-  src="images/merin-modern-6.jpg"
-%}
 
 {% include aside.html
   class="pullquote"
