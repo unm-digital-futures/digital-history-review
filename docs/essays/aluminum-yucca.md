@@ -57,7 +57,7 @@ Overtime the space around the Aluminum Yucca, has served to travelers going in a
 
 {% include figure.html
   class="img-left"
-  width="20%"
+  width="30%"
   src="images/AYucca3.jpg"
 %}
 
