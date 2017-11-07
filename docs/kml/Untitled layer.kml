@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled layer</name>
+    <Style id="line-000000-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-000000-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-000000-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>valle-atrisco-acequias</name>
+      <styleUrl>#line-000000-1200-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -106.6720319,35.051904,0
+          -106.6706908,35.0511487,0
+          -106.6706479,35.0502528,0
+          -106.6716993,35.0498927,0
+          -106.6719246,35.0518074,0
+          -106.6718173,35.049638,0
+          -106.6709805,35.0480307,0
+          -106.6707766,35.0469064,0
+          -106.6710556,35.045176,0
+          -106.6713452,35.0449213,0
+          -106.6724074,35.0443415,0
+          -106.6731155,35.0426726,0
+          -106.673373,35.0418206,0
+          -106.6735983,35.0412847,0
+          -106.6736627,35.0403712,0
+          -106.6738129,35.0400549,0
+          -106.6750681,35.0388339,0
+          -106.6756582,35.0381663,0
+          -106.6765594,35.0370243,0
+          -106.6767204,35.0362425,0
+          -106.6773212,35.0352147,0
+          -106.6778362,35.0330975,0
+          -106.6764629,35.0319906,0
+          -106.6761196,35.0319818,0
+          -106.6755617,35.0310242,0
+          -106.6757333,35.0307607,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
