@@ -1,12 +1,13 @@
 ---
 title: Simms Building
 author: Fred Gibbs
+css: gibbs.css
 date: 2017-11-02
 ---
 
 {% include jumbotron.html
   title="Reaching Up"
-  image="images/BirdsEye_1886.jpg"
+  image="images/simms-1.jpg"
   text="Global Architecture in the Southwest"
 %}
 
@@ -17,7 +18,7 @@ The Simms Building is cool. It's also big.
 ## Space Around the Simms
 {% include figure.html class="img-right" width="33%" caption="Simms Building" src="images/simms-1.jpg" %}
 
-The Simms building can be seen from nearby. Notice the posts supporting the entire side of the building. That looks hard. There are lots of windows. Everyone likes windows.
+The Simms building can be seen from nearby. Notice the posts supporting the entire side of the building. That looks hard. There are lots of windows. Everyone likes windows. [^source]
 
 
 ## Changing Spaces
@@ -46,3 +47,5 @@ The Simms Building remains a vibrant place for work and play in downtown.
 {% include full-width.html class="pullquote" text="
 The Simms Building offers a wide variety of contemporary urban office, commercial and retail space from street front retail to multi-floor layouts.
 " %}
+
+[^source]: THIS is my footnote!!!
