@@ -1,6 +1,5 @@
 ---
 ---
-
 {% include jumbotron.html
 title="An Aluminum Yucca"
 image="images/AYucca4.jpg"
@@ -17,7 +16,7 @@ Located on the east end entrance of Albuquerque, there is a tall Alumninum Yucca
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="50%"
   caption="The Yucca at night"
   src="images/AYucca3.jpg"
 %}
@@ -26,7 +25,11 @@ Located on the east end entrance of Albuquerque, there is a tall Alumninum Yucca
 
 According to an Mountain View Telegraph article written by Mike Bush, published in 2013 on this website https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html the project was built around 2003. For a long while this statue was left unexplained to drivers and all who saw it. This was finally answered in 2013 when an artist of the structure explained why this metal Yucca. The artists name is Gordon Huether from southern California. According to the artist's website https://www.gordonhuether.com/aluminum-yucca, the purpose of this project was to celebrate a nostalgia or some sort of a romance for the West, that was located on Route 66 at one time.
 
-![Aluminum Yucca](images/AYucca1.jpg "Aluminum Yucca")
+{% include figure.html
+  class="img-left"
+  width="33%"
+  src="images/AYucca1.jpg"
+%}
 
 ### The History Behind The Yucca
 
@@ -36,7 +39,11 @@ In April of 2003, the Aluminum Yucca was first set up, with the completion occur
 
 Overtime the space around the Aluminum Yucca, has served to travelers going in and out of Albuquerque's East side as a final or beginning into the culture of the city itself. It also shows an idea into what the history is behind the city is. This type of a history existing in a realm located in around the 1950's. It was during this time Albuquerque's ties to Kirkland and Sandia National Labs, were at the strong point. This being New Mexico's part in Nuclear Resaerch, and U.S Airforce bases being used at this time. The second part is the history itslef behind Route 66. It was during the 1960's to 1970's Route 66, traveled through Albuquerque. During this time the road was thriving, and through the location where the Yucca currently is had a hotel and several buissnesses existing. Finally the Yucca is desgined to give off the feel of being in a desert. With it being inspired by a Yucca, and during night its is lit up a green color for the idea the structure itself is a breathing plant.
 
-![Aluminum Yucca at night](images/AYucca2.jpg "Aluminum Yucca at Night")
+{% include figure.html
+  class="img-right"
+  width="33%"
+  src="images/AYucca2.jpg"
+%}
 
 ### Conclusion
 
