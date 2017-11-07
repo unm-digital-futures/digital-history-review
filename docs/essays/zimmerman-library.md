@@ -30,7 +30,12 @@ caption="The exterior of the library and blue prints for the interior"
 
 Zimmerman Library was built with the Spanish Pueblo style of architecture. The library was erected on the unfinished part of the university. Currently Zimmerman Library sits right in the middle of campus almost celebrating the great build by the southwest architectural builder. The main building stands two stories high. With wings running north, south, east, and west. The exterior steel, concrete brick, and buttressing corners had resemblance of the mission churches. Where Meem first received experience to the southwestern architectural style. The interior of Zimmerman Library was completed by local craftsman around Albuquerque. This entailed anywhere from the murals inside, intricate wood carvings, and handmade furniture. All of these tiny details were in attempt to keep this new building as close to the New Mexican culture as possible.
 
-![Zimmerman](images/Zimm5.PNG "Interior")
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Interior of Library"
+  src="images/Zimm5.PNG"
+%}
 
 ### Spatial Space
 
