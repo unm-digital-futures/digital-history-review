@@ -3,7 +3,7 @@
 
 {% include jumbotron.html
 title="El Rey Theater"
-image="https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater%201971_photo1.jpg?raw=true"
+image="https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/el_rey_Front%20photo4.jpg?raw=true"
 text="The Historic El Rey Theater, now a nightclub!"
 %}
 
@@ -25,7 +25,7 @@ The *Historic El Rey Theater*, located [here](https://www.google.com/maps/place/
 
 ## **The El Rey Today**
 The El Rey Theater functioning as a Movie Theater, or concert hall specifically, is a wonderful medium for facilitating artistic dissemination. Many musicians spanning across all the musical genres have been invited to play for anyone available to go in Downtown Albuquerque. The theater prides itself on having brought world renown artists and talent to the city including internationally famous acts from the Chicano Brothers to the Chemical Brothers and more.
-Below is a picture of a typical event flier advertising a coming attraction being held at the El Rey during the month of October, 2017.
+Below is a picture of a typical event flier advertising a show held at the El Rey.
 ![Flier](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater_flier_photo5.jpg?raw=true)
 
 
