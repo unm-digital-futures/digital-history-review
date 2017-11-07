@@ -20,8 +20,11 @@ The inspiration and mastermind architect behind the creation of Zimmerman Librar
 
 In the year 1929, one of the University of New Mexico's late presidents, James Zimmerman applied for federal money through the New deal. After receiving the financial help, the main plan was to build a core of buildings for the expanding university. President Zimmerman wanted the style of the new buildings to follow along with the culture of the adobe housing in New Mexico. John Meem, who was gaining a lot of attention through his southwest architectural style was the right man for the job. Meem was hired to commission multiple buildings on UNMs main campus. The building most famous from John Meems commissions was Zimmerman Library.
 
-![Zimmerman](images/Zimm2.PNG "1930 Zimmerman")
-![Zimmerman](images/Zimm3.PNG "Blueprints")
+{% include juxtapose.html
+image1="images/Zimm2.PNG"
+image2="images/Zimm3.png"
+caption="The exterior of the library and blue prints for the interior"
+%}
 
 ### The Layout
 
