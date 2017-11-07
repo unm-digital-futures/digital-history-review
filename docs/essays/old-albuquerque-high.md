@@ -23,7 +23,10 @@ The first building Albuquerque High occupied was not the same as what we today k
 
 The area around the school was also in constant flux. One of the buildings, the Gymnasium, sat right next to an arroyo, which became a place for many social events. For example, the Albuquerque High school website mentions that:
 
->The arroyo which ran along the north side was quite deep and it often was the ground used for settling disputes. In 1915, it was the meeting place of two rival gangs, the Capulets and the Montagues; and in 1917 the rival gangs who used the area were the Hatfields and the McCoys.
+{% include full-width.html
+  class="pullquote"
+  text=" The arroyo which ran along the north side was quite deep and it often was the ground used for settling disputes. In 1915, it was the meeting place of two rival gangs, the Capulets and the Montagues; and in 1917 the rival gangs who used the area were the Hatfields and the McCoys."
+%}
 
 The other buildings included the Manual Arts Building which was built in 1927, the Classroom Administration Building built in 1937, and the Library Building, the final structure, in 1940.
 
