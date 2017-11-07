@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled layer</name>
+    <Style id="poly-000000-1200-77-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-000000-1200-77-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-000000-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-000000-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-000000-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Angelitas De Caridad at Martineztown Park</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/miQoyqgifRS75USjhhOoQJF5QvHPQQ0X3Ooz-xsUd8ylBrhYibdEEcXt5sV6krGGTgZkcilaCF0To1i-2wB6R0qxf1AEsSeqelaGWQk0NSQAWHPSYYLzfDLxLyRTR120sw-hRGg" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#poly-000000-1200-77</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/miQoyqgifRS75USjhhOoQJF5QvHPQQ0X3Ooz-xsUd8ylBrhYibdEEcXt5sV6krGGTgZkcilaCF0To1i-2wB6R0qxf1AEsSeqelaGWQk0NSQAWHPSYYLzfDLxLyRTR120sw-hRGg</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -106.6376567,35.1028294,0
+              -106.6389656,35.1029084,0
+              -106.6396093,35.1020306,0
+              -106.6411436,35.1021096,0
+              -106.6412723,35.1013021,0
+              -106.6379464,35.1011353,0
+              -106.6376567,35.1028294,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
