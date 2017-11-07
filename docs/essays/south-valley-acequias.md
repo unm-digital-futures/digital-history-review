@@ -16,18 +16,18 @@ text="Public Spaces of Tradition and Culture in the South Valley"
 
 The Valle Atrisco, commonly referred to the South Valley, is one of the oldest and most historic areas of Albuquerque, owing its name to the Atrisco Land Grant of 1692 (CESOSS.org). The word "Atrisco" is derived from the Nahuatl word "Atlixo", which means “surface of a body of water (CESOSS.org)" and is an indication of how important acequias and water systems are to the area. The land grant was designed to spur settlement in the area and is still relatively intact to this day as families and individuals whose histories date back centuries still claim rights to land and water in the area (http://dev.newmexicohistory.org/). The acequia system played an integral part in irrigating the land to cultivate corn, wheat, beans, alfalfa, and allowed the area to grow and prosper throughout the seventeenth and eighteenth centuries (http://dev.newmexicohistory.org/). Acequias were the critical point around which farmlands were built and maintained. The space surrounding acequias from the period of the seventeenth century until the end of World War II was essentially rural farmland subdivided between families (http://greenfiretimes.com/2015/11/the-genesis-of-acequias-in-atrisco-the-south-valley/). Today, due to factors of modernization and urbanization, acequias of the South Valley function as unique sources of public space and cultural tradition.
   
-  {% include figure.html
-class="img-left"
-width="50%"
-caption="Tree lined trail along the acequia"
-src="images/acequia1.jpeg"
-%}
+  {% include figure.html class="img-center" width="50%" caption="Trail" src="images/acequia2.jpeg" %}
   
 ### What is an Acequia?
 
 Acequias, sometimes referred to as ‘ditches’ or ‘arroyos’ are community-based forms of sharing water used for irrigation, first introduced to the region that is today New Mexico by the Spanish in the seventeenth-century (CESSOS.org). The acequia system itself is much older, dating back to methods developed by the Moors and brought to the Iberian Peninsula during their occupation of the region (ca.700-1492).
 
-{% include figure.html class="img-center" width="75%" height="50%" caption="Trail" src="images/acequia2.jpeg" %}
+{% include figure.html
+class="img-left"
+width="100%"
+caption="Tree lined trail along the acequia"
+src="images/acequia1.jpeg"
+%}
 
 ### The Arenal Acequia
 
