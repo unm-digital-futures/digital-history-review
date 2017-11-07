@@ -77,7 +77,7 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
 
 {% include aside.html
   class="pullquote"
-  text="Overall I show how much the Sisters of Charity contributed to the spirituality, love of Christ and the overall growth and nurturing of the people of Martineztown and the surrounding area." %}
+  text=" Artist Linda DaBeau state, 'Overall I show how much the Sisters of Charity contributed to the spirituality, love of Christ and the overall growth and nurturing of the people of Martineztown and the surrounding area'." %}
   
 The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. As you take a Walk around the base, the orgin of the Sister's story and their commitment to the community is told through the illustrations. Plaques with words like Hope, Temperance, and Faith finish out the surrounding local. And the last plaque, in line with the sculpture and Lovelace Hosptial assert, "In Unity There is Strength". This message defines the motto of not only *Sisters of Charity* but what they brought to the commumnity of Martineztown and Albuquerque.
 
@@ -97,8 +97,11 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
   src="images/dmartinez_Base2_image9.png"
 %}
 
+
 ## Why you should visit *Angelitas De Caridad* 
 Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of Albuquerque History. Though there is limited information on the sculpture itself, it represents an era in American and New Mexico history that forever changed the city, state, and country.  
+
+
 
 ### References
 <http://www.srcharitycinti.org/news_events/images/dabeau.jpg>
