@@ -15,6 +15,13 @@ The Valle Atrisco, commonly referred to the South Valley, is one of the oldest a
   class="pullquote"
   text="Acequias, sometimes referred to as ‘ditches’ or ‘arroyos’ are community-based forms of sharing water used for irrigation, first introduced to the region that is today New Mexico by the Spanish in the seventeenth-century (CESSOS.org)."
   %}
+  
+  {% include figure.html
+class="img-left"
+width="50%"
+caption="Obviously we need a 50% image somewhere."
+src="images/acequia1.jpeg"
+%}
 
 ![South Valley Acequia](images/acequia1.jpeg)
   
