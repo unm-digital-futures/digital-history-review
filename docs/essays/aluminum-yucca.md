@@ -1,7 +1,11 @@
 ---
 ---
 
-{% include jumbotron.html title="Essay Example" image="images/BirdsEye_1886.jpg" text="This is where you put your catchy subtitle." %}  
+{% include jumbotron.html
+title="Essay Example"
+image="images/BirdsEye_1886.jpg"
+text="This is where you put your catchy subtitle."
+%} 
 
 ### Introduction
 
