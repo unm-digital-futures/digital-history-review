@@ -2,9 +2,9 @@
 ---
 
 {% include jumbotron.html
-title="El Rey Theater"
+title="Historic El Rey Theater"
 image="https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/el_rey_Front%20photo4.jpg?raw=true"
-text="The Historic El Rey Theater, now a nightclub!"
+text="The number one concert venue in the southwest!"
 %}
 
 # The Historic El Rey Theater
@@ -39,8 +39,9 @@ Below is a picture of a typical event flier advertising a coming attraction bein
 The street the building resides on known as Central Ave. is the central axis of commerce in Albuquerque and is a fitting location for such a prestigeous building. The El Rey Theater's spatial position on this ever popular east-west street synergizes well with the city's commerce as it's commonly associated with good times and happy memories 
 
 ## **In Conclusion**
+  
 Not only is The Historic El Rey Theater building bold & artistic with its featured marquee and traditional architecture but its popularity and function as a nightclub has brought an immeasurable amount of artistic audible excitement to the masses in the desert that is Albuquerque. 
-
+  
 
 https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater%20Tickets_photo4.jpg
 ![1](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater%20Tickets_photo4.jpg)
