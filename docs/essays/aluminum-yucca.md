@@ -1,5 +1,6 @@
 ---
 ---
+
 {% include jumbotron.html
 title="An Aluminum Yucca"
 image="images/AYucca4.jpg"
