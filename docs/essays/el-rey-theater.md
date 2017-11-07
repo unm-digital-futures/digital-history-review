@@ -12,6 +12,7 @@ text="The Historic El Rey Theater, now a nightclub!"
 
 
 ## **Past & History**
+![Historical_image2](https://i.gyazo.com/7c4b6f2542f76ceff6610e71766c2644.png)
 
 {% include figure.html
   class="img-right"
@@ -40,7 +41,7 @@ The street the building resides on known as Central Ave. is the central axis of 
 ## **In Conclusion**
 Not only is The Historic El Rey Theater building bold & artistic with its featured marquee and traditional architecture but its popularity and function as a nightclub has brought an immeasurable amount of artistic audible excitement to the masses in the desert that is Albuquerque. 
 
-anyone who wishes to particiapte in the city of Albuquerque.
+
 https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater%20Tickets_photo4.jpg
 ![1](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater%20Tickets_photo4.jpg)
 <photo3>
