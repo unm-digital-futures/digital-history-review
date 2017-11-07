@@ -1,11 +1,11 @@
 ---
 ---
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Sunshine Building"
-  src="images/Sunshine1.jpg"
-%}
+
+{% include jumbotron.html
+title="Sunshine Building"
+image="images/Sunshine1.jpg"
+text="Albuquerque's Second Skyscraper."
+%} 
 
 {% include figure.html
 class="img-left"
