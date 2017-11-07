@@ -9,19 +9,21 @@ text="The way how an Aluminum Yucca was formed."
 
 ### Introduction
 
-The Aluminum Yucca can be seen day or night as you are entering the East Side of Albuquerque. It can currently be seen on the side of a mountain just sitting there. To get up close to the Yucca, it will require parking your car on the side of the road and a hike. The project itself was meant to serve a greater purpose, but things fell through. As to why it fell through, well nobody is not sure. In the end people can admire it for what its made of, the idea, a get a feel of the history behind it.
-
 {% include aside.html
   class="pullquote"
-  text="Te Yucca itself is made out of recycled tanks from an F-16 fighter jet, and was made to look like a Datil Yucca."
+  text="The Yucca itself is made out of recycled tanks from an F-16 fighter jet, and was made to look like a Datil Yucca."
   %}
+
+
+The Aluminum Yucca can be seen day or night as you are entering the East Side of Albuquerque. It can currently be seen on the side of a mountain just sitting there. To get up close to the Yucca, it will require parking your car on the side of the road and a hike. The project itself was meant to serve a greater purpose, but things fell through. As to why it fell through, well nobody is not sure. In the end people can admire it for what its made of, the idea, a get a feel of the history behind it.
+
 
 
 ### Location & What The Yucca is Made Of
 
 {% include aside.html
   class="pullquote"
-  text="the structure is about Twenty-Two feet tall Yucca made entirly out of auminum."
+  text="The structure is about Twenty-Two feet tall Yucca made entirly out of auminum."
   %}
 
 
@@ -30,7 +32,7 @@ Located on the east end entrance of Albuquerque, there is a tall Alumninum Yucca
 
 {% include figure.html
   class="img-left"
-  width="50%"
+  width="25%"
   caption="The Yucca at night"
   src="images/AYucca2.jpg"
 %}
