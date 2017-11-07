@@ -27,7 +27,7 @@ Located on the east end entrance of Albuquerque, there is a tall Alumninum Yucca
   %}
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="50%"
   caption="The Yucca at night"
   src="images/AYucca3.jpg"
