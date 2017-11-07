@@ -10,8 +10,8 @@ text="The Historic El Rey Theater, now a nightclub!"
 # The Historic El Rey Theater
 ***Josh 'Schwaa' Bloom***
 
-https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/Title%20El%20Rey%20Theater_photo2.png
-# **Past & History**
+
+## **Past & History**
 ![Historical_image2](https://i.gyazo.com/7c4b6f2542f76ceff6610e71766c2644.png)
 
 
@@ -28,14 +28,9 @@ The El Rey Theater functioning as a Movie Theater, or concert hall specifically,
 Below is a picture of a typical event flier advertising a coming attraction being held at the El Rey during the month of October, 2017.
 ![Flier](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater_flier_photo5.jpg?raw=true)
 
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Centennial Hotel"
-  src="images/centennial-hotel.jpg"
-%}
 
-[Picture of The El Rey Theater](http://cinematreasures.org/theaters/743)
+
+![Picture of The El Rey Theater](http://cinematreasures.org/theaters/743)
 The street the building resides on known as Central Ave. is the central axis of commerce in Albuquerque and is a fitting location for such a prestigeous building. The El Rey Theater's spatial position on this ever popular east-west street synergizes well with the city's commerce as it's commonly associated with good times and happy memories 
 
 ## **In Conclusion**
