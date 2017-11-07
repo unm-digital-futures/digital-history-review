@@ -79,7 +79,7 @@ Space is more than a geographical representation, mistakenly thought of as only 
   %}
 The Santa Fe Railway Hospital as well as the Memorial Hospital's original purpose was to provide medical treatment and then shifted to promoting economic growth and a place for social gatherings. The purpose affected the cultural memory of this space by influencing people's perception of it. In this respect, space is more than a physical place because it directly shapes our memory, which anyone can be a part of.
 
-## Rennovation
+## Economic Growth?
 
 {% include figure.html
   class="img-center"
