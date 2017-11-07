@@ -1,4 +1,8 @@
 ---
+title: Sunshine Building
+author: Lorilei Chavez
+css: sunshine-building.css
+date: 2017-11-07
 ---
 
 {% include jumbotron.html
