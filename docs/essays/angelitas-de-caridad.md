@@ -25,7 +25,7 @@ Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you
   class="img-left"
   width="33%"
   caption="Sculpture Hidden among the trees"
-  src="images/dmartinez_Parkview_image6.jpg"
+  src="images/dmartinez_Parkview_image6.png"
 %}
 
 Neslted peacefully in the corner of the park at the bottom of the hill with Lovelace Hosptial as the backdrop sits the sculpture, *"Angelitas De Caridad"* by Albuquerque artist Linda DaBeau. Though the sculpture feels hidden, its white limestone wings stands out amongst its surrounding. Dedicated to the *Sisters of Charity of Cincinnati* came to New Mexico at the height of the Tuberculosis epedemic and aided the community by transforming St. Joseph's Sanitarium into present day Lovelace Hospital. Tuberculosis had killed more Americans than any other disease and continues to be one of the deadliest disease in the world. *"Angelitas De Caridad"* sculpture beautifully illustrates the history of Martineztown and the significant role the "Angeles of Charity" played in our states history.
@@ -34,7 +34,7 @@ Neslted peacefully in the corner of the park at the bottom of the hill with Love
   class="img-right"
   width="33%"
   caption="Beauty among the trees"
-  src="images/dmartinez_Sculpture_image7.jpg"
+  src="images/dmartinez_Sculpture_image7.png"
 %}
 
 ## History of Martineztown
@@ -45,7 +45,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 
 {% include figure.html
   class="img-center"
-  width="33%"
+  width="50%"
   caption="Martineztown"
   src="images/dmartinez_Martineztown_image2.jpg"
 %}
@@ -59,7 +59,7 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
   class="img-center"
   width="33%"
   caption="Lovelace Hospital overlooking Martineztown Park"
-  src="images/dmartinez_Lovelace_image5.jpg"
+  src="images/dmartinez_Lovelace_image5.png"
 %}
 
 ## *"Angelitas De Caridad"* Sculpture and Artist
@@ -70,7 +70,7 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
   class="img-right"
   width="33%"
   caption="LInda DaBeau"
-  src="images/dmartinez_Linda_image10.jpg"
+  src="images/dmartinez_linda_image10.jpg"
 %}
 
 {% include aside.html
@@ -81,14 +81,14 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
   class="img-left"
   width="33%"
   caption="Illustrations of the Sisters work within the community"
-  src="images/dmartinez_Base_image8.jpg"
+  src="images/dmartinez_Base_image8.png"
 %}
 
 {% include figure.html
   class="img-right"
   width="33%"
   caption="Sisters of Charity"
-  src="images/dmartinez_Base2_image9.jpg"
+  src="images/dmartinez_Base2_image9.png"
 %}
 
 The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. As you take a Walk around the base, the orgin of the Sister's story and their commitment to the community is told through the illustrations. Plaques with words like Hope, Temperance, and Faith finish out the surrounding local. And the last plaque, in line with the sculpture and Lovelace Hosptial assert, "In Unity There is Strength". This message defines the motto of not only *Sisters of Charity* but what they brought to the commumnity of Martineztown and Albuquerque.
