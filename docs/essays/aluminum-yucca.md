@@ -32,7 +32,7 @@ Located on the east end entrance of Albuquerque, there is a tall Alumninum Yucca
   class="img-left"
   width="50%"
   caption="The Yucca at night"
-  src="images/AYucca3.jpg"
+  src="images/AYucca2.jpg"
 %}
 
 ### The Idea Behind The Yucca
@@ -56,7 +56,7 @@ Overtime the space around the Aluminum Yucca, has served to travelers going in a
 {% include figure.html
   class="img-left"
   width="20%"
-  src="images/AYucca2.jpg"
+  src="images/AYucca3.jpg"
 %}
 
 ### Conclusion
