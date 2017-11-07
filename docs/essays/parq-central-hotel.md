@@ -1,7 +1,7 @@
 ---
 title: Parq Central Hotel
 author: Timothy Beaton
-css:
+css: beaton.css
 date:
 ---
 
