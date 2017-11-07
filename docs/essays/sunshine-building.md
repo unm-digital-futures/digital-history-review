@@ -63,7 +63,7 @@ The building also includes offices on the upper levels of the building that hous
   caption="Last days of Sunshine Theatre before closure in 1980"
   src="images/SunshineE.jpg" %}
 
-### Sushine Building Today
+### Sunshine Building Today
 
 {% include figure.html
 class="img-left"
@@ -94,7 +94,7 @@ The building facade, however, is a depiction of the decades and many seasons tha
   caption="Sunshine Building Facade"
   src="images/Sunshine5.jpg" %}
 
-### Sushine Building in the future
+### Sunshine Building in the future
 
 under construction due to last weeks readings :)... sjkfndofjnsdfosjfnpsdkfjsnpfksndfkjsnldfnsfsldfnsdfklsd
 sdfipnspdfsdfn spdfjnsdpfnsdpfsjodnfpsd fnsdpfnsdpifjnsdp fjinsdp fjnsd pfnsdpf sdifsdfsdjnfs dpfsdfn sdfjn
