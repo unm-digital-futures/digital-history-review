@@ -79,18 +79,18 @@ Space is more than a geographical representation, mistakenly thought of as only 
   %}
 The Santa Fe Railway Hospital as well as the Memorial Hospital's original purpose was to provide medical treatment and then shifted to promoting economic growth and a place for social gatherings. The purpose affected the cultural memory of this space by influencing people's perception of it. In this respect, space is more than a physical place because it directly shapes our memory, which anyone can be a part of.
 
-## Economic Growth?
+## Rennovation
 
 {% include figure.html
   class="img-center"
   width="40%"
-  caption="Construction of the Parq Central Hotel."
+  caption="Rennovation to the Parq Central Hotel."
   src="images/TBImage4.png"
 %}
 
 The Parq Central Hotel did serve its purpose in boosting the economy by using historical memory, modern perspective (renovation), and an exotic appeal to successfully promote tourism. The historical memory allows guests to visit a historical landmark that provided a vital service during railroad construction westward. Modern perspective combined historical memory with a modern touch of comfort to create a pleasing experience. An exotic appeal is the signature brand of New Mexican culture by highlighting local features, creating an oasis in the desert.
 
-<a href="http://hotelparqcentral.com">highlighting local features</a>
+<a href="http://hotelparqcentral.com">Parq Central Hotel</a>
 
 ## References
 - http://www.bbc.com/travel/story/20130520-a-hospital-turned-hotel-in-new-mexico
