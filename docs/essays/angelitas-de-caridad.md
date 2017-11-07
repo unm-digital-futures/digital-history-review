@@ -3,7 +3,7 @@
 
 {% include jumbotron.html
 title="Angelitas De Carido"
-image="images/dmartinez_angelitasdecaridad_image1.jpg"
+image="images/dmartinez_AngelitasDeCaridad_image1.jpg"
 text="Sisters of Charity Sculpture at historic Martineztown Park"
 %} 
 
