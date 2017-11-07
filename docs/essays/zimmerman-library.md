@@ -41,6 +41,11 @@ Zimmerman Library was built with the Spanish Pueblo style of architecture. The l
 
 At the time of Zimmerman libraries creation, President Zimmerman wanted to preserve the culture of New Mexico. Making all the buildings adobe style created a very unique environment for the university. Being one of the first buildings put up on campus helped pave the way on how future buildings would be built. John Meems also built the library big enough to fill the needs of all the students. Not making the library too big right away helped allow for renovations through out the years. This was so Zimmerman Library could grow with the university in it's pre existing space. This philosophical building style can be attributed to how pueblo buildings are upgraded according to the occupants of that space. Which came from meems days of renovating Pueblo churches. Not only is the building style with in the New Mexican culture, but also the ideology of upgrading and making a bigger library for the students Of the university. Making every aspect of the building associated with President Zimmerman’s one goal.
 
+{% include aside.html
+  class="pullquote"
+  text="Making all the buildings adobe style created a very unique enviroment."
+  %}
+
 {% include figure.html
 class="img-left"
 width="50%"
