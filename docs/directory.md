@@ -19,6 +19,7 @@ date: 2017-11-01
 - [Parq Central Hotel](essays/parq-central-hotel)
 - [Simms Building](essays/simms-building)
 - [South Valley Acequias](essays/south-valley-acequias)
+- [Sunshine Building](essays/sunshine-building)
 - [Whittlesey House](essays/whittlesey-house)
 - [You are Here](essays/you-are-here)
 - [Zimmerman Library](essays/zimmerman-library)
