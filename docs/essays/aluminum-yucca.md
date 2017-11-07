@@ -11,9 +11,20 @@ text="The way how an Aluminum Yucca was formed."
 
 The Aluminum Yucca can be seen day or night as you are entering the East Side of Albuquerque. It can currently be seen on the side of a mountain just sitting there. To get up close to the Yucca, it will require parking your car on the side of the road and a hike. The project itself was meant to serve a greater purpose, but things fell through. As to why it fell through, well nobody is not sure. In the end people can admire it for what its made of, the idea, a get a feel of the history behind it.
 
+{% include aside.html
+  class="pullquote"
+  text="Te Yucca itself is made out of recycled tanks from an F-16 fighter jet, and was made to look like a Datil Yucca."
+  %}
+
+
 ### Location & What The Yucca is Made Of
 
-Located on the east end entrance of Albuquerque, there is a tall Alumninum Yucca sitting on an mountain side. It can easily be viewed on I-40 just as you pass the Carneul exit and before the Tramway exit. To visiters it serves as a passage reminding Albuquerque's ties with places like Route 66, Kirkland Air Force Base, and Sandia National Labratories, while serving as a entrance to the East Mountains, and the Estancia Valley. According to an article created by Ron Warnick for the website http://www.route66news.com/2013/05/19/the-story-behind-albuquerques-big-aluminum-yucca/ the structure is about Twenty-Two feet tall Yucca made entirly out of Aluminum. According to the artist's website According to Huethner's website https://www.gordonhuether.com/aluminum-yucca the Yucca itself is made out of recycled tanks from an F-16 fighter jet, and was made to look like a Datil Yucca. To allow the project to be lit up and be seen at night, the yucca is powered by a solar power cell to be lit up by a multitude of different colors.
+Located on the east end entrance of Albuquerque, there is a tall Alumninum Yucca sitting on an mountain side. It can easily be viewed on I-40 just as you pass the Carneul exit and before the Tramway exit. To visiters it serves as a passage reminding Albuquerque's ties with places like Route 66, Kirkland Air Force Base, and Sandia National Labratories, while serving as a entrance to the East Mountains, and the Estancia Valley. According to an article created by Ron Warnick for the website http://www.route66news.com/2013/05/19/the-story-behind-albuquerques-big-aluminum-yucca/ the structure is about Twenty-Two feet tall Yucca made entirly out of auminum. According to the artist’s website According to Huethner’s website https://www.gordonhuether.com/aluminum-yucca the Yucca itself is made out of recycled tanks from an F-16 fighter jet, and was made to look like a Datil Yucca. To allow the project to be lit up and be seen at night, the yucca is powered by a solar power cell to be lit up by a multitude of different colors.
+
+{% include aside.html
+  class="pullquote"
+  text="the structure is about Twenty-Two feet tall Yucca made entirly out of auminum."
+  %}
 
 {% include figure.html
   class="img-right"
@@ -42,13 +53,18 @@ Overtime the space around the Aluminum Yucca, has served to travelers going in a
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="20%"
   src="images/AYucca2.jpg"
 %}
 
 ### Conclusion
 
-In this project, the Yucca serves as a gateway between Albuquerque and the East Mountains along with the Estancia Valley. Made out of recycled fighter jet parts, and being lit up at night, it was the start of a project meant for a larger purpose. Unfortunately, its the only thing that remains from this project. Could it be because the funding falled through, or there was just no public interest in the project itself. Nobody will know. Where it stands now though it serves as a remind to Albuquerque's history with Sandia National Labs, Kirkland Air Force Base, and Route 66, with its retro style. Finally, the space where it shines the artwork does serves its purpose as a gateway between the city itself and the East Mountains.
+In this project, the Yucca serves as a gateway between Albuquerque and the East Mountains along with the Estancia Valley.Made out of recycled fighter jet parts, and being lit up at night, it was the start of a project meant for a larger purpose. Unfortunately, its the only thing that remains from this project. Could it be because the funding falled through, or there was just no public interest in the project itself. Nobody will know. Where it stands now though it serves as a remind to Albuquerque's history with Sandia National Labs, Kirkland Air Force Base, and Route 66, with its retro style. Finally, the space where it shines the artwork does serves its purpose as a gateway between the city itself and the East Mountains.
+
+{% include aside.html
+  class="pullquote"
+  text="Yucca serves as a gateway between Albuquerque and the East Mountains along with the Estancia Valley."
+  %}
 
 ##### Sources
 
