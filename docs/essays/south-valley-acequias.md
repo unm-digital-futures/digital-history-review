@@ -24,7 +24,7 @@ Acequias, sometimes referred to as ‘ditches’ or ‘arroyos’ are community-
 
 {% include figure.html
 class="img-center"
-width="100%"
+width="100%" height="2%"
 caption="Tree lined trail along the acequia"
 src="images/acequia1.jpeg"
 %}
