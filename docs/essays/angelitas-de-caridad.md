@@ -23,7 +23,7 @@ Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you
 
 {% include figure.html
   class="img-left"
-  width="33%"
+  width="55%"
   caption="Sculpture Hidden among the trees"
   src="images/dmartinez_Parkview_image6.png"
 %}
@@ -34,21 +34,21 @@ Neslted peacefully in the corner of the park at the bottom of the hill with Love
   class="img-right"
   width="33%"
   caption="Beauty among the trees"
-  src="images/dmartinez_Sculpture_image7.png"
+  src="images/dmartinez_Sculpture-image7.png"
 %}
 
 ## History of Martineztown
 
-Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used by prominent families for pastured lands and as a rest stop for travelers. In 1850 Don Miguel Martin built a permanent settlement along the *Acequia Madre de Los Barelas* and Martineztown was established. Slowly new businesses began to emerge connecting the old town with the new.
-
-In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown. As the railroads urbanized cities across the country, New Mexico's climate offered something different, aid for Tuberculosis victims. The dry air and high elevations made Albuquerque the ideal place to live and establish hopsitals. Tuberculosis as the catalyst and the railroad as the facilitator, Martineztown became a new hub for Albuquerque society. Businesses would eventually enclose Martineztown Park to its current position, thus creating an timecaplse within the cityscape.  
-
 {% include figure.html
   class="img-center"
-  width="50%"
+  width="60%"
   caption="Martineztown"
   src="images/dmartinez_Martineztown_image2.jpg"
 %}
+
+Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used by prominent families for pastured lands and as a rest stop for travelers. In 1850 Don Miguel Martin built a permanent settlement along the *Acequia Madre de Los Barelas* and Martineztown was established. Slowly new businesses began to emerge connecting the old town with the new.
+
+In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown. As the railroads urbanized cities across the country, New Mexico's climate offered something different, aid for Tuberculosis victims. The dry air and high elevations made Albuquerque the ideal place to live and establish hopsitals. Tuberculosis as the catalyst and the railroad as the facilitator, Martineztown became a new hub for Albuquerque society. Businesses would eventually enclose Martineztown Park to its current position, thus creating an timecaplse within the cityscape.  
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_, and Albuquerque
 
@@ -65,7 +65,7 @@ The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and l
 The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters. Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
 {% include figure.html
   class="img-center"
-  width="33%"
+  width="50%"
   caption="Lovelace Hospital overlooking Martineztown Park"
   src="images/dmartinez_Lovelace_image5.png"
 %}
@@ -75,7 +75,7 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
 Commissioned by the South Martineztown community and created by Albuquerque artist Linda DaBeau, the sculpture is a limestone winged angel standing at 25 feet tall and 16 feet wide with a bronze wrap around fountain base feature. The base depicts 42 figures and 22 buildings as a narrative to the Sisters story. Though it is situated in Martineztown Park and below the hill of Lovelace, the site itself is nestled away along the curving road of High St. enclosed by trees and flowers making it an almost hidden location within the park itself. Adobe homes beautifully line the north and west blocks maintaining its historic charm.   
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="33%"
   caption="LInda DaBeau"
   src="images/dmartinez_linda_image10.jpg"
@@ -85,6 +85,7 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
   class="pullquote"
   text="Overall I show how much the Sisters of Charity contributed to the spirituality, love of Christ and the overall growth and nurturing of the people of Martineztown and the surrounding area." %}
   
+The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. As you take a Walk around the base, the orgin of the Sister's story and their commitment to the community is told through the illustrations. Plaques with words like Hope, Temperance, and Faith finish out the surrounding local. And the last plaque, in line with the sculpture and Lovelace Hosptial assert, "In Unity There is Strength". This message defines the motto of not only *Sisters of Charity* but what they brought to the commumnity of Martineztown and Albuquerque.
 
 {% include figure.html
   class="img-right"
@@ -92,10 +93,6 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
   caption="Sisters of Charity"
   src="images/dmartinez_Base2_image9.png"
 %}
-
-The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. As you take a Walk around the base, the orgin of the Sister's story and their commitment to the community is told through the illustrations. Plaques with words like Hope, Temperance, and Faith finish out the surrounding local. And the last plaque, in line with the sculpture and Lovelace Hosptial assert, "In Unity There is Strength". This message defines the motto of not only *Sisters of Charity* but what they brought to the commumnity of Martineztown and Albuquerque.
-
-
 
 ## Why you should visit *Angelitas De Caridad* 
 Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of Albuquerque History. Though there is limited information on the sculpture itself, it represents an era in American and New Mexico history that forever changed the city, state, and country.  
