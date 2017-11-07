@@ -8,8 +8,12 @@ text="Would You Live in a High School?"
 
 ##### By Audriana McManus  
 
-![ABQhighfront1](images/ABQhighfront1.jpg "The Front of Old Albuquerque High")
-![ABQhighfront](images/ABQhighfront.jpg "The Front of Old Albuquerque High")
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="ABQ High Front"
+  src="images/ABQhighfront.jpg"
+%}
 
  School buildings may not seem like the biggest historical landmark in a city; however, they have probably seen the most life and changes through the years. When Albuquerque was established, school was not the most important thing on the agenda. Though when the city began to grow larger and larger and more saloons established themselves on the street that would eventually be called Central, Albuquerque High was created.
 
@@ -30,17 +34,30 @@ Before the idea of Albuquerque High came about, the city had to be planned. With
 
 When the first building was commisioned, it was created by an El Paso architect Henry C. Trost who designed it to face Central. Old Main was designed in the Gothic Revival style, which was mimicked by the next four buildings. The second building, the Manual Arts Building, was designed by local artist Gorge Williamson in 1927 on Arno Street. Another local architect, Louis Hesselden, was commissioned to create the last three buildings, due to New Deal funding and WPA manpower.
 
-![ABQhighcourtyard](images/ABQhighcourtyard.jpg "Albuquerque High")
+{% include figure.html
+class="img-left"
+width="50%"
+caption="ABQ High Courtyard"
+src="images/ABQhighcourtyard.jpg"
+%}
 
-![ABQhighbirdseye](images/ABQhighbirdseye.jpg "The Lofts at Albuquerque High")
 
 ### What is it Now?
 
 The school was unable to keep up with new health codes and began to fall apart. A new Albuquerque High was built only about a mile away, and Old Albuquerque was closed in 1974. The building was eventually marked as a "blighted area" by City Council and was scheduled to be bulldozed and turned into a parking lot. The Albuquerque High School Alumni Association, created in 1994, became the leaders in helping to preserve the old school. Eventually, the developer Paradign & Company was brought on to convert the campus to office space and loft apartments. The project was completed in 2002 and was so successful that the city decided to draft a master plan in 2005 to guide further revitilization to the surrounding areas of the East Downtown District. As the school was considered a historic building at this point, the school walls, chalkboards, floors, and ceilings were preserved.  
 
-![ABQhighrecent1](images/ABQhighrecent1.JPG "The Lofts at Albuquerque High")
-
-![ABQhighrecent2](images/ABQhighrecent2.jpg "The Lofts at Albuquerque High")
+{% include figure.html
+class="img-left"
+width="50%"
+caption="The Lofts at Albuquerque"
+src="images/ABQhighrecent1.jpg"
+%}
+{% include figure.html
+class="img-right"
+width="50%"
+caption="The Lofts at Albuquerque High"
+src="images/ABQhighrecent2.jpg"
+%}
 
 ### Tourist Stop?
 
