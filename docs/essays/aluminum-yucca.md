@@ -66,6 +66,9 @@ In this project, the Yucca serves as a gateway between Albuquerque and the East 
   text="Yucca serves as a gateway between Albuquerque and the East Mountains along with the Estancia Valley."
   %}
 
+
+
+
 ##### Sources
 
 -  http://www.route66news.com/2013/05/19/the-story-behind-albuquerques-big-aluminum-yucca/
