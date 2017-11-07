@@ -39,6 +39,11 @@ What exsists today in the South Valley in terms of its environment is a mix of t
 
 The Sanchez Farms Open Space serves as a public area that is centralized in the South Valley, and highlights the hybrid spatial reality of the acequias. The vast open space that sits beside the acequia is a dirt-shrub field within a basin and surrounded by trees and a circular trail. Overlooking the basin, sitting beside the acequia, is a circular terrace area with rocks around its perimeter. The terrace area and field are designed to promote the use of the space surrounding the acequia for recreational purposes and social gatherings.
 
+{% include aside.html
+  class="pullquote"
+  text="acequias of the South Valley serve the dual function of providing an beautiful recreational space for outdoor enthusiasts."
+  %}
+
 The trail running south along the acequia south from Sanchez Farms passes through a diverse range of old residential neighborhoods and lush farmlands. The trail is lined with trees throughout, which are especially beautiful in the fall months as the leaves become shades of golden yellow and red. Walking along the acequia it can be easy to forget that you are actually less than one hundred yards from major streets, intersections, and commercial shopping centers. This close proximity to commercial centers and residential neighborhoods has made the acequia popular amongst walkers, runners and bike riders.
 
 ![South Valley Acequia](images/acequia5.jpeg)
