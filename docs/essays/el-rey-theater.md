@@ -1,25 +1,47 @@
 ---
 ---
 
+{% include jumbotron.html
+title="El Rey Theater"
+image="https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater%201971_photo1.jpg?raw=true"
+text="The Historic El Rey Theater, now a nightclub!"
+%}
+
 # The Historic El Rey Theater
-***Visual_Essay_rev1***
+***Josh 'Schwaa' Bloom***
 
 https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/images/Title%20El%20Rey%20Theater_photo2.png
 # **Past & History**
 ![Historical_image2](https://i.gyazo.com/7c4b6f2542f76ceff6610e71766c2644.png)
 
-The *Historic El Rey Theater*, located in downtown Albuquerque [here](https://www.google.com/maps/place/35%C2%B005'04.9%22N+106%C2%B039'18.0%22W/@35.084681,-106.6560843,18z/data=!4m5!3m4!1s0x0:0x0!8m2!3d35.084681!4d-106.65499>), has taken on many roles over the years including a grocery store, a few different bars, various kinds of shops, but mostly a movie theater and a venue for shows. The architect, Joseph B. Burwinkle, combined his efforts with the Lembke Construction company to produce the El Rey Theater as it is today. Since 1981, the El Rey Theater building itself has solely been used to further bring art to as many people as possible in the form of musical shows. The architects in-laws, the Bachechi's, built the *Kimo Theater* which, along with the El Rey Theater is also a historical building of Albuequerque.
+
+
+The *Historic El Rey Theater*, located [here](https://www.google.com/maps/place/The+Historic+El+Rey+Theater/@35.0849752,-106.6570599,17z/data=!4m16!1m10!4m9!1m6!1m2!1s0x87220cc724858d49:0x1b073e188c728dc!2sThe+Historic+El+Rey+Theater,+Central+Avenue+Southwest,+Albuquerque,+NM!2m2!1d-106.6550065!2d35.0846877!1m1!4e1!3m4!1s0x87220cc724858d49:0x1b073e188c728dc!8m2!3d35.0846877!4d-106.6550065) in downtown Albuquerque, has taken on many roles over the course of its spatial history. including a grocery store, a few different bars, various kinds of shops, but mostly a movie theater and a venue for shows. The architect, Joseph B. Burwinkle, combined his efforts with the Lembke Construction company to produce the El Rey Theater as it is today. Since 1981, the El Rey Theater building itself has solely been used to further bring art to as many people as possible in the form of musical shows. The architect's in-laws, the Bachechi's, built the *Kimo Theater* which, along with the El Rey Theater, is also an official *historical building of Albuequerque.*
+{% include aside.html
+  class="pullquote"
+  text="From Grocery Store to Saloon & Concert Hall to Nightclub, *The El Rey Theater* has had a lively spatial history and is currently making history as one of the premier concert venues of the midwest. "
+  %}
 
 
 ## **The El Rey Today**
-The El Rey Theater building is a work of art in architecture but Movie Theaters & concert halls specifically are a wonderful medium for facilitating the spread of even more art. Many musicians spanning all of the musical genres have been invited to play for anyone available at show time in Downtown Albuquerque. The theater prides itself on having brought  world renown artists and talent to the city including internationally famous acts such as the Chicano Brothers and even more famous musicians or bands like the *Black Label Society*, a rock/punk group who is extremely well known.
-Below is a picture of an event page selling tickets to various attractions being held at the El Rey during the current month of October.
-http://albuquerque.eventful.com/venues/el-rey-theater-/V0-001-000249267-5#more-info
+The El Rey Theater functioning as a Movie Theater, or concert hall specifically, is a wonderful medium for facilitating artistic dissemination. Many musicians spanning across all the musical genres have been invited to play for anyone available to go in Downtown Albuquerque. The theater prides itself on having brought world renown artists and talent to the city including internationally famous acts from the Chicano Brothers to the Chemical Brothers and more.
+Below is a picture of a typical event flier advertising a coming attraction being held at the El Rey during the month of October, 2017.
+![Flier](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater_flier_photo5.jpg?raw=true)
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Centennial Hotel"
+  src="images/centennial-hotel.jpg"
+%}
+
 [Picture of The El Rey Theater](http://cinematreasures.org/theaters/743)
-The Street the building resides on, Central, was once the central axis of commerce in Albuquerque. This can be physically experienced in very common traffic jams that happen right outside The El Rey Theater's spatial position on this ever popular east-west street.
+The street the building resides on known as Central Ave. is the central axis of commerce in Albuquerque and is a fitting location for such a prestigeous building. The El Rey Theater's spatial position on this ever popular east-west street synergizes well with the city's commerce as it's commonly associated with good times and happy memories 
 
 ## **In Conclusion**
-Not only is The Historic El Rey Theater a physical & visual piece of art regarding the actual building but it is a whole lot more. The building itself is a historical landmark and artful in its design & physical properties but its function since its inception but especially at present brings a great deal of musical art and cultural art by providing a space and necessary equipment to world renown artists, groups, bands, djs, and actors to anyone who wishes to particiapte in the city of Albuquerque.
+Not only is The Historic El Rey Theater building bold & artistic with its featured marquee and traditional architecture but its popularity and function as a nightclub has brought an immeasurable amount of artistic audible excitement to the masses in the desert that is Albuquerque. 
+
+anyone who wishes to particiapte in the city of Albuquerque.
 https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater%20Tickets_photo4.jpg
 ![1](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater%20Tickets_photo4.jpg)
 <photo3>
