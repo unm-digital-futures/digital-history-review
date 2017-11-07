@@ -3,7 +3,7 @@
 
 {% include jumbotron.html
 title="Angelitas De Carido"
-image="images/angelitasdecaridad_image1.jpg"
+image="images/dmartinez_angelitasdecaridad_image1.jpg"
 text="Sisters of Charity Sculpture at historic Martineztown Park"
 %} 
 
@@ -11,7 +11,7 @@ text="Sisters of Charity Sculpture at historic Martineztown Park"
 ## "Angels of Charity" Sculpture at Martineztown Park
 Desiree' Martinez
 
-![SisterofCharity](images/dmartinez_AngelitasDeCaridad_image1.jpg "SisterofCharityimage")
+{% include figure.html class="img-center" width="33%" caption="AngelitasDeCaridad" src="images/dmartinez_AngelitasDeCaridad_image1.jpg" %}
 
 Encompassed by the urban sprawl of the central business district, *Martineztown Park* is a hidden gem within one of Albuquerque's oldest neighborhoods. The park is situated at the crossroads of Edith Boulevard and Dr. Martin Luther King Jr. Ave on the east side of downtown. Surrounded by Spanish Adobe homes, the historic Longfellow Elementary School, and Lovelace Hosptial, it is easy to see how this park may be overlooked by Albuquerque natives let alone tourist. However, it is once you venture into the park you begin to discover the areas rich history. 
 
