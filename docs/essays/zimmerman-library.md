@@ -1,12 +1,10 @@
 ---
 ---
 {% include jumbotron.html
-title="Essay Example"
+title="Zimmerman Library"
 image="images/BirdsEye_1886.jpg"
-text="This is where you put your catchy subtitle."
+text="University of New Mexicos Prized Possesion."
 %}
-
-# Zimmerman Library
 
 ***
 
