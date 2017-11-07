@@ -1,7 +1,11 @@
 ---
 ---
 
-# The Story Behind The Aluminum Yucca
+{% include jumbotron.html
+title="Aluminum Yucca"
+image="images/AYucca4.jpg"
+text="The Story of the Aluminum Yucca."
+%} 
 
 ### Introduction
 
