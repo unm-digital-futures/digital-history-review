@@ -1,6 +1,5 @@
 ---
 ---
-
 {% include jumbotron.html
 title="Essay Example"
 image="images/BirdsEye_1886.jpg"
