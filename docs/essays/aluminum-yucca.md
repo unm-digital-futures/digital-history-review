@@ -1,11 +1,7 @@
 ---
 ---
 
-{% include jumbotron.html
-title="Aluminum Yucca"
-image="images/AYucca4.jpg"
-text="The Story of the Aluminum Yucca."
-%} 
+{% include jumbotron.html title="Essay Example" image="images/BirdsEye_1886.jpg" text="This is where you put your catchy subtitle." %}  
 
 ### Introduction
 
