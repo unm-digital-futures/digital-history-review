@@ -1,4 +1,8 @@
 ---
+title: Parq Central Hotel
+author: Timothy Beaton
+css:
+date:
 ---
 
 {% include jumbotron.html
