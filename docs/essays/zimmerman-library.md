@@ -41,13 +41,23 @@ Zimmerman Library was built with the Spanish Pueblo style of architecture. The l
 
 At the time of Zimmerman libraries creation, President Zimmerman wanted to preserve the culture of New Mexico. Making all the buildings adobe style created a very unique environment for the university. Being one of the first buildings put up on campus helped pave the way on how future buildings would be built. John Meems also built the library big enough to fill the needs of all the students. Not making the library too big right away helped allow for renovations through out the years. This was so Zimmerman Library could grow with the university in it's pre existing space. This philosophical building style can be attributed to how pueblo buildings are upgraded according to the occupants of that space. Which came from meems days of renovating Pueblo churches. Not only is the building style with in the New Mexican culture, but also the ideology of upgrading and making a bigger library for the students Of the university. Making every aspect of the building associated with President Zimmerman’s one goal.
 
-![Zimmerman](images/Zimm4.PNG "Zimmerman Library")
+{% include figure.html
+class="img-left"
+width="50%"
+caption="Zimmerman Library"
+src="images/Zimm4.PNG"
+%}
 
 ### Current Day Zimmerman
 
 The area around Zimmerman was once a empty space. Now it's the main attraction on campus. Located right by the big court yard, its a perfect place for Meem to have envisioned what was to come for this great campus. Unfortunately, the view of the mountains are no longer visible. As the university grew so did the number of buildings on campus. Even in the year 2017, brand new modern buildings are still keeping to New Mexico's style of adobe buildings. From Zimmerman Libraries humble beginnings to now, there has been a significant amount of upgrades to this historical building. There are three floors with a basement as well. The first floor is where the most foot traffic occurs. Also including a Starbucks making the library very modern. The next two floors above are where most of the book cases are located. Along with different offices for student help and service. The basement is where a lot of the important documentation is located. Ranging any were from government documents to past dissertations. All of these extra elements is exactly what John Meem wanted for a ever expanding university.
 
-![Zimmerman](images/Zimm6.PNG "West Wing")
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Current day Zimmerman"
+  src="images/Zimm6.PNG"
+%}
 
 ### Closing Statement
 
