@@ -10,16 +10,17 @@ text="Sisters of Charity Sculpture at historic Martineztown Park"
 # *Angels of Charity* Sculpture at Martineztown Park
 Desiree' Martinez
 
-Encompassed by the urban sprawl of the central business district, *Martineztown Park* is a hidden gem within one of Albuquerque's oldest neighborhoods. The park is situated at the crossroads of Edith Boulevard and Dr. Martin Luther King Jr. Ave on the east side of downtown. Surrounded by Spanish Adobe homes, the historic Longfellow Elementary School, and Lovelace Hosptial, it is easy to see how this park may be overlooked by Albuquerque natives let alone tourist. However, it is once you venture into the park you begin to discover the areas rich history. 
-
-Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you are transported back to the city's orgin through a series of displays that chronicle Native orgin, Spanish conquest, and community intergration. Plaques of Native trees, plants, and animals are distributed every few feet trying to giving a sense of what the landscape would've looked like prior to European contact. And once you reach the center of the park, laughter from the Longfellow Elementary School and noise from the busy streets can be heard. However, continue east into the park and you will experience quite and tranquility.  
-
 {% include figure.html
   class="img-center"
   width="50%"
   caption="Angelitas De Caridad"
   src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
 %}
+
+Encompassed by the urban sprawl of the central business district, *Martineztown Park* is a hidden gem within one of Albuquerque's oldest neighborhoods. The park is situated at the crossroads of Edith Boulevard and Dr. Martin Luther King Jr. Ave on the east side of downtown. Surrounded by Spanish Adobe homes, the historic Longfellow Elementary School, and Lovelace Hosptial, it is easy to see how this park may be overlooked by Albuquerque natives let alone tourist. However, it is once you venture into the park you begin to discover the areas rich history. 
+
+Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you are transported back to the city's orgin through a series of displays that chronicle Native orgin, Spanish conquest, and community intergration. Plaques of Native trees, plants, and animals are distributed every few feet trying to giving a sense of what the landscape would've looked like prior to European contact. And once you reach the center of the park, laughter from the Longfellow Elementary School and noise from the busy streets can be heard. However, continue east into the park and you will experience quite and tranquility.  
+
 
 {% include figure.html
   class="img-left"
@@ -65,7 +66,7 @@ The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and l
 The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters. Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
 {% include figure.html
   class="img-center"
-  width="50%"
+  width="60%"
   caption="Lovelace Hospital overlooking Martineztown Park"
   src="images/dmartinez_Lovelace_image5.png"
 %}
