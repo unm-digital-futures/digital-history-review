@@ -2,7 +2,7 @@
 ---
 {% include jumbotron.html
 title="Zimmerman Library"
-image="images/BirdsEye_1886.jpg"
+image="images/Zimm2.PNG"
 text="University of New Mexicos Prized Possesion."
 %}
 
