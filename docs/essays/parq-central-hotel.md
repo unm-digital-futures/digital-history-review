@@ -35,7 +35,7 @@ Walk through the same halls that railway workers and patients did with modern re
   src="images/TBImage3.png"
 %}
 
-The Parq Central Hotel is now a source of economic stability through the steady flow of tourists. However, it was originally known as the Santa Fe Railway Hospital which was [created out of necessity](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=65) in 1926 in order to [treat injured railway workers](http://www.kansasmemory.org/item/227818)[^Injured-workers]. Three buildings were created: the hospital, the physician's residence, and the boiler building. Later, it would be repurposed as a mental institution for children before it would be considered a [historic site](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks).
+The Parq Central Hotel is now a source of economic stability through the steady flow of tourists. However, it was originally known as the Santa Fe Railway Hospital which was [created out of necessity](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=65) in 1926 in order to [treat injured railway workers](http://www.kansasmemory.org/item/227818)[^Injured-workers]. Three buildings were created: the hospital, the physician's residence, and the boiler building. Later, it would be repurposed as a mental institution for children before it would be considered a [historic site](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks)[^landmark].
 
 ## Medical Treatment
 
@@ -103,6 +103,7 @@ The Santa Fe Railway Hospital as well as the Memorial Hospital's original purpos
 The Parq Central Hotel did serve its purpose in boosting the economy by using historical memory, modern perspective [(renovation)](http://www.studioswarch.com/clone-hotel-parq-central), and an exotic appeal to successfully promote tourism. The historical memory allows guests to visit a historical landmark that provided a vital service during [railroad construction westward](http://www.downtownacd.org/wp-content/uploads/2013/08/Central-Downtown-History-Architecture-.pdf). Modern perspective combined historical memory with a modern touch of comfort to create a pleasing experience. An exotic appeal is the signature brand of New Mexican culture by highlighting local features, creating an oasis in the desert.
 
 [^Injured-workers]:[Injured railway workers](http://www.kansasmemory.org/item/227818) 
+[^Landmark]:[Historic landmark](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks)
 
 ## References
 - http://www.bbc.com/travel/story/20130520-a-hospital-turned-hotel-in-new-mexico
