@@ -18,7 +18,7 @@ Jerome T. Mondragon
 
 Figure 1. Here 5- You Are Here
 
-The “You Are Here” art project is the perfect place where one can relax and reflect on their surroundings. This artwork comprises of five colorful windows and is a representation of Albuquerque’s Ventanas Ranch community. The purpose of this artwork is to make the visitor slowdown from their bustling life and appreciate the calm environment. [^source] 
+The “You Are Here” art project is the perfect place where one can relax and reflect on their surroundings. This artwork comprises of five colorful windows and is a representation of Albuquerque’s Ventanas Ranch community. The purpose of this artwork is to make the visitor slowdown from their bustling life and appreciate the calm environment. [^source1] 
 
 The artwork was designed and created by Rachel Stevens. The project was constructed by many groups including the Albuquerque Public Art Program, Dona Ana Community College, and New Mexico State University. The artwork was dedicated in April 13, 2013 at exactly 2:00p.m. [^source] ("Dedication Ceremony," n.d.). Rachel Stevens is a distinguished professor from New Mexico State University and is a sculpture instructor at the university. She learned ancient copper casting techniques during her extensive travels in Nepal. [^source] 
 ### Location
