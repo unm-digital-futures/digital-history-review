@@ -18,7 +18,7 @@ The Simms Building is cool. It's also big.
 ## Space Around the Simms
 {% include figure.html class="img-right" width="33%" caption="Simms Building" src="images/simms-1.jpg" %}
 
-The Simms building can be seen from nearby. Notice the posts supporting the entire side of the building. That looks hard. There are lots of windows. Everyone likes windows. [^source]
+The Simms building can be seen from nearby. Notice the posts supporting the entire side of the building. That looks hard. There are lots of windows. Everyone likes windows. [^source] For a general overview, please consult its [Wikipedia Page](https://en.wikipedia.org/wiki/Simms_Building).
 
 
 ## Changing Spaces
