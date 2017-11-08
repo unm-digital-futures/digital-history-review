@@ -71,19 +71,19 @@ the artwork.  It also makes viewing the artwork from the opposite side slightly 
 
 [^source]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
 
-[^source]: "Dedication Ceremony for 'You Are Here' by Rachel Stevens." *City of Albuquerque*. 2017. 
+[^source2]: "Dedication Ceremony for 'You Are Here' by Rachel Stevens." *City of Albuquerque*. 2017. 
 https://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens
 
-[^source]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
+[^source3]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
 
-[^source]: Board of Regents, New Mexico State University. "Rachel Stevens" *New Mexico State University*. 2016.
+[^source4]: Board of Regents, New Mexico State University. "Rachel Stevens" *New Mexico State University*. 2016.
 https://artdepartment.nmsu.edu/rachel-stevens/
 
-[^source]: "Dedication Ceremony for 'You Are Here' by Rachel Stevens." *City of Albuquerque*. 2017. https://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens
+[^source5]: "Dedication Ceremony for 'You Are Here' by Rachel Stevens." *City of Albuquerque*. 2017. https://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens
 
-[^source]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
+[^source6]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
 
-[^source]: "Ventana Ranch Community Park Jumper Map." *City of Albuquerque*. 2017. 
+[^source7]: "Ventana Ranch Community Park Jumper Map." *City of Albuquerque*. 2017. 
 https://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view
 
 
