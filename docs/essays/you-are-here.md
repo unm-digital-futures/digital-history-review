@@ -27,7 +27,7 @@ The artwork was designed and created by Rachel Stevens. The project was construc
 The art project is located in the Albuquerque's Westside near Universe and Irving Road. It's directly located at the entrance of Ventanas Ranch Park [^source] ("You Are Here," n.d.). It's a fitting location because “ventana” is actually the Spanish word for “window.” Access to this location is quite difficult because of its distant location. This artwork can easily be overlooked while driving on the street if you don't know what to look for.  
 
 ### Appearance
-The artwork is comprised of five windows but each is distinct in appearance. They're all made of steel and are painted in blue or green hues [^source]("Dedication Ceremony," n.d.). The first window is green and the pane appears to held up by a soda can. It also has a charming bird located on the top-right of the window.
+The artwork is comprised of five windows but each is distinct in appearance. They're all made of steel and are painted in blue or green hues [^source] ("Dedication Ceremony," n.d.). The first window is green and the pane appears to held up by a soda can. It also has a charming bird located on the top-right of the window.
 
 {% include figure.html
   class="img-center"
@@ -71,12 +71,12 @@ the artwork.  It also makes viewing the artwork from the opposite side slightly 
 
 [^source]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
 
-[^source2]: "Dedication Ceremony for 'You Are Here' by Rachel Stevens." *City of Albuquerque*. 2017. 
+[^source]: "Dedication Ceremony for 'You Are Here' by Rachel Stevens." *City of Albuquerque*. 2017. 
 https://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens
 
-[^source3]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
+[^source]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
 
-[^source4]: Board of Regents, New Mexico State University. "Rachel Stevens" *New Mexico State University*. 2016.
+[^source]: Board of Regents, New Mexico State University. "Rachel Stevens" *New Mexico State University*. 2016.
 https://artdepartment.nmsu.edu/rachel-stevens/
 
 [^source]: "Dedication Ceremony for 'You Are Here' by Rachel Stevens." *City of Albuquerque*. 2017. https://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens
