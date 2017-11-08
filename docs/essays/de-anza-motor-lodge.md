@@ -1,5 +1,5 @@
 ---
--title: De Anza Motor Lodge
+title: De Anza Motor Lodge
 author: Angela Zielinski
 css: deanzamotorlodge.css
 date: 2017-11-02
