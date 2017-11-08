@@ -1,12 +1,9 @@
-
-
 ---
 title: You Are Here
 author: Jerome T. Mondragon
 css: jerome.css
 date: 2017-11-07
 ---
-
 
 {% include jumbotron.html
 title="You Are Here"
