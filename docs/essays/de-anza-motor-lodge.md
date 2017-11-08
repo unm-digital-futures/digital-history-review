@@ -3,7 +3,7 @@ title: De Anza Motor Lodge
 author: Angela Zielinski
 css: deanzamotorlodge.css
 date: 2017-11-02
---
+---
 {% include jumbotron.html
 title="The De Anza Motor Lodge"
 image="images/DeAnza2.jpg"
