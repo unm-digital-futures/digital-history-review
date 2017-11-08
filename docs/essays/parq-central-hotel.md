@@ -23,7 +23,7 @@ text="Convenience & Luxury"
   text="Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life."
   %}
   
-A scenic view of the city of Albuquerque welcomes  anyone from the former mental institution's Apothecary Lounge, a place where history and modern [luxury](http://www.hvlinteriors.com/single_gallery_HPC.html#.WfEJFBOPIlU) meet. [The Parq Central Hotel](http://hotelparqcentral.com) was preserved for its significance in offering medical services for railway employees during its time as the Santa Fe Railway hospital.
+A scenic view of the city of Albuquerque welcomes  anyone from the former mental institution's Apothecary Lounge, a place where history and modern [luxury](http://www.hvlinteriors.com/single_gallery_HPC.html#.WfEJFBOPIlU) meet[^Interior]. [The Parq Central Hotel](http://hotelparqcentral.com) was preserved for its significance in offering medical services for railway employees during its time as the Santa Fe Railway hospital.
 Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life.
 
 ## Background
@@ -102,7 +102,7 @@ The Santa Fe Railway Hospital as well as the Memorial Hospital's original purpos
 
 The Parq Central Hotel did serve its purpose in boosting the economy by using historical memory, modern perspective [(renovation)](http://www.studioswarch.com/clone-hotel-parq-central), and an exotic appeal to successfully promote tourism. The historical memory allows guests to visit a historical landmark that provided a vital service during [railroad construction westward](http://www.downtownacd.org/wp-content/uploads/2013/08/Central-Downtown-History-Architecture-.pdf). Modern perspective combined historical memory with a modern touch of comfort to create a pleasing experience. An exotic appeal is the signature brand of New Mexican culture by highlighting local features, creating an oasis in the desert.
 
-<a href="http://hotelparqcentral.com">Parq Central Hotel</a>
+[^Interior]:[Interior designs](http://www.hvlinteriors.com/single_gallery_HPC.html#.WfEJFBOPIlU) 
 
 ## References
 - http://www.bbc.com/travel/story/20130520-a-hospital-turned-hotel-in-new-mexico
