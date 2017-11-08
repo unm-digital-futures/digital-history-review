@@ -4,13 +4,14 @@ Author: Christopher Feather
 CSS: feather.css
 Date: 11/08/2017
 ---
-{% include jumbotron.html title="The Whittlesey House" image="images/whit2.jpg" text="The Log Cabin in the Desert" %}
+{% include jumbotron.html title="The Whittlesey House" image="images/whit6.jpg" text="The Log Cabin in the Desert" %}
 <H1> The Whittlesey House </H1>
 <H2> The Log Cabin in the Desert </H2>
 The Whittlesey House is an odd gem amongst the masses of pueblo and ranch style homes in Albuquerque. This home was built by an belonged to Charles Whittlesey who was the Commander of the Lost Battalion in World War 1. Whittlesey gained world-wide recognition in October 1918 when the companies of his battalion, which were part of a campaign against the Germans in the Argonne Forest, were cut off for several days without adequate supplies of food or ammunition. Eventually relief came and the battalion was rescued.
 {% include figure.html
   class="img-center"
-  width="100%"
+  width="40%"
+  height="40%"
   caption="Charles Whittlesey WW1"
   src="images/whit1.jpg"%}
 The Whittlesey House was designed and built by Charles Whittlesey as his family residence in 1903 on the western edge of the Highland east of Albuquerque. It is a three-story frame structure designed after a Norwegian villa. Low-pitch roofs with exposed log fronting, rough log-cut facades and a wide porch, which surrounds its eastern rooms, characterize the house.
