@@ -1,7 +1,7 @@
 ---
 -title: De Anza Motor Lodge
 author: Angela Zielinski
-css: gibbs.css
+css: deanzamotorlodge.css
 date: 2017-11-02
 --
 {% include jumbotron.html
