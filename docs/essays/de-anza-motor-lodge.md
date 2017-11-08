@@ -24,7 +24,7 @@ The motor lodge itself represented a work of art. Before building the motor lodg
   width="45%"
   caption="1957"
   src="images/Picturefrom1957.jpg"%}
-Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mural at the lodge to represent the presence of Zuni culture at the motor lodge. He had created a mural in the basement of the conference room at the De Anza Motor lodge. The mural repsresents the Zuni's winter *shalako* ceremony line. The mural follows east to west, symobolically. The leading procession *Shulawitsi*, meaning The Little Fire God, ending with the six *Salimopia*, meaning the gaurdians of the six cardnial directions of Zuni cosmology. The representative ideology of the Kachina's of the Zuni tribe portray beauty, color, and form of Zuni ceremony. [^source]
+Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mural at the lodge to represent the presence of Zuni culture at the motor lodge. He had created a mural in the basement of the conference room at the De Anza Motor lodge. The mural repsresents the Zuni's winter *shalako* ceremony line. The mural follows east to west, symobolically. The leading procession *Shulawitsi*, meaning The Little Fire God, ending with the six *Salimopia*, meaning the gaurdians of the six cardnial directions of Zuni cosmology. The representative ideology of the Kachina's of the Zuni tribe portray beauty, color, and form of Zuni ceremony. [^source] 
 ## The Architecture & Location
 The Spanish and Pueblo inspired architecture was a sole reflection of the vast culture Albuquerque had to offer. Adobe Pueblo style with arches and tight corners are shown in the structure of the De Anza. Later on in the 1950's, a coffee shop and gift shop were added to the motor lodge along with several other buildings. In 1957 a swimming pool was added to the two-point-five acre lot along Route 66. The original structure of the motor lodge was a two-story building and several one story building in a U-shape. The U-Shape structure alloswed customers to park right in front of their rooms creating a more convenient stay.
 {% include figure.html
@@ -32,7 +32,7 @@ The Spanish and Pueblo inspired architecture was a sole reflection of the vast c
   width="75%"
   caption="The hidden art in the basement of the De Anza Motor Lodge."
   src="images/TheMural.jpg"%}
-The incorporation of both Spanish and Pueblo inspiration made the De Anza Motor Lodge different than the surrounding motor lodges. The influence not only came from the culture of the state and city but of the art from the Zuni tribe. The surroudning area lacked the cultural influence that the De Anza had. Severing the De Anza from the surrounding was the fact that it sat on it's own property and did not share it with any other busienesses other than the ones created by founder, Wallace, in an attempt to incorporate more into the motor lodge.
+The incorporation of both Spanish and Pueblo inspiration made the De Anza Motor Lodge different than the surrounding motor lodges. The influence not only came from the culture of the state and city but of the art from the Zuni tribe. The surroudning area lacked the cultural influence that the De Anza had. Severing the De Anza from the surrounding was the fact that it sat on it's own property and did not share it with any other businesses other than the ones created by founder, Wallace, in an attempt to incorporate more into the motor lodge.
 {% include aside.html
   class="pullquote"
   text="A.R.T.(Albuquerque Rapid Transit) is an attempt to redefine what Route 66 was. By creating a modernized transit system Route 66 no longer represents the simplistic values of community. "
@@ -56,5 +56,5 @@ In 2004, the De Anza Motor Lodge was placed on The National Register of Historic
   caption="The abandoned motor lodge"
   src="images/TheDeAnzaNow.jpg"%}
 #### References
-1.http://www.nmcomreal.com/housingresources/city-deanza/files/Files-DeAnzaHistoricNotes.pdf
-2.https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html
+1.[PDF File] (http://www.nmcomreal.com/housingresources/city-deanza/files/Files-DeAnzaHistoricNotes.pdf)
+2.[National Park Service] (https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html)
