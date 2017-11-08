@@ -23,7 +23,7 @@ text="Convenience & Luxury"
   text="Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life."
   %}
   
-A scenic view of the city of Albuquerque welcomes  anyone from the former mental institution's Apothecary Lounge, a place where history and modern luxury meet. [The Parq Central Hotel](http://hotelparqcentral.com) was preserved for its significance in offering medical services for railway employees during its time as the Santa Fe Railway hospital. Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life.
+A scenic view of the city of Albuquerque welcomes  anyone from the former mental institution's Apothecary Lounge, a place where history and modern [luxury](http://www.hvlinteriors.com/single_gallery_HPC.html#.WfEJFBOPIlU) meet. [The Parq Central Hotel](http://hotelparqcentral.com) was preserved for its significance in offering medical services for railway employees during its time as the Santa Fe Railway hospital. Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life.
 
 ## Background
 
@@ -34,7 +34,7 @@ A scenic view of the city of Albuquerque welcomes  anyone from the former mental
   src="images/TBImage3.png"
 %}
 
-The Parq Central Hotel is now a source of economic stability through the steady flow of tourists. However, it was originally known as the Santa Fe Railway Hospital which was created out of necessity in 1926 in order to treat injured railway workers. Three buildings were created: the hospital, the physician's residence, and the boiler building. Later, it would be repurposed as a mental institution for children before it would be considered a historic site.
+The Parq Central Hotel is now a source of economic stability through the steady flow of tourists. However, it was originally known as the Santa Fe Railway Hospital which was [created out of necessity](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=65) in 1926 in order to [treat injured railway workers](http://www.kansasmemory.org/item/227818). Three buildings were created: the hospital, the physician's residence, and the boiler building. Later, it would be repurposed as a mental institution for children before it would be considered a [historic site](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks).
 
 ## Medical Treatment
 
@@ -45,7 +45,7 @@ The Parq Central Hotel is now a source of economic stability through the steady 
   src="images/TBImage1.png"
 %}
 
-The Santa Fe Railway Hospital as well as the Memorial Hospital served their purpose by redefining the space in which it occupied. A plot of dirt transformed into medical assistance for railway workers and medical treatment for mentally ill children. Beyond this however, the cultural perception and meaning of the space literally began to create a community around it; later supporting another mode of transportation when the freeway and streets were built around it marking its importance.
+The [Santa Fe Railway Hospital](http://www.bbc.com/travel/story/20130520-a-hospital-turned-hotel-in-new-mexico) as well as the Memorial Hospital served their purpose by redefining the space in which it occupied. A plot of dirt transformed into medical assistance for railway workers and medical treatment for mentally ill children. Beyond this however, the cultural perception and meaning of the space literally began to create a community around it; later supporting another mode of transportation when the freeway and streets were built around it marking its importance.
 
 ## Architecture
 
@@ -61,7 +61,7 @@ The Santa Fe Railway Hospital as well as the Memorial Hospital served their purp
   text="...considered elegant, up-scale, and primarily used for designing mansions or public buildings."
   %}
   
-The chosen Italianate architecture style was popular from 1840-1890 reminiscent of the Italian Renaissance; this style was considered elegant, up-scale, and primarily used for designing mansions or public buildings. Recently, renovations to refurbish Memorial Hospital into the Parq Central Hotel consisted of reconditioning and reinstalling the original windows, maintaining the original interior doors (hospital building), utilizing the original buildings, and the addition of exterior suites.
+The chosen [Italianate architecture style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/late-19th-century-revival.html) was popular from 1840-1890 reminiscent of the Italian Renaissance; this style was considered elegant, up-scale, and primarily used for designing mansions or public buildings. Recently, renovations to refurbish Memorial Hospital into the Parq Central Hotel consisted of reconditioning and reinstalling the original windows, maintaining the original interior doors (hospital building), utilizing the original buildings, and the addition of exterior suites.
 
 ## Around the Hotel
 
@@ -72,7 +72,7 @@ The chosen Italianate architecture style was popular from 1840-1890 reminiscent 
   src="images/TBImage8.png"
 %}
   
-Parq Central hotel is conveniently located next to the freeway for fast travel, Highland's Park for a relaxing afternoon walk, and has many local businesses close by. The Albuquerque Press Club is less than a five minute walk away where membership allows you to have ownership of the club, discounts on drinks, and use of the club for private or public social gatherings.
+Parq Central hotel is conveniently located next to the freeway for fast travel, Highland's Park for a relaxing afternoon walk, and has many local businesses close by. [The Albuquerque Press Club](http://www.abqpressclub.com) is less than a five minute walk away where membership allows you to have ownership of the club, discounts on drinks, and use of the club for private or public social gatherings.
 
 ## What is Space?
 
@@ -99,7 +99,7 @@ The Santa Fe Railway Hospital as well as the Memorial Hospital's original purpos
   src="images/TBImage4.png"
 %}
 
-The Parq Central Hotel did serve its purpose in boosting the economy by using historical memory, modern perspective (renovation), and an exotic appeal to successfully promote tourism. The historical memory allows guests to visit a historical landmark that provided a vital service during railroad construction westward. Modern perspective combined historical memory with a modern touch of comfort to create a pleasing experience. An exotic appeal is the signature brand of New Mexican culture by highlighting local features, creating an oasis in the desert.
+The Parq Central Hotel did serve its purpose in boosting the economy by using historical memory, modern perspective [(renovation)](http://www.studioswarch.com/clone-hotel-parq-central), and an exotic appeal to successfully promote tourism. The historical memory allows guests to visit a historical landmark that provided a vital service during [railroad construction westward](http://www.downtownacd.org/wp-content/uploads/2013/08/Central-Downtown-History-Architecture-.pdf). Modern perspective combined historical memory with a modern touch of comfort to create a pleasing experience. An exotic appeal is the signature brand of New Mexican culture by highlighting local features, creating an oasis in the desert.
 
 <a href="http://hotelparqcentral.com">Parq Central Hotel</a>
 
