@@ -51,7 +51,7 @@ The only art that isn't able to be displayed or sold is the mural in the basemen
 ### De Anza Motor Lodge Today
 In 2004, the De Anza Motor Lodge was placed on The National Register of Historic Places. Owned by the city of Albuquerque, several community based businesses and Route 66 restorators are working endlessly to revive and restore all that Route 66 was in a classic manner. The De Anza Motor Lodge plays a major role in restoring what Route 66 was by being a landmark for culture. Redesigning the motor lodge owuld begin to restore it's rich hisotry and life. The De Anza Motor Lodge is currently under renovation to better serve it's history.
 {% include figure.html
-  class="img-left"
+  class="img-center"
   width="30%"
   caption="The abandoned motor lodge"
   src="images/TheDeAnzaNow.jpg"%}
