@@ -20,14 +20,14 @@ Figure 1. Here 5- You Are Here
 
 The “You Are Here” art project is the perfect place where one can relax and reflect on their surroundings. This artwork comprises of five colorful windows and is a representation of Albuquerque’s Ventanas Ranch community. The purpose of this artwork is to make the visitor slowdown from their bustling life and appreciate the calm environment. [^source]  ("You are Here, 2011-2016).
 
-The artwork was designed and created by Rachel Stevens. The project was constructed by many groups including the Albuquerque Public Art Program, Dona Ana Community College, and New Mexico State University. The artwork was dedicated in April 13, 2013 at exactly 2:00p.m. [^source] ("Dedication Ceremony," n.d.). Rachel Stevens is a distinguished professor from New Mexico State University and is a sculpture instructor at the university. She learned ancient copper casting techniques during her extensive travels in Nepal [^source] ("Rachel Stevens", 2016).
+The artwork was designed and created by Rachel Stevens. The project was constructed by many groups including the Albuquerque Public Art Program, Dona Ana Community College, and New Mexico State University. The artwork was dedicated in April 13, 2013 at exactly 2:00p.m. [^source2] ("Dedication Ceremony," n.d.). Rachel Stevens is a distinguished professor from New Mexico State University and is a sculpture instructor at the university. She learned ancient copper casting techniques during her extensive travels in Nepal [^source3] ("Rachel Stevens", 2016).
 
 ### Location
 
-The art project is located in the Albuquerque's Westside near Universe and Irving Road. It's directly located at the entrance of Ventanas Ranch Park [^source] ("You Are Here," n.d.). It's a fitting location because “ventana” is actually the Spanish word for “window.” Access to this location is quite difficult because of its distant location. This artwork can easily be overlooked while driving on the street if you don't know what to look for.  
+The art project is located in the Albuquerque's Westside near Universe and Irving Road. It's directly located at the entrance of Ventanas Ranch Park [^source4] ("You Are Here," n.d.). It's a fitting location because “ventana” is actually the Spanish word for “window.” Access to this location is quite difficult because of its distant location. This artwork can easily be overlooked while driving on the street if you don't know what to look for.  
 
 ### Appearance
-The artwork is comprised of five windows but each is distinct in appearance. They're all made of steel and are painted in blue or green hues [^source]("Dedication Ceremony," n.d.). The first window is green and the pane appears to held up by a soda can. It also has a charming bird located on the top-right of the window.
+The artwork is comprised of five windows but each is distinct in appearance. They're all made of steel and are painted in blue or green hues [^source5]("Dedication Ceremony," n.d.). The first window is green and the pane appears to held up by a soda can. It also has a charming bird located on the top-right of the window.
 
 {% include figure.html
   class="img-center"
