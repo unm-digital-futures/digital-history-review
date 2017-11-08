@@ -2,7 +2,7 @@
 title: Parq Central Hotel
 author: Timothy Beaton
 css: beaton.css
-date:2017-11-08
+date: 2017-11-08
 ---
 
 {% include jumbotron.html
