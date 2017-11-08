@@ -29,7 +29,7 @@ A scenic view of the city of Albuquerque welcomes  anyone from the former mental
 
 {% include figure.html
   class="img-right"
-  width="60%"
+  width="30%"
   caption="Santa Fe Railway Hospital 1926-1982."
   src="images/TBImage3.png"
 %}
