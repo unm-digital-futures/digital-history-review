@@ -44,7 +44,7 @@ The second window is blue and has a pointed archway. It also has several window 
   class="pullquote"
   text="The purpose of this design is to frame many points of view for the visitor which includes the Sandia Mountains, the park playground, or the nearby shopping center."  %}
   
-The artwork is perfectly located in a quiet, secluded, and open environment. The colorful artwork compliments the bright green trees and the pristine blue sky.  The artwork also does a good job in reflecting the harmony and tranquility of the environment. Each window is mounted on a concrete slabs which serve as seating for visitors. The windows are all arranged in a concave manner. The purpose of this design is to frame many points of view for the visitor which includes the Sandia Mountains, the park playground, or the nearby shopping center. Seating is encouraged at its base so that the visitor can observe and appreciate their surroundings. [^source7]
+The artwork is perfectly located in a quiet, secluded, and open environment. The colorful artwork compliments the bright green trees and the pristine blue sky.  The artwork also does a good job in reflecting the harmony and tranquility of the environment. Each window is mounted on a concrete slabs which serve as seating for visitors. The windows are all arranged in a concave manner. The purpose of this design is to frame many points of view for the visitor which includes the Sandia Mountains, the park playground, or the nearby shopping center. Seating is encouraged at its base so that the visitor can observe and appreciate their surroundings. [^source6]
 
 {% include figure.html
   class="img-center"
@@ -66,6 +66,16 @@ the artwork.  It also makes viewing the artwork from the opposite side slightly 
   caption="Figure 4. Here 7-Blocking trees and light post"
   src="images/here7.jpg" %}
 
+### Figures
+
+Figure 1. Mondragon, Jerome T., *Here 5*. 2017. Digital Image. Albuquerque, NM.
+
+Figure 2. Mondragon, Jerome T., *Here 2*. 2017. Digital Image. Albuquerque, NM.
+
+Figure 3. Mondragon, Jerome T., *Here 1*. 2017. Digital Image. Albuquerque, NM.
+
+Figure 4. Mondragon, Jerome T., *Here 7*. 2017. Digital Image. Albuquerque, NM.
+
 ### Sources
 
 [^source1]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
@@ -85,13 +95,3 @@ https://artdepartment.nmsu.edu/rachel-stevens/
 [^source7]: "Ventana Ranch Community Park Jumper Map." *City of Albuquerque*. 2017. 
 https://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view
 
-
-### Figures
-
-Figure 1. Mondragon, Jerome T., *Here 5*. 2017. Digital Image. Albuquerque, NM.
-
-Figure 2. Mondragon, Jerome T., *Here 2*. 2017. Digital Image. Albuquerque, NM.
-
-Figure 3. Mondragon, Jerome T., *Here 1*. 2017. Digital Image. Albuquerque, NM.
-
-Figure 4. Mondragon, Jerome T., *Here 7*. 2017. Digital Image. Albuquerque, NM.
