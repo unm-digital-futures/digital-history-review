@@ -41,7 +41,7 @@ The De Anza Motor Lodge sat encased by four streets, Central and Copper running 
 The De Anza Motor Lodge sits on the same property that it was built on. The foundation in crumbles, the paint peeling, and the prpoperty guarded. Central, Route 66, ranges from a more modern to poverty stricken area. There ranges from thrift shops to modern shops to tents from homeless people. The motel sits within a mile of the University of New Mexico, which creates the surrounding neighborhood to be extremely diverse. Sitting next to it is a bank and on the other is shoe repair man store. Across from it lie a bar and a Thai resturant, a much different community than in it's prime.
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="35%"
   caption="Map of the De Anza in the 50's"
   src="images/MapofDeAnza.png"%}
 ## The Fall Out Of The De Anza Motor Lodge
