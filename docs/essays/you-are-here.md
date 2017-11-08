@@ -71,12 +71,12 @@ the artwork.  It also makes viewing the artwork from the opposite side slightly 
 
 [^source]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
 
-[^source 2]: "Dedication Ceremony for 'You Are Here' by Rachel Stevens." *City of Albuquerque*. 2017. 
+[^source]: "Dedication Ceremony for 'You Are Here' by Rachel Stevens." *City of Albuquerque*. 2017. 
 https://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens
 
-[^source 3]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
+[^source]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
 
-[^source4]: Board of Regents, New Mexico State University. "Rachel Stevens" *New Mexico State University*. 2016.
+[^source]: Board of Regents, New Mexico State University. "Rachel Stevens" *New Mexico State University*. 2016.
 https://artdepartment.nmsu.edu/rachel-stevens/
 
 [^source]: "Dedication Ceremony for 'You Are Here' by Rachel Stevens." *City of Albuquerque*. 2017. https://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens
@@ -86,14 +86,6 @@ https://artdepartment.nmsu.edu/rachel-stevens/
 [^source]: "Ventana Ranch Community Park Jumper Map." *City of Albuquerque*. 2017. 
 https://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view
 
-"You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
-
-Board of Regents, New Mexico State University. "Rachel Stevens" *New Mexico State University*. 2016.
-https://artdepartment.nmsu.edu/rachel-stevens/
-
-"Dedication Ceremony for 'You Are Here' by Rachel Stevens." *City of Albuquerque*. 2017. https://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens
-
-"Ventana Ranch Community Park Jumper Map." *City of Albuquerque*. 2017. https://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view
 
 ### Figures
 
