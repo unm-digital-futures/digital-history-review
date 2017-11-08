@@ -23,9 +23,10 @@ text="Convenience & Luxury"
   text="Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life."
   %}
   
-A scenic view of the city of Albuquerque welcomes  anyone from the former mental institution's Apothecary Lounge, a place where history and modern [luxury](http://www.hvlinteriors.com/single_gallery_HPC.html#.WfEJFBOPIlU) meet. [The Parq Central Hotel](http://hotelparqcentral.com) was preserved for its significance in offering medical services for railway employees during its time as the Santa Fe Railway hospital. Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life.
+A scenic view of the city of Albuquerque welcomes  anyone from the former mental institution's Apothecary Lounge, a place where history and modern [luxury](http://www.hvlinteriors.com/single_gallery_HPC.html#.WfEJFBOPIlU) meet. [The Parq Central Hotel](http://hotelparqcentral.com) was preserved for its significance in offering medical services for railway employees during its time as the Santa Fe Railway hospital.
+Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life.
 
-<h2>Background</h2>
+## Background
 
 {% include figure.html
   class="img-right"
