@@ -19,14 +19,14 @@ The Whittlesey House was designed and built by Charles Whittlesey as his family 
 The house did have several owners after Whittlesey passed away and is now home to the Albuquerque Press Club. The Press Club only recently opened its doors to member of the public, thus dissipating some of the mystery of this log cabin in the desert. Under the ownership of the APC many upgrades have been made to the property to ensure its safety for any guests that come through the door. These renovation include: new NW porch foundations, evaporative cooling, new front room ceiling, and a new roof to name a few things.
 {% include figure.html
   class="img-left"
-  width="60%"
-  height="60%"
+  width="45%"
+  height="45%"
   caption="The original pourch"
   src="images/whit4.jpg"%}
  {% include figure.html
   class="img-right"
-  width="60%"
-  height="60%"
+  width="45%"
+  height="45%"
   caption="Remodeling the Pourch"
   src="images/whit5.jpg"%}
 The APC has taken very good care of this log cabin in the desert as shown on google maps, it is constantly under improvement.
