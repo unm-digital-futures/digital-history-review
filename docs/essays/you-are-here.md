@@ -69,7 +69,7 @@ the artwork.  It also makes viewing the artwork from the opposite side slightly 
 
 ### Sources
 
-[^source]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
+[^source1]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
 
 [^source2]: "Dedication Ceremony for 'You Are Here' by Rachel Stevens." *City of Albuquerque*. 2017. 
 https://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens
