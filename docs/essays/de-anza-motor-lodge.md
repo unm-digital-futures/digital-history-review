@@ -56,7 +56,8 @@ In 2004, the De Anza Motor Lodge was placed on The National Register of Historic
   caption="The abandoned motor lodge"
   src="images/TheDeAnzaNow.jpg"%}
 #### References
-1.[PDF File] (http://www.nmcomreal.com/housingresources/city-deanza/files/Files-DeAnzaHistoricNotes.pdf)
-2.[National Park Service] (https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html)
+1. [PDF File](http://www.nmcomreal.com/housingresources/city-deanza/files/Files-DeAnzaHistoricNotes.pdf)
+2. [National Park Service](https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html)
 #### Footnotes
 [^source]: Zuni Culture 
+[^source]: Who owns the De Anza, the City of Albuquerque.
