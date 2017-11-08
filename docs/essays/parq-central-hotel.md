@@ -11,6 +11,13 @@ image="images/TBImage2.png"
 text="Convenience & Luxury"
 %}
 
+{% include figure.html
+  class="img-right"
+  width="60%"
+  caption="View from the Apothecary Lounge."
+  src="images/TBImage7.png"
+%}
+
 {% include aside.html
   class="pullquote"
   text="Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life."
