@@ -18,16 +18,15 @@ Jerome T. Mondragon
 
 Figure 1. Here 5- You Are Here
 
-The “You Are Here” art project is the perfect place where one can relax and reflect on their surroundings. This artwork comprises of five colorful windows and is a representation of Albuquerque’s Ventanas Ranch community. The purpose of this artwork is to make the visitor slowdown from their bustling life and appreciate the calm environment. [^source] ("You are Here, 2011-2016).
+The “You Are Here” art project is the perfect place where one can relax and reflect on their surroundings. This artwork comprises of five colorful windows and is a representation of Albuquerque’s Ventanas Ranch community. The purpose of this artwork is to make the visitor slowdown from their bustling life and appreciate the calm environment. [^source] 
 
-The artwork was designed and created by Rachel Stevens. The project was constructed by many groups including the Albuquerque Public Art Program, Dona Ana Community College, and New Mexico State University. The artwork was dedicated in April 13, 2013 at exactly 2:00p.m. [^source] ("Dedication Ceremony," n.d.). Rachel Stevens is a distinguished professor from New Mexico State University and is a sculpture instructor at the university. She learned ancient copper casting techniques during her extensive travels in Nepal [^source] ("Rachel Stevens", 2016).
-
+The artwork was designed and created by Rachel Stevens. The project was constructed by many groups including the Albuquerque Public Art Program, Dona Ana Community College, and New Mexico State University. The artwork was dedicated in April 13, 2013 at exactly 2:00p.m. [^source] ("Dedication Ceremony," n.d.). Rachel Stevens is a distinguished professor from New Mexico State University and is a sculpture instructor at the university. She learned ancient copper casting techniques during her extensive travels in Nepal. [^source] 
 ### Location
 
-The art project is located in the Albuquerque's Westside near Universe and Irving Road. It's directly located at the entrance of Ventanas Ranch Park [^source] ("You Are Here," n.d.). It's a fitting location because “ventana” is actually the Spanish word for “window.” Access to this location is quite difficult because of its distant location. This artwork can easily be overlooked while driving on the street if you don't know what to look for.  
+The art project is located in the Albuquerque's Westside near Universe and Irving Road. It's directly located at the entrance of Ventanas Ranch Park [^source]. It's a fitting location because “ventana” is actually the Spanish word for “window.” Access to this location is quite difficult because of its distant location. This artwork can easily be overlooked while driving on the street if you don't know what to look for.  
 
 ### Appearance
-The artwork is comprised of five windows but each is distinct in appearance. They're all made of steel and are painted in blue or green hues [^source] ("Dedication Ceremony," n.d.). The first window is green and the pane appears to held up by a soda can. It also has a charming bird located on the top-right of the window.
+The artwork is comprised of five windows but each is distinct in appearance. They're all made of steel and are painted in blue or green hues [^source]. The first window is green and the pane appears to held up by a soda can. It also has a charming bird located on the top-right of the window.
 
 {% include figure.html
   class="img-center"
@@ -45,7 +44,7 @@ The second window is blue and has a pointed archway. It also has several window 
   class="pullquote"
   text="The purpose of this design is to frame many points of view for the visitor which includes the Sandia Mountains, the park playground, or the nearby shopping center."  %}
   
-The artwork is perfectly located in a quiet, secluded, and open environment. The colorful artwork compliments the bright green trees and the pristine blue sky.  The artwork also does a good job in reflecting the harmony and tranquility of the environment. Each window is mounted on a concrete slabs which serve as seating for visitors. The windows are all arranged in a concave manner. The purpose of this design is to frame many points of view for the visitor which includes the Sandia Mountains, the park playground, or the nearby shopping center. Seating is encouraged at its base so that the visitor can observe and appreciate their surroundings [^source]("You are Here", 2011-2016).
+The artwork is perfectly located in a quiet, secluded, and open environment. The colorful artwork compliments the bright green trees and the pristine blue sky.  The artwork also does a good job in reflecting the harmony and tranquility of the environment. Each window is mounted on a concrete slabs which serve as seating for visitors. The windows are all arranged in a concave manner. The purpose of this design is to frame many points of view for the visitor which includes the Sandia Mountains, the park playground, or the nearby shopping center. Seating is encouraged at its base so that the visitor can observe and appreciate their surroundings. [^source]
 
 {% include figure.html
   class="img-center"
@@ -54,7 +53,7 @@ The artwork is perfectly located in a quiet, secluded, and open environment. The
   src="images/here1.jpg"
 %}
 
-According to the Ventana Ranch Community Park Jumper Map provided by the City of Albuquerque, there was nothing but desert and dirt before 2013. Taken in August, 2012, the aerial photograph undoubtedly indicates that the Ventana Ranch Park did'nt exist before August 2012. The original location is sorrounded by the desert to the East, Universe Road to the West, and the shopping center to the South. Its current and vibrant location is drastically different from its desolate desert origins [^source](Ventana Ranch Community Park Jumper Map 8/2012," 2012).
+According to the Ventana Ranch Community Park Jumper Map provided by the City of Albuquerque, there was nothing but desert and dirt before 2013. Taken in August, 2012, the aerial photograph undoubtedly indicates that the Ventana Ranch Park did'nt exist before August 2012. The original location is sorrounded by the desert to the East, Universe Road to the West, and the shopping center to the South. Its current and vibrant location is drastically different from its desolate desert origins. [^source]
 
 The convenient parking makes it completely accessible to view the artwork up close. A person can just step outside their vehicle and walk a short distance to view the artwork.  It can also be accessed by the sidewalks emerging from the playground or neighborhoods. The playground is directly located to the right of artwork.  A shopping center can be seen in the distance but isn’t too much of an interference to environment’s peacefulness.  
 
@@ -71,7 +70,7 @@ the artwork.  It also makes viewing the artwork from the opposite side slightly 
 
 [^source1]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
 
-[^source2]: "Dedication Ceremony for 'You Are Here' by Rachel Stevens." *City of Albuquerque*. 2017. 
+[^source2]: "Dedication Ceremony for 'You Are Here' by Rachel Stevens." *City of Albuquerque*. 2017.
 https://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens
 
 [^source3]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
