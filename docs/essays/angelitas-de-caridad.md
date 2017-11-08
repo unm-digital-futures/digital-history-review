@@ -2,7 +2,7 @@
 ---
 
 {% include jumbotron.html
-title="Angelitas De Carido"
+title="Angelitas De Caridad"
 image="images/dmartinez_AngelitasDeCaridad_image1.jpg"
 text="Sisters of Charity Sculpture at historic Martineztown Park"
 %} 
@@ -113,3 +113,5 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 <chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=https://dspace2.creighton.edu/xmlui/bitstream/handle/10504/85176/Lawlor_Sr.%20Catherine%20Miriam-MA-1938.pdf?sequence=1>
 
 <http://newmexicohistory.org/places/albuquerques-20th-century-suburban-growth>
+
+<http://videostoriesnm.com/martineztowninterviews.html>
