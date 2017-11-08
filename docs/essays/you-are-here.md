@@ -91,4 +91,4 @@ Figure 4. Mondragon, Jerome T., *Here 7*. 2017. Digital Image. Albuquerque, NM.
 [^source7]: "Ventana Ranch Community Park Jumper Map." *City of Albuquerque*. 2017. 
 https://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view
 
-(/div)
+</div>
