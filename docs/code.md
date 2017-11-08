@@ -13,12 +13,57 @@ date: 2017-11-02
 
 *This page provides a bogus essay, beginning with a full bleed header image (a jumbotron!) to illustrate how to implement the various typographic features we're using. The gray boxes should show you exactly what code you need to use; copy and paste it into your own essay pages and adjust the attributes as you need to.*
 
----
-### • In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!
 
-### • DO NOT use double quotation marks `"` in your titles or captions. Single quotation marks `'` are fine.
----
+**• In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!**
 
+**• DO NOT use double quotation marks `"` in your titles or captions. Single quotation marks `'` are fine.**
+
+
+## Essay Metadata
+All essays must have the following metadata at the top of the page, with the values customized to your own page. **Be sure you have the 3 hyphens `---` before and after your metadata on their own lines**. The top of your essay page should look like:
+
+``` markdown
+---
+title: Simms Building
+author: Fred Gibbs
+css: gibbs.css
+date: 2017-11-02
+---
+```
+
+
+## Footnotes
+All good historical essays (as you're writing) show what their sources are, which helps readers know that actual research underlies the essay.
+
+To get a footnote to show up, there are two steps:
+
+1) put `[^SOMETEXT]` in your essay where you want the superscript number to appear, and change SOMETEXT to some unique signifier related to the content of the note. In your markdown file, your text will look like:
+
+```
+Here's a sample sentence with a footnote at the end. [^source] Here is yet another sentence. [^another-source] The Simms building was remodeled in 2013. [^abqjournal-12-2014]  
+```
+
+2) put  `[^SOMETEXT]: Your footnote text` at the bottom of your essay.
+
+
+```
+[^source]: Your footnote text
+[^another-source]: Text for another footnote.
+[^abqjournal-12-2014]: [Albuquerque Journal, 12-5-2014](https://www.abqjournal.com/506289/simms-renovation-complete.html).
+```
+
+Viewed as a webpage, the code above will render as:
+
+Here's a sample sentence with a footnote at the end. [^source] Here is yet another sentence. [^another-source] The Simms building was remodeled in 2013. [^abqjournal-12-2014] Notice the footnotes at the bottom of this page! Also note that the numbering happens automagically.
+
+[^source]: Your footnote text
+[^another-source]: Text for another footnote.
+[^abqjournal-12-2014]: [Albuquerque Journal, 12-5-2014](https://www.abqjournal.com/506289/simms-renovation-complete.html).
+
+
+
+
+## Jumbotron
 To achieve a jumbotron header, use the following code on your page, and alter the image filename and text accordingly:
 
 ``` html
@@ -132,7 +177,7 @@ To place a pull quote as above, we use:
   %}{%endraw%}
 ```
 
-### Full-width usage
+### Full-width quotes
 If you are quoting from a historical source, you might want to say more than can fit in a normal pull quote format. For those cases, you can use a full-width blackquote to highlight a particularly juice quotation.
 
 {% include full-width.html class="pullquote" text="
@@ -146,3 +191,7 @@ To achieve the above full width pull quote, use:
   text=" Vestibulum ante ipsum primis in faucibus orci luctus ..."
 %}{%endraw%}
 ```
+
+---
+
+### References
