@@ -1,4 +1,7 @@
 ---
+Title: La Curandera y su Jardin
+Author: Will Moreno
+CSS: Curandera.css
 ---
 {% include jumbotron.html
 title="La Curandera Y Su Jardin"
