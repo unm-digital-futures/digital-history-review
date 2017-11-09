@@ -61,8 +61,8 @@ Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used
 
 
 {% include figure.html
-  class="img-right"
-  width="50%"
+  class="img-left"
+  width="40%"
   caption="Martineztown Acequia"
   src="images/dmartinez_acequia.jpg"
 %}
@@ -110,6 +110,8 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
 %}
 
 The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. As you take a Walk around the base, the orgin of the Sister's story and their commitment to the community is told through the illustrations. Plaques with words like Hope, Temperance, and Faith finish out the surrounding local. And the last plaque, in line with the sculpture and Lovelace Hosptial assert, "In Unity There is Strength". This message defines the motto of not only *Sisters of Charity* but what they brought to the commumnity of Martineztown and Albuquerque.
+
+
 
 
 ## Why you should visit *Angelitas De Caridad* 
