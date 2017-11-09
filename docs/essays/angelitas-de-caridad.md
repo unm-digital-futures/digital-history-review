@@ -7,7 +7,7 @@ css: angelitasdecaridad.css
 {% include jumbotron.html
 title="Angelitas De Caridad"
 image="images/dmartinez_AngelitasDeCaridad_image1.jpg"
-text="Sisters of Charity Sculpture at historic Martineztown Park"
+text="Historic Martineztown Park"
 %} 
 
 # *Angels of Charity* Sculpture at Martineztown Park
@@ -81,6 +81,11 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing a santiarium, schools, and orphanages. In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one if not the only facility at the time to treat pulmonary disease in the Southwest. 
 
 The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters. Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
+
+{% include aside.html
+  class="pullquote"
+  text=" Frank Martinez resident of Martineztown recalls,'I grew up with the hospital less than a block away from where I was born,” Martinez said. “My mom was employed by the Sisters of Charity, and I served on the hospital’s board of trustees for a number of years'." %}
+
 {% include figure.html
   class="img-center"
   width="70%"
@@ -88,18 +93,13 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
   src="images/dmartinez_Lovelace_image5.png"
 %}
 
-
-{% include aside.html
-  class="pullquote"
-  text=" Frank Martinez resident of Martineztown recalls,'I grew up with the hospital less than a block away from where I was born,” Martinez said. “My mom was employed by the Sisters of Charity, and I served on the hospital’s board of trustees for a number of years'." %}
-
 ## *"Angelitas De Caridad"* Sculpture and Artist
 
 Commissioned by the South Martineztown community and created by Albuquerque artist Linda DaBeau, the sculpture is a limestone winged angel standing at 25 feet tall and 16 feet wide with a bronze wrap around fountain base feature. The base depicts 42 figures and 22 buildings as a narrative to the Sisters story. Though it is situated in Martineztown Park and below the hill of Lovelace, the site itself is nestled away along the curving road of High St. enclosed by trees and flowers making it an almost hidden location within the park itself. Adobe homes beautifully line the north and west blocks maintaining its historic charm.   
 
 {% include figure.html
   class="img-left"
-  width="33%"
+  width="20%"
   caption="LInda DaBeau"
   src="images/dmartinez_linda_image10.jpg"
 %}
@@ -111,6 +111,8 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
 The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. As you take a Walk around the base, the orgin of the Sister's story and their commitment to the community is told through the illustrations. Plaques with words like Hope, Temperance, and Faith finish out the surrounding local. And the last plaque, in line with the sculpture and Lovelace Hosptial assert, "In Unity There is Strength". This message defines the motto of not only *Sisters of Charity* but what they brought to the commumnity of Martineztown and Albuquerque.
 
 
+ 
+ 
  {% include figure.html
   class="img-left"
   width="33%"
@@ -125,6 +127,7 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
   caption="Sisters of Charity"
   src="images/dmartinez_Base2_image9.png"
 %}
+
 
 
 ## Why you should visit *Angelitas De Caridad* 
