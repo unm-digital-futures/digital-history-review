@@ -88,4 +88,4 @@ President James Zimmerman and architect John Meem would be very pleased to find 
 ### References
 [UNM Libraries](http://library.unm.edu/zimmerman75/index.php)
 
-### Foot Notes
+### Footnotes
