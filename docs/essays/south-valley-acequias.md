@@ -18,13 +18,13 @@ text="Public Spaces of Tradition and Culture in the South Valley"
   text="Acequias are community-based forms of sharing water used for irrigation, first introduced to the region by the Spanish in the seventeenth-century (CESSOS.org)."
   %}
 
-The Valle Atrisco, commonly referred to the South Valley, is one of the oldest and most historic areas of Albuquerque, owing its name to the Atrisco Land Grant of 1692 [^SOMETEXT] . The word "Atrisco" is derived from the Nahuatl word "Atlixo", which means “surface of a body of water" [^source2] and is an indication of how important acequias and water systems are to the area. The land grant was designed to spur settlement in the area and is still relatively intact to this day as families and individuals whose histories date back centuries still claim rights to land and water in the area (http://dev.newmexicohistory.org/). [^source3] The acequia system played an integral part in irrigating the land to cultivate corn, wheat, beans, alfalfa, and allowed the area to grow and prosper throughout the seventeenth and eighteenth centuries (http://dev.newmexicohistory.org/). [^source4] Acequias were the critical point around which farmlands were built and maintained. The space surrounding acequias from the period of the seventeenth century until the end of World War II was essentially rural farmland subdivided between families (http://greenfiretimes.com/2015/11/the-genesis-of-acequias-in-atrisco-the-south-valley/). [^source5] Today, due to factors of modernization and urbanization, acequias of the South Valley function as unique sources of public space and cultural tradition.
+The Valle Atrisco, commonly referred to the South Valley, is one of the oldest and most historic areas of Albuquerque, owing its name to the Atrisco Land Grant of 1692[^source1]. The word "Atrisco" is derived from the Nahuatl word "Atlixo", which means “surface of a body of water"[^source2]and is an indication of how important acequias and water systems are to the area. The land grant was designed to spur settlement in the area and is still relatively intact to this day as families and individuals whose histories date back centuries still claim rights to land and water in the area (http://dev.newmexicohistory.org/).[^source3]The acequia system played an integral part in irrigating the land to cultivate corn, wheat, beans, alfalfa, and allowed the area to grow and prosper throughout the seventeenth and eighteenth centuries (http://dev.newmexicohistory.org/). [^source4] Acequias were the critical point around which farmlands were built and maintained. The space surrounding acequias from the period of the seventeenth century until the end of World War II was essentially rural farmland subdivided between families (http://greenfiretimes.com/2015/11/the-genesis-of-acequias-in-atrisco-the-south-valley/).[^source5]Today, due to factors of modernization and urbanization, acequias of the South Valley function as unique sources of public space and cultural tradition.
   
   {% include figure.html class="img-left" width="50%" caption="Trail" src="images/acequia2.jpeg" %}
   
 ### What is an Acequia?
 
-Acequias, sometimes referred to as ‘ditches’ or ‘arroyos’ are community-based forms of sharing water used for irrigation, first introduced to the region that is today New Mexico by the Spanish in the seventeenth-century (CESSOS.org). [^source6] The acequia system itself is much older, dating back to methods developed by the Moors and brought to the Iberian Peninsula during their occupation of the region (ca.700-1492).
+Acequias, sometimes referred to as ‘ditches’ or ‘arroyos’ are community-based forms of sharing water used for irrigation, first introduced to the region that is today New Mexico by the Spanish in the seventeenth-century (CESSOS.org).[^source6]The acequia system itself is much older, dating back to methods developed by the Moors and brought to the Iberian Peninsula during their occupation of the region (ca.700-1492).
 
 {% include figure.html
 class="img-center"
@@ -55,6 +55,10 @@ The trail running south along the acequia south from Sanchez Farms passes throug
 ### South Valley Acequias Today and into the Future
 
 Today, acequias of the South Valley serve the dual function of providing an beautiful recreational space for outdoor enthusiasts, while maintaining its distiction as a sacred space that is of vital use to farmers and their land. While increased urbanization of areas around the acequias have made them popular public spaces, it must be kept in mind that this has also led to issues regarding water rights pertaining to usage; i.e. as more people and commercial development move into the area, less water is available for the acequias. These are spatial issues that are currently playing out in the South Valley and will continue into the future as Albuquerque continues to expands.    
+
+#### Footnotes
+
+-[^source1]: (https://www.cesoss.org/)
 
 http://www.albuqhistsoc.org/SecondSite/pkfiles/pk208landgrants.htm
 https://lajicarita.wordpress.com/2014/10/01/say-no-to-zombie-developments/
