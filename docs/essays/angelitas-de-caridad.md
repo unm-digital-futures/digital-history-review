@@ -70,11 +70,11 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 
 
 
-## Tuberculosis, _The Sisters of Charity of Cincinnati_, and Albuquerque
+## Tuberculosis, _The Sisters of Charity of Cincinnati_,and Albuquerque
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="40%"
   caption="Sisters of Charity of Cincinnati"
   src="images/dmartinez_sisters.jpg"
 %}
@@ -96,6 +96,7 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
   caption="Lovelace Hospital overlooking Martineztown Park"
   src="images/dmartinez_lovelace.jpg"
 %}
+
 
 
 
