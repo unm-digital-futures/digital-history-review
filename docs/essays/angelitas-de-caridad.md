@@ -24,17 +24,16 @@ Encompassed by the urban sprawl of the central business district, *Martineztown 
 {% include figure.html
   class="img-right"
   width="30%"
-  caption="Martineztown Park Trail"
-  src="images/dmartinez_trail.jpg"
+  caption="Martineztown Park with view of Longfellow Elementary"
+  src="images/dmartinez_aerialview.jpg"
 %}
 
 {% include figure.html
   class="img-right"
   width="30%"
-  caption="Martineztown Park with view of Longfellow Elementary"
-  src="images/dmartinez_aerialview.jpg"
+  caption="Martineztown Park Trail"
+  src="images/dmartinez_trail.jpg"
 %}
-
 
 Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you are transported back to the city's orgin through a series of displays that chronicle Native orgin, Spanish conquest, and community intergration. Plaques of Native trees, plants, and animals are distributed every few feet trying to giving a sense of what the landscape would've looked like prior to European contact. And once you reach the center of the park, laughter from the Longfellow Elementary School and noise from the busy streets can be heard. However, continue east into the park and you will experience quite and tranquility.  
 
@@ -115,14 +114,8 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
 
 The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. As you take a Walk around the base, the orgin of the Sister's story and their commitment to the community is told through the illustrations. Plaques with words like Hope, Temperance, and Faith finish out the surrounding local. And the last plaque, in line with the sculpture and Lovelace Hosptial assert, "In Unity There is Strength". This message defines the motto of not only *Sisters of Charity* but what they brought to the commumnity of Martineztown and Albuquerque.
 
-
-
-
-## Why you should visit *Angelitas De Caridad* 
-Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of Albuquerque History. Though there is limited information on the sculpture itself, it represents an era in American and New Mexico history that forever changed the city, state, and country.  
-
  {% include figure.html
-  class="img-left"
+  class="img-right"
   width="33%"
   caption="Illustrations of the Sisters work within the community"
   src="images/dmartinez_Base_image8.png"
@@ -135,6 +128,10 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
   caption="Sisters of Charity"
   src="images/dmartinez_Base2_image9.png"
 %}
+
+
+## Why you should visit *Angelitas De Caridad* 
+Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of Albuquerque History. Though there is limited information on the sculpture itself, it represents an era in American and New Mexico history that forever changed the city, state, and country.  
 
 
 ### References
