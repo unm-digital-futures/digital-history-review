@@ -5,3 +5,7 @@ h3 {
 aside.pullquote {
 border-top: 3rem solid #333;
 }
+
+p {
+ line-height:3em; 
+}
