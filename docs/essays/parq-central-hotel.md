@@ -26,6 +26,9 @@ text="Convenience & Luxury"
 A scenic view of the city of Albuquerque welcomes  anyone from the former mental institution's Apothecary Lounge, a place where history and modern [luxury](http://www.hvlinteriors.com/single_gallery_HPC.html#.WfEJFBOPIlU) meet. [The Parq Central Hotel](http://hotelparqcentral.com) was preserved for its significance in offering medical services for railway employees during its time as the Santa Fe Railway hospital.
 Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life.
 
+
+
+
 ## Background
 
 {% include figure.html
@@ -37,6 +40,9 @@ Walk through the same halls that railway workers and patients did with modern re
 
 The Parq Central Hotel is now a source of economic stability through the steady flow of tourists. However, it was originally known as the Santa Fe Railway Hospital which was [created out of necessity](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=65) in 1926 in order to [treat injured railway workers](http://www.kansasmemory.org/item/227818)[^Injured-workers]. Three buildings were created: the hospital, the physician's residence, and the boiler building. Later, it would be repurposed as a mental institution for children before it would be considered a [historic site](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks)[^Landmark].
 
+
+
+
 ## Medical Treatment
 
 {% include figure.html
@@ -47,6 +53,9 @@ The Parq Central Hotel is now a source of economic stability through the steady 
 %}
 
 The [Santa Fe Railway Hospital](http://www.bbc.com/travel/story/20130520-a-hospital-turned-hotel-in-new-mexico) as well as the Memorial Hospital served their purpose by redefining the space in which it occupied. A plot of dirt transformed into medical assistance for railway workers and medical treatment for mentally ill children. Beyond this however, the cultural perception and meaning of the space literally began to create a community around it; later supporting another mode of transportation when the freeway and streets were built around it marking its importance.
+
+
+
 
 ## Architecture
 
