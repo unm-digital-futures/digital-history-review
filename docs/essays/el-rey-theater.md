@@ -1,4 +1,11 @@
 ---
+title: El Rey Theater
+author: Joshua Bloom
+css: el-rey-theater_styling.css
+date: 2017-11-08
+---
+
+---
 ---
 
 {% include jumbotron.html
