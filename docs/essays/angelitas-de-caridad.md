@@ -19,6 +19,20 @@ Desiree' Martinez
 
 Encompassed by the urban sprawl of the central business district, *Martineztown Park* is a hidden gem within one of Albuquerque's oldest neighborhoods. The park is situated at the crossroads of Edith Boulevard and Dr. Martin Luther King Jr. Ave on the east side of downtown. Surrounded by Spanish Adobe homes, the historic Longfellow Elementary School, and Lovelace Hosptial, it is easy to see how this park may be overlooked by Albuquerque natives let alone tourist. However, it is once you venture into the park you begin to discover the areas rich history. 
 
+{% include figure.html
+  class="img-right"
+  width="40%"
+  caption="Martineztown Park Trail"
+  src="images/dmartinez_trail.jpg"
+%}
+
+{% include figure.html
+  class="img-left"
+  width="40%"
+  caption="Martineztown Park with view of Longfellow Elementary"
+  src="images/dmartinez_aerialview.jpg"
+%}
+
 Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you are transported back to the city's orgin through a series of displays that chronicle Native orgin, Spanish conquest, and community intergration. Plaques of Native trees, plants, and animals are distributed every few feet trying to giving a sense of what the landscape would've looked like prior to European contact. And once you reach the center of the park, laughter from the Longfellow Elementary School and noise from the busy streets can be heard. However, continue east into the park and you will experience quite and tranquility.  
 
 
@@ -46,13 +60,20 @@ Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used
 {% include figure.html
   class="img-center"
   width="60%"
-  caption="Martineztown"
-  src="images/dmartinez_Martineztown_image2.jpg"
+  caption="Martineztown Acequia"
+  src="images/dmartinez_acequia.jpg"
 %}
 
 In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown. As the railroads urbanized cities across the country, New Mexico's climate offered something different, aid for Tuberculosis victims. The dry air and high elevations made Albuquerque the ideal place to live and establish hopsitals. Tuberculosis as the catalyst and the railroad as the facilitator, Martineztown became a new hub for Albuquerque society. Businesses would eventually enclose Martineztown Park to its current position, thus creating an timecaplse within the cityscape.  
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_, and Albuquerque
+
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="Sisters of Charity of Cincinnati"
+  src="images/dmartinez_sisters.jpg"
+%}
 
 The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing a santiarium, schools, and orphanages. In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one if not the only facility at the time to treat pulmonary disease in the Southwest. 
 
