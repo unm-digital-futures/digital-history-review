@@ -1,4 +1,4 @@
-[Wikipedia Page](https://en.wikipedia.org/wiki/Simms_Building).
+ [Wikipedia Page](https://en.wikipedia.org/wiki/Simms_Building).
 
 
 
@@ -9,7 +9,12 @@ title='2926front.jpg'
 image='images/2926front.jpg'
 text='restored 2926 locomotive.'%} 
 
-![2926](images/20171021_122248train4.jpg)
+
+{figure.html
+  class='img-center'
+  width='100%'
+  caption='up close and personal.'
+  src='20171021_122248train4.jpg'%}
 # The Santa Fe 2926 locomotive
 To start, whoa, never have I stood in front of a locomotive that immense, ever! This train was built during World War 2, 1944 to be exact. Trains built before and after this train used materials that were not so scarce. Essentially,  this was the last model of its kind built. This locomotive was part of the last group of steam passenger locomotives, the class of 2900 trains, built for the Santa Fe railway. This class of locomotives were the heaviest 4-8-4's built in the United States, and among the largest. The railroad used the locomotive in both fast freight and passenger service, accumulating over one million miles of usage before its last revenue run on December 24, 1953. The locomotive and a caboose were donated to the city of Albuquerque in 1956, in recognition of the city's 250th anniversary, and placed in a city park. Unfortunately, the park housed many transients and was vulnerable to vandalism.
 
