@@ -134,7 +134,7 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 ## Why you should visit *Angelitas De Caridad* 
 Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of Albuquerque History. Though there is limited information on the sculpture itself, it represents an era in American and New Mexico history that forever changed the city, state, and country.  
 
-### Footnotes
+
 
 [^srcharitycinti]: [Sister of Charity of Cincinnati](http://http://www.srcharitycinti.org/news_events/dabeau.htm)
 
@@ -153,3 +153,5 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 <http://newmexicohistory.org/places/albuquerques-20th-century-suburban-growth>
 
 <http://videostoriesnm.com/martineztowninterviews.html>
+
+### Footnotes
