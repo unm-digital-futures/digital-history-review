@@ -133,7 +133,7 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 
 [^srcharitycinti]: [Sister of Charity of Cincinnati](http://http://www.srcharitycinti.org/news_events/dabeau.htm)
 
-[^Public Archive]: [Sister of Charity of Cincinnati](http://http://http://www.publicartarchive.org/work/angelitos-de-caridad)
+[^PublicArchive]: [Sister of Charity of Cincinnati](http://http://http://www.publicartarchive.org/work/angelitos-de-caridad)
 
 ### References
 <http://www.srcharitycinti.org/news_events/images/dabeau.jpg>
