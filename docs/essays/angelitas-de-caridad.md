@@ -68,7 +68,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 {% include full-width.html
   class="pullquote"
   text=" 'As patients arrived and lived in rooming houses, tent cities, sanatoriums, and on the streets, hoping the mountain air would cure them, locals became infected.' writer Jennifer Levin states in her article, _The lungers' legacy: Tuberculosis patients in New Mexico_'"
-%}
+%}[^Lungerlegacy]
 
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_,and Albuquerque
@@ -145,6 +145,7 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 
 [^PublicArchive]: [Sister of Charity of Cincinnati](http://http://http://www.publicartarchive.org/work/angelitos-de-caridad)
 
+[^Lungerlegacy]: [Lunger's legacy in New Mexico](http://http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.html)
 
 [^tuberculosisnewmexico]: [Tuberculosis in New Mexico](http://http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.html)
 
