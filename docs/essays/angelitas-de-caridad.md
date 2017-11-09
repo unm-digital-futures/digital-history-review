@@ -23,7 +23,7 @@ Encompassed by the urban sprawl of the central business district, *Martineztown 
 
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="30%"
   caption="Martineztown Park Trail"
   src="images/dmartinez_trail.jpg"
@@ -41,9 +41,11 @@ Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you
 
 Neslted peacefully in the corner of the park at the bottom of the hill with Lovelace Hosptial as the backdrop sits the sculpture, *"Angelitas De Caridad"* by Albuquerque artist Linda DaBeau. Though the sculpture feels hidden, its white limestone wings stands out amongst its surrounding. Dedicated to the *Sisters of Charity of Cincinnati* came to New Mexico at the height of the Tuberculosis epedemic and aided the community by transforming St. Joseph's Sanitarium into present day Lovelace Hospital. Tuberculosis had killed more Americans than any other disease and continues to be one of the deadliest disease in the world. *"Angelitas De Caridad"* sculpture beautifully illustrates the history of Martineztown and the significant role the "Angeles of Charity" played in our states history.
 
+
+
 {% include figure.html
   class="img-center"
-  width="65%"
+  width="40%"
   caption="Beauty among the trees"
   src="images/dmartinez_sideview.jpg"
 %}
@@ -62,6 +64,10 @@ Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used
 
 In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown. As the railroads urbanized cities across the country, New Mexico's climate offered something different, aid for Tuberculosis victims. The dry air and high elevations made Albuquerque the ideal place to live and establish hopsitals. Tuberculosis as the catalyst and the railroad as the facilitator, Martineztown became a new hub for Albuquerque society. Businesses would eventually enclose Martineztown Park to its current position, thus creating an timecaplse within the cityscape.  
 
+
+{% include aside.html
+  class="pullquote"
+  text=" 'As patients arrived and lived in rooming houses, tent cities, sanatoriums, and on the streets, hoping the mountain air would cure them, locals became infected.' writer Jennifer Levin states in her article The lungers' legacy: Tuberculosis patients in New Mexico " %}[^tuberculosisnewmexico]
 
 {% include figure.html
   class="img-left"
@@ -135,12 +141,17 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 
 [^PublicArchive]: [Sister of Charity of Cincinnati](http://http://http://www.publicartarchive.org/work/angelitos-de-caridad)
 
+
+[^tuberculosisnewmexico]: [Tuberculosis in New Mexico](http://http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.html)
+
 ### References
 <http://www.srcharitycinti.org/news_events/images/dabeau.jpg>
 
 <http://www.publicartarchive.org/work/angelitos-de-caridad>
 
 <http://www.mrwmla.com/martineztown-park/>
+
+<http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.html>
 
 <http://www.albuqhistsoc.org/SecondSite/pkfiles/pk213neighborhoods.htm>
 
