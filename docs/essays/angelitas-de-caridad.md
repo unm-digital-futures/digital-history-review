@@ -89,7 +89,7 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
 
 
 {% include figure.html
-  class="img-left"
+  class="img-center"
   width="50%"
   caption="Lovelace Hospital overlooking Martineztown Park"
   src="images/dmartinez_lovelace.jpg"
@@ -102,7 +102,7 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
 
 {% include figure.html
   class="img-left"
-  width="30%"
+  width="40%"
   caption="LInda DaBeau"
   src="images/dmartinez_linda_image10.jpg"
 %}
