@@ -39,7 +39,6 @@ Zimmerman Library was built with the Spanish Pueblo style of architecture. The l
 ### Spatial Space
 
 At the time of Zimmerman libraries creation, President Zimmerman wanted to preserve the culture of New Mexico. Making all the buildings adobe style created a very unique environment for the university. Being one of the first buildings put up on campus helped pave the way on how future buildings would be built. John Meems also built the library big enough to fill the needs of all the students. Not making the library too big right away helped allow for renovations through out the years. This was so Zimmerman Library could grow with the university in it's pre existing space. This philosophical building style can be attributed to how pueblo buildings are upgraded according to the occupants of that space. Which came from meems days of renovating Pueblo churches. Not only is the building style with in the New Mexican culture, but also the ideology of upgrading and making a bigger library for the students Of the university. Making every aspect of the building associated with President Zimmerman’s one goal.
-
 {% include aside.html
   class="pullquote"
   text="Making all the buildings adobe style created a very unique enviroment."
@@ -47,7 +46,7 @@ At the time of Zimmerman libraries creation, President Zimmerman wanted to prese
 
 
 {% include figure.html
-class="img-left"
+class="img-right"
 width="50%"
 caption="Zimmerman Library"
 src="images/Zimm4.PNG"
@@ -69,4 +68,4 @@ The area around Zimmerman was once a empty space. Now it's the main attraction o
 President James Zimmerman and architect John Meem would be very pleased to find out that the university still values their visions. From 1938 till now the University of New Mexico strives to keep the culture of New Mexico alive and well on campus. Upgrading buildings when needed and using the adobe style to preserve that vision. The fact that Zimmerman Library was built in the 30s and is still going strong today 70 odd years later is all John Meem could've asked for. Essentially using Zimmerman library as a time capsule to celebrate the visions of great people and the culture of New Mexico.
 
 ### References
-http://library.unm.edu/zimmerman75/index.php
+[UNM](http://library.unm.edu/zimmerman75/index.php)
