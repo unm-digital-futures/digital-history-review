@@ -88,9 +88,9 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
 
 {% include figure.html
   class="img-center"
-  width="70%"
+  width="50%"
   caption="Lovelace Hospital overlooking Martineztown Park"
-  src="images/dmartinez_Lovelace_image5.png"
+  src="images/dmartinez_lovelace.jpg"
 %}
 
 ## *"Angelitas De Caridad"* Sculpture and Artist
