@@ -11,8 +11,6 @@ image="images/here5.jpg"
 text="Windows to Glorious Landscapes"
 %} 
 
-Jerome T. Mondragon
-
 Figure 1. Here 5- You Are Here
 
 The “You Are Here” art project is the perfect place where one can relax and reflect on their surroundings. This artwork comprises of five colorful windows and is a representation of Albuquerque’s Ventanas Ranch community. The purpose of this artwork is to make the visitor slowdown from their bustling life and appreciate the calm environment. [^source1] 
