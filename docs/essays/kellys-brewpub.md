@@ -107,6 +107,7 @@ To add fule to this flame this specific HiwayHouse Motel is one of if not the on
 ## **Conclusion**
 Now you have finished your beer, and eaten your fried food. Go explore everything Central and Historic Route 66 has to offer.
 
+## **FootNotes**
 [^source1]: [National Park Service review](https://www.nps.gov/nr/travel/route66/jones_motor_company_albuquerque.html)
 [^source2]: [City of ABQ historical site](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks)
 [^source3]: [The Illustrated Route 66 Historical Atlas](https://books.google.com/books?id=RuTUBAAAQBAJ&pg=PA137&lpg=PA137&dq=tom+danahy+architect&source=bl&ots=81HUB29m1X&sig=AhbaKMQMuSsHR5-SdPLjRE2-RjI&hl=en&sa=X&ved=0ahUKEwjQ-4X7j4DXAhUG4oMKHfPnBaMQ6AEILDAB#v=onepage&q=tom%20danahy%20architect&f=false)
@@ -114,26 +115,3 @@ Now you have finished your beer, and eaten your fried food. Go explore everythin
 [^source5]: [Nob Hill](http://nobhillmainstreet.org/history/)
 [^source6]: [The Illustrated Route 66 Historical Atlas](https://books.google.com/books?id=RuTUBAAAQBAJ&pg=PA137&lpg=PA137&dq=tom+danahy+architect&source=bl&ots=81HUB29m1X&sig=AhbaKMQMuSsHR5-SdPLjRE2-RjI&hl=en&sa=X&ved=0ahUKEwjQ-4X7j4DXAhUG4oMKHfPnBaMQ6AEILDAB#v=onepage&q=tom%20danahy%20architect&f=false)
 [^source7]: [Highway House Motel](http://www.hiwayhousemotel.com/motel-nob-hill-albuquerque/)
-
-## **References**
-https://www.nps.gov/nr/travel/route66/jones_motor_company_albuquerque.html
-
-https://books.google.com/books?id=RuTUBAAAQBAJ&pg=PA137&lpg=PA137&dq=tom+danahy+architect&source=bl&ots=81HUB29m1X&sig=AhbaKMQMuSsHR5-SdPLjRE2-RjI&hl=en&sa=X&ved=0ahUKEwjQ-4X7j4DXAhUG4oMKHfPnBaMQ6AEILDAB#v=onepage&q=tom%20danahy%20architect&f=false
-
-https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks
-
-http://circaoldhouses.com/art-deco-art-moderne/
-
-https://npgallery.nps.gov/NRHP/AssetDetail?assetID=348775f8-be61-4c8e-a4ab-5bf0500bb6d6
-
-http://164.64.110.131/webcat/request/DoMenuRequest?SystemName=New+Mexico+State+Archives&UserName=NMA+Public&Password=&UniqueID=0&TemplateProcessID=6000_12203_20096&bCachable=1&MenuName=Public+keyword+search&ControlLoc=T&ControlPer=15
-
-https://www.newmexico.org/listing/kellys-brewpub/1372/
-
-http://www.nationalregisterofhistoricplaces.com/nm/bernalillo/state2.html
-
-http://www.hiwayhousemotel.com/motel-nob-hill-albuquerque/
-
-http://nobhillmainstreet.org/history/
-
-http://www.theroadwanderer.net/66caravan/roadlog19.htm
