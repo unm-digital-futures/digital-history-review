@@ -104,8 +104,8 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 
 {% include full-width.html
   class="pullquote"
-  text=" Artist Linda DaBeau states, 'Overall I show how much the Sisters of Charity contributed to the spirituality, love of Christ and the overall growth and nurturing of the people of Martineztown and the surrounding area'"
-%}[^srcharitycinti]
+  text=" Artist Linda DaBeau states, 'Overall I show how much the Sisters of Charity contributed to the spirituality, love of Christ and the overall growth and nurturing of the people of Martineztown and the surrounding area'[^srcharitycinti]"
+%}
 
 
 {% include figure.html
