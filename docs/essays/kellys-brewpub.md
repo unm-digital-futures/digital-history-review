@@ -20,7 +20,7 @@ Picture this, you just flew into Albuquerque and after a long flight all you wan
 ## **Jones Motor Co.**
 {% include figure.html
 class="img-left"
-width="50%"
+width="33%"
 caption="Jones Motor Co."
 src="images/merin-historic-1.jpg"
 %}
@@ -45,14 +45,14 @@ Finally in 1999 it was bought by Kellys Brewery and restored many of the origina
 
 {% include figure.html
 class="img-left"
-width="33%"
+width="50%"
 caption="Kelly's Today"
 src="images/merin-modern-2.jpeg"
 %}
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="50%"
   caption="Cold Stone Today"
   src="images/merin-modern-4.jpg"
 %}
@@ -61,7 +61,7 @@ src="images/merin-modern-2.jpeg"
 
 {% include figure.html
   class="img-left"
-  width="50%"
+  width="33%"
   caption="Original Design"
   src="images/merin-modern-1.jpg"
 %}
@@ -72,7 +72,7 @@ The architect Tom Danahy designed the building in a Streamline Moderne style. A 
 
 {% include figure.html
   class="img-right"
-  width="50%"
+  width="33%"
   caption="Lights"
   src="images/merin-modern-3.jpg"
 %}
@@ -95,7 +95,7 @@ Today, Route 66 has changed from the major highway it once was into clipped sect
 ### Hiway House Motel
 {% include figure.html
   class="img-right"
-  width="50%"
+  width="33%"
   caption="Hiway House Motel"
   src="images/merin-modern-5.jpg"
 %}
