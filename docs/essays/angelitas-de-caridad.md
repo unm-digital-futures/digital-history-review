@@ -24,7 +24,7 @@ Encompassed by the urban sprawl of the central business district, *Martineztown 
 
 {% include figure.html
   class="img-left"
-  width="30%"
+  width="20%"
   caption="Martineztown Park Trail"
   src="images/dmartinez_trail.jpg"
 %}
@@ -34,7 +34,7 @@ Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you
 
 {% include figure.html
   class="img-left"
-  width="20%"
+  width="30%"
   caption="Hidden among the trees Martineztown Park"
   src="images/dmartinez_hidden.jpg"
 %}
