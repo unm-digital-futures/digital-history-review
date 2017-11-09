@@ -91,8 +91,8 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
 
 
 {% include figure.html
-  class="img-left"
-  width="50%"
+  class="img-right"
+  width="40%"
   caption="Lovelace Hospital overlooking Martineztown Park"
   src="images/dmartinez_lovelace.jpg"
 %}
