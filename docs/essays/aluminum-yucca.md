@@ -76,7 +76,7 @@ In this project, the Yucca serves as a gateway between Albuquerque and the East 
 
 ##### Footnotes
 
--[^note1]: (http://www.route66news.com/2013/05/19/the-story-behind-albuquerques-big-aluminum-yucca/)
+-[^note1]: [Route 66 News](http://www.route66news.com/2013/05/19/the-story-behind-albuquerques-big-aluminum-yucca/)
 
 -[^note2]: (https://www.gordonhuether.com/aluminum-yucca)
 
