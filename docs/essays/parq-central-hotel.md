@@ -102,33 +102,8 @@ The Santa Fe Railway Hospital as well as the Memorial Hospital's original purpos
 
 The Parq Central Hotel did serve its purpose in boosting the economy by using historical memory, modern perspective [(renovation)](http://www.studioswarch.com/clone-hotel-parq-central), and an exotic appeal to successfully promote tourism. The historical memory allows guests to visit a historical landmark that provided a vital service during [railroad construction westward](http://www.downtownacd.org/wp-content/uploads/2013/08/Central-Downtown-History-Architecture-.pdf). Modern perspective combined historical memory with a modern touch of comfort to create a pleasing experience. An exotic appeal is the signature brand of New Mexican culture by highlighting local features, creating an oasis in the desert.
 
+## Footnotes
+
 [^Injured-workers]: [Injured railway workers](http://www.kansasmemory.org/item/227818)
 
 [^Landmark]: [Historic landmark](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks)
-
-## References
-- http://www.bbc.com/travel/story/20130520-a-hospital-turned-hotel-in-new-mexico
-- http://www.hotelparqcentral.com/press-articles/former-mental-hospital-made-into-hotel-building-was-once-memorial-hospital.htm
-- http://www.nmhistoricpreservation.org/programs/registers.html
-- https://www.nps.gov/nr/national_register_fundamentals.htm
-- https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks
-- http://www.kansasmemory.org/item/227818
-- http://www.downtownacd.org/wp-content/uploads/2013/08/Central-Downtown-History-Architecture-.pdf
-- http://abqlibrary.org/railroads
-- http://econtent.unm.edu/cdm/ref/collection/abqmuseum/id/939
-- http://www.studioswarch.com/clone-hotel-parq-central
-- http://klingerllc.com/our-projects/commercial/historic-renovations/hotel-parq-central/
-- http://www.hvlinteriors.com/single_gallery_HPC.html#.WfEJFBOPIlU
-- http://3.bp.blogspot.com/_uM9PrU7_5OY/SmzVNKTUqMI/AAAAAAAAHu8/hiyJ4UdH4Hc/s400/P7242184.JPG  
-- http://www.phmc.state.pa.us/portal/communities/architecture/styles/late-19th-century-revival.html
-- https://eh.net/encyclopedia/history-of-workplace-safety-in-the-united-states-1880-1970-2/
-- https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=65
-- http://3.bp.blogspot.com/_uM9PrU7_5OY/SmzVNKTUqMI/AAAAAAAAHu8/hiyJ4UdH4Hc/s400/P7242184.JPG
-- https://media.licdn.com/media/p/2/000/252/2b5/3219196.png
-- http://ichef.bbci.co.uk/wwfeatures/wm/live/1280_640/images/live/p0/19/9d/p0199d7k.jpg
-- http://cdn.onlyinyourstate.com/wp-content/uploads/2016/07/parqcentral1-700x464.jpg
-- http://econtent.unm.edu/cdm/ref/collection/abqmuseum/id/939
-- http://cdn1.buuteeq.com/upload/14475/hotelmap.JPG
-- https://media-cdn.tripadvisor.com/media/photo-i/10/20/96/bc/amazing-view.jpg
-- http://www.abqpressclub.com/wp-content/uploads/2013/09/DSC00947.jpg
-- http://www.abqpressclub.com
