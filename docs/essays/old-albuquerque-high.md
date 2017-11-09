@@ -23,7 +23,7 @@ text="Would You Live in a High School?"
 
 ## Dates For Old Albuquerque High
 
-The first building Albuquerque High occupied was not the same as what we today know as Old Albuquerque High. In fact, it was not the second, nor the third building. As the city grew and changed, the high school was constantly being moved from one building to another. Eventually, around the sixth move, the city decided that a permanent building should be built for their 12,000 residents, and in 1914 the 7th location opened its doors. Critiques of the project thought that the first building built, which would come to be called "Old Main," was too big and would never be able to reach its capacity of 500 students. The city grew so much that just 13 years later, a second building was built and by 1940, there were five total. Albuquerque high remained the only high school until 1949.
+The first building Albuquerque High occupied was not the same as what we today know as Old Albuquerque High. In fact, it was not the second, nor the third building. As the city grew and changed, the high school was constantly being moved from one building to another. Eventually, around the sixth move, the city decided that a permanent building should be built for their 12,000 residents, and in 1914 the 7th location opened its doors. [^batman] Critiques of the project thought that the first building built, which would come to be called "Old Main," was too big and would never be able to reach its capacity of 500 students. The city grew so much that just 13 years later, a second building was built and by 1940, there were five total. Albuquerque high remained the only high school until 1949.
 
 The area around the school was also in constant flux. One of the buildings, the Gymnasium, sat right next to an arroyo, which became a place for many social events. For example, the Albuquerque High school website mentions that:
 
@@ -43,7 +43,7 @@ When the first building was commisioned, it was created by an El Paso architect 
 
 {% include figure.html
 class="img-left"
-width="50%"
+width="33%"
 caption="ABQ High Courtyard"
 src="images/ABQhighcourtyard.jpg"
 %}
@@ -51,14 +51,14 @@ src="images/ABQhighcourtyard.jpg"
 
 ## What is it Now?
 
-The school was unable to keep up with new health codes and began to fall apart. A new Albuquerque High was built only about a mile away, and Old Albuquerque was closed in 1974. The building was eventually marked as a "blighted area" by City Council and was scheduled to be bulldozed and turned into a parking lot. The Albuquerque High School Alumni Association, created in 1994, became the leaders in helping to preserve the old school. Eventually, the developer Paradign & Company was brought on to convert the campus to office space and loft apartments. The project was completed in 2002 and was so successful that the city decided to draft a master plan in 2005 to guide further revitilization to the surrounding areas of the East Downtown District. As the school was considered a historic building at this point, the school walls, chalkboards, floors, and ceilings were preserved.  
-
 {% include figure.html
 class="img-left"
 width="50%"
 caption="The Lofts at Albuquerque"
 src="images/ABQhighrecent1.jpg"
 %}
+
+The school was unable to keep up with new health codes and began to fall apart. A new Albuquerque High was built only about a mile away, and Old Albuquerque was closed in 1974. The building was eventually marked as a "blighted area" by City Council and was scheduled to be bulldozed and turned into a parking lot. The Albuquerque High School Alumni Association, created in 1994, became the leaders in helping to preserve the old school. Eventually, the developer Paradign & Company was brought on to convert the campus to office space and loft apartments. The project was completed in 2002 and was so successful that the city decided to draft a master plan in 2005 to guide further revitilization to the surrounding areas of the East Downtown District. As the school was considered a historic building at this point, the school walls, chalkboards, floors, and ceilings were preserved.  
 
 {% include figure.html
 class="img-right"
@@ -81,7 +81,7 @@ The Old Albuquerque High, or as the business is called, The Lofts at Albuquerque
 
 (https://www.dpsdesign.org/what-we-create/old-albuquerque-high-lofts)
 
-(https://www.theclio.com/web/entry?id=41537)
+[^batman]: (https://www.theclio.com/web/entry?id=41537)
 
 (http://www.ahsalumniassoc.com/History.html)
 
