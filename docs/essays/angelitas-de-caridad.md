@@ -74,7 +74,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 
 {% include figure.html
   class="img-right"
-  width="40%"
+  width="45%"
   caption="Sisters of Charity of Cincinnati"
   src="images/dmartinez_sisters.jpg"
 %}
@@ -103,7 +103,7 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
 Commissioned by the South Martineztown community and created by Albuquerque artist Linda DaBeau, the sculpture is a limestone winged angel standing at 25 feet tall and 16 feet wide with a bronze wrap around fountain base feature. The base depicts 42 figures and 22 buildings as a narrative to the Sisters story. Though it is situated in Martineztown Park and below the hill of Lovelace, the site itself is nestled away along the curving road of High St. enclosed by trees and flowers making it an almost hidden location within the park itself. Adobe homes beautifully line the north and west blocks maintaining its historic charm.   
 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="30%"
   caption="LInda DaBeau"
   src="images/dmartinez_linda_image10.jpg"
