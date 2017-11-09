@@ -58,7 +58,7 @@ Today, acequias of the South Valley serve the dual function of providing an beau
 
 #### Footnotes
 
--[^source1]: [CESOSS](https://www.cesoss.org/)
+[^source1]: [CESOSS](https://www.cesoss.org/)
 
 http://www.albuqhistsoc.org/SecondSite/pkfiles/pk208landgrants.htm
 https://lajicarita.wordpress.com/2014/10/01/say-no-to-zombie-developments/
