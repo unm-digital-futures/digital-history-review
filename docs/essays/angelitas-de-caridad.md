@@ -74,7 +74,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 
 {% include figure.html
   class="img-right"
-  width="35%"
+  width="45%"
   caption="Sisters of Charity of Cincinnati"
   src="images/dmartinez_sisters.jpg"
 %}
@@ -86,6 +86,8 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
 {% include aside.html
   class="pullquote"
   text=" Frank Martinez resident of Martineztown recalls,'I grew up with the hospital less than a block away from where I was born,” Martinez said. “My mom was employed by the Sisters of Charity, and I served on the hospital’s board of trustees for a number of years'." %}
+
+
 
 {% include figure.html
   class="img-center"
