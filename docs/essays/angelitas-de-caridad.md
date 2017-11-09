@@ -147,6 +147,8 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 
 <http://www.mrwmla.com/martineztown-park/>
 
+<https://www.abqjournal.com/news/metro/390889metro09-17-05.htm>
+
 <http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.html>
 
 <http://www.albuqhistsoc.org/SecondSite/pkfiles/pk213neighborhoods.htm>
