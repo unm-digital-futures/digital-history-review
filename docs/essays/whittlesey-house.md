@@ -1,7 +1,7 @@
 ---
 Title: The Whittlesey House
 Author: Christopher Feather
-CSS: feather.css
+CSS: feather1.css
 Date: 11/08/2017
 ---
 {% include jumbotron.html title="The Whittlesey House" image="images/whit6.jpg" text="The Log Cabin in the Desert" %}
