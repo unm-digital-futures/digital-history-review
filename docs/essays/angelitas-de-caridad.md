@@ -88,13 +88,13 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
   text=" Frank Martinez resident of Martineztown recalls,'I grew up with the hospital less than a block away from where I was born,” Martinez said. “My mom was employed by the Sisters of Charity, and I served on the hospital’s board of trustees for a number of years'." %}
 
 
-
 {% include figure.html
   class="img-left"
   width="50%"
   caption="Lovelace Hospital overlooking Martineztown Park"
   src="images/dmartinez_lovelace.jpg"
 %}
+
 
 ## *"Angelitas De Caridad"* Sculpture and Artist
 
