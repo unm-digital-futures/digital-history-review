@@ -42,7 +42,7 @@ Zimmerman Library was built with the Spanish Pueblo style of architecture. The l
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="Interior of Library"
+  caption="Blue Prints of Library"
   src="images/Zimm3.PNG"
 %}
 
