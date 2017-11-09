@@ -29,7 +29,8 @@ The *Historic El Rey Theater*, located [here](https://www.google.com/maps/place/
 
 
 ## **The El Rey Today**
-The El Rey Theater functioning as a Movie Theater, or concert hall specifically, is a wonderful medium for facilitating artistic dissemination. Many musicians spanning across all the musical genres have been invited to play for anyone available to go in Downtown Albuquerque. The theater prides itself on having brought world renown artists and talent to the city including internationally famous acts from the Chicano Brothers to the Chemical Brothers and more.
+The El Rey Theater functioning as a Movie Theater, or concert hall specifically, is a wonderful medium for facilitating artistic dissemination. Many musicians spanning across all the musical genres have been invited to play for anyone available to go in Downtown Albuquerque. The theater prides itself on having brought world renown artists and talent to the city including internationally famous acts from the Chicano Brothers to the Chemical Brothers and more. Upon entering the building you'll experience a unique dancefloor made of hardwood and get to see it's historical artwork on the walls.
+
 Below is a picture of a typical event flier advertising a coming attraction being held at the El Rey during the month of October, 2017.
 ![Flier](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater_flier_photo5.jpg?raw=true)
 
@@ -40,7 +41,7 @@ The street the building resides on known as Central Ave. is the central axis of 
 
 ## **In Conclusion**
   
-Not only is The Historic El Rey Theater building bold & artistic with its featured marquee and traditional architecture but its popularity and function as a nightclub has brought an immeasurable amount of artistic audible excitement to the masses in the desert that is Albuquerque. 
+Not only is The Historic El Rey Theater building bold & artistic with its featured marquee and traditional architecture but its popularity and function as a nightclub has brought an immeasurable amount of artistic audible excitement to the masses in the desert that is Albuquerque. Since the building's inception and throughout history, in many different ways, it has always served people from providing them with groceries to being a hotbed of entertainment where people can take a break from the mundane.
   
 
 https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater%20Tickets_photo4.jpg
