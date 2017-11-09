@@ -33,3 +33,8 @@ The house did have several owners after Whittlesey passed away and is now home t
 The APC has taken very good care of this log cabin in the desert as shown on google maps, it is constantly under improvement.
 
 Hopefully at some point in the future this glorious home can return to its former glory.
+<h4> Sources </h4>
+http://www.worldwar1.com/dbc/whitt.htm
+http://www.city-data.com/articles/The-Whittlesey-House-Albuquerque-New.html
+http://www.abqpressclub.com/house-history/
+
