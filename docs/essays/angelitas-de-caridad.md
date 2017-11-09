@@ -68,7 +68,12 @@ Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used
 
 In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown. As the railroads urbanized cities across the country, New Mexico's climate offered something different, aid for Tuberculosis victims. The dry air and high elevations made Albuquerque the ideal place to live and establish hopsitals. Tuberculosis as the catalyst and the railroad as the facilitator, Martineztown became a new hub for Albuquerque society. Businesses would eventually enclose Martineztown Park to its current position, thus creating an timecaplse within the cityscape.  
 
-
+{% include figure.html
+  class="img-left"
+  width="40%"
+  caption="Lovelace Hospital overlooking Martineztown Park"
+  src="images/dmartinez_lovelace.jpg"
+%}
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_,and Albuquerque
 
@@ -86,16 +91,6 @@ The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and l
   text=" Frank Martinez resident of Martineztown recalls,'I grew up with the hospital less than a block away from where I was born,” Martinez said. “My mom was employed by the Sisters of Charity, and I served on the hospital’s board of trustees for a number of years'." %}
 
 The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters. Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
-
-
-{% include figure.html
-  class="img-right"
-  width="40%"
-  caption="Lovelace Hospital overlooking Martineztown Park"
-  src="images/dmartinez_lovelace.jpg"
-%}
-
-
 
 
 ## *"Angelitas De Caridad"* Sculpture and Artist
