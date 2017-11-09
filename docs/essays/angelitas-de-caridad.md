@@ -90,7 +90,7 @@ The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and l
   class="pullquote"
   text=" Frank Martinez resident of Martineztown recalls,'I grew up with the hospital less than a block away from where I was born,” Martinez said. “My mom was employed by the Sisters of Charity, and I served on the hospital’s board of trustees for a number of years'." %}
 
-The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters. Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
+The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters.[^srcharitycinti] Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
 
 
 ## *"Angelitas De Caridad"* Sculpture and Artist
