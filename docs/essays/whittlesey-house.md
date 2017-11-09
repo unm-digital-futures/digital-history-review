@@ -18,6 +18,7 @@ The Whittlesey House is an odd gem amongst the masses of pueblo and ranch style 
 The Whittlesey House was designed and built by Charles Whittlesey as his family residence in 1903 on the western edge of the Highland east of Albuquerque. It is a three-story frame structure designed after a Norwegian villa. Low-pitch roofs with exposed log fronting, rough log-cut facades and a wide porch, which surrounds its eastern rooms, characterize the house.
 <H3> The Albuquerque Press Club </H3>
 The house did have several owners after Whittlesey passed away and is now home to the [Albuquerque Press Club.](http://www.abqpressclub.com/house-history/) The Press Club only recently opened its doors to member of the public, thus dissipating some of the mystery of this log cabin in the desert. Under the ownership of the APC many upgrades have been made to the property to ensure its safety for any guests that come through the door. These renovation include: new NW porch foundations, evaporative cooling, new front room ceiling, and a new roof to name a few things.
+<div>
 {% include figure.html
   class="img-left"
   width="45%"
@@ -30,8 +31,8 @@ The house did have several owners after Whittlesey passed away and is now home t
   height="50%"
   caption="Remodeling the Pourch"
   src="images/whit5.jpg"%}
+  </div>
 The APC has taken very good care of this log cabin in the desert as shown on google maps, it is constantly under improvement.
-
 Hopefully at some point in the future this glorious home can return to its former glory.
 <h4> Sources </h4>
 http://www.worldwar1.com/dbc/whitt.htm
