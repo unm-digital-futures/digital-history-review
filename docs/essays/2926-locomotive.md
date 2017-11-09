@@ -27,9 +27,6 @@ To start, whoa, never have I stood in front of a locomotive that immense, ever! 
 ![brake-system](images/2926-brake-system.jpg)
 The city displayed the locomotive as a static exhibit in Coronado Park until it was sold to the New Mexico Steam Locomotive and Railroad Historical Society on July 26, 1999. Subsequently, May 2002, the locomotive was moved by the railroad to its current location near the intersection of 8th Street and Haines Ave where it is undergoing restoration to operating condition by the Railroad Historical Society. There the 1,000,000lb engine and the caboose has been repainted and major rebuilding of the steam engine. (https://en.wikipedia.org/wiki/Santa_Fe_2926 http://krqe.com/2017/09/23/unique-steam-engine-restoration-near-completion/). 
 In addition, a major overhaul of the brake system was needed to get the locomotive up to specifications in order to be an operational future tourist train.
-[Wikipedia Page](https://en.wikipedia.org/wiki/Simms_Building).
-
-
 
 ## Why this train and not a modern diesel?
 During WWII, with a critical need for more motive power, Atchison Topeka & Santa Fe Railroad  petitioned the U.S. War Production Board for permission to acquire new locomotives to meet increased rail service demand.  In 1944, steam power was already giving way to diesel.  Diesel  engines were quickly replacing steam engines, but the materials needed for Diesel and the uses of diesel engines were mainly used to move military equipment. AT&SF preferred diesel, but due to the production strains and need for diesel in other areas, the WPB would only approve steam, using existing mid-century steam locomotive technology.  The WPB approved the acquisition of thirty 4-8-4 (Northern) type steam locomotives—the 2900 Series.  The 4-8-4 type locomotives were considered by many rail experts to represent the pinnacle of high speed steam.  This particular model of steam engine could travel as fast as 100 mph.
