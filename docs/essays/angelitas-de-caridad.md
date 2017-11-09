@@ -108,6 +108,7 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 %}
 
 
+
 {% include figure.html
   class="img-left"
   width="37%"
