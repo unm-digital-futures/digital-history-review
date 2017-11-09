@@ -20,8 +20,8 @@ date: 2017-11-09
 
 {% include juxtapose.html
 image1="images/AndaluzH1.jpg"
-image2="images/AndaluzP3.jpg"%
-}
+image2="images/AndaluzP3.jpg"
+%}
 
 ![AndaluzH1](images/AndaluzH1.jpg "AndaluzH1 Historic Building") ![AndaluzH3](images/AndaluzP3.jpg "AndaluzH3 Present Building")
 
