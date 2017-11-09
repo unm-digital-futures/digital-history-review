@@ -19,8 +19,8 @@ Picture this, you just flew into Albuquerque and after a long flight all you wan
 
 ## **Jones Motor Co.**
 {% include figure.html
-class="img-left"
-width="33%"
+class="img-right"
+width="50%"
 caption="Jones Motor Co."
 src="images/merin-historic-1.jpg"
 %}
@@ -33,7 +33,7 @@ src="images/merin-historic-1.jpg"
 Originally built in 1939 as Jones Motor Co. Ralph Jones (the creator of this historical site) commisioned this project, a service station, car dealership and gas station in 1939 with Tom Danahy as the architect and designer.[^source1] The building served its intendended purpose until 1957 when Jones Motor Co. moved out and into a bigger, newer building farther down the street. After this decision the building had been used for various types of businesses, including at one point a *Goodwill* as well as a *Furniture Mart*.[^source2]
 
 {% include figure.html
-class="img-right"
+class="img-left"
 width="33%"
 caption="Transitional Period"
 src="images/merin-historic-2.jpg"
@@ -60,8 +60,8 @@ src="images/merin-modern-2.jpeg"
 ## **Design**
 
 {% include figure.html
-  class="img-left"
-  width="33%"
+  class="img-right"
+  width="50%"
   caption="Original Design"
   src="images/merin-modern-1.jpg"
 %}
@@ -72,7 +72,7 @@ The architect Tom Danahy designed the building in a Streamline Moderne style. A 
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="50%"
   caption="Lights"
   src="images/merin-modern-3.jpg"
 %}
@@ -95,7 +95,7 @@ Today, Route 66 has changed from the major highway it once was into clipped sect
 ### Hiway House Motel
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="50%"
   caption="Hiway House Motel"
   src="images/merin-modern-5.jpg"
 %}
