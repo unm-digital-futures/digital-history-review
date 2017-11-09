@@ -29,7 +29,7 @@ Encompassed by the urban sprawl of the central business district, *Martineztown 
 %}
 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="30%"
   caption="Martineztown Park with view of Longfellow Elementary"
   src="images/dmartinez_aerialview.jpg"
