@@ -5,8 +5,6 @@ css: el-rey-theater_styling.css
 date: 2017-11-08
 ---
 
----
----
 
 {% include jumbotron.html
 title="Historic El Rey Theater"
