@@ -81,13 +81,11 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 
 The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing a santiarium, schools, and orphanages. In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one if not the only facility at the time to treat pulmonary disease in the Southwest. 
 
-The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters. Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
-
 {% include aside.html
   class="pullquote"
   text=" Frank Martinez resident of Martineztown recalls,'I grew up with the hospital less than a block away from where I was born,” Martinez said. “My mom was employed by the Sisters of Charity, and I served on the hospital’s board of trustees for a number of years'." %}
 
-
+The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters. Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
 
 
 {% include figure.html
