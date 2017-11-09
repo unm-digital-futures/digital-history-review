@@ -105,5 +105,4 @@ The Parq Central Hotel did serve its purpose in boosting the economy by using hi
 ### Footnotes
 
 [^Injured-workers]: [Injured railway workers](http://www.kansasmemory.org/item/227818)
-
 [^Landmark]: [Historic landmark](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks)
