@@ -70,7 +70,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 
 {% include figure.html
   class="img-left"
-  width="40%"
+  width="33%"
   caption="Lovelace Hospital overlooking Martineztown Park"
   src="images/dmartinez_lovelace.jpg"
 %}
