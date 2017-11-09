@@ -28,7 +28,7 @@ text="The number one concert venue in the southwest!"
 %}
 
 The *Historic El Rey Theater*, located [here](https://www.google.com/maps/place/The+Historic+El+Rey+Theater/@35.0849752,-106.6570599,17z/data=!4m16!1m10!4m9!1m6!1m2!1s0x87220cc724858d49:0x1b073e188c728dc!2sThe+Historic+El+Rey+Theater,+Central+Avenue+Southwest,+Albuquerque,+NM!2m2!1d-106.6550065!2d35.0846877!1m1!4e1!3m4!1s0x87220cc724858d49:0x1b073e188c728dc!8m2!3d35.0846877!4d-106.6550065) in downtown Albuquerque, has taken on many roles over the course of its spatial history. including a grocery store, a few different bars, various kinds of shops, but mostly a movie theater and a venue for shows. The architect, Joseph B. Burwinkle, combined his efforts with the Lembke Construction company to produce the El Rey Theater as it is today. Since 1981, the El Rey Theater building itself has solely been used to further bring art to as many people as possible in the form of musical shows. The architect's in-laws, the Bachechi's, built the *Kimo Theater* which, along with the El Rey Theater, is also an official *historical building of Albuequerque.*
-{% include aside.html
+{% include full-width.html
   class="pullquote"
   text="From Grocery Store to Saloon & Concert Hall to Nightclub, *The El Rey Theater* has had a lively spatial history and is currently making history as one of the premier concert venues of the midwest. "
   %}
