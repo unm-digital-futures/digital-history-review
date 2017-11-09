@@ -44,7 +44,7 @@ Neslted peacefully in the corner of the park at the bottom of the hill with Love
 
 
 {% include figure.html
-  class="img-center"
+  class="img-right"
   width="40%"
   caption="Beauty among the trees"
   src="images/dmartinez_sideview.jpg"
@@ -56,7 +56,7 @@ Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used
 
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="28%"
   caption="Martineztown Acequia"
   src="images/dmartinez_acequia.jpg"
