@@ -1,7 +1,7 @@
 ---
 Title: La Curandera y su Jardin
 Author: Will Moreno
-CSS: Curandera.css
+CSS: curandera.css
 ---
 {% include jumbotron.html
 title="La Curandera Y Su Jardin"
@@ -24,7 +24,7 @@ This is a website dedicated to the structure known as "La Curandera y su Jardin"
   %}
 
 ## The Artist
-Reynaldo "Sonny" Rivera is a homegrown New Mexican who is considered by most to be New Mexico's most famous sculptor. Rivera began his work as an artist when he was living in Mequite, New Mexico as a kid. "Sonny" will turn 80 in 2019. With decades of experiance, Reynaldo Rivera has a large resume, with over 40 works of art throughout the country. Aside from being an artist, Rivera is also a Barber. Some of his clients included former Governors and Senators.
+Reynaldo "Sonny" Rivera is a homegrown New Mexican who is considered by most to be New Mexico's most famous sculptor. Rivera began his work as an artist when he was living in Mequite, New Mexico as a kid. With decades of experiance, Reynaldo Rivera has a large resume, with over 40 works of art throughout the country. Aside from being an artist, Rivera is also a Barber. Some of his clients included former Governors and Senators.
 
 ## What is a Medicine Woman
 {% include figure.html
@@ -53,12 +53,12 @@ The inspiration for the sculpture comes from the book "Bless Me, Ultima". The bo
   class="img-right"
   width="33%"
   caption="Entrance Sign"
-  src="images/la_curandera_5.jpg"
+  src="images/la_curandera_5.png.jpg"
 %}
 {% include aside.html
   class="pullquote"
   text="The structure is a celebration of plants with healing capabilities."
-  %}The statue is located in the Botanical Garden. The Botanical Garden is a historic location for not just Albuquerque, but for New Mexico. The Botonical Garden is only one mile West of Old Town on the historic Route 66. The Botanical Garden showcases mostly New Mexico plants such as yucca, agave, cholla, fairy duster, and apache plus, with some Mediterranean plants as well. These plants, native to New Mexico, are among the most popular plants used by the Curanderas. The Structure which is in the Botonical Garden was revealed only two years after the Botanical Garden opened. The Garden is opened year round, so the Sculpture is always available, and the plants grow year round. The sculpture happens to be one of the biggest in the Botonical Garden, which is 36 acres. It is situated in the Medicinal Herb display. These are the herbs Curanderas use for their work. Curanderas continue to grow such Medicinal herbs in their own extensive gardens for their spiritual healing and for food. Modern day curanderas use their herbs for everyday lives for themselves and their families, including their children. The sculpture was placed here for this reason. Being located in the Botanical Garden, only those who visit the Botanical Garden will be able to see it. Although it represents a big part of New Mexico's history, it focuses on the Herbal history. Inside the Botanical Garden that history is represented with all the herbs. The structure is a celebration of plants with healing capabilities. The structure is so big, and being a statue, it will be easy to spot, and also know that you are looking at a piece of art. The Botanical Garden is a representation of New Mexico herbs. Herbs have been an important part of New Mexico for centuries, as some historians would suggest. This structure gives visitors a feel for what New Mexico's history with herbs is like. From the herbs, the Curanderas recieve their living. The Botanical Garden does not dedicate itslef to Curanderas, but to the herbs. The structure will let visitors from other states know that the herbs in display are much more important to New Mexico's culture. With Curanderas being a big part of New Mexico's history, the Structure depicts an important part of New Mexico. The Medicinal Herb Display is the perfect location for the Sculpture. The herbs found feet away are the same herbs used by those Curanderas, who are a major part of New Mexico.
+  %}The statue is located in the Botanical Garden. The Botanical Garden is a historic location for not just Albuquerque, but for New Mexico. The Botonical Garden is only one mile West of Old Town on the historic Route 66. The Botanical Garden showcases mostly New Mexico plants such as yucca, agave, cholla, fairy duster, and apache plus, with some Mediterranean plants as well. These plants, native to New Mexico, are among the most popular plants used by the Curanderas. The Structure which is in the Botonical Garden was revealed only two years after the Botanical Garden opened. [^waymarking] The Garden is opened year round, so the Sculpture is always available, and the plants grow year round. The sculpture happens to be one of the biggest in the Botonical Garden, which is 36 acres. It is situated in the Medicinal Herb display. [^flickr] These are the herbs Curanderas use for their work. Curanderas continue to grow such Medicinal herbs in their own extensive gardens for their spiritual healing and for food. Modern day curanderas use their herbs for everyday lives for themselves and their families, including their children. The sculpture was placed here for this reason. Being located in the Botanical Garden, only those who visit the Botanical Garden will be able to see it. Although it represents a big part of New Mexico's history, it focuses on the Herbal history. Inside the Botanical Garden that history is represented with all the herbs. The structure is a celebration of plants with healing capabilities. The structure is so big, and being a statue, it will be easy to spot, and also know that you are looking at a piece of art. The Botanical Garden is a representation of New Mexico herbs. Herbs have been an important part of New Mexico for centuries, as some historians would suggest. This structure gives visitors a feel for what New Mexico's history with herbs is like. From the herbs, the Curanderas recieve their living. The Botanical Garden does not dedicate itslef to Curanderas, but to the herbs. The structure will let visitors from other states know that the herbs in display are much more important to New Mexico's culture. With Curanderas being a big part of New Mexico's history, the Structure depicts an important part of New Mexico. The Medicinal Herb Display is the perfect location for the Sculpture. The herbs found feet away are the same herbs used by those Curanderas, who are a major part of New Mexico.
 
 {% include figure.html
   class="img-left"
