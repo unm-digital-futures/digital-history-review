@@ -12,7 +12,7 @@ text="Convenience & Luxury"
 %}
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="20%"
   caption="View from the Apothecary Lounge."
   src="images/TBImage7.png"
