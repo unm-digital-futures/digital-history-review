@@ -69,12 +69,14 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
   class="pullquote"
   text=" 'As patients arrived and lived in rooming houses, tent cities, sanatoriums, and on the streets, hoping the mountain air would cure them, locals became infected.' writer Jennifer Levin states in her article The lungers' legacy: Tuberculosis patients in New Mexico " %}[^tuberculosisnewmexico]
 
+
 {% include figure.html
   class="img-left"
   width="25%"
   caption="Lovelace Hospital overlooking Martineztown Park"
   src="images/dmartinez_lovelacebackdrop.jpg"
 %}
+
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_,and Albuquerque
 
