@@ -50,7 +50,7 @@ Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used
 {% include figure.html
   class="img-left"
   width="28%"
-  caption="Martineztown Acequia"
+  caption="Martineztown *Acequia Madre de Los Barelas* "
   src="images/dmartinez_acequia.jpg"
 %}
 
