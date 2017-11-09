@@ -1,3 +1,5 @@
+[Wikipedia Page](https://en.wikipedia.org/wiki/Simms_Building).
+
 
 
 ---
@@ -39,7 +41,9 @@ class='img-left'
 width='50%'
 caption='Bataan Park Train Depot'
 src='images/Bataanpark.jpg'%}
-At the train’s current resting place, a private railroad society is rebuilding the 2926 for an opportunity to run specialty tours up to Las Vegas, New Mexico. A society member and I spoke a bit, he mentioned that so many repairs were needed, several retired mechanical engineers, machinists, and electrical retirees are spending time reinventing this marvel. The 2926 could be up and running later next year. The society plans to take passengers up to the Harvey House hotel (currently also being renovated by a conglomerated effort between the hotel and historical society.) ado, La Posada in Winslow, AZ, and El Tovar at the Grand Canyon.   Many people have fond memories of that rail heritage, and seek out such items of remembrance.  
+At the train’s current resting place, a private railroad society is rebuilding the 2926 for an opportunity to run specialty tours up to Las Vegas, New Mexico. A society member and I spoke a bit, he mentioned that so many repairs were needed, several retired mechanical engineers, machinists, and electrical retirees are spending time reinventing this marvel. The 2926 could be up and running later next year. The society plans to take passengers up to the Harvey House hotel (currently also being renovated by a conglomerated effort between the hotel and historical society.) ado, La Posada in Winslow, AZ, and El Tovar at the Grand Canyon.   Many people have fond memories of that rail heritage, and seek out such items of remembrance.  [Wikipedia Page](https://en.wikipedia.org/wiki/Simms_Building).
+
+
 
 ## What is next for the Santa Fe 2926?
 ![HarveyHouse](images/harveyhouse-LV-NM.jpg)
