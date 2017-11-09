@@ -1,7 +1,7 @@
 ---
-Title: Zimmerman Library
-Author: Bryce Brooks
-CSS: brooks.css
+title: Zimmerman Library
+author: Bryce Brooks
+css: brooks.css
 ---
 {% include jumbotron.html
 title="Zimmerman Library"
@@ -75,8 +75,8 @@ src="images/Zimm8.PNG"
 The area around Zimmerman was once a empty space. Now it's the main attraction on campus. Located right by the big court yard, its a perfect place for Meem to have envisioned what was to come for this great campus. Unfortunately, the view of the mountains are no longer visible. As the university grew so did the number of buildings on campus. Even in the year 2017, brand new modern buildings are still keeping to New Mexico's style of adobe buildings. From Zimmerman Libraries humble beginnings to now, there has been a significant amount of upgrades to this historical building. There are three floors with a basement as well. The first floor is where the most foot traffic occurs. Also including a Starbucks making the library very modern. The next two floors above are where most of the book cases are located. Along with different offices for student help and service. The basement is where a lot of the important documentation is located. Ranging any were from government documents to past dissertations. All of these extra elements is exactly what John Meem wanted for a ever expanding university.
 
 {% include figure.html
-  class="img-left"
-  width="33%"
+  class="img-right"
+  width="40%"
   caption="Current day Zimmerman"
   src="images/Zimm7.PNG"
 %}
