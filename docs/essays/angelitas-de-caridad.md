@@ -72,7 +72,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
   class="img-left"
   width="33%"
   caption="Lovelace Hospital overlooking Martineztown Park"
-  src="images/dmartinez_lovelace.jpg"
+  src="images/dmartinez_lovelacebackdrop.jpg"
 %}
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_,and Albuquerque
