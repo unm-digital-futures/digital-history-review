@@ -41,7 +41,7 @@ There are five acequias that currently run through the South Valley. They are th
 
 What exsists today in the South Valley in terms of its environment is a mix of the rich agricultural lands centered around the acequias, and an expanding urban development spurred by the city of Albuquerque and private developers. The expansion of Albuquerque, largely due to factors like modernization and gentrification, has meant that acequias of the Atrisco operate in a semi-urban/semi-rural environment that is unique from most acequias, which tend to be rurally isolated.
 
-The Sanchez Farms Open Space serves as a public area that is centralized in the South Valley, and highlights the hybrid spatial reality of the acequias. The vast open space that sits beside the acequia is a dirt-shrub field within a basin and surrounded by trees and a circular trail. Overlooking the basin, sitting beside the acequia, is a circular terrace area with rocks around its perimeter. The terrace area and field are designed to promote the use of the space surrounding the acequia for recreational purposes and social gatherings.
+The [Sanchez Farms Open Space](http://www.bernco.gov/community-services/sanchez-farm-open-space.aspx) serves as a public area that is centralized in the South Valley, and highlights the hybrid spatial reality of the acequias. The vast open space that sits beside the acequia is a dirt-shrub field within a basin and surrounded by trees and a circular trail. Overlooking the basin, sitting beside the acequia, is a circular terrace area with rocks around its perimeter. The terrace area and field are designed to promote the use of the space surrounding the acequia for recreational purposes and social gatherings.
 
 {% include aside.html
   class="pullquote"
