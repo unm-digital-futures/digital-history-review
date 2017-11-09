@@ -22,6 +22,7 @@ To start, whoa, never have I stood in front of a locomotive that immense, ever! 
 ![brake-system](images/2926-brake-system.jpg)
 The city displayed the locomotive as a static exhibit in Coronado Park until it was sold to the New Mexico Steam Locomotive and Railroad Historical Society on July 26, 1999. Subsequently, May 2002, the locomotive was moved by the railroad to its current location near the intersection of 8th Street and Haines Ave where it is undergoing restoration to operating condition by the Railroad Historical Society. There the 1,000,000lb engine and the caboose has been repainted and major rebuilding of the steam engine. In addition, a major overhaul of the brake system was needed to get the locomotive up to specifications in order to be an operational future tourist train.
 .https://en.wikipedia.org/wiki/Santa_Fe_2926 http://krqe.com/2017/09/23/unique-steam-engine-restoration-near-completion/
+
 ## Why this train and not a modern diesel?
 During WWII, with a critical need for more motive power, Atchison Topeka & Santa Fe Railroad  petitioned the U.S. War Production Board for permission to acquire new locomotives to meet increased rail service demand.  In 1944, steam power was already giving way to diesel.  Diesel  engines were quickly replacing steam engines, but the materials needed for Diesel and the uses of diesel engines were mainly used to move military equipment. AT&SF preferred diesel, but due to the production strains and need for diesel in other areas, the WPB would only approve steam, using existing mid-century steam locomotive technology.  The WPB approved the acquisition of thirty 4-8-4 (Northern) type steam locomotives—the 2900 Series.  The 4-8-4 type locomotives were considered by many rail experts to represent the pinnacle of high speed steam.  This particular model of steam engine could travel as fast as 100 mph.
 ## Where did this train go in its travels?
@@ -61,7 +62,10 @@ Just unexplored land, most of the freeways that we use today to get from state t
   width='100%'
   caption='We are almost ready to go on our journey.'
   src='images/2926front.jpg'%}
-At the train’s current resting place, a private railroad society is rebuilding the 2926 for an opportunity to run specialty tours up to Las Vegas, New Mexico. A society member and I spoke a bit, he mentioned that so many repairs were needed, several retired mechanical engineers, machinists, and electrical retirees are spending time reinventing this marvel. The 2926 could be up and running later next year. The society plans to take passengers up to the Harvey House hotel (currently also being renovated by a conglomerated effort between the hotel and historical society.) and may go on further if the tours are successful. Making this the only 4-8-4 train on the tracks today.
+At the train’s current resting place, a private railroad society is rebuilding the 2926 for an opportunity to run specialty tours up to Las Vegas, New Mexico. A society member and I spoke a bit, he mentioned that so many repairs were needed, several retired mechanical engineers, machinists, and electrical retirees are spending time reinventing this marvel. The 2926 could be up and running later next year. The society plans to take passengers up to the Harvey House hotel (currently also being renovated by a conglomerated effort between the hotel and historical society.) and may go on further if the tours are successful. Making this the only 4-8-4 train on the tracks today. [Historical Train Society] (http://www.chucksville.com/steam.html) 
+
+check utabby.com
+
 http://www.chucksville.com/steam.html
 check utabby.com
 http://nmslrhs.org/
