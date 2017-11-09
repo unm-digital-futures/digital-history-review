@@ -81,13 +81,13 @@ Figure 4. Mondragon, Jerome T., *Here 7*. 2017. Digital Image. Albuquerque, NM.
 
 [^source3]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. [http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/](http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/)
 
-[^source4]: Board of Regents, New Mexico State University. "Rachel Stevens" *New Mexico State University*. 2016.[https://artdepartment.nmsu.edu/rachel-stevens/][https://artdepartment.nmsu.edu/rachel-stevens/]
+[^source4]: Board of Regents, New Mexico State University. "Rachel Stevens" *New Mexico State University*. 2016.[https://artdepartment.nmsu.edu/rachel-stevens/](https://artdepartment.nmsu.edu/rachel-stevens/)
 
 [^source5]: "Dedication Ceremony for 'You Are Here' by Rachel Stevens."*City of Albuquerque*.2017. [http://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens](http://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens)
 
 [^source6]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. [http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/](http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/)
 
-[^source7]: "Ventana Ranch Community."*City of Albuquerque*.2017. [www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view](http://.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view)
+[^source7]: "Ventana Ranch Community."*City of Albuquerque*.2017. [www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view](http://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view)
 
 
 
