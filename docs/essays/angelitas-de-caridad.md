@@ -95,7 +95,7 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
 
 ## *"Angelitas De Caridad"* Sculpture and Artist
 
-Commissioned by the South Martineztown community and created by Albuquerque artist Linda DaBeau, the sculpture is a limestone winged angel standing at 25 feet tall and 16 feet wide with a bronze wrap around fountain base feature. The base depicts 42 figures and 22 buildings as a narrative to the Sisters story. [^srcharitycinti] Though it is situated in Martineztown Park and below the hill of Lovelace, the site itself is nestled away along the curving road of High St. enclosed by trees and flowers making it an almost hidden location within the park itself. Adobe homes beautifully line the north and west blocks maintaining its historic charm.   
+Commissioned by the South Martineztown community and created by Albuquerque artist Linda DaBeau, the sculpture is a limestone winged angel standing at 25 feet tall and 16 feet wide with a bronze wrap around fountain base feature. The base depicts 42 figures and 22 buildings as a narrative to the Sisters story. [^Public Archive] Though it is situated in Martineztown Park and below the hill of Lovelace, the site itself is nestled away along the curving road of High St. enclosed by trees and flowers making it an almost hidden location within the park itself. Adobe homes beautifully line the north and west blocks maintaining its historic charm.   
 
 {% include figure.html
   class="img-right"
@@ -137,10 +137,12 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 
 
 [^srcharitycinti]: [Sister of Charity of Cincinnati](http://http://www.srcharitycinti.org/news_events/dabeau.htm)
-
+[^Public Archive]: [Sister of Charity of Cincinnati](http://http://http://www.publicartarchive.org/work/angelitos-de-caridad)
 
 ### References
 <http://www.srcharitycinti.org/news_events/images/dabeau.jpg>
+
+<http://www.publicartarchive.org/work/angelitos-de-caridad>
 
 <http://www.mrwmla.com/martineztown-park/>
 
