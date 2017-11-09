@@ -22,6 +22,10 @@ The inspiration and mastermind architect behind the creation of Zimmerman Librar
 ### The Creation
 
 In the year 1929, one of the University of New Mexico's late presidents, James Zimmerman applied for federal money through the New deal. After receiving the financial help, the main plan was to build a core of buildings for the expanding university. President Zimmerman wanted the style of the new buildings to follow along with the culture of the adobe housing in New Mexico. John Meem, who was gaining a lot of attention through his southwest architectural style was the right man for the job. Meem was hired to commission multiple buildings on UNMs main campus. The building most famous from John Meems commissions was Zimmerman Library.
+{% include aside.html
+  class="pullquote"
+  text="John Meem, who was gaining a lot of attention through his southwest architectural style was the right man for the job."
+  %}
 
 
 
@@ -57,10 +61,10 @@ src="images/Zimm4.PNG"
 The area around Zimmerman was once a empty space. Now it's the main attraction on campus. Located right by the big court yard, its a perfect place for Meem to have envisioned what was to come for this great campus. Unfortunately, the view of the mountains are no longer visible. As the university grew so did the number of buildings on campus. Even in the year 2017, brand new modern buildings are still keeping to New Mexico's style of adobe buildings. From Zimmerman Libraries humble beginnings to now, there has been a significant amount of upgrades to this historical building. There are three floors with a basement as well. The first floor is where the most foot traffic occurs. Also including a Starbucks making the library very modern. The next two floors above are where most of the book cases are located. Along with different offices for student help and service. The basement is where a lot of the important documentation is located. Ranging any were from government documents to past dissertations. All of these extra elements is exactly what John Meem wanted for a ever expanding university.
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="33%"
   caption="Current day Zimmerman"
-  src="images/Zimm6.PNG"
+  src="images/Zimm7.PNG"
 %}
 
 ### Closing Statement
