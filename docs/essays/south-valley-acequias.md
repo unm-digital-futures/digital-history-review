@@ -1,7 +1,7 @@
 ---
 title: South Valley Acequias
 author: James Gleason
-css: gibbs.css
+css: southvalleyacequias.css
 date: 2017-11-07
 ---
 
