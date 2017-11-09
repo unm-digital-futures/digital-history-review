@@ -35,7 +35,7 @@ In the year 1929, one of the University of New Mexico's late presidents, James Z
   src="images/Zimm4.PNG"
 %}
 
-### The Layout
+## The Layout
 
 Zimmerman Library was built with the Spanish Pueblo style of architecture. The library was erected on the unfinished part of the university. Currently Zimmerman Library sits right in the middle of campus almost celebrating the great build by the southwest architectural builder. The main building stands two stories high. With wings running north, south, east, and west. The exterior steel, concrete brick, and buttressing corners had resemblance of the mission churches. Where Meem first received experience to the southwestern architectural style. The interior of Zimmerman Library was completed by local craftsman around Albuquerque. This entailed anywhere from the murals inside, intricate wood carvings, and handmade furniture. All of these tiny details were in attempt to keep this new building as close to the New Mexican culture as possible.
 
