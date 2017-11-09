@@ -11,14 +11,14 @@ image2="images/AndaluzP3.jpg"%
 
 ![AndaluzH1](images/AndaluzH1.jpg "AndaluzH1 Historic Building") ![AndaluzH3](images/AndaluzP3.jpg "AndaluzH3 Present Building")
 
-Space
+#Space#
 
 The Hotel Andaluz is located at 125 2nd St NW, Albuquerque, NM. The building was built on June 9, 1939 and originally named the Hilton Hotel, after the original owner and native New Mexican Conrad Hilton. This building at the time was the tallest building in New Mexico and had the first air conditioner and elevator with 176 rooms. The property was sold twice being renamed to Hotel Plaza and then Hotel Bradford but never opened. Again in 1983 the hotel was sold and named Southwest Resorts and was renovated with 114 rooms and four suits. A year later the hotel re-opened as La Posada de Albuquerque. By 2005 the building was up for auction and was up for auction. The hotel was the last of three historic hotels that Albuquerque had. Gary Goodman went to the auction with no intentions of buying anything, he felt the need to preserve the historical property to New Mexico instead of allowing other international chains to take over the hotel. He purchased the hotel for $4 million and in 2005 renamed the hotel to Hotel Andaluz.
 
 ![AndaluzH4](images/AndaluzH4.jpg "AndaluzH4 Historic Lobby")
 ![AndaluzH2](images/AndaluzP2.jpg "AndaluzH2 Present Lobby")
 
-Architecture
+#Architecture#
 
 
 
@@ -29,13 +29,13 @@ The original architect of the building was Anton F. Korn who designed the ten-st
 
 John Gaw Meem and Willard C. Kruger had revived this style in the 1930s as a more formal alternative to the hybrid Spanish-Pueblo Style, and its formality made it well-suited to the rectilinear precision and planarity of the Hilton Hotel’s structure of cast-in-place concrete. The two-story entrance lobby tempered this modernity, and its promise of comfort, with tile floors and ornamental details in carved wood, round arches overlooked by balconies and a beamed ceiling above, and murals by Ben Turner and Lloyd Moylan: New Mexican, Mexican, and Spanish motifs are freely combined in a romantic evocation of the Land of Enchantment. The new property features Más restaurant, the rooftop bar Ibiza and 6,000 square feet of conference facilities.
 
-Style
+#Style#
 
 ![AndaluzH1](images/AndaluzP1.jpg "AndaluzH1 Present Entrance")
 
 The hotel in full is full of are from the large lobby mural, along with many art events throughout the week, as well as an over 3000 square foot gallery. Much of the building is salvaged of its original décor and materials, it also has large restroom vanities from 1980’s celling remnants, original recrafted bed frames, and the table tops from the restaurant are made of recycled cork. The newest features incorporate a geothermal water-heating system that keeps greenhouse gases out of the atmosphere as well as a rooftop rainwater-capturing system to water plants. Hotel Andaluz is one of two hotels in the United States to have a LEED-Gold certification and apart of the National Register of Historic Places.
 
-Location
+#Location#
 
 ![AndaluzH2](images/AndaluzH2.jpg "AndaluzH2 Historic Meeting")
 
