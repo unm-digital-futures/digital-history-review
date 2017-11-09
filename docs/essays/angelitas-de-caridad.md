@@ -62,8 +62,8 @@ Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used
 
 
 {% include figure.html
-  class="img-center"
-  width="60%"
+  class="img-right"
+  width="50%"
   caption="Martineztown Acequia"
   src="images/dmartinez_acequia.jpg"
 %}
