@@ -14,7 +14,7 @@ text="Historic Martineztown Park"
 
 {% include figure.html
   class="img-center"
-  width="50%"
+  width="40%"
   caption="Angelitas De Caridad"
   src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
 %}
@@ -40,7 +40,7 @@ Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you
 
 {% include figure.html
   class="img-left"
-  width="55%"
+  width="30%"
   caption="Sculpture Hidden among the trees"
   src="images/dmartinez_hiddenview.jpg"
 %}
@@ -79,7 +79,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="35%"
   caption="Sisters of Charity of Cincinnati"
   src="images/dmartinez_sisters.jpg"
 %}
@@ -99,7 +99,7 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
 
 {% include figure.html
   class="img-right"
-  width="30%"
+  width="25%"
   caption="LInda DaBeau"
   src="images/dmartinez_linda_image10.jpg"
 %}
@@ -113,7 +113,7 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 
  {% include figure.html
   class="img-right"
-  width="33%"
+  width="30%"
   caption="Illustrations of the Sisters arriving to Martineztown"
   src="images/dmartinez_Base_image8.png"
 %}
@@ -121,7 +121,7 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="30%"
   caption="Sisters of Charity Lovelace Hospital"
   src="images/dmartinez_Base2_image9.png"
 %}
