@@ -91,7 +91,7 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
 
 
 {% include figure.html
-  class="img-center"
+  class="img-left"
   width="50%"
   caption="Lovelace Hospital overlooking Martineztown Park"
   src="images/dmartinez_lovelace.jpg"
@@ -131,6 +131,8 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
   caption="Sisters of Charity"
   src="images/dmartinez_Base2_image9.png"
 %}
+
+
 
 
 
