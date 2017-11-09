@@ -106,23 +106,23 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
 
 The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. As you take a Walk around the base, the orgin of the Sister's story and their commitment to the community is told through the illustrations. Plaques with words like Hope, Temperance, and Faith finish out the surrounding local. And the last plaque, in line with the sculpture and Lovelace Hosptial assert, "In Unity There is Strength". This message defines the motto of not only *Sisters of Charity* but what they brought to the commumnity of Martineztown and Albuquerque.
 
- {% include figure.html
-  class="img-right"
-  width="30%"
-  caption="Illustrations of the Sisters arriving to Martineztown"
-  src="images/dmartinez_Base_image8.png"
-%}
 
 
 {% include figure.html
   class="img-right"
-  width="30%"
-  caption="Sisters of Charity Lovelace Hospital"
+  width="25%"
+  caption="Sisters of Charity founding Lovelace Hospital"
   src="images/dmartinez_Base2_image9.png"
 %}
 
 
 
+ {% include figure.html
+  class="img-right"
+  width="25%"
+  caption="Illustrations of the Sisters arriving to Martineztown"
+  src="images/dmartinez_Base_image8.png"
+%}
 
 
 
