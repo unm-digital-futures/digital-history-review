@@ -87,8 +87,7 @@ Figure 4. Mondragon, Jerome T., *Here 7*. 2017. Digital Image. Albuquerque, NM.
 
 [^source6]: "You Are Here" *Rachel Stevens-Sculpture*. 2011-2016. http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/
 
-[^source7]: "Ventana Ranch Community."*City of Albuquerque*.2017. 
-www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view
+[^source7]: "Ventana Ranch Community."*City of Albuquerque*.2017. www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view
 
 
 
