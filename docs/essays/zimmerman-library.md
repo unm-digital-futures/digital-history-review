@@ -28,6 +28,12 @@ In the year 1929, one of the University of New Mexico's late presidents, James Z
   %}
 
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Interior of Library"
+  src="images/Zimm4.PNG"
+%}
 
 ### The Layout
 
@@ -61,7 +67,7 @@ At the time of Zimmerman libraries creation, President Zimmerman wanted to prese
 class="img-right"
 width="50%"
 caption="Zimmerman Library"
-src="images/Zimm4.PNG"
+src="images/Zimm8.PNG"
 %}
 
 ### Current Day Zimmerman
