@@ -19,7 +19,6 @@ text="The number one concert venue in the southwest!"
 
 
 ## **Past & History**
-![Historical_image2](https://i.gyazo.com/7c4b6f2542f76ceff6610e71766c2644.png)
 
 {% include figure.html
   class="img-right"
