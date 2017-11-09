@@ -88,6 +88,8 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
   text=" Frank Martinez resident of Martineztown recalls,'I grew up with the hospital less than a block away from where I was born,” Martinez said. “My mom was employed by the Sisters of Charity, and I served on the hospital’s board of trustees for a number of years'." %}
 
 
+
+
 {% include figure.html
   class="img-center"
   width="50%"
@@ -96,13 +98,14 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
 %}
 
 
+
 ## *"Angelitas De Caridad"* Sculpture and Artist
 
 Commissioned by the South Martineztown community and created by Albuquerque artist Linda DaBeau, the sculpture is a limestone winged angel standing at 25 feet tall and 16 feet wide with a bronze wrap around fountain base feature. The base depicts 42 figures and 22 buildings as a narrative to the Sisters story. Though it is situated in Martineztown Park and below the hill of Lovelace, the site itself is nestled away along the curving road of High St. enclosed by trees and flowers making it an almost hidden location within the park itself. Adobe homes beautifully line the north and west blocks maintaining its historic charm.   
 
 {% include figure.html
   class="img-left"
-  width="40%"
+  width="30%"
   caption="LInda DaBeau"
   src="images/dmartinez_linda_image10.jpg"
 %}
@@ -131,8 +134,10 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 
 
 
+
 ## Why you should visit *Angelitas De Caridad* 
 Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of Albuquerque History. Though there is limited information on the sculpture itself, it represents an era in American and New Mexico history that forever changed the city, state, and country.  
+
 
 
 ### References
