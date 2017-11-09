@@ -31,7 +31,7 @@ In the year 1929, one of the University of New Mexico's late presidents, James Z
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Interior of Library"
+  caption="Exterior 1930"
   src="images/Zimm4.PNG"
 %}
 
