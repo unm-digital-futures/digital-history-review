@@ -1,8 +1,22 @@
 ---
+title:  Hotel Andaluz
+author: Sara Lopez
+css: gibbs.css
+date: 2017-11-09
+---
+
+---
 ---
 
 
 #Hotel Andaluz#
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Historic Andaluz"
+  src="images/AndaluzH1.jpg"
+%}
 
 {% include juxtapose.html
 image1="images/AndaluzH1.jpg"
