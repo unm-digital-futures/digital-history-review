@@ -42,14 +42,6 @@ Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you
 Neslted peacefully in the corner of the park at the bottom of the hill with Lovelace Hosptial as the backdrop sits the sculpture, *"Angelitas De Caridad"* by Albuquerque artist Linda DaBeau. Though the sculpture feels hidden, its white limestone wings stands out amongst its surrounding. Dedicated to the *Sisters of Charity of Cincinnati* came to New Mexico at the height of the Tuberculosis epedemic and aided the community by transforming St. Joseph's Sanitarium into present day Lovelace Hospital. Tuberculosis had killed more Americans than any other disease and continues to be one of the deadliest disease in the world. *"Angelitas De Caridad"* sculpture beautifully illustrates the history of Martineztown and the significant role the "Angeles of Charity" played in our states history.
 
 
-
-{% include figure.html
-  class="img-right"
-  width="40%"
-  caption="Beauty among the trees"
-  src="images/dmartinez_sideview.jpg"
-%}
-
 ## History of Martineztown
 
 Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used by prominent families for pastured lands and as a rest stop for travelers. In 1850 Don Miguel Martin built a permanent settlement along the *Acequia Madre de Los Barelas* and Martineztown was established. Slowly new businesses began to emerge connecting the old town with the new.
@@ -95,6 +87,15 @@ The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and l
   text=" Frank Martinez resident of Martineztown recalls,'I grew up with the hospital less than a block away from where I was born,” Martinez said. “My mom was employed by the Sisters of Charity, and I served on the hospital’s board of trustees for a number of years'." %}
 
 The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters.[^srcharitycinti] Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
+
+
+{% include figure.html
+  class="img-left"
+  width="30%"
+  caption="Beauty among the trees"
+  src="images/dmartinez_sideview.jpg"
+%}
+
 
 
 ## *"Angelitas De Caridad"* Sculpture and Artist
