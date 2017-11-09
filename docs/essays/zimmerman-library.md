@@ -1,7 +1,7 @@
 ---
 Title: Zimmerman Library
 Author: Bryce Brooks
-CSS:
+CSS: Brooks.CSS
 ---
 {% include jumbotron.html
 title="Zimmerman Library"
