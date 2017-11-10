@@ -25,7 +25,8 @@ To start, whoa, never have I stood in front of a locomotive that immense, ever! 
   src='images/2926-brake-system.jpg'%}
 ## Where is the train now?
 ![brake-system](images/2926-brake-system.jpg)
-The city displayed the locomotive as a static exhibit in Coronado Park until it was sold to the New Mexico Steam Locomotive and Railroad Historical Society on July 26, 1999. Subsequently, May 2002, the locomotive was moved by the railroad to its current location near the intersection of 8th Street and Haines Ave where it is undergoing restoration to operating condition by the Railroad Historical Society. There the 1,000,000lb engine and the caboose has been repainted and major rebuilding of the steam engine. (https://en.wikipedia.org/wiki/Santa_Fe_2926 http://krqe.com/2017/09/23/unique-steam-engine-restoration-near-completion/). 
+The city displayed the locomotive as a static exhibit in Coronado Park until it was sold to the New Mexico Steam Locomotive and Railroad Historical Society on July 26, 1999. Subsequently, May 2002, the locomotive was moved by the railroad to its current location near the intersection of 8th Street and Haines Ave where it is undergoing restoration to operating condition by the Railroad Historical Society. There the 1,000,000lb engine and the caboose has been repainted and major rebuilding of the steam engine. [Seewikipedia](https://en.wikipedia.org/wiki/Santa_Fe_2926)
+[kqre](http://krqe.com/2017/09/23/unique-steam-engine-restoration-near-completion/). 
 In addition, a major overhaul of the brake system was needed to get the locomotive up to specifications in order to be an operational future tourist train.
 
 ## Why this train and not a modern diesel?
