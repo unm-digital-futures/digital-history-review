@@ -1,6 +1,10 @@
 ---
 ---
-
+{% include jumbotron.html
+title="Civiv Plaza's Holocaust Memorial"
+image="images/Holocaust-3.jpg"
+text="This is where you put your catchy subtitle."
+%} 
 # Civiv Plaza's Holocaust Memorial
 Dequez Irving
 
