@@ -2,3 +2,11 @@ h2 {
   color:Midnightblue;
 }
 
+div.full-width p {
+    width: 100%;
+    padding: 0 15%;
+    margin: 0;
+    font-style: italic;
+    font-size:20px;
+  color: #778899;
+}
