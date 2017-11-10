@@ -43,7 +43,7 @@ Neslted peacefully in the corner of the park at the bottom of the hill with Love
 
 {% include aside.html
   class="pullquote"
-  text=" In the late 19th century, New Mexico's growth was spurred by ranching, mining and the railroads. But in the years prior to and after statehood, the state's economy was driven by one thing: disease, tuberculosis in particular." %}[^TB in New Mexico]
+  text=" 'In the late 19th century, New Mexico's growth was spurred by ranching, mining and the railroads. But in the years prior to and after statehood, the state's economy was driven by one thing: disease, tuberculosis in particular'." %}[^TBinNewMexico]
 
 
 ## History of Martineztown
@@ -168,7 +168,7 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 
 [^tuberculosisnewmexico]: [Tuberculosis in New Mexico](http://http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.htm
 
-[^TB in New Mexico]: [TB in New Mexico](https://www.bizjournals.com/albuquerque/print-edition/2012/02/03/disease-played-major-role-in.html?page=all)
+[^TBinNewMexico]: [TB in New Mexico](https://www.bizjournals.com/albuquerque/print-edition/2012/02/03/disease-played-major-role-in.html?page=all)
 
 ### References
 <http://www.srcharitycinti.org/news_events/images/dabeau.jpg>
