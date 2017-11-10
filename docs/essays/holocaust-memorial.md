@@ -12,7 +12,7 @@ It would be kind of crazy to think a place like Albuquerque, New Mexico would ha
 
 
 {% include figure.html
-  class="img-right"
+  class="img-center"
   width="33%"
   caption="Holocaust-1"
   src="images/Holocaust-1.jpg"
