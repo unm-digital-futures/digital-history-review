@@ -111,6 +111,13 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 %}
 
 
+{% include figure.html
+  class="img-left"
+  width="35%"
+  caption="Sisters of Charity founding Lovelace Hospital"
+  src="images/dmartinez_Base2_image9.png"
+%}
+
 
 {% include full-width.html
   class="pullquote"
@@ -119,13 +126,6 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 
 
 
-
-{% include figure.html
-  class="img-left"
-  width="35%"
-  caption="Sisters of Charity founding Lovelace Hospital"
-  src="images/dmartinez_Base2_image9.png"
-%}
 
 
 
