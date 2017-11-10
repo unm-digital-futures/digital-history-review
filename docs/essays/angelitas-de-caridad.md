@@ -160,8 +160,6 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 
 [^Lungerlegacy]: [Lunger's legacy in New Mexico](http://http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.html)
 
-
-
 [^HospitalHistory]: [HospitalHistory](https://www.abqjournal.com/news/metro/390889metro09-17-05.htm)
 
 [^MartineztownHistory]: [History of Martineztown](http://http://chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf)
