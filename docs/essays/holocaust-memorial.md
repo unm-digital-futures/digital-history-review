@@ -30,7 +30,7 @@ Albuquerque, NM USA
   class="img-right"
   width="33%"
   caption="Holocaust-4"
-  src="imagesHolocaust-4.jpg"
+  src="images/Holocaust-4.jpg"
 %}
 
 
