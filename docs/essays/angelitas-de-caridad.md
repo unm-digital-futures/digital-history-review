@@ -39,11 +39,11 @@ Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you
   src="images/dmartinez_hidden.jpg"
 %}
 
-Neslted peacefully in the corner of the park at the bottom of the hill with Lovelace Hosptial as the backdrop sits the sculpture, *"Angelitas De Caridad"* by Albuquerque artist Linda DaBeau. Though the sculpture feels hidden, its white limestone wings stands out amongst its surrounding. Dedicated to the *Sisters of Charity of Cincinnati* who came to New Mexico at the height of the Tuberculosis epedemic and aided the community by transforming St. Joseph's Sanitarium into present day Lovelace Hospital. [LovelaceHosptial](http://https://www.abqjournal.com/news/metro/390889metro09-17-05.htm) Tuberculosis had killed more Americans than any other disease and continues to be one of the deadliest disease in the world. *"Angelitas De Caridad"* sculpture beautifully illustrates the history of Martineztown and the significant role the "Angeles of Charity" played in our states history.
+Neslted peacefully in the corner of the park at the bottom of the hill with Lovelace Hosptial as the backdrop sits the sculpture, *"Angelitas De Caridad"* by Albuquerque artist Linda DaBeau. Though the sculpture feels hidden, its white limestone wings stands out amongst its surrounding. Dedicated to the *Sisters of Charity of Cincinnati* who came to New Mexico at the height of the Tuberculosis epedemic and aided the community by transforming St. Joseph's Sanitarium into present day St. Joseph's Hospital and Lovelace Hospital. [LovelaceHosptial](http://https://www.abqjournal.com/news/metro/390889metro09-17-05.htm) Tuberculosis had killed more Americans than any other disease and continues to be one of the deadliest disease in the world. *"Angelitas De Caridad"* sculpture beautifully illustrates the history of Martineztown and the significant role the "Angeles of Charity" played in our states history.
 
 {% include aside.html
   class="pullquote"
-  text=" In the late 19th century, New Mexico's growth was spurred by ranching, mining and the railroads. But in the years prior to and after statehood, the state's economy was driven by one thing: disease, tuberculosis in particular." %} [^TB in New Mexico]
+  text=" In the late 19th century, New Mexico's growth was spurred by ranching, mining and the railroads. But in the years prior to and after statehood, the state's economy was driven by one thing: disease, tuberculosis in particular." %}[^TB in New Mexico]
 
 
 ## History of Martineztown
@@ -76,7 +76,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
   src="images/dmartinez_sisters.jpg"
 %}
 
-The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing a santiarium, schools, and orphanages.[^SistersofCharity] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest. 
+The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing a St. Josephs Sanitarium present day Albuquerque Regional Medical Center, schools, and orphanages.[^HosptialHistory] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest. 
 
 {% include aside.html
   class="pullquote"
@@ -157,6 +157,10 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 [^PublicArchive]: [Sister of Charity of Cincinnati](http://http://http://www.publicartarchive.org/work/angelitos-de-caridad)
 
 [^Lungerlegacy]: [Lunger's legacy in New Mexico](http://http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.html)
+
+
+
+[^HospitalHistory]: [HospitalHistory](https://www.abqjournal.com/news/metro/390889metro09-17-05.htm)
 
 [^MartineztownHistory]: [History of Martineztown](http://http://chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf)
 
