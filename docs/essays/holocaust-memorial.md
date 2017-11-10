@@ -1,4 +1,8 @@
 ---
+title: Civic Plaza's Holocaust Memorial
+author: Dequez Irving
+css: holocaust-memorial.css
+date: 2017-11-02
 ---
 {% include jumbotron.html
 title="Civic Plaza's Holocaust Memorial"
