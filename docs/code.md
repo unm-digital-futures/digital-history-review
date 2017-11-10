@@ -178,18 +178,27 @@ To place a pull quote as above, we use:
 ```
 
 ### Full-width quotes
-If you are quoting from a historical source, you might want to say more than can fit in a normal pull quote format. For those cases, you can use a full-width blackquote to highlight a particularly juice quotation.
+If you are quoting from a historical source, you might want to say more than can fit in a normal pull quote format. For those cases, you can use a markdown blockquote to highlight a particularly juicy quotation.
 
-{% include full-width.html class="pullquote" text="
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.
-" %}
+> Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.
 
-To achieve the above full width pull quote, use:
+To achieve the above full width pull quote, just start your quote with a greater-than sign as shown below:
 ```
-{%raw%}{% include full-width.html
-  class="pullquote"
-  text=" Vestibulum ante ipsum primis in faucibus orci luctus ..."
-%}{%endraw%}
+> Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.
+```
+
+If you need to do a footnote at the end, you can add it as you normally do.
+
+> Here is my quote from a historical source that people would find interesting.[^mysource]
+
+[^mysource]: _Albuquerque Journal_, 8-04-98, p. 12.
+
+
+Add the code, for that is:
+```
+> Here is my quote from a historical source that people would find interesting.[^mysource]
+
+[^mysource]: _Albuquerque Journal_, 8-04-98, p. 12.
 ```
 
 ---
