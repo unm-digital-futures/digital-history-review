@@ -7,7 +7,7 @@ date: 2017-11-02
 {% include jumbotron.html
 title="Civic Plaza's Holocaust Memorial"
 image="images/Holocaust-3.jpg"
-text="This is where you put your catchy subtitle."
+text="Forever Hidden Art."
 %} 
 # Civic Plaza's Holocaust Memorial
 Dequez Irving
