@@ -10,7 +10,7 @@ image="images/ABGhighfront1.jpg"
 text="Would You Live in a High School?"
 %} 
 
-#### By Audriana McManus  
+### By Audriana McManus  
 
 {% include figure.html
   class="img-right"
@@ -71,7 +71,7 @@ src="images/ABQhighrecent2.jpg"
 
 The Old Albuquerque High, or as the business is called, The Lofts at Albuquerque High, is a stunning piece of architecture that blends history with functionality. If visiting Albuquerque and cruising down Central, it is a gorgeous place to wander around in as long as you don't disturb the residents. The history of this campus is rich and so many people are proud what it was and what it has become. It should be on everyones list to at least pass by.
 
-## Sources
+#### Sources
 
 (http://www.nmhistoricpreservation.org/assets/files/historic-contexts-and-reports/NM_Bernalillo-County_Historic-and-Architectural-Resources-of-Central-Albuquerque_1880-1970_MPDF.pdf)
 
