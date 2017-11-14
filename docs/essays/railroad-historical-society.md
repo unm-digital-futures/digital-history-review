@@ -1,4 +1,4 @@
-  [Wikipedia Page](https://en.wikipedia.org/wiki/Simms_Building).
+   [Wikipedia Page](https://en.wikipedia.org/wiki/Simms_Building).
 
 
 
@@ -40,16 +40,13 @@ src='images/atchison-railway-fire-station.jpg'%}
 When this series of train was operational, the 2926 and its stable mates regularly ran through New Mexico between Kansas City and Los Angeles. Santa Fe 2926 has pulled iconic passenger trains like The Chief, The Scout, The El Capitan, and The Grand Canyon Special.  Operating across the central and southwest U.S., it carried ordinary citizens, tourists, and celebrities in comfort and safety.  It was often seen resting quietly under steam as travelers disembarked for a stay at historic Harvey House facilities such as La Casteñda in Las Vegas, NM, Santa Fe’s La Fonda, Albuquerque’s Alado, La Posada in Winslow, AZ, and El Tovar at the Grand Canyon.   Many people have fond memories of that rail heritage, and seek out such items of remembrance.  
 
 ## What was around the outlying areas while this train was centralized?
-Just unexplored land, most of the freeways that we use today to get from state to state were not built yet and routes that the airlines travel were only going to major cities, so the only way to visit some cities, were by train. Some of the cities even built hospitals and apartment buildings by the railroad for passers-by.
+Just unexplored land, most of the freeways that we use today to get from state to state were not built yet and routes that the airlines travel were only going to major cities, so the only way to visit some cities, were by train. Some of the cities even built hospitals and apartment buildings by the railroad for passers-by. Some cities were just being built-up, just for the existence of the Atchison-Topeka railroad.
 ## What is the future of the 2926?
 {% include figure.html
 class='img-left'
 width='50%'
 caption='Bataan Park Train Depot'
 src='images/Bataanpark.jpg'%}
-At the train’s current resting place, a private railroad society is rebuilding the 2926 for an opportunity to run specialty tours up to Las Vegas, New Mexico.  A society member and I spoke a bit, he mentioned that so many repairs were needed, several retired mechanical engineers, machinists, and electrical retirees are spending time reinventing this marvel. The 2926 could be up and running later next year. The society plans to take passengers up to the Harvey House hotel. (currently also being renovated by a conglomerated effort between the hotel and historical society.) Many people have fond memories of that rail heritage, and seek out such items of remembrance. 
-
-
 
 ## What is next for the Santa Fe 2926?
 ![HarveyHouse](images/harveyhouse-LV-NM.jpg)
@@ -58,8 +55,6 @@ At the train’s current resting place, a private railroad society is rebuilding
   text='The 2926 locomotive will be taking tourists on a weekend journey to Las Vegas, New Mexico where they will be staying at the newly remodeled Harvey House Hotel. The 2926 may be touirng as early as next year.'%}
 The 2926 could be up and running later next year. The society plans to take passengers up to the Harvey House hotel (currently also being renovated by a conglomerated effort between the hotel and historical society.) and may go on further if the tours are successful. Making this the only 4-8-4 train on the tracks today. And may go on further if the tours are successful. Making this the only 4-8-4 train on the tracks today.
  
-## What was around the outlying areas while this train was centralized?
-Just unexplored land, most of the freeways that we use today to get from state to state were not built yet and routes that the airlines travel were only going to major cities, so the only way to visit some cities were by train. Some of the cities even built hospitals and apartment buildings by the railroad for passers-by.
 ## Almost ready for the Santa Fe 2926?
 ![2926](images/2926front.jpg)
 {% include figure.html
@@ -74,7 +69,6 @@ check utabby.com
 http://www.chucksville.com/steam.html
 check utabby.com
 http://nmslrhs.org/
-
 https://www.visitalbuquerque.org/listings/new-mexico-steam-locomotive-and-railroad-historical-society/4673/
 https://en.wikipedia.org/wiki/Santa_Fe_2926
 http://krqe.com/2017/09/23/unique-steam-engine-restoration-near-completion/
