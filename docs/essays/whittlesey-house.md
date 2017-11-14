@@ -6,12 +6,7 @@ Date: 11/08/2017
 ---
 {% include jumbotron.html title="The Whittlesey House" image="images/whit11.JPG" text="The Log Cabin in the Desert" %}
 
-{% include figure.html
-  class="img-left"
-  width="15%"
-  height="15%"
-  caption="Charles Whittlesey WW1"
-  src="images/whit1.jpg"%}
+
 ## The Experience
 The Whittlesey house is set atop a hill just a block from Central Ave, as you pass the renewed Hotel Parq Central a log cabin fills the horizon. The home is bordered by a park, a quaint old neighbourhood, in view of the Presbyterian hospital, and the reaching skyscrapers of downtown Albuquerque.
 {% include figure.html
@@ -26,6 +21,12 @@ The Whittlesey house is set atop a hill just a block from Central Ave, as you pa
   src="images/whit10.JPG"%}
 The Whittlesey House is an odd gem amongst the Victorian homes, adobe buildings, and the white plastered Greek Orthodox Church. The setting is strange especially after seeing historic photographs of the building sitting on its hill isolated from the outside world, it feels like you have been taken back in time. Unfortunately, when I visited the house there were a few homeless people asleep in the park, which is not surprising considering the proximity to Central Ave. The street has become a home to the homeless and panhandlers that have been displaced by the Albuquerque ART project. ART is a fiscal effort to revitalize Albuquerque’s downtown region. It has done this by the way of building new shops, apartments, and a dedicated buss lane, yet the beautiful historic buildings that give the city so much character have remained. 
 ## The Architect
+{% include figure.html
+  class="img-left"
+  width="30%"
+  height="30%"
+  caption="Charles Whittlesey WW1"
+  src="images/whit1.jpg"%}
 This home was built by and belonged to architect Charles Frederick Whittlesey who was originally from Illinois, and made his way out west in 1900. After arriving he constructed the house in 1903 for his family. Whittlesey also built the Alvarado hotel in Albuquerque along with the Santa Fe Railway hotel and El Tovar at the Grand Canyon. He was also known as a pioneer in the use of reinforced concrete. His home on the mesa edge is similar in materials and design to another Santa Fe Railway hotel, El Tovar at the Grand Canyon. El Tovar was designed by Whittlesey in the same year he built this house. The buildings share log-cut walls, Norwegian style cutout railings edging wide verandas, recessed window seats, low-pitch roofs with exposed log fronting, rough log-cut facades and a wide porch, which surrounds its eastern rooms, characterize the house. 
 <div> {% include figure.html
   class="img-left"
