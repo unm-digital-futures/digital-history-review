@@ -23,12 +23,12 @@ School buildings may not seem like the biggest historical landmark in a city; ho
 
 ## Dates For Old Albuquerque High
 
-The first building Albuquerque High occupied was not the same as what we today know as Old Albuquerque High. In fact, it was not the second, nor the third building. As the city grew and changed, the high school was constantly being moved from one building to another. Eventually, around the sixth move, the city decided that a permanent building should be built for their 12,000 residents, and in 1914 the 7th location opened its doors. [^batman] Critiques of the project thought that the first building built, which would come to be called "Old Main," was too big and would never be able to reach its capacity of 500 students. The city grew so much that just 13 years later, a second building was built and by 1940, there were five total. Albuquerque high remained the only high school until 1949.[^batman]
-
 {% include aside.html
   class="pullquote"
   text="Old Albuquerque High was thought to be unnecessarily too big; however, it quickly proved people wrong with Albuquerque's growing population."
   %}
+
+The first building Albuquerque High occupied was not the same as what we today know as Old Albuquerque High. In fact, it was not the second, nor the third building. As the city grew and changed, the high school was constantly being moved from one building to another. Eventually, around the sixth move, the city decided that a permanent building should be built for their 12,000 residents, and in 1914 the 7th location opened its doors. [^batman] Critiques of the project thought that the first building built, which would come to be called "Old Main," was too big and would never be able to reach its capacity of 500 students. The city grew so much that just 13 years later, a second building was built and by 1940, there were five total. Albuquerque high remained the only high school until 1949.[^batman]
 
 The area around the school was also in constant flux. One of the buildings, the Gymnasium, sat right next to an arroyo, which became a place for many social events. For example, the Albuquerque High school website mentions that:
 
