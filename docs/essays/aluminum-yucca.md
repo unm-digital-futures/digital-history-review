@@ -56,7 +56,7 @@ In April of 2003, the Aluminum Yucca was first set up, with the completion occur
 
 ### History of the Area
 
-Overtime the space around the Aluminum Yucca, has served to travelers going in and out of Albuquerque's East side as a final or beginning into the culture of the city itself. It also shows an idea into what the history is behind the city is. This type of a history existing in a realm located in around the 1950's. It was during this time Albuquerque's ties to Kirkland and Sandia National Labs, were at the strong point. The sculpture itself is part of this feeling [^note 5]  Currently, the Yucca is desgined to give off the feel of being in a desert. With the sun glistening down upon it, it gives off the idea of the type of city Albuquerque is. While at night the Yucca only glows green signalling a way home for the people who travle back to the East Mountains.
+Overtime the space around the Aluminum Yucca, has served to travelers going in and out of Albuquerque's East side as a final or beginning into the culture of the city itself. It also shows an idea into what the history is behind the city is. This type of a history existing in a realm located in around the 1950's. It was during this time Albuquerque's ties to Kirkland and Sandia National Labs, were at the strong point. The sculpture itself is part of this feeling [^note5]  Currently, the Yucca is desgined to give off the feel of being in a desert. With the sun glistening down upon it, it gives off the idea of the type of city Albuquerque is. While at night the Yucca only glows green signalling a way home for the people who travle back to the East Mountains.
 
 {% include figure.html
   class="img-left"
