@@ -117,7 +117,7 @@ The Parq Central Hotel did serve its purpose in boosting the economy by using hi
 
 [^Injured-workers]: [Injured railway workers](http://www.kansasmemory.org/item/227818)
 
-[^Italiante]: [Italiante Style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/late-19th-century-revival.html )
+[^Italianate]: [Italiante Style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/late-19th-century-revival.html )
 
 [^Alb-press-club]: [Albuquerque Press Club](http://www.abqpressclub.com)
 
