@@ -6,7 +6,7 @@ css: mcmanus.css
 
 {% include jumbotron.html
 title="Old Albuquerque High"
-image="images/ABGhighfront1.jpg"
+image="images/ABQhighfront1.jpg"
 text="Would You Live in a High School?"
 %} 
 
@@ -19,7 +19,7 @@ text="Would You Live in a High School?"
   src="images/ABQhighfront.jpg"
 %}
 
- School buildings may not seem like the biggest historical landmark in a city; however, they have probably seen the most life and changes through the years. When Albuquerque was established, school was not the most important thing on the agenda. Though when the city began to grow larger and larger and more saloons established themselves on the street that would eventually be called Central, Albuquerque High was created.
+School buildings may not seem like the biggest historical landmark in a city; however, they have probably seen the most life and changes through the years. When Albuquerque was established, school was not the most important thing on the agenda. Though when the city began to grow larger and larger and more saloons established themselves on the street that would eventually be called Central, Albuquerque High was created.
 
 ## Dates For Old Albuquerque High
 
@@ -55,7 +55,7 @@ src="images/ABQhighcourtyard.jpg"
 class="img-left"
 width="50%"
 caption="The Lofts at Albuquerque"
-src="images/ABQhighrecent1.jpg"
+src="images/ABQhighrecent1.JPG"
 %}
 
 The school was unable to keep up with new health codes and began to fall apart. A new Albuquerque High was built only about a mile away, and Old Albuquerque was closed in 1974. The building was eventually marked as a "blighted area" by City Council and was scheduled to be bulldozed and turned into a parking lot. The Albuquerque High School Alumni Association, created in 1994, became the leaders in helping to preserve the old school. Eventually, the developer Paradign & Company was brought on to convert the campus to office space and loft apartments. The project was completed in 2002 and was so successful that the city decided to draft a master plan in 2005 to guide further revitilization to the surrounding areas of the East Downtown District. As the school was considered a historic building at this point, the school walls, chalkboards, floors, and ceilings were preserved.  
@@ -73,18 +73,18 @@ The Old Albuquerque High, or as the business is called, The Lofts at Albuquerque
 
 #### Sources
 
-(http://www.nmhistoricpreservation.org/assets/files/historic-contexts-and-reports/NM_Bernalillo-County_Historic-and-Architectural-Resources-of-Central-Albuquerque_1880-1970_MPDF.pdf)
+[^]:(http://www.nmhistoricpreservation.org/assets/files/historic-contexts-and-reports/NM_Bernalillo-County_Historic-and-Architectural-Resources-of-Central-Albuquerque_1880-1970_MPDF.pdf)
 
-(http://vault.sierraclub.org/sprawl/report05/buildingbetter.pdf)
+[^]:(http://vault.sierraclub.org/sprawl/report05/buildingbetter.pdf)
 
-(https://upload.wikimedia.org/wikipedia/commons/0/00/Old_Albuquerque_High_School_on_Central.JPG)
+[^]:(https://upload.wikimedia.org/wikipedia/commons/0/00/Old_Albuquerque_High_School_on_Central.JPG)
 
-(https://www.dpsdesign.org/what-we-create/old-albuquerque-high-lofts)
+[^]:(https://www.dpsdesign.org/what-we-create/old-albuquerque-high-lofts)
 
-[^batman]: (https://www.theclio.com/web/entry?id=41537)
+[^batman]:(https://www.theclio.com/web/entry?id=41537)
 
-(http://www.ahsalumniassoc.com/History.html)
+[^]:(http://www.ahsalumniassoc.com/History.html)
 
-(http://www.canteraconsultants.com/casestudies/index_AHSApartments.htm)
+[^]:(http://www.canteraconsultants.com/casestudies/index_AHSApartments.htm)
 
-(https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks)
+[^](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks)
