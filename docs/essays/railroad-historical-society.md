@@ -1,5 +1,3 @@
-    [Wikipedia Page](https://en.wikipedia.org/wiki/Simms_Building).
-
 ---
 ---
 {% include jumbotron.html
