@@ -5,8 +5,7 @@ CSS: feather1.css
 Date: 11/08/2017
 ---
 {% include jumbotron.html title="The Whittlesey House" image="images/whit11.JPG" text="The Log Cabin in the Desert" %}
-<H1> The Whittlesey House </H1>
-<H2> The Log Cabin in the Desert </H2>
+
 {% include figure.html
   class="img-left"
   width="15%"
