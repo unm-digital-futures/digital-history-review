@@ -27,7 +27,7 @@ The motor lodge itself represented a work of art. Before building the motor lodg
   width="45%"
   caption="1957"
   src="images/Picturefrom1957.jpg"%}
-Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mural at the lodge to represent the presence of Zuni culture at the motor lodge. He had created a mural in the basement of the conference room at the De Anza Motor lodge. The mural repsresents the Zuni's winter *shalako* ceremony line. The mural follows east to west, symobolically. The leading procession *Shulawitsi*, meaning The Little Fire God, ending with the six *Salimopia*, meaning the gaurdians of the six cardnial directions of Zuni cosmology. The representative ideology of the Kachina's of the Zuni tribe portray beauty, color, and form of Zuni ceremony. [^source] 
+Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mural at the lodge to represent the presence of Zuni culture at the motor lodge. He had created a mural in the basement of the conference room at the De Anza Motor lodge. The mural repsresents the Zuni's winter *shalako* ceremony line. The mural follows east to west, symobolically. The leading procession *Shulawitsi*, meaning The Little Fire God, ending with the six *Salimopia*, meaning the gaurdians of the six cardnial directions of Zuni cosmology. The representative ideology of the Kachina's of the Zuni tribe portray beauty, color, and form of Zuni ceremony. [^2source] 
 {% include aside.html
   class="pullquote"
   text="Look familiar? You may have seen the De Anza Motor Lodge featured on the hit television show [Breaking Bad and Whiskey Tango Foxtrot](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/), a movie starring Tina Fey."
@@ -64,6 +64,6 @@ In 2004, the De Anza Motor Lodge was placed on The National Register of Historic
   src="images/TheDeAnzaNow.jpg"%}
 
 #### Footnotes
-[^source]: [National Park Service](https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html) 
-[^source2]: [National Register of Historic Places-Digital Assets](https://npgallery.nps.gov/NRHP/AssetDetail?assetID=62a42603-c087-4f9e-867d-ca14159a777d)
+[^source2]: [National Park Service](https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html) 
+[^source]: [National Register of Historic Places-Digital Assets](https://npgallery.nps.gov/NRHP/AssetDetail?assetID=62a42603-c087-4f9e-867d-ca14159a777d)
 [^source3]: [A.R.T.](http://www.brtabq.com)
