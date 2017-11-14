@@ -44,10 +44,6 @@ The other buildings included the Manual Arts Building which was built in 1927, t
 
 Before the idea of Albuquerque High came about, the city had to be planned. With the coming of the railroad, actual roads were needed in new Albuquerque. Colonel Marmon was assigned to lay out main city streets. One of the first streets he laid ran parallel to the horse car line. This street was named Central. Marmon also plotted streets that the railroad did not request. The widest street in Albuquerque, which he named Broadway, was the start of four more streets east of it. The first street was Arno, named after Arno Huning who was a businessman in Albuquerque. Two of the streets were named after his own children, Edith and Walter, and the last street was called High.[^batman]
 
-
-
-
-
 {% include aside.html
   class="pullquote"
   text="Old Albuquerque High was designed by 3 different architects through out many years."
