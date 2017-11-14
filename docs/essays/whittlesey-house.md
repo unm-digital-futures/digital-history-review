@@ -55,7 +55,7 @@ The house did have several owners after Whittlesey moved on and is now home to t
   width="30%"
   height="30%"
   caption="Entrance to the gallery"
-  src="images/whit9.jpg"%}
+  src="images/whit9.JPG"%}
 The APC has been member-owned and member-operated since 1965. They are a private club, a disparate community of individuals with a common purpose.  They believe that service to this community enriches us all in many ways. They offer a non-threatening social venue providing opportunities to our members as varied as our membership.  One might find card or table games, discussion groups, music groups, and professional development groups operating on their own within our organization.  They offer opportunities to produce or participate in a wide variety of social activities. These social activities include art exhibits, mayoral debates, and live music. At the time of writing this The APC has a gallery of night time photographs from around New Mexico. A quick browse of the Events section of the clubs website will provide an interesting evening of art and drinks at the full bar within the house. [^apc] 
 {% include aside.html class="pullquote" text="
 Check out the APC for interesting art exhibits.
