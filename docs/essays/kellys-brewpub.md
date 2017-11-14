@@ -21,7 +21,7 @@ Picture this, you just flew into Albuquerque and after a long flight all you wan
 
  {% include figure.html
 class="img-center"
-width="50%"
+width="75%"
 caption="Jones Motor Co."
 src="images/jones-motor-co-original.jpg"
 %}
