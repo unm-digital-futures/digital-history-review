@@ -71,7 +71,7 @@ The [Santa Fe Railway Hospital](http://www.bbc.com/travel/story/20130520-a-hospi
   text="...considered elegant, up-scale, and primarily used for designing mansions or public buildings."
   %}
   
-The chosen [Italianate architecture style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/late-19th-century-revival.html)[^Italianate] was popular from 1840-1890 reminiscent of the Italian Renaissance; this style was considered elegant, up-scale, and primarily used for designing mansions or public buildings. Recently, renovations to refurbish Memorial Hospital into the Parq Central Hotel consisted of reconditioning and reinstalling the original windows, maintaining the original interior doors (hospital building), utilizing the original buildings, and the addition of exterior suites.
+The chosen [Italianate architecture style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/late-19th-century-revival.html) was popular from 1840-1890 reminiscent of the Italian Renaissance; this style was considered elegant, up-scale, and primarily used for designing mansions or public buildings[^Italianate]. Recently, renovations to refurbish Memorial Hospital into the Parq Central Hotel consisted of reconditioning and reinstalling the original windows, maintaining the original interior doors (hospital building), utilizing the original buildings, and the addition of exterior suites.
 
 ## Around the Hotel
 
