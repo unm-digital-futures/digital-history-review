@@ -60,12 +60,12 @@ Today, acequias of the South Valley serve the dual function of providing an beau
 
 #### Footnotes
 
-[^source1]: [CESOSS](https://www.cesoss.org/)
-[^source2]: [CESOSS](https://www.cesoss.org/)
+[^source1]: [Center for Social Sustainable Systems](https://www.cesoss.org/)
+[^source2]: [Center for Social Sustainable Systems](https://www.cesoss.org/)
 [^source3]: [JosephVMetzcar](http://dev.newmexicohistory.org/)
 [^source4]: [JosephVMetzcar](http://dev.newmexicohistory.org/)
 [^source5]: [JorgeGarcia](http://greenfiretimes.com/2015/11/the-genesis-of-acequias-in-atrisco-the-south-valley/)
-[^source6]: [CESOSS](https://www.cesoss.org/)
+[^source6]: [Center for Social Sustainable Systems](https://www.cesoss.org/)
 
 http://www.albuqhistsoc.org/SecondSite/pkfiles/pk208landgrants.htm
 https://lajicarita.wordpress.com/2014/10/01/say-no-to-zombie-developments/
