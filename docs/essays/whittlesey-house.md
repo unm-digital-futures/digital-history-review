@@ -28,26 +28,28 @@ The Whittlesey House is an odd gem amongst the Victorian homes, adobe buildings,
   caption="Charles Whittlesey WW1"
   src="images/whit1.jpg"%}
 This home was built by and belonged to architect Charles Frederick Whittlesey who was originally from Illinois, and made his way out west in 1900. After arriving he constructed the house in 1903 for his family. Whittlesey also built the Alvarado hotel in Albuquerque along with the Santa Fe Railway hotel and El Tovar at the Grand Canyon. He was also known as a pioneer in the use of reinforced concrete. His home on the mesa edge is similar in materials and design to another Santa Fe Railway hotel, El Tovar at the Grand Canyon. El Tovar was designed by Whittlesey in the same year he built this house. The buildings share log-cut walls, Norwegian style cutout railings edging wide verandas, recessed window seats, low-pitch roofs with exposed log fronting, rough log-cut facades and a wide porch, which surrounds its eastern rooms, characterize the house. 
-<div> {% include figure.html
+
+{% include figure.html
   class="img-left"
   width="50%"
   caption="The original pourch"
   src="images/whit4.jpg"%}
- {% include figure.html
+
+{% include figure.html
   class="img-right"
   width="50%"
   caption="Remodeling the Pourch"
-  src="images/whit5.jpg"%} </div>
+  src="images/whit5.jpg"%} 
 
 ## The Albuquerque Press Club
 The house did have several owners after Whittlesey moved on and is now home to the [Albuquerque Press Club.](http://www.abqpressclub.com/house-history/) The Press Club only recently opened its doors to member of the public, thus dissipating some of the mystery of this log cabin in the desert. Under the ownership of the APC many upgrades have been made to the property to ensure its safety for any guests that come through the door, but they have taken care to keep its historic charm. These renovations include: new NW porch foundations, evaporative cooling, new front room ceiling, and a new roof to name a few things. The APC has taken very good care of this log cabin in the desert and it looks very majestic today as it sits overlooking the everchanging Albuquerque city scape. The APC has been member-owned and member-operated since 1965. They are a private club, a disparate community of individuals with a common purpose.  They believe that service to this community enriches us all in many ways. They offer a non-threatening social venue providing opportunities to our members as varied as our membership.  One might find card or table games, discussion groups, music groups, and professional development groups operating on their own within our organization.  They offer opportunities to produce or participate in a wide variety of social activities. These social activities include art exhibits, mayoral debates, and live music. At the time of writing this The APC has a gallery of night time photographs from around New Mexico. A quick browse of the Events section of the clubs website will provide an interesting evening of art and drinks at the full bar within the house.  
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="Remodeling the Pourch"
+  caption="Over looking the city."
   src="images/whit7.jpg"%}
 
-### Sources
-- http://www.worldwar1.com/dbc/whitt.htm 
-- http://www.city-data.com/articles/The-Whittlesey-House-Albuquerque-New.html 
-- http://www.abqpressclub.com/house-history/ 
+### Footnotes
+- [Charlesy Frederick Whittlesey]http://pcad.lib.washington.edu/person/102/
+- [Historic Standing]http://www.city-data.com/articles/The-Whittlesey-House-Albuquerque-New.html 
+- [The Albuquerque Press Club]http://www.abqpressclub.com/house-history/ 
