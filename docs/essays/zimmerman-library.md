@@ -11,7 +11,7 @@ text="University of New Mexico's Prized Possesion."
 
 ***
 
-The inspiration and mastermind architect behind the creation of Zimmerman Library goes by the name of John Gaw Meem. Born in Brazil, Meem originally migrated to New York. After being diagnosed with tuberculosis John Meem moved to a dryer climate. Eventually landing himself in Santa Fe from the attraction of the Santa Fe railroad. This is where his love for the architectural style of New Mexico was born. Meems first projects consisted of renovating adobe roofs on churches throughout the Pueblos of New Mexico. Thus helped improve Meems craft of building the unique style of adobe found in the southwest.
+The inspiration and mastermind architect behind the creation of Zimmerman Library goes by the name of John Gaw Meem. Born in Brazil, Meem originally migrated to New York. After being diagnosed with tuberculosis, John Meem moved to a dryer climate. Eventually landing himself in Santa Fe from the attraction of the Santa Fe railroad. This is where his love for the architectural style of New Mexico was born. Meems first projects consisted of renovating adobe roofs on churches throughout the Pueblos of New Mexico. Thus helped improve Meems craft of building the unique style of adobe found in the southwest.
 
 {% include figure.html
   class="img-center"
