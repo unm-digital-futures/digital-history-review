@@ -19,11 +19,6 @@ Picture this, you just flew into Albuquerque and after a long flight all you wan
 
 ## **Jones Motor Co.**
 
-{% include aside.html
-  class="pullquote"
-  text="Designed as both a car dealership, service station, and gas station for travelers along Route 66."
-  %}
- 
  {% include figure.html
 class="img-right"
 width="50%"
@@ -31,7 +26,12 @@ caption="Jones Motor Co."
 src="images/jones-motor-co-original.jpg"
 %}
 
-Originally built in 1939 as Jones Motor Co. Ralph Jones (the creator of this historical site) commisioned this project, a service station, car dealership and gas station in 1939 with Tom Danahy as the architect and designer.[^source1] The building served its intendended purpose until 1957 when Jones Motor Co. moved out and into a bigger, newer building farther down the street. After this decision the building had been used for various types of businesses, including at one point a *Goodwill* as well as a *Furniture Mart*.[^source2]
+Originally built in 1939 as Jones Motor Co. Ralph Jones (the creator of this historical site) commisioned this project, a service station, car dealership and gas station in 1939 with Tom Danahy as the architect and designer.[^source1] The building served its intendended purpose until 1957 when Jones Motor Co. moved out and into a bigger, newer building farther down the street.
+{% include aside.html
+  class="pullquote"
+  text="Designed as both a car dealership, service station, and gas station for travelers along Route 66."
+  %}
+ After this decision the building had been used for various types of businesses, including at one point a *Goodwill* as well as a *Furniture Mart*.[^source2]
 
 {% include figure.html
 class="img-left"
@@ -46,9 +46,9 @@ Finally in 1999 it was bought by Kellys Brewery and restored many of the origina
 
 {% include figure.html
 class="img-left"
-width="40%"
+width="50%"
 caption="Kelly's Today"
-src="images/kellys-brewpub-3.jpeg"
+src="images/kellys-brewpub-3.jpg"
 %}
 
 
