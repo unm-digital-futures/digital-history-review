@@ -20,7 +20,7 @@ Picture this, you just flew into Albuquerque and after a long flight all you wan
 ## **Jones Motor Co.**
 
  {% include figure.html
-class="img-right"
+class="img-center"
 width="50%"
 caption="Jones Motor Co."
 src="images/jones-motor-co-original.jpg"
@@ -64,7 +64,7 @@ src="images/kellys-brewpub-3.jpg"
 
 {% include figure.html
   class="img-right"
-  width="50%"
+  width="33%"
   caption="Original Design"
   src="images/kellys-brewpub-1.jpg"
 %}
@@ -75,7 +75,7 @@ The architect Tom Danahy designed the building in a Streamline Moderne style. A 
 
 {% include figure.html
   class="img-right"
-  width="50%"
+  width="33%"
   caption="Lights"
   src="images/kellys-brewpub-2.jpg"
 %}
@@ -98,7 +98,7 @@ Today, Route 66 has changed from the major highway it once was into clipped sect
 ### Hiway House Motel
 {% include figure.html
   class="img-right"
-  width="50%"
+  width="33%"
   caption="Hiway House Motel"
   src="images/hiway-house-motel.jpg"
 %}
