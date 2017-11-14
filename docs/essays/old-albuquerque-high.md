@@ -77,16 +77,16 @@ The Old Albuquerque High, or as the business is called, The Lofts at Albuquerque
 
 #### Sources
 
-[^catwoman]:(NM Historic Preservation)(http://www.nmhistoricpreservation.org/assets/files/historic-contexts-and-reports/NM_Bernalillo-County_Historic-and-Architectural-Resources-of-Central-Albuquerque_1880-1970_MPDF.pdf)
+[^catwoman]:[NM Historic Preservation](http://www.nmhistoricpreservation.org/assets/files/historic-contexts-and-reports/NM_Bernalillo-County_Historic-and-Architectural-Resources-of-Central-Albuquerque_1880-1970_MPDF.pdf)
 
-[^poisonivy]:(Sierra Club)(http://vault.sierraclub.org/sprawl/report05/buildingbetter.pdf)
+[^poisonivy]:[Sierra Club](http://vault.sierraclub.org/sprawl/report05/buildingbetter.pdf)
 
-[^robin]:(Picture of ABQ High)(https://upload.wikimedia.org/wikipedia/commons/0/00/Old_Albuquerque_High_School_on_Central.JPG)
+[^robin]:[Picture of ABQ High](https://upload.wikimedia.org/wikipedia/commons/0/00/Old_Albuquerque_High_School_on_Central.JPG)
 
-[^redhood]:(DPS Designs)(https://www.dpsdesign.org/what-we-create/old-albuquerque-high-lofts)
+[^redhood]:[DPS Designs](https://www.dpsdesign.org/what-we-create/old-albuquerque-high-lofts)
 
-[^batman]:(Albuquerque High Yearbook excerpt)(https://ahs-aps-nm.schoolloop.com/history)
+[^batman]:[Albuquerque High Yearbook excerpt](https://ahs-aps-nm.schoolloop.com/history)
 
-[^batgirl]:(AHS Alumni)(http://www.ahsalumniassoc.com/History.html)
+[^batgirl]:[AHS Alumni](http://www.ahsalumniassoc.com/History.html)
 
-[^joker]:(Cantera Consultants)(http://www.canteraconsultants.com/casestudies/index_AHSApartments.htm)
+[^joker]:[Cantera Consultants](http://www.canteraconsultants.com/casestudies/index_AHSApartments.htm)
