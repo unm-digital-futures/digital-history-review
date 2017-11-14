@@ -157,6 +157,10 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 
 [^HospitalHistory]: [HospitalHistory](https://www.abqjournal.com/news/metro/390889metro09-17-05.htm)
 
+[^srcharitycinti]: [Sister of Charity of Cincinnati](http://http://www.srcharitycinti.org/news_events/dabeau.htm)
+
+[^srcharitycinti]: [Sister of Charity of Cincinnati](http://http://www.srcharitycinti.org/news_events/dabeau.htm)
+
 [^MartineztownHistory]: [History of Martineztown](http://http://chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf)
 
 [^tuberculosisnewmexico]: [Tuberculosis in New Mexico](http://http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.htm
