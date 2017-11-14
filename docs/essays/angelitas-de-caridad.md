@@ -43,7 +43,7 @@ Neslted peacefully in the corner of the park at the bottom of the hill with Love
 
 {% include aside.html
   class="pullquote"
-  text=" 'In the late 19th century, New Mexico's growth was spurred by ranching, mining and the railroads. But in the years prior to and after statehood, the state's economy was driven by one thing: disease, tuberculosis in particular'." %}[^TBinNewMexico]
+  text=" 'In the late 19th century, New Mexico's growth was spurred by ranching, mining and the railroads. But in the years prior to and after statehood, the state's economy was driven by one thing: disease, tuberculosis in particular'." %} [^TBinNewMexico]
 
 
 ## History of Martineztown
@@ -80,7 +80,7 @@ The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and l
 
 {% include aside.html
   class="pullquote"
-  text=" Frank Martinez resident of Martineztown recalls,'I grew up with the hospital less than a block away from where I was born,” Martinez said. “My mom was employed by the Sisters of Charity, and I served on the hospital’s board of trustees for a number of years'." %}
+  text=" Frank Martinez resident of Martineztown recalls,'I grew up with the hospital less than a block away from where I was born,” Martinez said. “My mom was employed by the Sisters of Charity, and I served on the hospital’s board of trustees for a number of years'." %} [^srcharitycinti] 
 
 The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters.[^srcharitycinti] Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
 
