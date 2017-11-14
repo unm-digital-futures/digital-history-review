@@ -6,7 +6,7 @@ css: rodgers.css
 
 {% include jumbotron.html
 title="Kelly's Brewpub"
-image="images/merin-modern-6.jpg"
+image="images/kellys-brewpub-panner.jpg"
 text="Eat, Drink and Explore"
 %} 
 
@@ -22,7 +22,7 @@ Picture this, you just flew into Albuquerque and after a long flight all you wan
 class="img-right"
 width="50%"
 caption="Jones Motor Co."
-src="images/merin-historic-1.jpg"
+src="images/jones-motor-co-original.jpg"
 %}
 
 {% include aside.html
@@ -36,7 +36,7 @@ Originally built in 1939 as Jones Motor Co. Ralph Jones (the creator of this his
 class="img-left"
 width="33%"
 caption="Transitional Period"
-src="images/merin-historic-2.jpg"
+src="images/transitional-period.jpg"
 %}
 
 In 1993 the building was nominated as a Historic Landmark, becoming a praised and protected piece of work. As one of the few examples of Moderne style, it was preserved for both its Architecural wonder but also due to its example of transportation and commerce in the fifties.
@@ -47,14 +47,14 @@ Finally in 1999 it was bought by Kellys Brewery and restored many of the origina
 class="img-left"
 width="50%"
 caption="Kelly's Today"
-src="images/merin-modern-2.jpeg"
+src="images/kellys-brewpub-3.jpeg"
 %}
 
 {% include figure.html
   class="img-right"
   width="50%"
   caption="Cold Stone Today"
-  src="images/merin-modern-4.jpg"
+  src="images/cold-stone.jpg"
 %}
 
 ## **Design**
@@ -63,7 +63,7 @@ src="images/merin-modern-2.jpeg"
   class="img-right"
   width="50%"
   caption="Original Design"
-  src="images/merin-modern-1.jpg"
+  src="images/kellys-brewpub-1.jpg"
 %}
 
 The architect Tom Danahy designed the building in a Streamline Moderne style. A prevalent design at the end of the Art Deco period this design featuring smooth surfaces, curved edges and strong horizontal lines to give it a more aerodynamic feel.[^source4] Danahy decided on a classic color scheme of white, red and black; a prominent color scheme at the time. Going along with this design Danahy placed the main entrance of the building on a corner, diagnal to the block in which it was built on. As you would face the entrance of the building there would be Texaco gas stations in the middle, the service station on the left and the car dealership on the right, complete with a large glass show room.
@@ -74,7 +74,7 @@ The architect Tom Danahy designed the building in a Streamline Moderne style. A 
   class="img-right"
   width="50%"
   caption="Lights"
-  src="images/merin-modern-3.jpg"
+  src="images/kellys-brewpub-2.jpg"
 %}
 
 Jones Motor Co. Is located on the corner of Central Ave. and Wellseley in the Nob Hill area of Southeast Albuquerque.
@@ -97,7 +97,7 @@ Today, Route 66 has changed from the major highway it once was into clipped sect
   class="img-right"
   width="50%"
   caption="Hiway House Motel"
-  src="images/merin-modern-5.jpg"
+  src="images/hiway-house-motel.jpg"
 %}
 
 The [Highway House Motel](http://www.hiwayhousemotel.com/motel-nob-hill-albuquerque/) was built in 1958, a year after Jone's Motor Company had moved out. What makes this Hiway House Motel so unique and interesting is the fact that it mimics the color scheme of the Jones Motor Co. seemingly designed with the intention of complimenting the Jones Motor Co. even as the company itself has already moved.
