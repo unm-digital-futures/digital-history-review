@@ -11,10 +11,6 @@ text="The Secret Art of Route 66"
 %} 
 ## History 
 In 1939, C.G. Wallace and S.D. Hambaugh took advantage of the new automobile boom and built a motor lodge along Route 66 in Albuquerque, New Mexico. It was created to be a trading post for the Zuni Indians, in order to provide cash flow to the Zuni reservation. This motor lodge exposed travellers to the unique culture and diversity Albuquerque offers.
-{% include aside.html
-  class="pullquote"
-  text="Look familiar? You may have seen the De Anza Motor Lodge featured on the hit television show [Breaking Bad and Whiskey Tango Foxtrot](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/), a movie starring Tina Fey."
-  %}
   {% include figure.html
   class="img-left"
   width="40%"
@@ -53,7 +49,10 @@ After WWII in the late 1950's, hotel chains began to pop up and eventually put l
 The only art that isn't able to be displayed or sold is the mural in the basement. The mural in the basement has been the sole reason for preserving the historic De Anza Motor Lodge. Culture of the Zuni people has been eteched into the history of this building only for it to be hidden away.
 ### De Anza Motor Lodge Today
 In 2004, the De Anza Motor Lodge was placed on The National Register of Historic Places. Owned by the city of Albuquerque, several community based businesses and Route 66 restorators are working endlessly to revive and restore all that Route 66 was in a classic manner. The De Anza Motor Lodge plays a major role in restoring what Route 66 was by being a landmark for culture. Redesigning the motor lodge owuld begin to restore it's rich hisotry and life. The De Anza Motor Lodge is currently under renovation to better serve it's history.
-
+{% include aside.html
+  class="pullquote"
+  text="Look familiar? You may have seen the De Anza Motor Lodge featured on the hit television show [Breaking Bad and Whiskey Tango Foxtrot](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/), a movie starring Tina Fey."
+  %}
 {% include figure.html
   class="img-center"
   width="50%"
