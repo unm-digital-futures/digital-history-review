@@ -14,7 +14,7 @@ text="Would You Live in a High School?"
 
 {% include figure.html
   class="img-right"
-  width="25%"
+  width="33%"
   caption="ABQ High Front"
   src="images/ABQhighfront.jpg"
 %}
@@ -22,6 +22,9 @@ text="Would You Live in a High School?"
 School buildings may not seem like the biggest historical landmark in a city; however, they have probably seen the most life and changes through the years. When Albuquerque was established, school was not the most important thing on the agenda. Though when the city began to grow larger and larger and more saloons established themselves on the street that would eventually be called Central, Albuquerque High was created.
 
 ## Dates For Old Albuquerque High
+
+
+
 
 {% include aside.html
   class="pullquote"
