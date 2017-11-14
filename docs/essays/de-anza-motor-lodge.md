@@ -17,7 +17,7 @@ In 1939, C.G. Wallace and S.D. Hambaugh took advantage of the new automobile boo
   caption="Postcard of The De Anza"
   src="images/TheDeAnzaPostcard.jpg"%} 
 ## The Art Inside the De Anza Motor Lodge
-The motor lodge itself represented a work of art. Before building the motor lodge Wallace he began to form a bond with the Zuni tribe. The relationship Wallace cerated with the Zuni tribe helped the motor lodge connect people from the Zuni tribe to travellers from all over the U.S.. The motor lodge soon became a trading post that displayed various types of art created by the people of the Zuni tribe.
+The motor lodge itself represented a work of art. Before building the motor lodge Wallace began to form a bond with the Zuni tribe. The relationship Wallace cerated with the Zuni tribe helped the motor lodge connect people from the Zuni tribe to travellers from all over the U.S.. The motor lodge soon became a trading post that displayed various types of art created by the people of the Zuni tribe.
 
 {% include figure.html
   class="img-right"
