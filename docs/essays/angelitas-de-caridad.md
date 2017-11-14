@@ -76,7 +76,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
   src="images/dmartinez_sisters.jpg"
 %}
 
-The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing a St. Josephs Sanitarium present day Albuquerque Regional Medical Center, schools, and orphanages.[^HosptialHistory] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest. 
+The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing a St. Josephs Sanitarium present day Albuquerque Regional Medical Center, schools, and orphanages.[^HosptialHistory] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
 
 {% include aside.html
   class="pullquote"
@@ -142,15 +142,10 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 
 
 
-
-
-
-
-
-
-
 ## Why you should visit *Angelitas De Caridad* 
-Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of Albuquerque History. Though there is limited information on the sculpture itself, it represents an era in American and New Mexico history that forever changed the city, state, and country.  
+Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of Albuquerque History. Though there is limited information on the sculpture itself, it represents an era in American and New Mexico history that forever changed the landscape of the city, state, and country.  
+
+
 
 
 
