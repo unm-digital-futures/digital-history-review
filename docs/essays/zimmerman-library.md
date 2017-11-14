@@ -21,7 +21,7 @@ The inspiration and mastermind architect behind the creation of Zimmerman Librar
 
 ## The Creation
 
-In the year 1929, one of the University of New Mexico's late presidents, James Zimmerman applied for federal money through the New deal. After receiving the financial help, the main plan was to build a core of buildings for the expanding university. President Zimmerman wanted the style of the new buildings to follow along with the culture of the adobe housing in New Mexico. John Meem, who was gaining a lot of attention through his southwest architectural style was the right man for the job. Meem was hired to commission multiple buildings on UNMs main campus. The building most famous from John Meems commissions was Zimmerman Library.
+In the year 1929, one of the University of New Mexico's late presidents, James Zimmerman applied for federal money through the New deal. After receiving the financial help, the main plan was to build a core of buildings for the expanding university. President Zimmerman wanted the style of the new buildings to follow along with the culture of the adobe housing in New Mexico. John Meem, who was gaining a lot of attention through his southwest architectural style was the right man for the job. Meem was hired to commission multiple buildings on UNMs main campus. The building most famous from John Meems commissions was Zimmerman Library. [^source1]
 {% include aside.html
   class="pullquote"
   text="John Meem, who was gaining a lot of attention through his southwest architectural style was the right man for the job."
@@ -86,5 +86,5 @@ The area around Zimmerman was once a empty space. Now it's the main attraction o
 President James Zimmerman and architect John Meem would be very pleased to find out that the university still values their visions. From 1938 till now the University of New Mexico strives to keep the culture of New Mexico alive and well on campus. Upgrading buildings when needed and using the adobe style to preserve that vision. The fact that Zimmerman Library was built in the 30s and is still going strong today 70 odd years later is all John Meem could've asked for. Essentially using Zimmerman library as a time capsule to celebrate the visions of great people and the culture of New Mexico.
 
 ### Footnotes
-[UNM Libraries](http://library.unm.edu/zimmerman75/index.php)
+[^Source1]: [UNM Libraries](http://library.unm.edu/zimmerman75/index.php)
 
