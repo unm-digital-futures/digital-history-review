@@ -23,7 +23,7 @@ text="Convenience & Luxury"
   text="Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life."
   %}
   
-A scenic view of the city of Albuquerque welcomes  anyone from the former mental institution's Apothecary Lounge, a place where history and modern [luxury](http://www.hvlinteriors.com/single_gallery_HPC.html#.WfEJFBOPIlU) meet. [The Parq Central Hotel](http://hotelparqcentral.com) was preserved for its significance in offering medical services for railway employees during its time as the Santa Fe Railway hospital.
+A scenic view of the city of Albuquerque welcomes  anyone from the former mental institution's Apothecary Lounge, a place where history and modern [luxury](http://www.hvlinteriors.com/single_gallery_HPC.html#.WfEJFBOPIlU) meet. [The Parq Central Hotel](http://hotelparqcentral.com) was preserved for its significance in offering medical services for railway employees during its time as the Santa Fe Railway hospital[^Preservation].
 Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life.
 
 
@@ -71,7 +71,7 @@ The [Santa Fe Railway Hospital](http://www.bbc.com/travel/story/20130520-a-hospi
   text="...considered elegant, up-scale, and primarily used for designing mansions or public buildings."
   %}
   
-The chosen [Italianate architecture style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/late-19th-century-revival.html) was popular from 1840-1890 reminiscent of the Italian Renaissance; this style was considered elegant, up-scale, and primarily used for designing mansions or public buildings. Recently, renovations to refurbish Memorial Hospital into the Parq Central Hotel consisted of reconditioning and reinstalling the original windows, maintaining the original interior doors (hospital building), utilizing the original buildings, and the addition of exterior suites.
+The chosen [Italianate architecture style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/late-19th-century-revival.html)[^Italianate] was popular from 1840-1890 reminiscent of the Italian Renaissance; this style was considered elegant, up-scale, and primarily used for designing mansions or public buildings. Recently, renovations to refurbish Memorial Hospital into the Parq Central Hotel consisted of reconditioning and reinstalling the original windows, maintaining the original interior doors (hospital building), utilizing the original buildings, and the addition of exterior suites.
 
 ## Around the Hotel
 
@@ -82,7 +82,7 @@ The chosen [Italianate architecture style](http://www.phmc.state.pa.us/portal/co
   src="images/TBImage8.png"
 %}
   
-Parq Central hotel is conveniently located next to the freeway for fast travel, Highland's Park for a relaxing afternoon walk, and has many local businesses close by. [The Albuquerque Press Club](http://www.abqpressclub.com) is less than a five minute walk away where membership allows you to have ownership of the club, discounts on drinks, and use of the club for private or public social gatherings.
+Parq Central hotel is conveniently located next to the freeway for fast travel, Highland's Park for a relaxing afternoon walk, and has many local businesses close by. [The Albuquerque Press Club](http://www.abqpressclub.com) is less than a five minute walk away where membership allows you to have ownership of the club, discounts on drinks, and use of the club for private or public social gatherings[^Alb-press-club].
 
 ## What is Space?
 
@@ -113,6 +113,13 @@ The Parq Central Hotel did serve its purpose in boosting the economy by using hi
 
 ### Footnotes
 
+[^Preservation]: [Preservation](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks)
+
 [^Injured-workers]: [Injured railway workers](http://www.kansasmemory.org/item/227818)
 
+[^Italiante]: [Italiante Style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/late-19th-century-revival.html )
+
+[^Alb-press-club]: [Albuquerque Press Club](http://www.abqpressclub.com)
+
 [^Landmark]: [Historic landmark](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks)
+
