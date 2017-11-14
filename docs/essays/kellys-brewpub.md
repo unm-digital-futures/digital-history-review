@@ -45,10 +45,11 @@ Finally in 1999 it was bought by Kellys Brewery and restored many of the origina
 
 {% include figure.html
 class="img-left"
-width="50%"
+width="40%"
 caption="Kelly's Today"
 src="images/kellys-brewpub-3.jpeg"
 %}
+
 
 {% include figure.html
   class="img-right"
@@ -56,6 +57,7 @@ src="images/kellys-brewpub-3.jpeg"
   caption="Cold Stone Today"
   src="images/cold-stone.jpg"
 %}
+
 
 ## **Design**
 
