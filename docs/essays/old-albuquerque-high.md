@@ -57,7 +57,7 @@ src="images/ABQhighcourtyard.jpg"
 
 {% include figure.html
 class="img-left"
-width="50%"
+width="45%"
 caption="The Lofts at Albuquerque"
 src="images/ABQhighrecent1.JPG"
 %}
