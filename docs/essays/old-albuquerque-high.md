@@ -14,7 +14,7 @@ text="Would You Live in a High School?"
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="30%"
   caption="ABQ High Front"
   src="images/ABQhighfront.jpg"
 %}
