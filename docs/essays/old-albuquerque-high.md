@@ -42,11 +42,15 @@ Before the idea of Albuquerque High came about, the city had to be planned. With
 When the first building was commisioned, it was created by an El Paso architect Henry C. Trost who designed it to face Central. Old Main was designed in the Gothic Revival style, which was mimicked by the next four buildings. The second building, the Manual Arts Building, was designed by local artist Gorge Williamson in 1927 on Arno Street. Another local architect, Louis Hesselden, was commissioned to create the last three buildings, due to New Deal funding and WPA manpower.
 
 {% include figure.html
-class="img-left"
+class="img-rightt"
 width="33%"
 caption="ABQ High Courtyard"
 src="images/ABQhighcourtyard.jpg"
 %}
+
+
+
+
 
 
 ## What is it Now?
