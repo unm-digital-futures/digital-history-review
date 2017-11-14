@@ -18,18 +18,19 @@ text="Eat, Drink and Explore"
 Picture this, you just flew into Albuquerque and after a long flight all you want is a refreshing drink and some delicously fried food. As you leave the airport you stop someone next to you and ask for suggestions. So following their recommendation you head down Central Ave. Parking in the back you walk around the building, find a seat outside and check out the menu. And there you see them, the core beers. Picking your favorite, you check the food section, your mouth watering as you read over the fried food section. Originally planning for a short lunch it turns hours long as you sip your beer and enjoy the eccentric gas station feel of [Kelly's Brew Pub](http://www.kellysbrewpub.com/).
 
 ## **Jones Motor Co.**
-{% include figure.html
+
+{% include aside.html
+  class="pullquote"
+  text="Designed as both a car dealership, service station, and gas station for travelers along Route 66."
+  %}
+ 
+ {% include figure.html
 class="img-right"
 width="50%"
 caption="Jones Motor Co."
 src="images/jones-motor-co-original.jpg"
 %}
 
-{% include aside.html
-  class="pullquote"
-  text="Designed as both a car dealership, service station, and gas station for travelers along Route 66."
-  %}
-  
 Originally built in 1939 as Jones Motor Co. Ralph Jones (the creator of this historical site) commisioned this project, a service station, car dealership and gas station in 1939 with Tom Danahy as the architect and designer.[^source1] The building served its intendended purpose until 1957 when Jones Motor Co. moved out and into a bigger, newer building farther down the street. After this decision the building had been used for various types of businesses, including at one point a *Goodwill* as well as a *Furniture Mart*.[^source2]
 
 {% include figure.html
