@@ -52,7 +52,7 @@ The Parq Central Hotel is now a source of economic stability through the steady 
   src="images/TBImage1.png"
 %}
 
-The [Santa Fe Railway Hospital](http://www.bbc.com/travel/story/20130520-a-hospital-turned-hotel-in-new-mexico) as well as the Memorial Hospital served their purpose by redefining the space in which it occupied. A plot of dirt transformed into medical assistance for railway workers and medical treatment for mentally ill children. Beyond this however, the cultural perception and meaning of the space literally began to create a community around it; later supporting another mode of transportation when the freeway and streets were built around it marking its importance.
+ A plot of dirt transformed into medical assistance for railway workers and medical treatment for mentally ill children. Beyond this however, the cultural perception and meaning of the space literally began to create a community around it; later supporting another mode of transportation when the freeway and streets were built around it marking its importance.The [Santa Fe Railway Hospital](http://www.bbc.com/travel/story/20130520-a-hospital-turned-hotel-in-new-mexico) as well as the Memorial Hospital served their purpose by redefining the space in which it occupied.
 
 
 
