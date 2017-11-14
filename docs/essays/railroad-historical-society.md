@@ -3,9 +3,9 @@
 ---
 ---
 {% include jumbotron.html
-title='2926front.jpg'
-image='images/2926front.jpg'
-text='restored 2926 locomotive.'%} 
+title='2929locomotive.jpg'
+image='images/2929locomotive.jpg'
+text='restored 2929 locomotive.'%} 
 
 
 {figure.html
