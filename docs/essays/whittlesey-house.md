@@ -50,6 +50,6 @@ The house did have several owners after Whittlesey moved on and is now home to t
   src="images/whit7.jpg"%}
 
 ### Footnotes
-- [^whit] [Charlesy Frederick Whittlesey](http://pcad.lib.washington.edu/person/102/)
-- [^abq] [Historic Standing](http://www.city-data.com/articles/The-Whittlesey-House-Albuquerque-New.html)
-- [^apc] [The Albuquerque Press Club](http://www.abqpressclub.com/house-history/)
+[^whit]: [Charlesy Frederick Whittlesey](http://pcad.lib.washington.edu/person/102/)
+[^abq]: [Historic Standing](http://www.city-data.com/articles/The-Whittlesey-House-Albuquerque-New.html)
+[^apc]: [The Albuquerque Press Club](http://www.abqpressclub.com/house-history/)
