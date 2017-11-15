@@ -30,16 +30,12 @@ The incorporation of both Spanish and Pueblo inspiration made the De Anza Motor 
   %}
 The De Anza Motor Lodge sat encased by four streets, Central and Copper running East/West and Graceland and Washington running North/South. The rectangluar property allowed for easy remodleing and a convenient location to access from Route 66.
 The De Anza Motor Lodge sits on the same property that it was built on. The foundation in crumbles, the paint peeling, and the prpoperty guarded. Central, Route 66, ranges from a more modern to poverty stricken area. There ranges from thrift shops to modern shops to tents from homeless people. The motel sits within a mile of the University of New Mexico, which creates the surrounding neighborhood to be extremely diverse. Sitting next to it is a bank and on the other is shoe repair man store. Across from it lie a bar and a Thai resturant, a much different community than in it's prime. Currently, Central is under construction to introduce a new modern public transort system called A.R.T. (Albuquerque Rapod Transit). [^source3]
-{% include aside.html
-  class="pullquote"
-  text="Look familiar? You may have seen the De Anza Motor Lodge featured on the hit television show [Breaking Bad](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/)."
-  %}
+
 {% include figure.html
   class="img-left"
   width="35%"
   caption="Map of the De Anza in the 50's"
   src="images/MapofDeAnza.png"%}
-
 
 ## The Hidden Gem of the De Anza Motor Lodge
 The motor lodge itself represented a work of art. Before building the motor lodge Wallace began to form a bond with the Zuni tribe. The relationship Wallace cerated with the Zuni tribe helped the motor lodge connect people from the Zuni tribe to travellers from all over the U.S.. The motor lodge soon became a trading post that displayed various types of art created by the people of the Zuni tribe.
@@ -49,6 +45,10 @@ The motor lodge itself represented a work of art. Before building the motor lodg
   caption="1957"
   src="images/Picturefrom1957.jpg"%}
 Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mural at the lodge to represent the presence of Zuni culture at the motor lodge. He had created a mural in the basement of the conference room at the De Anza Motor lodge. The mural repsresents the Zuni's winter *shalako* ceremony line. The mural follows east to west, symobolically. The leading procession *Shulawitsi*, meaning The Little Fire God, ending with the six *Salimopia*, meaning the gaurdians of the six cardnial directions of Zuni cosmology. The representative ideology of the Kachina's of the Zuni tribe portray beauty, color, and form of Zuni ceremony. [^source] 
+{% include aside.html
+  class="pullquote"
+  text="Look familiar? You may have seen the De Anza Motor Lodge featured on the hit television show [Breaking Bad](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/)."
+  %}
 ## The Fate Of The De Anza Motor Lodge
 After WWII in the late 1950's, hotel chains began to pop up and eventually put local motor lodges out of business. The remodling and changes Wallace had made to the De Anza had allowed it to stay in business much longer than many other motor lodges. The motor lodge was listed as American Automobile Association-approved accomodation until the ealry 1990's. C.G. Wallace died in 1993, shortly after the motor lodge was sold and continued this cycle until purchased by the city of Albuquerque. [^source2] 
 ### The Art Left Behind
