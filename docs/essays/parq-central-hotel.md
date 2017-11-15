@@ -72,10 +72,10 @@ The Parq Central Hotel is now a source of economic stability through the steady 
 
 {% include aside.html
   class="pullquote"
-  text="...considered elegant, up-scale, and primarily used for designing mansions or public buildings."
+  text="The chosen Italianate architecture style was popular from 1890-1930 remiscent of the Italian Renaissance; this style was considered elegant, up-scale, and primarily used for designing mansions or public buildings."
   %}
   
-The chosen [Italianate architecture style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/late-19th-century-revival.html)[^Italianate] was popular from 1840-1890 reminiscent of the Italian Renaissance; this style was considered elegant, up-scale, and primarily used for designing mansions or public buildings. Recently, renovations to refurbish Memorial Hospital into the Parq Central Hotel consisted of reconditioning and reinstalling the original windows, maintaining the original interior doors (hospital building), utilizing the original buildings, and the addition of exterior suites.
+The chosen [Italianate architecture style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/late-19th-century-revival.html)[^Italianate] was popular from 1890-1930 reminiscent of the Italian Renaissance; this style was considered elegant, up-scale, and primarily used for designing mansions or public buildings. Recently, renovations to refurbish Memorial Hospital into the Parq Central Hotel consisted of reconditioning and reinstalling the original windows, maintaining the original interior doors (hospital building), utilizing the original buildings, and the addition of exterior suites.
 
 ## Around the Hotel
 
