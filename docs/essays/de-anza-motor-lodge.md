@@ -22,7 +22,7 @@ The Spanish and Pueblo inspired architecture was a sole reflection of the vast c
   class="img-left"
   width="50%"
   caption="The hidden art in the basement of the De Anza Motor Lodge."
-  src="images/TheMural.jpg"%}
+  src="images/mural.png"%}
 The incorporation of both Spanish and Pueblo inspiration made the De Anza Motor Lodge different than the surrounding motor lodges. The influence not only came from the culture of the state and city but of the art from the Zuni tribe. The surroudning area lacked the cultural influence that the De Anza had. Severing the De Anza from the surrounding was the fact that it sat on it's own property and did not share it with any other businesses other than the ones created by founder, Wallace, in an attempt to incorporate more into the motor lodge.
 {% include aside.html
   class="pullquote"
