@@ -35,7 +35,7 @@ The De Anza Motor Lodge sits on the same property that it was built on. The foun
   text="Look familiar? You may have seen the De Anza Motor Lodge featured on the hit television show [Breaking Bad](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/)."
   %}
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="35%"
   caption="Map of the De Anza in the 50's"
   src="images/MapofDeAnza.png"%}
