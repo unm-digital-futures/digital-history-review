@@ -21,7 +21,7 @@ text="Convenience & Luxury"
 {% include figure.html
   class="img-right"
   width="40%"
-  caption="Physcial address 806 Central Avenue SE, Albuquerque, New Mexico 87102."
+  caption="Physical address 806 Central Avenue SE, Albuquerque, New Mexico 87102."
   src="images/TBImage9.png"
 %}
 
