@@ -20,7 +20,7 @@ text="Convenience & Luxury"
 
 {% include figure.html
   class="img-right"
-  width="20%"
+  width="40%"
   caption="Physcial address 806 Central Avenue SE, Albuquerque, New Mexico 87102."
   src="images/TBImage9.png"
 %}
@@ -82,7 +82,7 @@ The chosen [Italianate architecture style](http://www.phmc.state.pa.us/portal/co
 {% include figure.html
   class="img-left"
   width="40%"
-  caption="The Albuquerque Press Club."
+  caption="Apothecary Lounge rooftop view of the city."
   src="images/TBImage10.png"
 %}
   
