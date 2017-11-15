@@ -10,17 +10,13 @@ image="images/DeAnza2.jpg"
 text="The Secret Art of Route 66"
 %} 
 ## History 
-In 1939, C.G. Wallace and S.D. Hambaugh took advantage of the new automobile boom and built a motor lodge along Route 66 in Albuquerque, New Mexico. It was created to be a trading post for the Zuni Indians, in order to provide cash flow to the Zuni reservation. This motor lodge exposed travellers to the unique culture and diversity Albuquerque offers.
+In 1939, C.G. Wallace and S.D. Hambaugh took advantage of the automobile boom and built a motor lodge along busy Route 66 in Albuquerque, New Mexico. The motor lodge served as a cozy place for travellers to stay while driving through Albuquerque and also as an exhibit for Zuni art. Wallace developed a relationship with the Zuni Tribe through years of working on their reservation. The De Anza Motor Lodge became a trading post that exposed travllers to indigenous art from New Mexico. 
   {% include figure.html
   class="img-left"
   width="40%"
   caption="Postcard of The De Anza"
   src="images/TheDeAnzaPostcard.jpg"%} 
-{% include aside.html
-  class="pullquote"
-  text="Even today Albuquerque is known for it's artistic scenes and cultural integration throughout the cities architecture and decor."
-  %}
-## The Art Inside the De Anza Motor Lodge
+## The Hidden Gem of the De Anza Motor Lodge
 The motor lodge itself represented a work of art. Before building the motor lodge Wallace began to form a bond with the Zuni tribe. The relationship Wallace cerated with the Zuni tribe helped the motor lodge connect people from the Zuni tribe to travellers from all over the U.S.. The motor lodge soon became a trading post that displayed various types of art created by the people of the Zuni tribe.
 {% include figure.html
   class="img-right"
@@ -55,6 +51,10 @@ The De Anza Motor Lodge sits on the same property that it was built on. The foun
 After WWII in the late 1950's, hotel chains began to pop up and eventually put local motor lodges out of business. The remodling and changes Wallace had made to the De Anza had allowed it to stay in business much longer than many other motor lodges. The motor lodge was listed as American Automobile Association-approved accomodation until the ealry 1990's. C.G. Wallace died in 1993, shortly after the motor lodge was sold and continued this cycle until purchased by the city of Albuquerque. [^source2] 
 ### The Art Left Behind
 The only art that isn't able to be displayed or sold is the mural in the basement. The mural in the basement has been the sole reason for preserving the historic De Anza Motor Lodge. Culture of the Zuni people has been eteched into the history of this building only for it to be hidden away.
+{% include aside.html
+  class="pullquote"
+  text="Today Albuquerque is known for it's artistic scenes, cultural integration, and beautiful architecture."
+  %}
 ### De Anza Motor Lodge Today
 In 2004, the De Anza Motor Lodge was placed on The National Register of Historic Places. Owned by the city of Albuquerque, several community based businesses and Route 66 restorators are working endlessly to revive and restore all that Route 66 was in a classic manner. The De Anza Motor Lodge plays a major role in restoring what Route 66 was by being a landmark for culture. Redesigning the motor lodge owuld begin to restore it's rich hisotry and life. The De Anza Motor Lodge is currently under renovation to better serve it's history.
 {% include figure.html
