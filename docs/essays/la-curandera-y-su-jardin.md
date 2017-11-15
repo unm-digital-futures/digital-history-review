@@ -13,7 +13,7 @@ text="A Look into New Mexico's 300 Year Herb History"
   class="img-right"
   width="75%"
   caption="La Curandera"
-  src="images/la_curandera_2.jpg"
+  src="images/la_curandera_2.png.jpg"
 %}
 #### Will Moreno
 
