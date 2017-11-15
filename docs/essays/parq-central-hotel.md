@@ -82,7 +82,7 @@ The chosen [Italianate architecture style](http://www.phmc.state.pa.us/portal/co
 {% include figure.html
   class="img-left"
   width="40%"
-  caption="Apothecary Lounge rooftop view of the city."
+  caption="Apothecary Lounge rooftop view of NE Albuquerque."
   src="images/TBImage10.png"
 %}
   
