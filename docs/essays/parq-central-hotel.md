@@ -121,7 +121,7 @@ The Parq Central Hotel did serve its purpose in boosting the economy by using hi
 
 [^Injured-workers]: [Atchison, Topeka & Santa Fe Company Hospital, Albuquerque, New Mexico](http://www.kansasmemory.org/item/227818), Kansas Historical Society, 2017.
 
-[^Italianate]: [Italian Renaissance Revival Style 1890-1930](http://www.phmc.state.pa.us/portal/communities/architecture/styles/italian-renaissance.html), Pennsylvania Historical and Museum Commision, accessed 2017.
+[^Italianate]: [Italian Renaissance Revival Style 1890-1930](http://www.phmc.state.pa.us/portal/communities/architecture/styles/italian-renaissance.html), Pennsylvania Historical and Museum Commision, 2015.
 
 [^Alb-press-club]: [Welcome to the Albuquerque Press Club](http://www.abqpressclub.com), The Albuquerque Press Club, 2017.
 
