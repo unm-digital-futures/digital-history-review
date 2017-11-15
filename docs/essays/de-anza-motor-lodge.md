@@ -16,14 +16,6 @@ In 1939, C.G. Wallace and S.D. Hambaugh took advantage of the automobile boom an
   width="40%"
   caption="Postcard of The De Anza"
   src="images/TheDeAnzaPostcard.jpg"%} 
-## The Hidden Gem of the De Anza Motor Lodge
-The motor lodge itself represented a work of art. Before building the motor lodge Wallace began to form a bond with the Zuni tribe. The relationship Wallace cerated with the Zuni tribe helped the motor lodge connect people from the Zuni tribe to travellers from all over the U.S.. The motor lodge soon became a trading post that displayed various types of art created by the people of the Zuni tribe.
-{% include figure.html
-  class="img-right"
-  width="45%"
-  caption="1957"
-  src="images/Picturefrom1957.jpg"%}
-Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mural at the lodge to represent the presence of Zuni culture at the motor lodge. He had created a mural in the basement of the conference room at the De Anza Motor lodge. The mural repsresents the Zuni's winter *shalako* ceremony line. The mural follows east to west, symobolically. The leading procession *Shulawitsi*, meaning The Little Fire God, ending with the six *Salimopia*, meaning the gaurdians of the six cardnial directions of Zuni cosmology. The representative ideology of the Kachina's of the Zuni tribe portray beauty, color, and form of Zuni ceremony. [^source] 
 {% include aside.html
   class="pullquote"
   text="Look familiar? You may have seen the De Anza Motor Lodge featured on the hit television show [Breaking Bad](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/),."
@@ -47,7 +39,15 @@ The De Anza Motor Lodge sits on the same property that it was built on. The foun
   width="35%"
   caption="Map of the De Anza in the 50's"
   src="images/MapofDeAnza.png"%}
-## The Fall Out Of The De Anza Motor Lodge
+ ## The Hidden Gem of the De Anza Motor Lodge
+The motor lodge itself represented a work of art. Before building the motor lodge Wallace began to form a bond with the Zuni tribe. The relationship Wallace cerated with the Zuni tribe helped the motor lodge connect people from the Zuni tribe to travellers from all over the U.S.. The motor lodge soon became a trading post that displayed various types of art created by the people of the Zuni tribe.
+{% include figure.html
+  class="img-right"
+  width="45%"
+  caption="1957"
+  src="images/Picturefrom1957.jpg"%}
+Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mural at the lodge to represent the presence of Zuni culture at the motor lodge. He had created a mural in the basement of the conference room at the De Anza Motor lodge. The mural repsresents the Zuni's winter *shalako* ceremony line. The mural follows east to west, symobolically. The leading procession *Shulawitsi*, meaning The Little Fire God, ending with the six *Salimopia*, meaning the gaurdians of the six cardnial directions of Zuni cosmology. The representative ideology of the Kachina's of the Zuni tribe portray beauty, color, and form of Zuni ceremony. [^source] 
+## The Fate Of The De Anza Motor Lodge
 After WWII in the late 1950's, hotel chains began to pop up and eventually put local motor lodges out of business. The remodling and changes Wallace had made to the De Anza had allowed it to stay in business much longer than many other motor lodges. The motor lodge was listed as American Automobile Association-approved accomodation until the ealry 1990's. C.G. Wallace died in 1993, shortly after the motor lodge was sold and continued this cycle until purchased by the city of Albuquerque. [^source2] 
 ### The Art Left Behind
 The only art that isn't able to be displayed or sold is the mural in the basement. The mural in the basement has been the sole reason for preserving the historic De Anza Motor Lodge. Culture of the Zuni people has been eteched into the history of this building only for it to be hidden away.
