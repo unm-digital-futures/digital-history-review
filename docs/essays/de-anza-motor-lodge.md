@@ -39,7 +39,7 @@ The De Anza Motor Lodge sits on the same property that it was built on. The foun
   width="35%"
   caption="Map of the De Anza in the 50's"
   src="images/MapofDeAnza.png"%}
- ## The Hidden Gem of the De Anza Motor Lodge
+## The Hidden Gem of the De Anza Motor Lodge
 The motor lodge itself represented a work of art. Before building the motor lodge Wallace began to form a bond with the Zuni tribe. The relationship Wallace cerated with the Zuni tribe helped the motor lodge connect people from the Zuni tribe to travellers from all over the U.S.. The motor lodge soon became a trading post that displayed various types of art created by the people of the Zuni tribe.
 {% include figure.html
   class="img-right"
