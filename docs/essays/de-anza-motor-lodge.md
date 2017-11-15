@@ -12,14 +12,10 @@ text="The Secret Art of Route 66"
 ## History 
 In 1939, C.G. Wallace and S.D. Hambaugh took advantage of the automobile boom and built a motor lodge along busy Route 66 in Albuquerque, New Mexico. The motor lodge served as a cozy place for travellers to stay while driving through Albuquerque and also as an exhibit for Zuni art. Wallace developed a relationship with the Zuni Tribe through years of working on their reservation and soon became a trading post that exposed travllers to indigenous art from New Mexico. 
   {% include figure.html
-  class="img-left"
+  class="img-right"
   width="40%"
   caption="Postcard of The De Anza"
   src="images/TheDeAnzaPostcard.jpg"%} 
-{% include aside.html
-  class="pullquote"
-  text="Look familiar? You may have seen the De Anza Motor Lodge featured on the hit television show [Breaking Bad](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/)."
-  %}
 ## The Architecture & Location
 The Spanish and Pueblo inspired architecture was a sole reflection of the vast culture Albuquerque had to offer. Adobe Pueblo style with arches and tight corners are shown in the structure of the De Anza. Later on in the 1950's, a coffee shop and gift shop were added to the motor lodge along with several other buildings. In 1957 a swimming pool was added to the two-point-five acre lot along Route 66. The original structure of the motor lodge was a two-story building and several one story building in a U-shape. The U-Shape structure alloswed customers to park right in front of their rooms creating a more convenient stay.
 {% include figure.html
@@ -34,6 +30,10 @@ The incorporation of both Spanish and Pueblo inspiration made the De Anza Motor 
   %}
 The De Anza Motor Lodge sat encased by four streets, Central and Copper running East/West and Graceland and Washington running North/South. The rectangluar property allowed for easy remodleing and a convenient location to access from Route 66.
 The De Anza Motor Lodge sits on the same property that it was built on. The foundation in crumbles, the paint peeling, and the prpoperty guarded. Central, Route 66, ranges from a more modern to poverty stricken area. There ranges from thrift shops to modern shops to tents from homeless people. The motel sits within a mile of the University of New Mexico, which creates the surrounding neighborhood to be extremely diverse. Sitting next to it is a bank and on the other is shoe repair man store. Across from it lie a bar and a Thai resturant, a much different community than in it's prime. Currently, Central is under construction to introduce a new modern public transort system called A.R.T. (Albuquerque Rapod Transit). [^source3]
+{% include aside.html
+  class="pullquote"
+  text="Look familiar? You may have seen the De Anza Motor Lodge featured on the hit television show [Breaking Bad](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/)."
+  %}
 {% include figure.html
   class="img-right"
   width="35%"
