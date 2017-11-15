@@ -19,10 +19,10 @@ In 1939, C.G. Wallace and S.D. Hambaugh took advantage of the automobile boom an
 ## The Architecture & Location
 The Spanish and Pueblo inspired architecture was a sole reflection of the vast culture Albuquerque had to offer. Adobe Pueblo style with arches and tight corners are shown in the structure of the De Anza. Later on in the 1950's, a coffee shop and gift shop were added to the motor lodge along with several other buildings. In 1957 a swimming pool was added to the two-point-five acre lot along Route 66. The original structure of the motor lodge was a two-story building and several one story building in a U-shape. The U-Shape structure alloswed customers to park right in front of their rooms creating a more convenient stay.
 {% include figure.html
-  class="img-left"
-  width="50%"
-  caption="The hidden art in the basement of the De Anza Motor Lodge."
-  src="images/Mural.png"%}
+  class="img-right"
+  width="45%"
+  caption="1957"
+  src="images/Picturefrom1957.jpg"%}
 The incorporation of both Spanish and Pueblo inspiration made the De Anza Motor Lodge different than the surrounding motor lodges. The influence not only came from the culture of the state and city but of the art from the Zuni tribe. The surroudning area lacked the cultural influence that the De Anza had. Severing the De Anza from the surrounding was the fact that it sat on it's own property and did not share it with any other businesses other than the ones created by founder, Wallace, in an attempt to incorporate more into the motor lodge.
 {% include aside.html
   class="pullquote"
@@ -39,16 +39,17 @@ The De Anza Motor Lodge sits on the same property that it was built on. The foun
 
 ## The Hidden Gem of the De Anza Motor Lodge
 The motor lodge itself represented a work of art. Before building the motor lodge Wallace began to form a bond with the Zuni tribe. The relationship Wallace cerated with the Zuni tribe helped the motor lodge connect people from the Zuni tribe to travellers from all over the U.S.. The motor lodge soon became a trading post that displayed various types of art created by the people of the Zuni tribe.
-{% include figure.html
-  class="img-right"
-  width="45%"
-  caption="1957"
-  src="images/Picturefrom1957.jpg"%}
+
 Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mural at the lodge to represent the presence of Zuni culture at the motor lodge. He had created a mural in the basement of the conference room at the De Anza Motor lodge. The mural repsresents the Zuni's winter *shalako* ceremony line. The mural follows east to west, symobolically. The leading procession *Shulawitsi*, meaning The Little Fire God, ending with the six *Salimopia*, meaning the gaurdians of the six cardnial directions of Zuni cosmology. The representative ideology of the Kachina's of the Zuni tribe portray beauty, color, and form of Zuni ceremony. [^source] 
 {% include aside.html
   class="pullquote"
   text="Look familiar? You may have seen the De Anza Motor Lodge featured on the hit television show [Breaking Bad](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/)."
   %}
+  {% include figure.html
+  class="img-left"
+  width="50%"
+  caption="The hidden art in the basement of the De Anza Motor Lodge."
+  src="images/Mural.png"%}
 ## The Fate Of The De Anza Motor Lodge
 After WWII in the late 1950's, hotel chains began to pop up and eventually put local motor lodges out of business. The remodling and changes Wallace had made to the De Anza had allowed it to stay in business much longer than many other motor lodges. The motor lodge was listed as American Automobile Association-approved accomodation until the ealry 1990's. C.G. Wallace died in 1993, shortly after the motor lodge was sold and continued this cycle until purchased by the city of Albuquerque. [^source2] 
 ### The Art Left Behind
