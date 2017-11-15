@@ -25,7 +25,7 @@ The Spanish and Pueblo inspired architecture was a sole reflection of the vast c
   src="images/TheMural.jpg"%}
 The incorporation of both Spanish and Pueblo inspiration made the De Anza Motor Lodge different than the surrounding motor lodges. The influence not only came from the culture of the state and city but of the art from the Zuni tribe. The surroudning area lacked the cultural influence that the De Anza had. Severing the De Anza from the surrounding was the fact that it sat on it's own property and did not share it with any other businesses other than the ones created by founder, Wallace, in an attempt to incorporate more into the motor lodge.
 {% include aside.html
-  class="pullquote"
+  class="pullquote,left"
   text="A.R.T.(Albuquerque Rapid Transit) is an attempt to redefine what Route 66 was. By creating a modernized transit system Route 66, no longer represents the simplistic values of community. "
   %}
 The De Anza Motor Lodge sat encased by four streets, Central and Copper running East/West and Graceland and Washington running North/South. The rectangluar property allowed for easy remodleing and a convenient location to access from Route 66.
