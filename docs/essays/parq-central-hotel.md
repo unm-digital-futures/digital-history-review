@@ -26,15 +26,20 @@ text="Convenience & Luxury"
 A scenic view of the city of Albuquerque welcomes  anyone from the former mental institution's Apothecary Lounge, a place where history and modern [luxury](http://www.hvlinteriors.com/single_gallery_HPC.html#.WfEJFBOPIlU) meet. [The Parq Central Hotel](http://hotelparqcentral.com) was preserved for its significance in offering medical services for railway employees during its time as the Santa Fe Railway hospital[^Preservation].
 Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life.
 
+{% include figure.html
+  class="img-right"
+  width="20%"
+  caption="Physcial address 806 Central Avenue SE, Albuquerque, New Mexico 87102."
+  src="images/TBImage9.png"
+%}
 
 
-
-## Background
+## History
 
 {% include figure.html
   class="img-right"
   width="30%"
-  caption="Santa Fe Railway Hospital 1926-1982."
+  caption="Santa Fe Railway Hospital 1921-1982."
   src="images/TBImage3.png"
 %}
 
@@ -43,7 +48,7 @@ The Parq Central Hotel is now a source of economic stability through the steady 
 
 
 
-## Medical Treatment
+## Santa Fe Railway Hospital & Memorial Hospital
 
 {% include figure.html
   class="img-left"
@@ -79,7 +84,7 @@ The chosen [Italianate architecture style](http://www.phmc.state.pa.us/portal/co
   class="img-left"
   width="40%"
   caption="The Albuquerque Press Club."
-  src="images/TBImage8.png"
+  src="images/TBImage10.png"
 %}
   
 Parq Central hotel is conveniently located next to the freeway for fast travel, Highland's Park for a relaxing afternoon walk, and has many local businesses close by. [The Albuquerque Press Club](http://www.abqpressclub.com) is less than a five minute walk away where membership allows you to have ownership of the club, discounts on drinks, and use of the club for private or public social gatherings[^Alb-press-club].
@@ -96,11 +101,11 @@ Parq Central hotel is conveniently located next to the freeway for fast travel, 
 Space is more than a geographical representation, mistakenly thought of as only coordinates. Space is a story that contains history while sharing a dialectical relationship by being static and simultaneously dynamic. Static in the sense that it will always be there, have things built on or around it, used and re-used, and will serve some purpose. And dynamic in the sense that its purpose changes due to intent (i.e. if it no longer serves its purpose then a new one will be found).
 {% include aside.html
   class="pullquote"
-  text="...space is more than a physical place because it directly shapes our memory, which anyone can be a part of."
+  text="Space is more than a physical place because it directly shapes our memory, which anyone can be a part of."
   %}
-The Santa Fe Railway Hospital as well as the Memorial Hospital's original purpose was to provide medical treatment and then shifted to promoting economic growth and a place for social gatherings. The purpose affected the cultural memory of this space by influencing people's perception of it. In this respect, space is more than a physical place because it directly shapes our memory, which anyone can be a part of.
+The Santa Fe Railway Hospital as well as the Memorial Hospital's original purpose was to provide medical treatment and then shifted to promoting economic growth and a place for social gatherings. The purpose affected the cultural memory of this space by influencing people's perception of it. Space is more than a physical place because it directly shapes our memory, which anyone can be a part of.
 
-## Economic Growth?
+## Economic Growth
 
 {% include figure.html
   class="img-center"
@@ -113,13 +118,13 @@ The Parq Central Hotel did serve its purpose in boosting the economy by using hi
 
 ### Footnotes
 
-[^Preservation]: [Preservation](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks)
+[^Preservation]: [Atchison, Topeka & Santa Fe Railway Memorial Hospital](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks), City of Albuquerque, 2017.
 
-[^Injured-workers]: [Injured railway workers](http://www.kansasmemory.org/item/227818)
+[^Injured-workers]: [Atchison, Topeka & Santa Fe Company Hospital, Albuquerque, New Mexico](http://www.kansasmemory.org/item/227818), Kansas Historical Society, 2017.
 
-[^Italianate]: [Italiante Style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/late-19th-century-revival.html )
+[^Italianate]: [Italian Renaissance Revival Style 1890-1930](http://www.phmc.state.pa.us/portal/communities/architecture/styles/italian-renaissance.html), Pennsylvania Historical and Museum Commision, accessed 2017.
 
-[^Alb-press-club]: [Albuquerque Press Club](http://www.abqpressclub.com)
+[^Alb-press-club]: [Welcome to the Albuquerque Press Club](http://www.abqpressclub.com), The Albuquerque Press Club, 2017.
 
 [^Landmark]: [Historic landmark](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks)
 
