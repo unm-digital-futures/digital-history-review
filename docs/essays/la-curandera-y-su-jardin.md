@@ -5,7 +5,7 @@ CSS: curandera.css
 ---
 {% include jumbotron.html
 title="La Curandera Y Su Jardin"
-images/"images/la_curandera_2.png.jpg"
+image="images/la_curandera_2.png.jpg"
 text="A Look into New Mexico's 300 Year Herb History"
 %}
 
