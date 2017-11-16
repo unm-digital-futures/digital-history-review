@@ -43,7 +43,7 @@ What exsists today in the South Valley in terms of its environment is a mix of t
 
 ### Why you should visit the Acequias
 
-The [Sanchez Farms Open Space](http://www.bernco.gov/community-services/sanchez-farm-open-space.aspx) serves as a public area that is centralized in the South Valley, and highlights the use of the Arenal acequia as a cultural waterway and recreational space. The vast open space that sits beside the acequia is a dirt-shrub field within a basin and surrounded by trees and a circular trail. Overlooking the basin, sitting beside the acequia, is a circular terrace area with rocks around its perimeter. The terrace area and field are designed to promote the use of the space surrounding the acequia for recreational purposes and social gatherings.
+The [Sanchez Farms Open Space](http://www.bernco.gov/community-services/sanchez-farm-open-space.aspx) serves as a public area that is centralized in the South Valley, and highlights the use of the Arenal acequia as a sacred waterway and recreational space. The vast open space that sits beside the acequia is a dirt-shrub field within a basin and surrounded by trees and a circular trail. Overlooking the basin, sitting beside the acequia, is a circular terrace area with rocks around its perimeter. The terrace area and field are designed to promote the use of the space surrounding the acequia for recreational purposes and social gatherings.
 
 {% include aside.html
   class="pullquote"
