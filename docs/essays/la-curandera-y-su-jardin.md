@@ -62,7 +62,7 @@ The inspiration for the sculpture comes from the book "Bless Me, Ultima". The bo
 
 {% include figure.html
   class="img-left"
-  width="65%"
+  width="55%"
   caption="La Curandera Statue"
   src="images/la_curandera_6.png.jpg"
 %}
