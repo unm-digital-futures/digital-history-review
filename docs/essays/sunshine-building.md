@@ -90,35 +90,37 @@ caption="Sunshine Theatre Nightscape."
 src="images/SunshineB.jpg"
 %}
 
+### *Footnotes*
+
 ### *References*
 
-1. www.abqjournal.com/biz/265961outlook12-02-04.htm
+1. <www.abqjournal.com/biz/265961outlook12-02-04.htm>
 
-2. www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks
+2. <www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks>
 
-3. www.city-data.com/articles/Sunshine-Building-Albuquerque-New-Mexico.html
+3. <www.city-data.com/articles/Sunshine-Building-Albuquerque-New-Mexico.html>
 
-4. www.cinematreasures.org/theaters/10528
+4. <www.cinematreasures.org/theaters/10528>
 
-5. www.en.wikipedia.org/wiki/Sunshine_Building
+5. <www.en.wikipedia.org/wiki/Sunshine_Building>
 
-6. www.flickr.com/photos/stevenm_61/34813178582
+6. <www.flickr.com/photos/stevenm_61/34813178582>
 
-7. www.henrytrost.org/buildings/sunshine-theatre-and-office-building/
+7. <www.henrytrost.org/buildings/sunshine-theatre-and-office-building/>
 
-8. www.historicabq.org/sunshine-building.html
+8. <www.historicabq.org/sunshine-building.html>
 
-www.krqe.com/2015/02/23/historic-sunshine-building-tagged-with-graffiti/
+<www.krqe.com/2015/02/23/historic-sunshine-building-tagged-with-graffiti/>
 
-9. www.nmhistoricpreservation.org/assets/files/historic-contexts-and-reports/Movie-Theaters-in-New-Mexico-MPDF-Final-Sent-to-NPS.pdf
+9. <www.nmhistoricpreservation.org/assets/files/historic-contexts-and-reports/Movie-Theaters-in-New-Mexico-MPDF-Final-Sent-to-NPS.pdf>
 
-10. www.nmjhs.org/2014-conference/
+10. <www.nmjhs.org/2014-conference/>
 
-11. www.rjbuffalo.com/sunshine.html
+11. <www.rjbuffalo.com/sunshine.html>
 
-12. www.sunshinetheaterlive.com/page/about-sunshine-theater
+12. <www.sunshinetheaterlive.com/page/about-sunshine-theater>
 
-13. www.yelp.com/biz/sunshine-theater-albuquerque
+13. <www.yelp.com/biz/sunshine-theater-albuquerque>
 
 
 
