@@ -39,12 +39,11 @@ The De Anza Motor Lodge sits on the same property that it was built on. The foun
 
 ## The Hidden Gem of the De Anza Motor Lodge
 The motor lodge itself represented a work of art. Before building the motor lodge Wallace began to form a bond with the Zuni tribe. The relationship Wallace cerated with the Zuni tribe helped the motor lodge connect people from the Zuni tribe to travellers from all over the U.S.. The motor lodge soon became a trading post that displayed various types of art created by the people of the Zuni tribe.
-
-Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mural at the lodge to represent the presence of Zuni culture at the motor lodge. He had created a mural in the basement of the conference room at the De Anza Motor lodge. The mural repsresents the Zuni's winter *shalako* ceremony line. The mural follows east to west, symobolically. The leading procession *Shulawitsi*, meaning The Little Fire God, ending with the six *Salimopia*, meaning the gaurdians of the six cardnial directions of Zuni cosmology. The representative ideology of the Kachina's of the Zuni tribe portray beauty, color, and form of Zuni ceremony. [^source] 
 {% include aside.html
   class="pullquote"
   text="Look familiar? You may have seen the De Anza Motor Lodge featured on the hit television show [Breaking Bad](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/)."
   %}
+Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mural at the lodge to represent the presence of Zuni culture at the motor lodge. He had created a mural in the basement of the conference room at the De Anza Motor lodge. The mural repsresents the Zuni's winter *shalako* ceremony line. The mural follows east to west, symobolically. The leading procession *Shulawitsi*, meaning The Little Fire God, ending with the six *Salimopia*, meaning the gaurdians of the six cardnial directions of Zuni cosmology. The representative ideology of the Kachina's of the Zuni tribe portray beauty, color, and form of Zuni ceremony. [^source] 
  {% include figure.html
   class="img-center"
   width="65%"
