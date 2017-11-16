@@ -18,7 +18,7 @@ caption="Modern day Sunshine Theater"
 src="images/Sunshine4.jpg"
 %}
 
-Enjoying a *[Marble Brewery](http://www.marblebrewery.com/) Pale Ale* while watching a reggae, hip-hop, or rock concert at Sunshine Theater is an experience that most people fail to appreciate for many reasons. First, some locals may think that the venue quality of Sunshine Theater is not as good as other venues downtown. Second, the aging facade is considered as an eye sore to by some locals. Third, many lack any other historical knowledge about the building besides the use of a concert hall by locals. As Albuquerquens, it is our duty to carry the history of our city in to the future as well as to remember all the places that make up and have made up our city skyline. So, this essay is an attempt to give a greater understanding to importance of the Sunshine Building to the local community as well as visitors to Albuquerque.
+Enjoying a *[Marble Brewery](http://www.marblebrewery.com/) Pale Ale* while watching a reggae, hip-hop, or rock concert at Sunshine Theater is an experience that most people fail to appreciate for many reasons. First, some locals may think that the venue quality of Sunshine Theater is not as good as other venues downtown. Second, the aging building maintenance by current management is considered non-existent by some locals. Third, many lack any other historical knowledge about the building besides the use of a concert hall by locals. As Albuquerquens, it is our duty to carry the history of our city in to the future as well as to remember all the places that make up and have made up our city skyline. So, this essay is an attempt to give a greater understanding to importance of the Sunshine Building to the local community as well as visitors to Albuquerque.
 
 ### History
 
@@ -38,7 +38,7 @@ The theater was built in "a symmetrical Beaux Arts style not unlike the detailin
   text=" incorporated into a two-part vertical block, the theater’s marquee and entry provided a visual base to the building with the five story vertical shaft rising above to the decorative cornice capping the building [9]."
 %}
 
-In addition to the building was a neon Sunshine sign which later added to the facade and created the classic 'Route 66' feeling when visiting the theatre. Another notable historical fact in the building of the 'Sunshine theatre' is that Trost also led southwest construction techniques with the use of reinforced concrete as a construction material which was then covered with the yellow brick and is the facade that currently exists today. Also, the building included an attendant operated elevator used for patrons viewing the from the balcony of the 'theatre' which is what gave the building historic value, along with the oak lobby boasts and facade, when it was registered for the National Registrar of Historic Places in 1985 [8]. The theatre opened its doors on May 1, 1924 with the showing of "Scaramouche" featuring actor Ramon Navarro and included a live orchestra to accompany the silent black and white film.
+In addition to the building was a neon Sunshine sign which later added to the facade and created the classic 'American home-town' feeling when visiting the theatre. Another notable historical fact in the building of the 'Sunshine theatre' is that Trost also led southwest construction techniques with the use of reinforced concrete as a construction material which was then covered with the yellow brick and is the facade that currently exists today. Also, the building included an attendant operated elevator used for patrons viewing the from the balcony of the 'theatre' which is what gave the building historic value, along with the oak lobby boasts and facade, when it was registered for the National Registrar of Historic Places in 1985 [8]. The theatre opened its doors on May 1, 1924 with the showing of "Scaramouche" featuring actor Ramon Navarro and included a live orchestra to accompany the silent black and white film.
 
 {% include figure.html
   class="img-center"
@@ -72,33 +72,26 @@ Today, a quick drive by the Sunshine building or a google search on Google maps 
   class="img-center"
   width="100%"
   caption="Sunshine Building Facade"
-  src="images/Sunshine5.jpg" %}
-
-The building facade, however, is a depiction of the decades and many seasons that the building has seen due to the aging yellow bricks that cover majority of the building. 
-
-
+  src="images/Sunshine7.jpg" %}
+  
+However, the building facade is a depiction of the decades that the building has seen through the aging yellow bricks that cover majority of the building. Also, the once vibrant neon sign that was attached to main entrance of the building was sold to a museum by the late owners of the building and has since then taken away the classic 'American home-town' feeling from that section of downtown central. Furthermore, locals might even argue that the current design of the [Century 14 Downtown](http://cinematreasures.org/theaters/44973) is representative of the Albuquerque's movie theatre days. The most recent headline of the Sunshine Building in the news was a graffiti incident that occurred in 2015 when vandals climbed to the top of the building and defaced the building’s facade. The news article explains that concerns of the buildings historic value and height of the building would make it difficult to clean up the graffiti.
 
  {% include figure.html
 class="img-right"
 width="50%"
-caption="Sunshine Building from the street."
+caption="Sunshine Building graffiti in 2015."
 src="images/Sunshine6.jpg"
 %}
 
+Other than this article in the news, there is not much references about the historic value of the Sunshine Building to the city of Albuquerque which is only solidified upon visiting the theater for a concert and seeing the shambles the building is in versus the prestige it once held.
   
-  {% include figure.html
-class="img-right"
-width="50%"
-caption="Sunshine Building from the street."
-src="images/Sunshine3.jpg"
-%}
-
 ### Sunshine Building in the future
 
-Overall, the theater itself remains a main staple of the Sunshine Building and seems to not be facing any decline within the next chapters of downtown Albuquerque.
-
+Overall, the theater itself remains a main staple of the Sunshine Building and seems to not be facing any decline within the next chapters of downtown Albuquerque; but, as a fellow Albuquerquen, it is easy to wonder when the next challenge will come to the Sunshine Theater that will be the metaphorical straw that will break the camel's back. As a city, we should band together to create a new narrative for what downtown as well as all of Albuquerque means to us and this means advocating for city projects that will include items like restoration of historical sites, more art projects to make our streets beautiful, and actual histories of the city written by people from the city. Until then, people will going about their way downtown without noticing the Sunshine Buildings importance until be  any threats come the buildings way and will ultimately determine whether the building is as important as it once was to Albuquerque.
 
 ### *Footnotes*
+
+<https://www.krqe.com/2015/02/23/historic-sunshine-building-tagged-with-graffiti/>
 
 ### *References*
 
@@ -117,8 +110,6 @@ Overall, the theater itself remains a main staple of the Sunshine Building and s
 7. <https://www.henrytrost.org/buildings/sunshine-theatre-and-office-building/>
 
 8. <https://www.historicabq.org/sunshine-building.html>
-
-<https://www.krqe.com/2015/02/23/historic-sunshine-building-tagged-with-graffiti/>
 
 9. <https://www.nmhistoricpreservation.org/assets/files/historic-contexts-and-reports/Movie-Theaters-in-New-Mexico-MPDF-Final-Sent-to-NPS.pdf>
 
