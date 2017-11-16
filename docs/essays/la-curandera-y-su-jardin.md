@@ -78,7 +78,7 @@ The inspiration for the sculpture comes from the book "Bless Me, Ultima". The bo
 ## Location
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="36%"
   caption="Entrance Sign"
   src="images/la_curandera_5.png.jpg"
