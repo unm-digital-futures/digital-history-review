@@ -68,6 +68,6 @@ In 2004, the De Anza Motor Lodge was placed on The National Register of Historic
 #### References 
 1. <http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/>
 #### Footnotes
-[^source]: [National Register of Historic Places-Digital Assets](https://npgallery.nps.gov/NRHP/AssetDetail?assetID=62a42603-c087-4f9e-867d-ca14159a777d)
-[^source2]: [National Park Service](https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html) 
-[^source3]: [Article on A.R.T.](http://www.brtabq.com)
+[^source]: [National Register of Historic Places Digital Assets](https://npgallery.nps.gov/NRHP/AssetDetail?assetID=1652f5f1-4ba9-4355-9a4b-4cecf5f17aa4) National Park Services, 4/30/2004
+[^source2]: [De Anza Motor Lodge Albuquerque, New Mexico ](https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html) National Park Service U.S. Department of the Interior 
+[^source3]: [Albuquerque Rapid Transit](http://www.brtabq.com/AboutART) The city of Albuquerque and ABQ Ride 
