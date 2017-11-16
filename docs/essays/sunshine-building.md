@@ -63,22 +63,29 @@ caption="The images of above are of historic Sunshine Building in 1940s and curr
 Today, a quick drive by the Sunshine building or a google search on Google maps will reveal that is now a concert stage for artists visiting Albuquerque and more specifically important to the youth being one of the few underage concert venues in town. Another quick search on google will also reveal yelp reviews of the venues current condition which include: sound quality in theater being really bad, restrooms falling apart, venue layout being too small for crowds that tickets sales allow, the balcony not being opened for concerts, and the most commented on was the customer service given by staff, bartenders, and security in the venue. One review, from a resident that moved to Albuquerque, praised the small venue sized because it is much more of an intimate setting which allows for anyone in the  theater to have the opportunity to be in the front row of any concert and makes for more of an memorable experience. Furthermore, if any patron goes early or stays after the concert, then there is a chance that they can get a glimpse or even a picture with the band or artist through the back stage entrance that leads out on to the street. 
 
 {% include figure.html
-class="img-right"
-width="50%"
-caption="Sunshine Building from the street."
-src="images/Sunshine3.jpg"
-%}
+  class="img-center"
+  width="100%"
+  caption="Sunshine Building Facade"
+  src="images/Sunshine5.jpg" %}
 
 The building facade, however, is a depiction of the decades and many seasons that the building has seen due to the aging yellow bricks that cover majority of the building. 
 Overall, the theater itself remains a main staple of the Sunshine Building and seems to not be facing any decline within the next chapters of downtown Albuquerque.
 
 
+ {% include figure.html
+class="img-right"
+width="50%"
+caption="Sunshine Building from the street."
+src="images/Sunshine6.jpg"
+%}
+
   
-{% include figure.html
-  class="img-center"
-  width="100%"
-  caption="Sunshine Building Facade"
-  src="images/Sunshine5.jpg" %}
+  {% include figure.html
+class="img-right"
+width="50%"
+caption="Sunshine Building from the street."
+src="images/Sunshine3.jpg"
+%}
 
 ### Sunshine Building in the future
 
