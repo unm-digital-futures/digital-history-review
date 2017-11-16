@@ -10,10 +10,10 @@ image="images/dmartinez_AngelitasDeCaridad_image1.jpg"
 text="Historic Martineztown Park"
 %} 
 
-# *Angels of Charity* Sculpture at Martineztown Park
+
 
 {% include figure.html
-  class="img-center"
+  class="img-right"
   width="40%"
   caption="Angelitas De Caridad"
   src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
@@ -189,5 +189,7 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 <http://newmexicohistory.org/places/albuquerques-20th-century-suburban-growth>
 
 <http://videostoriesnm.com/martineztowninterviews.html>
+
+<https://www.flickr.com/photos/sugarbear96/5039320125/in/photolist-8FiQiK-GY6HF-k78udX-652MK8-4L2x9s-8FiQGV-7doZ48-7doYTP-bqcXe4-iGnqqt-gMQbK-cpjDb3-iGqcxG-8FmZaU-bqcXCR-7doZ6p-7dsRSS-8Fn2Js-iGmkza-6i5Vy5-7doZ8z-bqcXJM-GY5rC-GY6Lg-bqcXbx-65j9T7-4AbiS5-jM2u5A-bqcX6c-iGmjRr-iL56jp-jcDfvJ-iL8Zs7-bqcXFk-7doZ7z-f3TY4Z-cpjCeQ-acbm5P-4Lz2od-bqcXnz-6i5XA3-8FmTTu-bqcXiK-8FiM7g-cpjArG-bqcWQT-bqcWY6-7doZ9F-8FiJ78-cpjASQ>
 
 ### Footnotes
