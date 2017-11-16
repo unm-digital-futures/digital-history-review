@@ -57,8 +57,8 @@ The building also includes offices on the upper levels of the building that hous
 ### Sunshine Building Today
 
 {% include juxtapose.html
-image1="images/SunshineD.jpg"
-image2="images/Sunshine1.jpg"
+image1="/essays/images/SunshineD.jpg"
+image2="/essays/images/Sunshine1.jpg"
 caption="The images of above are of historic Sunshine Building in 1940s and current day Sunshine Building in 2015."
 %}
 
