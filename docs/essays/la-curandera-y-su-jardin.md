@@ -10,7 +10,7 @@ text="A Look into New Mexico's 300 Year Herb History"
 %}
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="50%"
   caption="La Curandera"
   src="images/la_curandera_2.png.jpg"
@@ -23,6 +23,8 @@ This is a website dedicated to the structure known as "La Curandera y su Jardin"
   class="pullquote"
   text="The history of Curanderas in New Mexico goes back 300 years"
   %}
+
+
 
 ## The Artist
 Reynaldo "Sonny" Rivera is a homegrown New Mexican who is considered by most to be New Mexico's most famous sculptor. Rivera began his work as an artist when he was living in Mequite, New Mexico as a kid. With decades of experiance, Reynaldo Rivera has a large resume, with over 40 works of art throughout the country. Aside from being an artist, Rivera is also a Barber. Some of his clients included former Governors and Senators.
