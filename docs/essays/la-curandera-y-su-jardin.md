@@ -61,7 +61,7 @@ To understand the artpiece more, the term "Curandera" has to be fully understood
 
 ## Bless Me, Ultima
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="10%"
   caption="Bless Me Ultima"
   src="images/la_curandera_4.png.jpg"
