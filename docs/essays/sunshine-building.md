@@ -71,6 +71,7 @@ Today, a quick drive by the Sunshine building or a google search on Google maps 
 {% include figure.html
   class="img-center"
   width="50%"
+  height="50%"
   caption="Sunshine Building Back side from street"
   src="images/Sunshine7.jpg" %}
   
