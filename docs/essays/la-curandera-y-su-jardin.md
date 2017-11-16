@@ -67,6 +67,8 @@ The inspiration for the sculpture comes from the book "Bless Me, Ultima". The bo
   src="images/la_curandera_6.png.jpg"
 %}
 
+
+
 #### Refrences
 https://www.flickr.com/photos/abqpublicart/2479132554
 www.waymarking.com/waymarks/WM9XEF_La_Curandera_Y_Su_Jardin_Albuquerque_New_Mexico
