@@ -18,7 +18,8 @@ text="A Look into New Mexico's 300 Year Herb History"
 #### Will Moreno
 
 ## Intro
-This is a website dedicated to the structure known as "La Curandera y su Jardin". The name translates to "The Medicine Woman and her Garden". The Sculpture was made by Reynaldo Rivera, and is prominent to New Mexicans as it pays Homage to the book "Bless Me Ultima". It is located in Albuquerque's Botanical Garden. The history of Curanderas in New Mexico goes back 300 years and thus it is a very important part of New Mexican history. The Curanderas use herbs to heal their patients, in a from that may be compared to Witchcraft.{% include aside.html
+This is a website dedicated to the structure known as "La Curandera y su Jardin". The name translates to "The Medicine Woman and her Garden". The Sculpture was made by Reynaldo Rivera, and is prominent to New Mexicans as it pays Homage to the book "Bless Me Ultima". It is located in Albuquerque's Botanical Garden. The history of Curanderas in New Mexico goes back 300 years and thus it is a very important part of New Mexican history. The Curanderas use herbs to heal their patients, in a from that may be compared to Witchcraft.
+{% include aside.html
   class="pullquote"
   text="The history of Curanderas in New Mexico goes back 300 years"
   %}
