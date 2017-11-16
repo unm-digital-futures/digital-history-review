@@ -44,7 +44,6 @@ Reynaldo "Sonny" Rivera is a homegrown New Mexican who is considered by most to 
   caption="Curandera Close Up"
   src="images/la_curandera_3.png.jpg"
 %}
-To understand the artpiece more, the term "Curandera" has to be fully understood. Curandera, or Medicine Woman in English is a term to describe a Native American or Hispanic healer, who uses different herbs or plants to heal their patients. A curandera may also be called a healer, or a folk doctor. Curanderas or Curanderos have a long and rich history in New Mexico. New Mexico even has natural healing schools who use plants of the Southwest for their traditioanl uses. It is also known as Herbology.
 
 ## Bless Me, Ultima
 {% include figure.html
@@ -53,6 +52,9 @@ To understand the artpiece more, the term "Curandera" has to be fully understood
   caption="Bless Me Ultima"
   src="images/la_curandera_4.png.jpg"
 %}
+To understand the artpiece more, the term "Curandera" has to be fully understood. Curandera, or Medicine Woman in English is a term to describe a Native American or Hispanic healer, who uses different herbs or plants to heal their patients. A curandera may also be called a healer, or a folk doctor. Curanderas or Curanderos have a long and rich history in New Mexico. New Mexico even has natural healing schools who use plants of the Southwest for their traditioanl uses. It is also known as Herbology.
+
+
 The inspiration for the sculpture comes from the book "Bless Me, Ultima". The book is based on a Curandera, just like in the sculpture, she is asked for spiritual help. Curanderas are only available through "word-of-mouth". This is what happens in the book. When the book was adapted into a film, it was filmed entirely in New Mexico.
 {% include aside.html
   class="pullquote"
