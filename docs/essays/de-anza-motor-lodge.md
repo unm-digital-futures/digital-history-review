@@ -45,7 +45,8 @@ Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mur
   class="pullquote"
   text="Look familiar? You may have seen the De Anza Motor Lodge featured on the hit television show [Breaking Bad](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/)."
   %}
-  {% include figure.html
+ 
+ {% include figure.html
   class="img-left"
   width="50%"
   caption="The hidden art in the basement of the De Anza Motor Lodge."
