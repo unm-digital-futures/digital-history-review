@@ -70,8 +70,8 @@ Today, a quick drive by the Sunshine building or a google search on Google maps 
 
 {% include figure.html
   class="img-center"
-  width="100%"
-  caption="Sunshine Building Facade"
+  width="50%"
+  caption="Sunshine Building Back side from street"
   src="images/Sunshine7.jpg" %}
   
 However, the building facade is a depiction of the decades that the building has seen through the aging yellow bricks that cover majority of the building. Also, the once vibrant neon sign that was attached to main entrance of the building was sold to a museum by the late owners of the building and has since then taken away the classic 'American home-town' feeling from that section of downtown central. Furthermore, locals might even argue that the current design of the [Century 14 Downtown](http://cinematreasures.org/theaters/44973) is representative of the Albuquerque's movie theatre days. The most recent headline of the Sunshine Building in the news was a graffiti incident that occurred in 2015 when vandals climbed to the top of the building and defaced the building’s facade. The news article explains that concerns of the buildings historic value and height of the building would make it difficult to clean up the graffiti [^source].
