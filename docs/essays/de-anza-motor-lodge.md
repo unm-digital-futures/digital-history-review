@@ -33,7 +33,7 @@ The De Anza Motor Lodge sits on the same property that it was built on. The foun
 
 {% include figure.html
   class="img-left"
-  width="35%"
+  width="40%"
   caption="Map of the De Anza in the 50's"
   src="images/MapofDeAnza.png"%}
 
