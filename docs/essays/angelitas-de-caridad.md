@@ -23,8 +23,8 @@ Encompassed by the urban sprawl of the central business district, *Martineztown 
 
 
 {% include figure.html
-  class="img-left"
-  width="20%"
+  class="img-center"
+  width="40%"
   caption="Martineztown Park Trail at Dr. Martin Luther King Jr. Ave"
   src="images/dmartinez_trail.jpg"
 %}
