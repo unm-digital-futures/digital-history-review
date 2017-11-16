@@ -47,6 +47,14 @@ Reynaldo "Sonny" Rivera is a homegrown New Mexican who is considered by most to 
 
 To understand the artpiece more, the term "Curandera" has to be fully understood. Curandera, or Medicine Woman in English is a term to describe a Native American or Hispanic healer, who uses different herbs or plants to heal their patients. A curandera may also be called a healer, or a folk doctor. Curanderas or Curanderos have a long and rich history in New Mexico. New Mexico even has natural healing schools who use plants of the Southwest for their traditioanl uses. It is also known as Herbology.
 
+
+
+
+
+
+
+
+
 ## Bless Me, Ultima
 {% include figure.html
   class="img-left"
