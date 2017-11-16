@@ -13,6 +13,10 @@ text="A Look into New Mexico's 300 Year Herb History"
 
 
 
+
+
+
+
 {% include figure.html
   class="img-left"
   width="50%"
