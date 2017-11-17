@@ -41,6 +41,13 @@ Neslted peacefully in the corner of the park at the bottom of the hill with Love
 In the late 19th century, New Mexico's growth was spurred by ranching, mining and the railroads. But in the years prior to and after statehood, the state's economy was driven by one thing: disease, tuberculosis in particular'"
 %} [^TBinNewMexico]
 
+{% include figure.html
+  class="img-left"
+  width="36%"
+  caption="Sisters of Charity founding Lovelace Hospital"
+  src="images/dmartinez_Base2_image9.png"
+%}
+
 
 ## History of Martineztown
 
@@ -114,13 +121,6 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 %}
 
 
-{% include figure.html
-  class="img-right"
-  width="36%"
-  caption="Sisters of Charity founding Lovelace Hospital"
-  src="images/dmartinez_Base2_image9.png"
-%}
-
 
 ## Why you should visit *Angelitas De Caridad* 
 Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of Albuquerque History. Though there is limited information on the sculpture itself, it represents an era in American and New Mexico history that forever changed the landscape of the city, state, and country.  
@@ -128,7 +128,7 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 
 {% include full-width.html
   class="pullquote"
-  text=" 'The legacy of the Sisters of Charity of Cincinnati exemplifies the pioneering spirit, to achieve long-lasting results by focusing on the health needs of the most vulnerable of our citizens"
+  text=" 'The legacy of the Sisters of Charity of Cincinnati exemplifies the pioneering spirit, to achieve long-lasting results by focusing on the health needs of the most vulnerable of our citizens' "
 %} [^CHI St. Joseph's Children History]: [CHI St. Joseph's Children History](http://www.stjosephnm.org/History.aspx)
 
 
