@@ -108,7 +108,7 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 
 
 {% include figure.html
-  class="img-right"
+  class="img-center"
   width="36%"
   caption="Sisters of Charity founding Lovelace Hospital"
   src="images/dmartinez_Base2_image9.png"
