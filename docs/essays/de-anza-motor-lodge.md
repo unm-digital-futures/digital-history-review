@@ -57,8 +57,7 @@ After WWII in the late 1950's, hotel chains began to pop up and eventually put l
 {% include aside.html
   class="pullquote"
   text="Today Albuquerque is known for it's artistic scenes, cultural integration, and beautiful architecture."
-  %}
-  
+  %}  
 ### The Art Left Behind
 The only art that isn't able to be displayed or sold is the mural in the basement. The mural in the basement has been the sole reason for preserving the historic De Anza Motor Lodge. Culture of the Zuni people has been eteched into the history of this building only for it to be hidden away.
 {% include figure.html
