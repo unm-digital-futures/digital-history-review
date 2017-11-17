@@ -63,7 +63,7 @@ The only art that isn't able to be displayed or sold is the mural in the basemen
 {% include figure.html
   class="img-center"
   width="50%"
-  caption="The abandoned motor lodge"
+  caption="The motor lodge today"
   src="images/TheDeAnzaNow.jpg"%}
 #### References 
 1. <http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/>
