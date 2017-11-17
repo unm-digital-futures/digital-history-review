@@ -6,7 +6,7 @@ css: angelitasdecaridad.css
 
 {% include jumbotron.html
 title="Angelitas De Caridad"
-image="images/dcmartinez_sisters3.jpg"
+image="images/dcmartinez_acequia.jpg"
 text="@ Historic Martineztown Park"
 %} 
 
@@ -41,13 +41,6 @@ Neslted peacefully in the corner of the park at the bottom of the hill with Love
 Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used by prominent families for pastured lands and as a rest stop for travelers. In 1850 Don Miguel Martin built a permanent settlement along the *Acequia Madre de Los Barelas* and Martineztown was established.[^MartineztownHistory]  Slowly new businesses began to emerge connecting the old town with the new.
 
 
-{% include figure.html
-  class="img-left"
-  width="28%"
-  caption="Martineztown *Acequia Madre de Los Barelas* "
-  src="images/dmartinez_acequia.jpg"
-%}
-
 {% include full-width.html
   class="pullquote"
   text=" '
@@ -64,12 +57,14 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 
 {% include figure.html
   class="img-left"
-  width="40%"
+  width="30%"
   caption="Angelitas De Caridad"
   src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
 %}
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_,and Albuquerque
+
+The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing a St. Josephs Sanitarium present day Albuquerque Regional Medical Center, schools, and orphanages. [^HospitalHistory] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
 
 {% include figure.html
   class="img-right"
@@ -77,8 +72,6 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
   caption="Sisters of Charity of Cincinnati"
   src="images/dmartinez_sisters.jpg"
 %}
-
-The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing a St. Josephs Sanitarium present day Albuquerque Regional Medical Center, schools, and orphanages. [^HospitalHistory] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
 
 
 The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters.[^srcharitycinti] Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
@@ -106,6 +99,13 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
 The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. As you take a Walk around the base, the orgin of the Sister's story and their commitment to the community is told through the illustrations. Plaques with words like Hope, Temperance, and Faith finish out the surrounding local. And the last plaque, in line with the sculpture and Lovelace Hosptial assert, "In Unity There is Strength". This message defines the motto of not only *Sisters of Charity* but what they brought to the commumnity of Martineztown and Albuquerque.
 
 
+{% include full-width.html
+  class="pullquote"
+  text=" Artist Linda DaBeau states, 'Overall I show how much the Sisters of Charity contributed to the spirituality, love of Christ and the overall growth and nurturing of the people of Martineztown and the surrounding area'"
+%} [^srcharitycinti]
+
+
+
  {% include figure.html
   class="img-left"
   width="36%"
@@ -120,19 +120,6 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
   caption="Sisters of Charity founding Lovelace Hospital"
   src="images/dmartinez_Base2_image9.png"
 %}
-
-
-
-
-
-
-{% include full-width.html
-  class="pullquote"
-  text=" Artist Linda DaBeau states, 'Overall I show how much the Sisters of Charity contributed to the spirituality, love of Christ and the overall growth and nurturing of the people of Martineztown and the surrounding area'"
-%} [^srcharitycinti]
-
-
-
 
 
 
