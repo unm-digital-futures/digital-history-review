@@ -7,7 +7,7 @@ date: 2017-11-07
 
 {% include jumbotron.html
 title="Sunshine Building"
-image="images/SunshineB.jpg"
+image="images/SunshineC.jpg"
 text="Albuquerque's Second Skyscraper."
 %} 
 
@@ -26,7 +26,7 @@ Enjoying a *[Marble Brewery](http://www.marblebrewery.com/) Pale Ale* while watc
 class="img-right"
 width="50%"
 caption="Historic Sunshine Theatre."
-src="images/SunshineC.jpg"
+src="images/SunshineB.jpg"
 %}
 
 The Sunshine building is most famously known to some as "Albuquerque's original cinematic palace [2]." However, it is important to look at the overall influence that the construction of the Sunshine "theatre" had on the history of Albuquerque alongside being one of the city's first movie theaters. Before the Sunshine building was built, it was located on what was known as The White Elephant which was a saloon that closed down in 1920 due to prohibition[8]. The saloon was owned by Joseph Barnett who moved to New Mexico from New York in 1883 and was involved in real estate until he eventually became a local entertainment entrepreneur whom, at one point, owned most of the city's theaters. Barnett then went on to hire noted architect Henry C. Trost of Trost & Trost in El Paso to build Sunshine Theatre which would include a 920 seat theater and become the second sky scraper in downtown Albuquerque [9].
