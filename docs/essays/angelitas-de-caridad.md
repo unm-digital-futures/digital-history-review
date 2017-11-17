@@ -63,21 +63,19 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 
 
 {% include figure.html
-  class="img-left"
-  width="20%"
-  caption="Angelitas De Caridad"
-  src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
-%}
-
-
-The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing a St. Josephs Sanitarium present day Albuquerque Regional Medical Center, schools, and orphanages. [^HospitalHistory] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
-
-
-{% include figure.html
   class="img-right"
   width="35%"
   caption="Sisters of Charity of Cincinnati"
   src="images/dmartinez_sisters.jpg"
+%}
+
+The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing a St. Josephs Sanitarium present day Albuquerque Regional Medical Center, schools, and orphanages. [^HospitalHistory] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
+
+{% include figure.html
+  class="img-left"
+  width="20%"
+  caption="Angelitas De Caridad"
+  src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
 %}
 
 
