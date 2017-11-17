@@ -30,6 +30,7 @@ The incorporation of both Spanish and Pueblo inspiration made the De Anza Motor 
   %}
 ### De Anza Motor Lodge Today
 In 2004, the De Anza Motor Lodge was placed on The National Register of Historic Places. Owned by the city of Albuquerque, several community based businesses and Route 66 restorators are working endlessly to revive and restore all that Route 66 was in a classic manner. The De Anza Motor Lodge plays a major role in restoring what Route 66 was by being a landmark for culture. Redesigning the motor lodge owuld begin to restore it's rich hisotry and life. The De Anza Motor Lodge is currently under renovation to better serve it's history.
+
 The De Anza Motor Lodge sat encased by four streets, Central and Copper running East/West and Graceland and Washington running North/South. The rectangluar property allowed for easy remodleing and a convenient location to access from Route 66.
 The De Anza Motor Lodge sits on the same property that it was built on. The foundation in crumbles, the paint peeling, and the prpoperty guarded. Central, Route 66, ranges from a more modern to poverty stricken area. There ranges from thrift shops to modern shops to tents from homeless people. The motel sits within a mile of the University of New Mexico, which creates the surrounding neighborhood to be extremely diverse. Sitting next to it is a bank and on the other is shoe repair man store. Across from it lie a bar and a Thai resturant, a much different community than in it's prime. Currently, Central is under construction to introduce a new modern public transort system called A.R.T. (Albuquerque Rapod Transit). [^source3]
 
@@ -52,10 +53,12 @@ Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mur
   caption="The hidden art in the basement of the De Anza Motor Lodge."
   src="images/Mural.png"%}
 ## The Fate Of The De Anza Motor Lodge
-After WWII in the late 1950's, hotel chains began to pop up and eventually put local motor lodges out of business. The remodling and changes Wallace had made to the De Anza had allowed it to stay in business much longer than many other motor lodges. The motor lodge was listed as American Automobile Association-approved accomodation until the ealry 1990's. C.G. Wallace died in 1993, shortly after the motor lodge was sold and continued this cycle until purchased by the city of Albuquerque. [^source2] {% include aside.html
+After WWII in the late 1950's, hotel chains began to pop up and eventually put local motor lodges out of business. The remodling and changes Wallace had made to the De Anza had allowed it to stay in business much longer than many other motor lodges. The motor lodge was listed as American Automobile Association-approved accomodation until the ealry 1990's. C.G. Wallace died in 1993, shortly after the motor lodge was sold and continued this cycle until purchased by the city of Albuquerque. [^source2]
+{% include aside.html
   class="pullquote"
   text="Today Albuquerque is known for it's artistic scenes, cultural integration, and beautiful architecture."
   %}
+  
 ### The Art Left Behind
 The only art that isn't able to be displayed or sold is the mural in the basement. The mural in the basement has been the sole reason for preserving the historic De Anza Motor Lodge. Culture of the Zuni people has been eteched into the history of this building only for it to be hidden away.
 {% include figure.html
