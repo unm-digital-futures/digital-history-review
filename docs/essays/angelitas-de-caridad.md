@@ -46,18 +46,18 @@ In the late 19th century, New Mexico's growth was spurred by ranching, mining an
 
 Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used by prominent families for pastured lands and as a rest stop for travelers. In 1850 Don Miguel Martin built a permanent settlement along the *Acequia Madre de Los Barelas* and Martineztown was established.[^MartineztownHistory]  Slowly new businesses began to emerge connecting the old town with the new.
 
-In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown.[^MartineztownHistory] As the railroads urbanized cities across the country, New Mexico's climate offered something different, aid for Tuberculosis victims. The dry air and high elevations made Albuquerque the ideal place to live and establish hopsitals. Tuberculosis as the catalyst and the railroad as the facilitator, Martineztown became a new hub for Albuquerque society. Businesses would eventually enclose Martineztown Park to its current position, thus creating an timecaplse within the booming cityscape.  
-
 {% include aside.html
   class="pullquote"
   text=" 'As patients arrived and lived in rooming houses, tent cities, sanatoriums, and on the streets, hoping the mountain air would cure them, locals became infected.' writer Jennifer Levin states in her article, _The lungers' legacy: Tuberculosis patients in New Mexico_''." %}
+
+In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown.[^MartineztownHistory] As the railroads urbanized cities across the country, New Mexico's climate offered something different, aid for Tuberculosis victims. The dry air and high elevations made Albuquerque the ideal place to live and establish hopsitals. Tuberculosis as the catalyst and the railroad as the facilitator, Martineztown became a new hub for Albuquerque society. Businesses would eventually enclose Martineztown Park to its current position, thus creating an timecaplse within the booming cityscape.  
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_,and Albuquerque
 
 
 {% include figure.html
   class="img-left"
-  width="30%"
+  width="20%"
   caption="Angelitas De Caridad"
   src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
 %}
@@ -66,7 +66,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing a St. Josephs Sanitarium present day Albuquerque Regional Medical Center, schools, and orphanages. [^HospitalHistory] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="35%"
   caption="Sisters of Charity of Cincinnati"
   src="images/dmartinez_sisters.jpg"
@@ -122,6 +122,9 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 
 
 
+{% include aside.html
+  class="pullquote"
+  text=" 'Their legacy, however, lives on in the contributions made by the health seekers, who a century ago helped transform a territory into a state'." %}[^Lungers and their legacy]
 
 
 
@@ -148,9 +151,11 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 
 [^MartineztownHistory]: [History of Martineztown](http://http://chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf)
 
-[^tuberculosisnewmexico]: [Tuberculosis in New Mexico](http://http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.htm
-
+[^tuberculosisnewmexico]: [Tuberculosis in New Mexico](http://http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.htm)
+ 
 [^TBinNewMexico]: [TB in New Mexico](https://www.bizjournals.com/albuquerque/print-edition/2012/02/03/disease-played-major-role-in.html?page=all)
+
+[^Lungers and their legacy]: [Lungers and their legacy](http://newmexicohistory.org/people/lungers-and-their-legacy)
 
 ### References
 <http://www.srcharitycinti.org/news_events/images/dabeau.jpg>
