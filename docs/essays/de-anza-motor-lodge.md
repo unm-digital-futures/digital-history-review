@@ -28,6 +28,8 @@ The incorporation of both Spanish and Pueblo inspiration made the De Anza Motor 
   class="pullquote"
   text="A.R.T.(Albuquerque Rapid Transit) is an attempt to redefine what Route 66 was. By creating a modernized transit system Route 66, no longer represents the simplistic values of community. "
   %}
+### De Anza Motor Lodge Today
+In 2004, the De Anza Motor Lodge was placed on The National Register of Historic Places. Owned by the city of Albuquerque, several community based businesses and Route 66 restorators are working endlessly to revive and restore all that Route 66 was in a classic manner. The De Anza Motor Lodge plays a major role in restoring what Route 66 was by being a landmark for culture. Redesigning the motor lodge owuld begin to restore it's rich hisotry and life. The De Anza Motor Lodge is currently under renovation to better serve it's history.
 The De Anza Motor Lodge sat encased by four streets, Central and Copper running East/West and Graceland and Washington running North/South. The rectangluar property allowed for easy remodleing and a convenient location to access from Route 66.
 The De Anza Motor Lodge sits on the same property that it was built on. The foundation in crumbles, the paint peeling, and the prpoperty guarded. Central, Route 66, ranges from a more modern to poverty stricken area. There ranges from thrift shops to modern shops to tents from homeless people. The motel sits within a mile of the University of New Mexico, which creates the surrounding neighborhood to be extremely diverse. Sitting next to it is a bank and on the other is shoe repair man store. Across from it lie a bar and a Thai resturant, a much different community than in it's prime. Currently, Central is under construction to introduce a new modern public transort system called A.R.T. (Albuquerque Rapod Transit). [^source3]
 
@@ -57,8 +59,6 @@ The only art that isn't able to be displayed or sold is the mural in the basemen
   class="pullquote"
   text="Today Albuquerque is known for it's artistic scenes, cultural integration, and beautiful architecture."
   %}
-### De Anza Motor Lodge Today
-In 2004, the De Anza Motor Lodge was placed on The National Register of Historic Places. Owned by the city of Albuquerque, several community based businesses and Route 66 restorators are working endlessly to revive and restore all that Route 66 was in a classic manner. The De Anza Motor Lodge plays a major role in restoring what Route 66 was by being a landmark for culture. Redesigning the motor lodge owuld begin to restore it's rich hisotry and life. The De Anza Motor Lodge is currently under renovation to better serve it's history.
 {% include figure.html
   class="img-center"
   width="50%"
