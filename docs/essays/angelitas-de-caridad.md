@@ -29,7 +29,7 @@ Neslted peacefully in the corner of the park at the bottom of the hill with Love
 
 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="30%"
   caption="Hidden among the trees, Angelitas De Caridad Sculpture at Martineztown Park"
   src="images/dmartinez_hiddenview.jpg"
