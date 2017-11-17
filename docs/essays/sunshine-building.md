@@ -49,7 +49,7 @@ In addition to the building was a neon Sunshine sign which later added to the fa
 The building also includes offices on the upper levels of the building that housed F.D. Fogg and Company, a fine jewelry retailer that closed in 1970 [1]and was also the site of the first meetings of Congregation B’nai Israel which connects the building to history of the current day New Mexico Historical Jewish Society. The theatre continued to show films in to the 1960s when the interior was almost completely remodeled to allow an installation of a large movie screen for feature film screenings. Sunshine remained in operation until 1974 when the theatre stopped showing first-run movies but then eventually closed its doors as a movie theatre in 1980 and was seriously threatened with demolition in 1984 [7]. The efforts to save the iconic Sunshine building were finally appeased when the city declared it as a historic landmark in 1985. The final renovation to the building came in 1990s when the theatre was renovated its current day purpose in the downtown which is a live music performance venue and has hosted some well-known acts such as: Strokes, Snoop Dogg, Stone Temple Pilots, The Smashing Pumpkins, Modest Mouse, Rancid, Coheed and Cambria, Social Distortion, Deftones, Deadmau5, and many others.
 
 {% include figure.html
-  class="img-center"
+  class="img-left"
   width="100%"
   caption="Last days of Sunshine Theatre before closure in 1980"
   src="images/SunshineE.jpg" %}
