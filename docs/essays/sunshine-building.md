@@ -7,7 +7,7 @@ date: 2017-11-07
 
 {% include jumbotron.html
 title="Sunshine Building"
-image="images/SunshineC.jpg"
+image="images/Sunshine2.jpg"
 text="Albuquerque's Second Skyscraper."
 %} 
 
