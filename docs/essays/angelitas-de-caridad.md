@@ -6,7 +6,7 @@ css: angelitasdecaridad.css
 
 {% include jumbotron.html
 title="Angelitas De Caridad"
-image="images/dmartinez_sisters2.jpg"
+image="images/dcmartinez_sisters2.jpg"
 text="@ Historic Martineztown Park"
 %} 
 
