@@ -129,7 +129,7 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 {% include full-width.html
   class="pullquote"
   text=" 'The legacy of the Sisters of Charity of Cincinnati exemplifies the pioneering spirit, to achieve long-lasting results by focusing on the health needs of the most vulnerable of our citizens"
-%} [^TBinNewMexico]
+%} [^CHI St. Joseph's Children History]: [CHI St. Joseph's Children History](http://www.stjosephnm.org/History.aspx)
 
 
 
