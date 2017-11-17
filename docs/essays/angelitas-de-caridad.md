@@ -6,7 +6,7 @@ css: angelitasdecaridad.css
 
 {% include jumbotron.html
 title="Angelitas De Caridad"
-image="images/dcmartinez_sisters2.jpg"
+image="images/dcmartinez_sisters3.jpg"
 text="@ Historic Martineztown Park"
 %} 
 
@@ -25,23 +25,15 @@ Encompassed by the urban sprawl of the central business district, *Martineztown 
 Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you are transported back to the city's orgin through a series of displays that chronicle Native orgin, Spanish conquest, and community intergration. Plaques of Native trees, plants, and animals are distributed every few feet trying to giving a sense of what the landscape would've looked like prior to European contact. And once you reach the center of the park, laughter from the Longfellow Elementary School and noise from the busy streets can be heard. However, continue east into the park and you will experience quite and tranquility.  
 
 
+Neslted peacefully in the corner of the park at the bottom of the hill with Lovelace Hosptial as the backdrop sits the sculpture, *"Angelitas De Caridad"* by Albuquerque artist Linda DaBeau. Though the sculpture feels hidden, its white limestone wings stands out amongst its surrounding. Dedicated to the *Sisters of Charity of Cincinnati* who came to New Mexico at the height of the Tuberculosis epedemic and aided the community by transforming St. Joseph's Sanitarium into present day St. Joseph's Hospital and [LovelaceHosptial](http://https://www.abqjournal.com/news/metro/390889metro09-17-05.htm). At the time Tuberculosis had killed more Americans than any other disease and continues to be one of the deadliest disease in the world. Therefore, *"Angelitas De Caridad"* sculpture beautifully illustrates the history of Martineztown and the significant role the "Angeles of Charity" played in our states history.
+
+
 {% include figure.html
   class="img-left"
   width="30%"
   caption="Hidden among the trees, Angelitas De Caridad Sculpture at Martineztown Park"
   src="images/dmartinez_hiddenview.jpg"
 %}
-
-Neslted peacefully in the corner of the park at the bottom of the hill with Lovelace Hosptial as the backdrop sits the sculpture, *"Angelitas De Caridad"* by Albuquerque artist Linda DaBeau. Though the sculpture feels hidden, its white limestone wings stands out amongst its surrounding. Dedicated to the *Sisters of Charity of Cincinnati* who came to New Mexico at the height of the Tuberculosis epedemic and aided the community by transforming St. Joseph's Sanitarium into present day St. Joseph's Hospital and [LovelaceHosptial](http://https://www.abqjournal.com/news/metro/390889metro09-17-05.htm). At the time Tuberculosis had killed more Americans than any other disease and continues to be one of the deadliest disease in the world. Therefore, *"Angelitas De Caridad"* sculpture beautifully illustrates the history of Martineztown and the significant role the "Angeles of Charity" played in our states history.
-
-
-{% include figure.html
-  class="img-right"
-  width="40%"
-  caption="Angelitas De Caridad"
-  src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
-%}
-
 
 {% include aside.html
   class="pullquote"
@@ -68,6 +60,15 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
   text=" 'As patients arrived and lived in rooming houses, tent cities, sanatoriums, and on the streets, hoping the mountain air would cure them, locals became infected.' writer Jennifer Levin states in her article, _The lungers' legacy: Tuberculosis patients in New Mexico_'"
 %}[^Lungerlegacy]
 
+
+
+
+{% include figure.html
+  class="img-right"
+  width="40%"
+  caption="Angelitas De Caridad"
+  src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
+%}
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_,and Albuquerque
 
