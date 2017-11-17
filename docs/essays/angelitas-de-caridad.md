@@ -52,7 +52,7 @@ Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used
 
 In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown.[^MartineztownHistory] As the railroads urbanized cities across the country, New Mexico's climate offered something different, aid for Tuberculosis victims. The dry air and high elevations made Albuquerque the ideal place to live and establish hopsitals. Tuberculosis as the catalyst and the railroad as the facilitator, Martineztown became a new hub for Albuquerque society. Businesses would eventually enclose Martineztown Park to its current position, thus creating an timecaplse within the booming cityscape.  
 
-## Tuberculosis, _The Sisters of Charity of Cincinnati_,and Albuquerque
+## Tuberculosis, _The Sisters of Charity of Cincinnati_, and Albuquerque
 
 
 {% include figure.html
@@ -64,6 +64,11 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 
 
 The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing a St. Josephs Sanitarium present day Albuquerque Regional Medical Center, schools, and orphanages. [^HospitalHistory] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
+
+
+{% include full-width.html
+  class="pullquote"
+  text=" 'Their legacy, however, lives on in the contributions made by the health seekers, who a century ago helped transform a territory into a state'." %}[^Lungers and their legacy]
 
 {% include figure.html
   class="img-right"
@@ -114,20 +119,11 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 
 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="36%"
   caption="Sisters of Charity founding Lovelace Hospital"
   src="images/dmartinez_Base2_image9.png"
 %}
-
-
-
-{% include full-width.html
-  class="pullquote"
-  text=" 'Their legacy, however, lives on in the contributions made by the health seekers, who a century ago helped transform a territory into a state'." %}[^Lungers and their legacy]
-
-
-
 
 
 ## Why you should visit *Angelitas De Caridad* 
