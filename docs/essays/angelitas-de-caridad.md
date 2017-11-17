@@ -46,7 +46,7 @@ In the late 19th century, New Mexico's growth was spurred by ranching, mining an
   class="img-left"
   width="33%"
   caption="Illustrations of the Sisters arriving to Martineztown"
-  src="images/dmartinez_Base_image.png"
+  src="images/dmartinez_Base_image.jpg"
 %}
 
 ## History of Martineztown
