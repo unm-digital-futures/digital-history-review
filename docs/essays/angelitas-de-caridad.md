@@ -89,7 +89,7 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
 
 {% include figure.html
   class="img-left"
-  width="20%"
+  width="25%"
   caption="LInda DaBeau"
   src="images/dmartinez_linda_image10.jpg"
 %}
@@ -112,8 +112,8 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 
 
 {% include figure.html
-  class="img-center"
-  width="45%"
+  class="img-right"
+  width="33%"
   caption="Sisters of Charity founding Lovelace Hospital"
   src="images/dmartinez_Base2_image.jpg"
 %}
