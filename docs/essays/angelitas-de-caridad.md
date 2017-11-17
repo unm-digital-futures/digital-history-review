@@ -36,12 +36,6 @@ Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you
 Neslted peacefully in the corner of the park at the bottom of the hill with Lovelace Hosptial as the backdrop sits the sculpture, *"Angelitas De Caridad"* by Albuquerque artist Linda DaBeau. Though the sculpture feels hidden, its white limestone wings stands out amongst its surrounding. Dedicated to the *Sisters of Charity of Cincinnati* who came to New Mexico at the height of the Tuberculosis epedemic and aided the community by transforming St. Joseph's Sanitarium into present day St. Joseph's Hospital and [LovelaceHosptial](http://https://www.abqjournal.com/news/metro/390889metro09-17-05.htm). At the time Tuberculosis had killed more Americans than any other disease and continues to be one of the deadliest disease in the world. Therefore, *"Angelitas De Caridad"* sculpture beautifully illustrates the history of Martineztown and the significant role the "Angeles of Charity" played in our states history.
 
 
-{% include full-width.html
-  class="pullquote"
-  text=" '
-In the late 19th century, New Mexico's growth was spurred by ranching, mining and the railroads. But in the years prior to and after statehood, the state's economy was driven by one thing: disease, tuberculosis in particular'"
-%} [^TBinNewMexico]
-
 ## History of Martineztown
 
 Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used by prominent families for pastured lands and as a rest stop for travelers. In 1850 Don Miguel Martin built a permanent settlement along the *Acequia Madre de Los Barelas* and Martineztown was established.[^MartineztownHistory]  Slowly new businesses began to emerge connecting the old town with the new.
@@ -54,6 +48,12 @@ Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used
   src="images/dmartinez_acequia.jpg"
 %}
 
+{% include full-width.html
+  class="pullquote"
+  text=" '
+In the late 19th century, New Mexico's growth was spurred by ranching, mining and the railroads. But in the years prior to and after statehood, the state's economy was driven by one thing: disease, tuberculosis in particular'"
+%} [^TBinNewMexico]
+
 In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown.[^MartineztownHistory] As the railroads urbanized cities across the country, New Mexico's climate offered something different, aid for Tuberculosis victims. The dry air and high elevations made Albuquerque the ideal place to live and establish hopsitals. Tuberculosis as the catalyst and the railroad as the facilitator, Martineztown became a new hub for Albuquerque society. Businesses would eventually enclose Martineztown Park to its current position, thus creating an timecaplse within the booming cityscape.  
 
 
@@ -63,7 +63,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="40%"
   caption="Angelitas De Caridad"
   src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
