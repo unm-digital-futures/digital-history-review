@@ -44,9 +44,9 @@ In the late 19th century, New Mexico's growth was spurred by ranching, mining an
 
  {% include figure.html
   class="img-left"
-  width="36%"
+  width="33%"
   caption="Illustrations of the Sisters arriving to Martineztown"
-  src="images/dmartinez_Base_image8.png"
+  src="images/dmartinez_Base_image.png"
 %}
 
 ## History of Martineztown
@@ -82,15 +82,6 @@ The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and l
 
 
 The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters.[^srcharitycinti] Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
-
-
-{% include figure.html
-  class="img-right"
-  width="25%"
-  caption="Lovelace Hospital overlooking Martineztown Park"
-  src="images/dmartinez_lovelacebackdrop.jpg"
-%}
-
 
 ## *"Angelitas De Caridad"* Sculpture and Artist
 
