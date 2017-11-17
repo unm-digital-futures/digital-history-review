@@ -66,10 +66,6 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing a St. Josephs Sanitarium present day Albuquerque Regional Medical Center, schools, and orphanages. [^HospitalHistory] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
 
 
-{% include full-width.html
-  class="pullquote"
-  text=" 'Their legacy, however, lives on in the contributions made by the health seekers, who a century ago helped transform a territory into a state'." %}[^Lungers and their legacy]
-
 {% include figure.html
   class="img-right"
   width="35%"
@@ -94,7 +90,7 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
 Commissioned by the South Martineztown community and created by Albuquerque artist Linda DaBeau, the sculpture is a limestone winged angel standing at 25 feet tall and 16 feet wide with a bronze wrap around fountain base feature. The base depicts 42 figures and 22 buildings as a narrative to the Sisters story.[^PublicArchive] Though it is situated in Martineztown Park and below the hill of Lovelace, the site itself is nestled away along the curving road of High St. enclosed by trees and flowers making it an almost hidden location within the park itself. Adobe homes beautifully line the north and west blocks maintaining its historic charm.   
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="25%"
   caption="LInda DaBeau"
   src="images/dmartinez_linda_image10.jpg"
@@ -149,7 +145,8 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 
 [^tuberculosisnewmexico]: [Tuberculosis in New Mexico](http://http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.htm)
  
-[^TBinNewMexico]: [TB in New Mexico](https://www.bizjournals.com/albuquerque/print-edition/2012/02/03/disease-played-major-role-in.html?page=all)
+[^TBinNewMexico]: [TB in New Mexico](https://www.bizjournals.com/albuquerque/print-edition/2012/02/03/disease-played-major-role-in.html)
+
 
 [^Lungers and their legacy]: [Lungers and their legacy](http://newmexicohistory.org/people/lungers-and-their-legacy)
 
