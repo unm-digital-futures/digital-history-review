@@ -126,6 +126,12 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of Albuquerque History. Though there is limited information on the sculpture itself, it represents an era in American and New Mexico history that forever changed the landscape of the city, state, and country.  
 
 
+{% include full-width.html
+  class="pullquote"
+  text=" 'The legacy of the Sisters of Charity of Cincinnati exemplifies the pioneering spirit, to achieve long-lasting results by focusing on the health needs of the most vulnerable of our citizens"
+%} [^TBinNewMexico]
+
+
 
 
 
