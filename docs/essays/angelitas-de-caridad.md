@@ -89,7 +89,7 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
 
 {% include figure.html
   class="img-left"
-  width="25%"
+  width="20%"
   caption="LInda DaBeau"
   src="images/dmartinez_linda_image10.jpg"
 %}
@@ -103,13 +103,17 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 %} [^srcharitycinti]
 
 
+
+
+
+
 ## Why you should visit *Angelitas De Caridad* 
 Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of Albuquerque History. Though there is limited information on the sculpture itself, it represents an era in American and New Mexico history that forever changed the landscape of the city, state, and country.  
 
 
 {% include figure.html
   class="img-center"
-  width="36%"
+  width="45%"
   caption="Sisters of Charity founding Lovelace Hospital"
   src="images/dmartinez_Base2_image.jpg"
 %}
