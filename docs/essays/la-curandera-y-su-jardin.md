@@ -100,6 +100,9 @@ The inspiration for the sculpture comes from the book "Bless Me, Ultima". The bo
 
 
 #### Refrences
+www.waymarking.com/waymarks/WM9XEF_La_Curandera_Y_Su_Jardin_Albuquerque_New_Mexico
+https://www.cabq.gov/culturalservices/biopark/garden/exhibith/curandera-garden 
+https://www.newmexicoexplorer.com/albuquerque-biotonical-gardens 
+https://www.abqjournal.com/298308/artfest-recongizes-local-talent.html
 
-https://www.cabq.gov/culturalservices/biopark/garden/exhibith/curandera-garden
 
