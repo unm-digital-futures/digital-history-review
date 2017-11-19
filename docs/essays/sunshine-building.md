@@ -20,7 +20,7 @@ src="images/Sunshine4.jpg"
 
 Enjoying a *[Marble Brewery](http://www.marblebrewery.com/) Pale Ale* while watching a reggae, hip-hop, or rock concert at Sunshine Theater is an experience that most people fail to appreciate for many reasons. First, some locals may think that the venue quality of Sunshine Theater is not as good as other venues downtown. Second, the aging building maintenance by current management is considered non-existent by some locals. Third, many lack any other historical knowledge about the building besides the use of a concert hall by locals. As Albuquerquens, it is our duty to carry the history of our city in to the future as well as to remember all the places that make up and have made up our city skyline. So, this essay is an attempt to give a greater understanding to importance of the Sunshine Building to the local community as well as visitors to Albuquerque.
 
-##### History
+### History
 
 {% include figure.html
 class="img-right"
@@ -54,7 +54,7 @@ The building also includes offices on the upper levels of the building that hous
   caption="Last days of Sunshine Theatre before closure in 1980"
   src="images/SunshineE.jpg" %}
 
-##### Sunshine Building Today
+### Sunshine Building Today
 
 {% include juxtapose.html
 image1="/essays/images/SunshineD.jpg"
@@ -86,7 +86,7 @@ src="images/Sunshine6.jpg"
 
 Other than this article in the news, there is not much references about the historic value of the Sunshine Building to the city of Albuquerque which is only solidified upon visiting the theater for a concert and seeing the shambles the building is in versus the prestige it once held.
   
-##### Sunshine Building in the future
+### Sunshine Building in the future
 
 Overall, the theater itself remains a main staple of the Sunshine Building and seems to not be facing any decline within the next chapters of downtown Albuquerque; but, as a fellow Albuquerquen, it is easy to wonder when the next challenge will come to the Sunshine Theater that will be the metaphorical straw that will break the camel's back. As a city, we should band together to create a new narrative for what downtown as well as all of Albuquerque means to us and this means advocating for city projects that will include items like restoration of historical sites, more art projects to make our streets beautiful, and actual histories of the city written by people from the city. Until then, people will going about their way downtown without noticing the Sunshine Buildings importance until be  any threats come the buildings way and will ultimately determine whether the building is as important as it once was to Albuquerque.
 
