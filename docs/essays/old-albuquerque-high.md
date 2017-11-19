@@ -70,7 +70,7 @@ class="img-left"
 width="45%"
 caption="The Lofts at Albuquerque"
 src="images/ABQhighrecent1.JPG"
-%}[^robin]
+%}
 
 The school was unable to keep up with new health codes and began to fall apart. A new Albuquerque High was built only about a mile away, and Old Albuquerque was closed in 1974. The building was eventually marked as a "blighted area" by City Council and was scheduled to be bulldozed and turned into a parking lot. The [Albuquerque High School Alumni Association](http://www.ahsalumniassoc.com/index.html), created in 1994, became the leaders in helping to preserve the old school.[^batgirl] Eventually, the developer Dekker, Perich, & Sabatini was brought on to convert the campus to office space and loft apartments.[^redhood] The project was completed in 2002[^joker] and was so successful that the city decided to draft a master plan in 2005 to guide further revitilization to the surrounding areas of the East Downtown District[^poisonivy]. As the school was considered a historic building at this point, the school walls, chalkboards, floors, and ceilings were preserved.  
 
@@ -87,16 +87,14 @@ The Old Albuquerque High, or as the business is called, The Lofts at Albuquerque
 
 #### Sources
 
-[^catwoman]:[NM Historic Preservation](http://www.nmhistoricpreservation.org/assets/files/historic-contexts-and-reports/NM_Bernalillo-County_Historic-and-Architectural-Resources-of-Central-Albuquerque_1880-1970_MPDF.pdf)
+[^catwoman]:[NM Historic Preservation](http://www.nmhistoricpreservation.org/assets/files/historic-contexts-and-reports/NM_Bernalillo-County_Historic-and-Architectural-Resources-of-Central-Albuquerque_1880-1970_MPDF.pdf),(National Register of Historic Places Multiple Property Documentation Form,2009)
 
-[^poisonivy]:[Sierra Club](http://vault.sierraclub.org/sprawl/report05/buildingbetter.pdf)
-
-[^robin]:[Picture of ABQ High](https://upload.wikimedia.org/wikipedia/commons/0/00/Old_Albuquerque_High_School_on_Central.JPG)
+[^poisonivy]:[Sierra Club](http://vault.sierraclub.org/sprawl/report05/buildingbetter.pdf),(Building Better: A Guide to America’s Best New Development Projects)
 
 [^redhood]:[DPS Designs](https://www.dpsdesign.org/what-we-create/old-albuquerque-high-lofts)
 
 [^batman]:[Albuquerque High Yearbook excerpt](https://ahs-aps-nm.schoolloop.com/history)
 
-[^batgirl]:[AHS Alumni](http://www.ahsalumniassoc.com/History.html)
+[^batgirl]:[Albuquerque High School Alumni](http://www.ahsalumniassoc.com/History.html)
 
-[^joker]:[Cantera Consultants](http://www.canteraconsultants.com/casestudies/index_AHSApartments.htm)
+[^joker]:[Cantera Consultants](http://www.canteraconsultants.com/casestudies/index_AHSApartments.htm),(Project File for Lofts at ABQ High)
