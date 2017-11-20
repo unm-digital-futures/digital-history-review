@@ -67,5 +67,5 @@ The only art that isn't able to be displayed or sold is the mural in the basemen
   src="images/TheDeAnzaNow.jpg"%}
 #### Footnotes
 [^source]: [National Register of Historic Places Digital Assets](https://npgallery.nps.gov/NRHP/AssetDetail?assetID=1652f5f1-4ba9-4355-9a4b-4cecf5f17aa4) National Park Services, 4/30/2004
-[^source2]: [De Anza Motor Lodge Albuquerque, New Mexico ](https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html) National Park Service U.S. Department of the Interior 
+[^source2]: [De Anza Motor Lodge Albuquerque, New Mexico ](https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html) National Park Service U.S. Department of the Interior PDF File
 [^source3]: [Albuquerque Rapid Transit](http://www.brtabq.com/AboutART) The city of Albuquerque and ABQ Ride 
