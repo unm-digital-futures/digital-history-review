@@ -10,7 +10,7 @@ image="images/DeAnza2.jpg"
 text="The Secret Art of Route 66"
 %} 
 ## History 
-In 1939, C.G. Wallace and S.D. Hambaugh took advantage of the automobile boom and built a motor lodge along busy Route 66 in Albuquerque, New Mexico. The motor lodge served as a cozy place for travellers to stay while driving through Albuquerque and also as an exhibit for Zuni art. Wallace developed a relationship with the Zuni Tribe through years of working on their reservation and soon became a trading post that exposed travllers to indigenous art from New Mexico. 
+In 1939, [C.G. Wallace and S.D. Hambaugh]https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html) took advantage of the automobile boom and built a motor lodge along busy Route 66 in Albuquerque, New Mexico. The motor lodge served as a cozy place for travellers to stay while driving through Albuquerque and also as an exhibit for Zuni art. Wallace developed a relationship with the Zuni Tribe through years of working on their reservation and soon became a trading post that exposed travllers to indigenous art from New Mexico. 
   {% include figure.html
   class="img-right"
   width="40%"
@@ -46,7 +46,7 @@ The motor lodge itself represented a work of art. Before building the motor lodg
   class="pullquote"
   text="Look familiar? You may have seen the De Anza Motor Lodge featured on the hit television show [Breaking Bad](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/)."
   %}
-Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mural at the lodge to represent the presence of Zuni culture at the motor lodge. He had created a mural in the basement of the conference room at the De Anza Motor lodge. The mural repsresents the Zuni's winter *shalako* ceremony line. The mural follows east to west, symobolically. The leading procession *Shulawitsi*, meaning The Little Fire God, ending with the six *Salimopia*, meaning the gaurdians of the six cardnial directions of Zuni cosmology. The representative ideology of the Kachina's of the Zuni tribe portray beauty, color, and form of Zuni ceremony. [^source] 
+Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mural at the lodge to represent the presence of [Zuni culture](https://npgallery.nps.gov/NRHP/AssetDetail?assetID=1652f5f1-4ba9-4355-9a4b-4cecf5f17aa4) at the motor lodge. He had created a mural in the basement of the conference room at the De Anza Motor lodge. The mural repsresents the Zuni's winter *shalako* ceremony line. The mural follows east to west, symobolically. The leading procession *Shulawitsi*, meaning The Little Fire God, ending with the six *Salimopia*, meaning the gaurdians of the six cardnial directions of Zuni cosmology. The representative ideology of the Kachina's of the Zuni tribe portray beauty, color, and form of Zuni ceremony. [^source] 
  {% include figure.html
   class="img-center"
   width="65%"
@@ -59,16 +59,12 @@ After WWII in the late 1950's, hotel chains began to pop up and eventually put l
   text="Today Albuquerque is known for it's artistic scenes, cultural integration, and beautiful architecture."
   %}  
 ### The Art Left Behind
-The only art that isn't able to be displayed or sold is the mural in the basement. The mural in the basement has been the sole reason for preserving the historic De Anza Motor Lodge. Culture of the Zuni people has been eteched into the history of this building only for it to be hidden away.
+The only art that isn't able to be displayed or sold is the mural in the basement. The mural in the basement has been the sole reason for preserving the historic [De Anza Motor Lodge](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/). Culture of the Zuni people has been eteched into the history of this building only for it to be hidden away.
 {% include figure.html
   class="img-center"
   width="50%"
   caption="The motor lodge today"
   src="images/TheDeAnzaNow.jpg"%}
-#### References 
-1. <http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/>
-2. <https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html>
-3. <https://npgallery.nps.gov/NRHP/AssetDetail?assetID=1652f5f1-4ba9-4355-9a4b-4cecf5f17aa4>
 #### Footnotes
 [^source]: [National Register of Historic Places Digital Assets](https://npgallery.nps.gov/NRHP/AssetDetail?assetID=1652f5f1-4ba9-4355-9a4b-4cecf5f17aa4) National Park Services, 4/30/2004
 [^source2]: [De Anza Motor Lodge Albuquerque, New Mexico ](https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html) National Park Service U.S. Department of the Interior 
