@@ -30,13 +30,12 @@ During WWII, with a critical need for more locomotive power, Atchison Topeka & S
 ## Where did this train go in its travels?
 {% include figure.html
 class='img-left'
-idth='75%'
-caption='Atchison fire dept..jpg '
-src='Atchison fire dept..jpg.jpg'%}
+width='75%'
+caption='Atchison fire dept'
+src='images/Atchisonfiredept.jpg'%}
 
 When this series of train was operational, the 2926 and its stable mates regularly ran through New Mexico between Kansas City and Los Angeles. Santa Fe 2926 has pulled iconic passenger trains like The Chief, The Scout, The El Capitan, and The Grand Canyon Special.  Operating across the central and southwest U.S., it carried ordinary citizens, tourists, and celebrities in comfort and safety.  It was often seen resting quietly under steam as travelers disembarked for a stay at historic Harvey House facilities such as La Casteñda in Las Vegas, NM, Santa Fe’s La Fonda, Albuquerque’s Alado, La Posada in Winslow, AZ, and El Tovar at the Grand Canyon.   Many people have fond memories of that rail heritage, and seek out such items of remembrance.  
-### Footnotes
-[^source1]: [UNM Libraries](http://library.unm.edu/zimmerman75/index.php)---
+
 ## What was around the outlying areas while this train was centralized?
 Just unexplored land, most of the freeways that we use today to get from state to state were not built yet and routes that the airlines travel were only going to major cities, so the only way to visit some cities, were by train. Some of the cities even built hospitals and apartment buildings by the railroad for passers-by. Some cities were just being built-up, just for the existence of the Atchison-Topeka railroad.
 ## What is the future of the 2926?
