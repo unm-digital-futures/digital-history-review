@@ -1,9 +1,6 @@
 ---
 title: Civic Plaza's Holocaust Memorial
 author: Dequez Irving
-
-
-
 Physical Address: One Civic Plaza NW
 Albuquerque, NM USA
 87102
@@ -17,8 +14,7 @@ text="Forever Hidden Art."
 %} 
 # Civic Plaza's Holocaust Memorial
 Dequez Irving
-Physical Address: One Civic Plaza NW
-Albuquerque, NM USA
+
 
 
 It would be kind of crazy to think a place like Albuquerque, New Mexico would have a holocaust memorial.And if they did then why would they ? Well for starters New Mexico is also a place of that has held numerous immigrants. With having people from different backgrounds means different cultures. Here in New Mexico there is many items around the state representing different cultures. As in the likes of artwork, food, music, clothes. Obviously the holocaust is apart the worlds history, but extremely apart of the jewish people's history.
