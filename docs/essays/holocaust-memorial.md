@@ -123,6 +123,9 @@ While the monument was going through the process of getting built, there was a g
   
   
   
+  
+  
+  
   ##### Representation
   This monmemt does represent the jewish people and what they went through during the holocaust. This monment represents the other pieces of different cultures that New Mexico has here. You can find different items symbolizing different cultures around here in New Mexico. This just happens to be one of them.This sticks out because not very many states have as many cultures as New Mexico does, or they don't embrace as much.Which shows the great deal of respect that New Mexico has for it's people.
 
