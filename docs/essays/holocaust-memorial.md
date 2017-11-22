@@ -1,6 +1,9 @@
 ---
 title: Civic Plaza's Holocaust Memorial
 author: Dequez Irving
+Physical Address: One Civic Plaza NW
+Albuquerque, NM USA
+87102
 css: holocaust-memorial.css
 date: 2017-11-02
 ---
@@ -23,15 +26,17 @@ It would be kind of crazy to think a place like Albuquerque, New Mexico would ha
 %}
 
 
+
 ## The Location
-The Monument is located in downtown Alburquerque. Now for the monument there is pros and cons for it to be placed downtown. A pro can be the fact when most people come and visit, what do they like to ride through ? Obviously the downtown areas. Usually the downtown area is somewhere you can get the best feel for the city. That is also where most of the culture throughout the city can be found. A con be the same as the pro, is the fact that people just ride through downtown. They will not stop just to see a monument. This monument is actually kind of hidden behind another building. And surrounded By a parking garage. There is a couple of benches by the mounment, but not too many. So even though this is a very diverse piece it is very much hidden, in a well known area. Making this one New Mexico's hidden treasures.
+The Monument is located in downtown Alburquerque[^source2]. Now for the monument there is pros and cons for it to be placed downtown. A pro can be the fact when most people come and visit, what do they like to ride through ? Obviously the downtown areas. Usually the downtown area is somewhere you can get the best feel for the city. That is also where most of the culture throughout the city can be found. A con be the same as the pro, is the fact that people just ride through downtown. They will not stop just to see a monument. This monument is actually kind of hidden behind another building. And surrounded By a parking garage. There is a couple of benches by the mounment, but not too many. So even though this is a very diverse piece it is very much hidden, in a well known area. Making this one New Mexico's hidden treasures.
 
 {% include aside.html
   class="pullquote"
-  text="Physical Address: One Civic Plaza NW
-Albuquerque, NM USA
-87102"
+  text="This monument respresents how there many different kinds of cultures here in New Mexico"
   %}
+
+
+
 
 
 {% include figure.html
@@ -55,7 +60,7 @@ The Holocaust mounment was built in 1998 by a sculptor Jake Lovato. There were a
 
 
 #### Controversy
-While the monument was going through the process of getting built, there was a group of jewish people who did not want monument up. They felt like the monument's figure showed too much. Due to the monument showing people burning in smoke. Which was something that exactly happened during the Holocaust.  During the summer of 2017 the monument had been vandaliezed for the second time[^source2]. Glass on one of the panels were smashed. The memorial was rededicated in July according to KRQE news.
+While the monument was going through the process of getting built, there was a group of jewish people who did not want monument up. They felt like the monument's figure showed too much. Due to the monument showing people burning in smoke. Which was something that exactly happened during the Holocaust.  
 {% include aside.html
   class="pullquote"
   text=" If parts of the jewish community didn't want the memorial built. Why would they still go on with building it?."
@@ -65,4 +70,4 @@ While the monument was going through the process of getting built, there was a g
 - [Information](http://waymarking.com)
 #### Footnotes
 [^source]: decdiaction to city
-[^source2]: Vandalized
+[^source2]:Location
