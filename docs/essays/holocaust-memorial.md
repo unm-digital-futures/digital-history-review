@@ -1,6 +1,9 @@
 ---
 title: Civic Plaza's Holocaust Memorial
 author: Dequez Irving
+
+
+
 Physical Address: One Civic Plaza NW
 Albuquerque, NM USA
 87102
@@ -76,6 +79,13 @@ The Holocaust mounment was built in 1998 by a sculptor Jake Lovato. There were a
   caption="Holocaust-3"
   src="images/Holocaust-3.jpg"
 %}
+
+
+
+
+
+
+
 
 
 
