@@ -4,6 +4,14 @@ author: Dequez Irving
 
 
 
+
+
+
+
+
+
+
+
 Physical Address: One Civic Plaza NW
 Albuquerque, NM USA
 87102
@@ -41,6 +49,12 @@ It would be kind of crazy to think a place like Albuquerque, New Mexico would ha
 
 ## The Location
 The Monument is located in downtown Alburquerque[^source2]. Now for the monument there is pros and cons for it to be placed downtown. A pro can be the fact when most people come and visit, what do they like to ride through ? Obviously the downtown areas. Usually the downtown area is somewhere you can get the best feel for the city. That is also where most of the culture throughout the city can be found. A con be the same as the pro, is the fact that people just ride through downtown. They will not stop just to see a monument. This monument is actually kind of hidden behind another building. And surrounded By a parking garage. There is a couple of benches by the mounment, but not too many. So even though this is a very diverse piece it is very much hidden, in a well known area. Making this one New Mexico's hidden treasures.
+
+
+
+
+
+
 
 {% include aside.html
   class="pullquote"
@@ -91,10 +105,33 @@ The Holocaust mounment was built in 1998 by a sculptor Jake Lovato. There were a
 
 #### Controversy
 While the monument was going through the process of getting built, there was a group of jewish people who did not want monument up. They felt like the monument's figure showed too much. Due to the monument showing people burning in smoke. Which was something that exactly happened during the Holocaust.  
+
+
+
+
+
+
 {% include aside.html
   class="pullquote"
   text=" Even though this special piece of art is in downtown, it is very much hidden."
   %}
+  
+  
+  
+  
+  
+  
+  
+  
+  ##### Representation
+  This monmemt does represent the jewish people and what they went through during the holocaust. This monment represents the other pieces of different cultures that New Mexico has here. You can find different items symbolizing different cultures around here in New Mexico. This just happens to be one of them.This sticks out because not very many states have as many cultures as New Mexico does, or they don't embrace as much.Which shows the great deal of respect that New Mexico has for it's people.
+
+
+
+
+
+
+
 ##### Sources
  - [Newspage](http://Krqe.com)
 - [Information](http://waymarking.com)
