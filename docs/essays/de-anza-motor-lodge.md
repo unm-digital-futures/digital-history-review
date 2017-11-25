@@ -11,18 +11,18 @@ text="The Secret Art of Route 66"
 %} 
 ## History 
 In 1939, [C.G. Wallace and S.D. Hambaugh](https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html) took advantage of the automobile boom and built a motor lodge along busy Route 66 in Albuquerque, New Mexico. The motor lodge served as a cozy place for travellers to stay while driving through Albuquerque and also as an exhibit for Zuni art. Wallace developed a relationship with the Zuni Tribe through years of working on their reservation and soon became a trading post that exposed travllers to indigenous art from New Mexico. 
-  {% include figure.html
+{% include figure.html
   class="img-center"
-  width="40%"
-  caption="Postcard of The De Anza"
-  src="images/TheDeAnzaPostcard.jpg"%} 
+  width="50%"
+  caption="The De Anza Motor Lodge 1957 Postcard"
+  src="images/Picturefrom1957.jpg"%}
 ## The Architecture & Location
 The Spanish and Pueblo inspired architecture was a sole reflection of the vast culture Albuquerque had to offer. Adobe Pueblo style with arches and tight corners are shown in the structure of the De Anza. Later on in the 1950's, a coffee shop and gift shop were added to the motor lodge along with several other buildings. In 1957 a swimming pool was added to the two-point-five acre lot along Route 66. The original structure of the motor lodge was a two-story building and several one story building in a U-shape. The U-Shape structure alloswed customers to park right in front of their rooms creating a more convenient stay.
 {% include figure.html
   class="img-left"
-  width="45%"
-  caption="The De Anza Motor Lodge 1957 Postcard"
-  src="images/Picturefrom1957.jpg"%}
+  width="40%"
+  caption="Postcard of The De Anza"
+  src="images/TheDeAnzaPostcard.jpg"%} 
 The incorporation of both Spanish and Pueblo inspiration made the De Anza Motor Lodge different than the surrounding motor lodges. The influence not only came from the culture of the state and city but of the art from the Zuni tribe. The surroudning area lacked the cultural influence that the De Anza had. Severing the De Anza from the surrounding was the fact that it sat on it's own property and did not share it with any other businesses other than the ones created by founder, Wallace, in an attempt to incorporate more into the motor lodge.
 {% include aside.html
   class="pullquote"
