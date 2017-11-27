@@ -56,9 +56,3 @@ https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/e
 ![1](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater%20Tickets_photo4.jpg)
 <photo3>
 ![photo2](https://i.gyazo.com/7c4b6f2542f76ceff6610e71766c2644.png)
-
-references:
-* <title_pic>https://www.facebook.com/TheElRey/photos/a.264575537047419.1073741825.264575160380790/274371842734455/?type=3&theater
-* <location_link/pic>https://www.google.com/maps/place/35%C2%B005'04.9%22N+106%C2%B039'18.0%22W/@35.084681,-106.6560843,18z/data=!4m5!3m4!1s0x0:0x0!8m2!3d35.084681!4d-106.65499
-* <history info>http://www.elreyabq.com/history
-* <current events>http://albuquerque.eventful.com/venues/el-rey-theater-/V0-001-000249267-5#more-info
