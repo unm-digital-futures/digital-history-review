@@ -26,7 +26,7 @@ text="A Look into New Mexico's 300 Year Herb History"
 #### Will Moreno
 
 ## Intro
-This is a website dedicated to the structure known as "La Curandera y su Jardin". The name translates to "The Medicine Woman and her Garden". The Sculpture was made by Reynaldo Rivera, and made of bronze. [^source] The sculpture is prominent to New Mexicans as it pays Homage to the book "Bless Me Ultima". It is located in Albuquerque's Botanical Garden. The history of Curanderas in New Mexico goes back 300 years and thus it is a very important part of New Mexican history. The Curanderas use herbs to heal their patients, in a from that may be compared to Witchcraft.
+This is a website dedicated to the structure known as "La Curandera y su Jardin". The name translates to "The Medicine Woman and her Garden". The Sculpture was made by Reynaldo Rivera, and made of bronze. [^source1] The sculpture is prominent to New Mexicans as it pays Homage to the book "Bless Me Ultima". It is located in Albuquerque's Botanical Garden. The history of Curanderas in New Mexico goes back 300 years and thus it is a very important part of New Mexican history. The Curanderas use herbs to heal their patients, in a from that may be compared to Witchcraft.
 {% include aside.html
   class="pullquote"
   text="The history of Curanderas in New Mexico goes back 300 years"
@@ -101,6 +101,6 @@ The inspiration for the sculpture comes from the book "Bless Me, Ultima". The bo
 
 ##  Footnotes
 [^source ]: [Albuquerque Public Art](https://www.publicartarchive.org/work/la-curandera-y-su-jardin) Albuquerque Public Art
-[^source 2]: [City of Albuquerque](https://www.cabq.gov/culturalservices/biopark/garden/exhibits/curandera-garden)
+[^source 2]: [City of Albuquerque](https://www.cabq.gov/culturalservices/biopark/garden/exhibits/curandera-garden) City of Albuquerque
 
 
