@@ -21,8 +21,7 @@ The Spanish and Pueblo inspired architecture was a sole reflection of the vast c
 Later on in the 1950's, a coffee shop and gift shop were added to the motor lodge along with several other buildings. In 1957 a swimming pool was added to the two-point-five acre lot along Route 66. The original structure of the motor lodge was a two-story building and several one story building in a U-shape. The U-Shape structure alloswed customers to park right in front of their rooms creating a more convenient stay.
 {% include aside.html
   class="pullquote"
-  text="[ART](https://www.merriam-webster.com/dictionary/art): the conscious use of skill and creative imagination especially in the production of aesthetic objects."
-  %}
+  text="[ART](https://www.merriam-webster.com/dictionary/art): the conscious use of skill and creative imagination especially in the production of aesthetic objects."%} 
 {% include figure.html
   class="img-left"
   width="43%"
