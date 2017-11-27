@@ -55,4 +55,3 @@ Not only is The Historic El Rey Theater building bold & artistic with its featur
 https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater%20Tickets_photo4.jpg
 ![1](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/El%20Rey%20Theater%20Tickets_photo4.jpg)
 <photo3>
-![photo2](https://i.gyazo.com/7c4b6f2542f76ceff6610e71766c2644.png)
