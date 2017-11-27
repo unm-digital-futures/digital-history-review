@@ -16,11 +16,12 @@ In 1939, [C.G. Wallace and S.D. Hambaugh](https://www.nps.gov/nr/travel/route66/
   width="50%"
   caption="The De Anza Motor Lodge 1957 Postcard"
   src="images/Picturefrom1957.jpg"%}
+
 {% include aside.html
   class="pullquote"
   text="[ART](https://www.merriam-webster.com/dictionary/art):the conscious use of skill and creative imagination especially in the production of aesthetic objects."
   %}
-  ## The Architecture & Location
+## The Architecture & Location
 The Spanish and Pueblo inspired architecture was a sole reflection of the vast culture Albuquerque had to offer. Adobe Pueblo style with arches and tight corners are shown in the structure of the De Anza. Later on in the 1950's, a coffee shop and gift shop were added to the motor lodge along with several other buildings. In 1957 a swimming pool was added to the two-point-five acre lot along Route 66. The original structure of the motor lodge was a two-story building and several one story building in a U-shape. The U-Shape structure alloswed customers to park right in front of their rooms creating a more convenient stay.
 {% include figure.html
   class="img-left"
