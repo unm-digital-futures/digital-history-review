@@ -99,7 +99,7 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
   text=" Artist Linda DaBeau states, 'Overall I show how much the Sisters of Charity contributed to the spirituality, love of Christ and the overall growth and nurturing of the people of Martineztown and the surrounding area'"
 %} [^srcharitycinti]
 
-The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. As you take a Walk around the base, the orgin of the Sister's story and their commitment to the community is told through the illustrations. Plaques with words like Hope, Temperance, and Faith finish out the surrounding local. And the last plaque, in line with the sculpture and Lovelace Hosptial assert, "In Unity There is Strength". This message defines the motto of not only *Sisters of Charity* but what they brought to the commumnity of Martineztown and Albuquerque.
+The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. As you take a Walk around the base of the sculpture, the orgin of the Sister's story is illustrated through scences depicting the arrival of the Sisters and commencing with the establishment of Lovelace Hospital. Along the surrounding walls next to the benches are plaques that communicate words like Hope, Temperance, and Faith. HOwever, it is the last plaque that emobies the Sister's role within the community, "In Unity There is Strength." This message defines the motto of not only *Sisters of Charity* but the strength and unity they brought to the commumnity of Martineztown and Albuquerque.
 
 
 
@@ -114,7 +114,7 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 
 
 ## Why you should visit *Angelitas De Caridad* 
-Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of Albuquerque History. Though there is limited information on the sculpture itself, it represents an era in American and New Mexico history that forever changed the landscape of the city, state, and country.  
+You should visit *"Angelitas De Caridad"* because Martineztown Park offers a historic yet neightborhood feel amongst the choas of the city. Though the sculpture itself is hidden near the eastern corner of the park, the walk down the trail is worth the stroll. Every step offers a historical and artistic illustration through sculptures, plaques, and murals which radiate New Mexican heritage. And once you get to the *Angelitas De Caridad* sculpture, you will not be disappointed. Surrounded by benches, trees, and flowers the space enclosing the sculpture feels serene though it is in the heart of the city. With Lovelace and St. Joseph Hospitals as the backdrops, you feel the impact of the Sister's work and witness through *Angelitas De Caridad* the importance it had on the community. 
 
 
 
