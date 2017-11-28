@@ -6,7 +6,7 @@ css: angelitasdecaridad.css
 
 {% include jumbotron.html
 title="Angelitas De Caridad"
-image="images/dmartinez_acequia.jpg"
+image="images/dmartinez_martineztown.png"
 text="@ Historic Martineztown Park"
 %} 
 
@@ -85,6 +85,11 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
 
 Commissioned by the South Martineztown community and created by Albuquerque artist Linda DaBeau, the sculpture is a limestone winged angel standing at 25 feet tall and 16 feet wide with a bronze wrap around fountain base feature. The base depicts 42 figures and 22 buildings as a narrative to the Sisters story.[^PublicArchive] Though it is situated in Martineztown Park and below the hill of Lovelace, the site itself is nestled away along the curving road of High St. enclosed by trees and flowers making it an almost hidden location within the park itself. Adobe homes beautifully line the north and west blocks maintaining its historic charm.   
 
+{% include aside.html
+  class="pullquote"
+  text=" Artist Linda DaBeau states, 'Overall I show how much the Sisters of Charity contributed to the spirituality, love of Christ and the overall growth and nurturing of the people of Martineztown and the surrounding area'"
+%} [^srcharitycinti]
+
 {% include figure.html
   class="img-left"
   width="25%"
@@ -95,10 +100,7 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
 The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. As you take a Walk around the base, the orgin of the Sister's story and their commitment to the community is told through the illustrations. Plaques with words like Hope, Temperance, and Faith finish out the surrounding local. And the last plaque, in line with the sculpture and Lovelace Hosptial assert, "In Unity There is Strength". This message defines the motto of not only *Sisters of Charity* but what they brought to the commumnity of Martineztown and Albuquerque.
 
 
-{% include aside.html
-  class="pullquote"
-  text=" Artist Linda DaBeau states, 'Overall I show how much the Sisters of Charity contributed to the spirituality, love of Christ and the overall growth and nurturing of the people of Martineztown and the surrounding area'"
-%} [^srcharitycinti]
+
 
 
 
