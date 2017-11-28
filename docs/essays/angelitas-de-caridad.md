@@ -39,7 +39,7 @@ Neslted peacefully in the corner of the park at the bottom of the hill with Love
   class="pullquote"
   text=" '
 In the late 19th century, New Mexico's growth was spurred by ranching, mining and the railroads. But in the years prior to and after statehood, the state's economy was driven by one thing: disease, tuberculosis in particular'"
-%} [^TBinNewMexico]
+%} [^TuberculosisinNewMexico]
 
 
  {% include figure.html
@@ -135,9 +135,9 @@ You should visit *"Angelitas De Caridad"* because Martineztown Park offers a his
 
 [^MartineztownHistory]: [History of Martineztown](http://http://chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf)
 
-[^tuberculosisnewmexico]: [Tuberculosis in New Mexico](http://http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.htm)
+[^tuberculosinnewmexico]: [Tuberculosis in New Mexico](http://http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.htm)
  
-[^TBinNewMexico]: [TB in New Mexico](https://www.bizjournals.com/albuquerque/print-edition/2012/02/03/disease-played-major-role-in.html)
+[^TuberculosisinNewMexico]: [TB in New Mexico](https://www.bizjournals.com/albuquerque/print-edition/2012/02/03/disease-played-major-role-in.html)
 
 
 [^Lungers and their legacy]: [Lungers and their legacy](http://newmexicohistory.org/people/lungers-and-their-legacy)
