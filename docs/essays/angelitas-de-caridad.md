@@ -141,29 +141,6 @@ Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of 
 
 [^Lungers and their legacy]: [Lungers and their legacy](http://newmexicohistory.org/people/lungers-and-their-legacy)
 
-### References
-<http://www.srcharitycinti.org/news_events/images/dabeau.jpg>
 
-<http://www.publicartarchive.org/work/angelitos-de-caridad>
-
-<http://www.mrwmla.com/martineztown-park/>
-
-<https://www.abqjournal.com/news/metro/390889metro09-17-05.htm>
-
-<http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.html>
-
-<http://www.albuqhistsoc.org/SecondSite/pkfiles/pk213neighborhoods.htm>
-
-<chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf>
-
-<https://i1.wp.com/www.dragonflyinterpretive.com/wp-content/uploads/2016/01/Wayside-B_rev_2-1920p.jpg>
-
-<chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=https://dspace2.creighton.edu/xmlui/bitstream/handle/10504/85176/Lawlor_Sr.%20Catherine%20Miriam-MA-1938.pdf?sequence=1>
-
-<http://newmexicohistory.org/places/albuquerques-20th-century-suburban-growth>
-
-<http://videostoriesnm.com/martineztowninterviews.html>
-
-<https://www.flickr.com/photos/sugarbear96/5039320125/in/photolist-8FiQiK-GY6HF-k78udX-652MK8-4L2x9s-8FiQGV-7doZ48-7doYTP-bqcXe4-iGnqqt-gMQbK-cpjDb3-iGqcxG-8FmZaU-bqcXCR-7doZ6p-7dsRSS-8Fn2Js-iGmkza-6i5Vy5-7doZ8z-bqcXJM-GY5rC-GY6Lg-bqcXbx-65j9T7-4AbiS5-jM2u5A-bqcX6c-iGmjRr-iL56jp-jcDfvJ-iL8Zs7-bqcXFk-7doZ7z-f3TY4Z-cpjCeQ-acbm5P-4Lz2od-bqcXnz-6i5XA3-8FmTTu-bqcXiK-8FiM7g-cpjArG-bqcWQT-bqcWY6-7doZ9F-8FiJ78-cpjASQ>
 
 ### Footnotes
