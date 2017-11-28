@@ -66,7 +66,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 {% include figure.html
   class="img-right"
   width="35%"
-  caption="Sisters of Charity of Cincinnati"
+  caption="Sisters of Charity of Cincinnati [Sister of Charity of Cincinnati](http://http://www.srcharitycinti.org/news_events/dabeau.htm)"
   src="images/dmartinez_sisters.jpg"
 %}
 
