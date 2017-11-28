@@ -104,7 +104,7 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 
 {% include aside.html
   class="pullquote"
-  text=" 'The legacy of the Sisters of Charity of Cincinnati exemplifies the pioneering spirit, to achieve long-lasting results by focusing on the health needs of the most vulnerable of our citizens' [CHI St. Joseph's Children History](http://www.stjosephnm.org/History.aspx)"
+  text=" 'The legacy of the Sisters of Charity of Cincinnati exemplifies the pioneering spirit, to achieve long-lasting results by focusing on the health needs of the most vulnerable of our citizens' [St. Joseph's Hospital History](http://www.stjosephnm.org/History.aspx)"
 %} 
 
 
