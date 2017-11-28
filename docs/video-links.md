@@ -15,3 +15,5 @@ The Down Survey of Ireland: [site](http://downsurvey.tcd.ie/index.html) | [video
 DiscoverEdina: [site](http://wwwold.edina.ac.uk/projects/discoveredina_summary.html) | [video review](https://youtu.be/1niMrVbeYVY)
 
 Native-Land.ca: [site](https://native-land.ca/) | [video review](https://www.youtube.com/watch?v=_Umwe5gKH0A)
+
+Cleveland Historical: [site](https://clevelandhistorical.org/) | [video review]()
