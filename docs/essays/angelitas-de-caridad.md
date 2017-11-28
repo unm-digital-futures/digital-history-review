@@ -103,6 +103,10 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 
 
 
+{% include aside.html
+  class="pullquote"
+  text=" 'The legacy of the Sisters of Charity of Cincinnati exemplifies the pioneering spirit, to achieve long-lasting results by focusing on the health needs of the most vulnerable of our citizens' "
+%} [^CHI St. Joseph's Children History]: [CHI St. Joseph's Children History](http://www.stjosephnm.org/History.aspx)
 
 
 
@@ -112,10 +116,6 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 ## Why you should visit *Angelitas De Caridad* 
 Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of Albuquerque History. Though there is limited information on the sculpture itself, it represents an era in American and New Mexico history that forever changed the landscape of the city, state, and country.  
 
-{% include aside.html
-  class="pullquote"
-  text=" 'The legacy of the Sisters of Charity of Cincinnati exemplifies the pioneering spirit, to achieve long-lasting results by focusing on the health needs of the most vulnerable of our citizens' "
-%} [^CHI St. Joseph's Children History]: [CHI St. Joseph's Children History](http://www.stjosephnm.org/History.aspx)
 
 
 
