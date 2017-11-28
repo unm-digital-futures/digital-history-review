@@ -93,7 +93,7 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
   src="images/dmartinez_linda_image10.jpg"
 %}
 
-{% include aside.html
+{% include full-width.html
   class="pullquote"
   text=" Artist Linda DaBeau states, 'Overall I show how much the Sisters of Charity contributed to the spirituality, love of Christ and the overall growth and nurturing of the people of Martineztown and the surrounding area'"
 %} [^srcharitycinti]
@@ -111,7 +111,7 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 ## Why you should visit *Angelitas De Caridad* 
 Martineztown Park and the *"Angelitas De Caridad"* sculpture is a hidden gem of Albuquerque History. Though there is limited information on the sculpture itself, it represents an era in American and New Mexico history that forever changed the landscape of the city, state, and country.  
 
-{% include full-width.html
+{% include aside.html
   class="pullquote"
   text=" 'The legacy of the Sisters of Charity of Cincinnati exemplifies the pioneering spirit, to achieve long-lasting results by focusing on the health needs of the most vulnerable of our citizens' "
 %} [^CHI St. Joseph's Children History]: [CHI St. Joseph's Children History](http://www.stjosephnm.org/History.aspx)
