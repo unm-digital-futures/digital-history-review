@@ -12,3 +12,4 @@ The Dictionary of Sydney: [site](http://home.dictionaryofsydney.org) | [video re
 
 The Down Survey of Ireland: [site](http://downsurvey.tcd.ie/index.html) | [video review](https://youtu.be/SSY7siRNEvk)
 
+DiscoverEdina: [site](http://wwwold.edina.ac.uk/projects/discoveredina_summary.html) | [video review](https://youtu.be/1niMrVbeYVY)
