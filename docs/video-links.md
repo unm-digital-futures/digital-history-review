@@ -5,3 +5,5 @@ You need to create TWO HYPERLINKS. Below is an example. View the plain text of t
 The Green Book: [site](http://publicdomain.nypl.org/greenbook-map/) | [video review](https://www.youtube.com/watch?v=C7tGm8KU7uA)
 
 Mapping the Gulag: [site](http://www.gulagmaps.org) | [video review](https://m.youtube.com/watch?v=wFMJK9HdhjA)
+
+Georgetown Slavery Archive: [site](http://slaveryarchive.georgetown.edu/about) | [video review](https://youtu.be/bifsQcL-CGw)
