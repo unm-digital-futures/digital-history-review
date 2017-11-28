@@ -6,7 +6,7 @@ css: angelitasdecaridad.css
 
 {% include jumbotron.html
 title="Angelitas De Caridad"
-image="images/dmartinez_martineztown.jpg"
+image="images/dmartinez_jumbo.jpg"
 text="@ Historic Martineztown Park"
 %} 
 
@@ -55,7 +55,7 @@ Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used
 
 {% include aside.html
   class="pullquote"
-  text=" 'As patients arrived and lived in rooming houses, tent cities, sanatoriums, and on the streets, hoping the mountain air would cure them, locals became infected.' writer Jennifer Levin states in her article, _The lungers' legacy: Tuberculosis patients in New Mexico_''." %}
+  text=" 'As patients arrived and lived in rooming houses, tent cities, sanatoriums, and on the streets, hoping the mountain air would cure them, locals became infected.'" %}[^Lungers and their legacy]
 
 In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown.[^MartineztownHistory] As the railroads urbanized cities across the country, New Mexico's climate offered something different, aid for Tuberculosis victims. The dry air and high elevations made Albuquerque the ideal place to live and establish hopsitals. Tuberculosis as the catalyst and the railroad as the facilitator, Martineztown became a new hub for Albuquerque society. Businesses would eventually enclose Martineztown Park to its current position, thus creating an timecaplse within the booming cityscape.  
 
