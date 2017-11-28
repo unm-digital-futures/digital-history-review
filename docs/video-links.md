@@ -9,3 +9,6 @@ Mapping the Gulag: [site](http://www.gulagmaps.org) | [video review](https://m.y
 Georgetown Slavery Archive: [site](http://slaveryarchive.georgetown.edu/about) | [video review](https://youtu.be/bifsQcL-CGw)
 
 The Dictionary of Sydney: [site](http://home.dictionaryofsydney.org) | [video review](https://www.youtube.com/watch?v=zXJenmyKGQA&feature=youtu.be)
+
+The Down Survey of Ireland: [site](http://downsurvey.tcd.ie/index.html) | [video review](https://youtu.be/SSY7siRNEvk)
+
