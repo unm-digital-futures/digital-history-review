@@ -131,7 +131,7 @@ You should visit *Angelitas De Caridad* because Martineztown Park offers a histo
 
 [^srcharitycinti]: [Sister of Charity of Cincinnati](http://http://www.srcharitycinti.org/news_events/dabeau.htm)
 
-[^publicartarchive]: [Public Art Archive](http://http://http://www.publicartarchive.org/work/angelitos-de-caridad)
+[^publicartarchive]: [Public Art Archive](http://www.publicartarchive.org/work/angelitos-de-caridad)
 
 [^MartineztownHistory]: [History of Martineztown](http://http://chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf)
 
