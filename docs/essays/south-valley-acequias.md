@@ -64,7 +64,7 @@ Today, acequias of the South Valley serve the dual function of providing an beau
 [^source2]: [Agua es Sagrada Initiative](https://www.cesoss.org/agua-es-sagrada-initiative), Center for Social Sustainable Systems
 [^source3]: [JosephVMetzcar](http://dev.newmexicohistory.org/)
 [^source4]: [JosephVMetzcar](http://dev.newmexicohistory.org/)
-[^source5]: [The Genesis of Acequias in Atrisco (South Valley)](http://greenfiretimes.com/2015/11/the-genesis-of-acequias-in-atrisco-the-south-valley/), by Jorge Garcia, Green Fire Times
+[^source5]: Garcia, Jorge. "[The Genesis of Acequias in Atrisco (South Valley)](http://greenfiretimes.com/2015/11/the-genesis-of-acequias-in-atrisco-the-south-valley/)", Green Fire Times. n.d.
 [^source6]: [Agua es Sagrada Initiative](https://www.cesoss.org/agua-es-sagrada-initiative), Center for Social Sustainable Systems
 
 http://www.albuqhistsoc.org/SecondSite/pkfiles/pk208landgrants.htm
