@@ -139,7 +139,6 @@ You should visit *Angelitas De Caridad* because Martineztown Park offers a histo
  
 [^TuberculosisinNewMexico]: [TB in New Mexico](https://www.bizjournals.com/albuquerque/print-edition/2012/02/03/disease-played-major-role-in.html)
 
-
 [^Lungers and their legacy]: [Lungers and their legacy](http://newmexicohistory.org/people/lungers-and-their-legacy)
 
 
