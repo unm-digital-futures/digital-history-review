@@ -64,7 +64,7 @@ The art of the De Anza is hidden from the public, not on purpose but for the sol
 {% include aside.html
   class="pullquote"
   text="[HISTORIC](https://www.merriam-webster.com/dictionary/historic):having great and lasting importance."
-  %} 
+ %} 
 The culture of the Zuni people had been eteched into this building only for it to be hidden away. With the lack of ability to see this art how is the public supposed to be intrigued to save this piece of culture? The public has to trust that the value of the mural out-weighs any other benefit. This exact thought represents the true meaning of a hidden gem. The De Anza can only speak through the mystery of what is the mural in the basement that the public hears of but may only see if entrusted to respect what it represents.
 {% include figure.html
   class="img-center"
