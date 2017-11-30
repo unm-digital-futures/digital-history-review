@@ -21,7 +21,7 @@ The Spanish and Pueblo inspired architecture played a large role in representing
 Later on in the 1950's, a coffee shop and gift shop were added to the motor lodge along with several other buildings. In 1957 a swimming pool was added to the two-point-five acre lot along Route 66. The original structure of the motor lodge was a two-story building and several one story building in a U-shape. The U-Shape structure alloswed customers to park right in front of their rooms creating a more convenient stay.After WWII, Wallace decided to plan an [excavation](https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html) for a basement. This basement would become the great canvas putting indigenous art, culture, the city of Albuquerque, and the De Anza on everyone's map. 
 {% include aside.html
   class="pullquote"
-  text="[CULTURE](https://www.merriam-webster.com/dictionary/culture):the customary beliefs, social forms, and material traits of a racial, religious, or social group; also : the characteristic features of everyday existence (such as diversions or a way of life) shared by people in a place or time."%} 
+  text="[CULTURE](https://www.merriam-webster.com/dictionary/culture):the customary beliefs, social forms, and material traits of a racial, religious, or social group; the characteristic features of everyday existence (such as diversions or a way of life) shared by people in a place or time."%} 
 {% include figure.html
   class="img-left"
   width="43%"
@@ -60,7 +60,8 @@ After WWII in the late 1950's, hotel chains began to pop up and eventually put l
   text="The De Anza Motor Lodge represents a unique time in history for Albuquerque by incorporating the rich diverse culture that is New Mexico."
   %}  
 ### The Art Left Behind
-The art of the De Anza is hidden from the public, not on purpose but for the sole reeason of preserving the history of [De Anza Motor Lodge](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/). The history of Albuquerque lies in the remains of what this art. THe art can be found in the basement of the main building or lobby. {% include aside.html
+The art of the De Anza is hidden from the public, not on purpose but for the sole reeason of preserving the history of [De Anza Motor Lodge](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/). The history of Albuquerque lies in the remains of what this art. THe art can be found in the basement of the main building or lobby.
+{% include aside.html
   class="pullquote"
   text="[HISTORIC](https://www.merriam-webster.com/dictionary/historic):having great and lasting importance."
   %} 
