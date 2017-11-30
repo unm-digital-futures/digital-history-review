@@ -21,6 +21,10 @@ The artwork was designed and created by Rachel Stevens. The project was construc
 
 ## Location
 
+{% include aside.html
+  class="pullquote"
+  text="The art project is located in the beautiful Ventanas Ranch Park in Albuquerque's Westside."  %}
+
 The art project is located in the beautiful Ventanas Ranch Park in Albuquerque's Westside. The park can be found at Universe Road near the Irving intersection. [^source4]. It's a fitting location because “ventana” is actually the Spanish word for “window.” Access to this location is quite difficult because of its distant location. This artwork can easily be overlooked while driving on the street if you don't know what to look for.  
 
 ## Appearance
