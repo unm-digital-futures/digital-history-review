@@ -73,21 +73,19 @@ Figure 4. Mondragon, Jerome T., *Here 7*. 2017. Digital Image. Albuquerque, NM.
 
 ### Footnotes
 
-[^source1]: ["You Are Here" *Rachel Stevens-Sculpture*.](http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/) 2011-2016.
+[^source1]: Stevens, Rachel. ["You Are Here"](http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/) About This Project. *rachelstevenssculptor.com.* [n.d.]
 
-[^source2]: ["Dedication Ceremony for'You Are Here' by Rachel Stevens."](http://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens) *City of Albuquerque*.2017. 
+[^source2]: City of Albuquerque. ["Dedication Ceremony for'You Are Here' by Rachel Stevens."](http://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens) *cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens* [n.d.]
 
-[^source3]: ["You Are Here" *Rachel Stevens-Sculpture*.](http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/) 2011-2016.
+[^source3]: Stevens, Rachel. ["You Are Here"](http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/) About This Project. *rachelstevenssculptor.com.* [n.d.]
 
-[^source4]: [Board of Regents, New Mexico State University. "Rachel Stevens"](https://artdepartment.nmsu.edu/rachel-stevens/) *New Mexico State University*. 2016.
+[^source4]: New Mexico State University [Board of Regents, New Mexico State University. "Rachel Stevens"](https://artdepartment.nmsu.edu/rachel-stevens/) *artdepartment.nmsu.edu/rachel-stevens/* [n.d.]
 
-[^source5]: ["Dedication Ceremony for 'You Are Here' by Rachel Stevens."](http://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens) *City of Albuquerque*.2017. 
+[^source5]: City of Albuquerque ["Dedication Ceremony for 'You Are Here' by Rachel Stevens."](http://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens) *cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens* [ n.d.]
 
-[^source6]: ["You Are Here" *Rachel Stevens-Sculpture*.](http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/) 2011-2016.
+[^source6]: Stevens, Rachel. ["You Are Here"](http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/) About This Project. *rachelstevenssculptor.com.* [n.d.]
 
-[^source7]: ["Ventana Ranch Community."](http://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view) *City of Albuquerque*. 2017. 
-
-
+[^source7]: City of Albuquerque. ["Ventana Ranch Community."](http://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view) *cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view* 
 
 
 
