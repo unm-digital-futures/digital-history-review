@@ -39,7 +39,7 @@ Neslted peacefully in the corner of the park at the bottom of the hill with Love
   class="pullquote"
   text=" '
 In the late 19th century, New Mexico's growth was spurred by ranching, mining and the railroads. But in the years prior to and after statehood, the state's economy was driven by one thing: disease, tuberculosis in particular'"
-%} [^TuberculosisinNewMexico]
+%}[^bizjournal]: _New Mexico Centennial_, 02-02-12,.
 
 
  {% include figure.html
