@@ -70,7 +70,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
   src="images/dmartinez_sisters.jpg"
 %}
 
-The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing a St. Josephs Sanitarium present day Albuquerque Regional Medical Center, schools, and orphanages. [^HospitalHistory] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
+The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing St. Josephs Sanitarium, present day Albuquerque Regional Medical Center, school and orphanages. [^HospitalHistory] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
 
 {% include figure.html
   class="img-left"
@@ -98,7 +98,7 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
   class="pullquote"
   text=" Artist Linda DaBeau states, 'Overall I show how much the Sisters of Charity contributed to the spirituality, love of Christ and the overall growth and nurturing of the people of Martineztown and the surrounding area' [^srcharitycinti]"
 %} 
-The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. As you take a Walk around the base of the sculpture, the orgin of the Sister's story is illustrated through scences depicting the arrival of the Sisters and commencing with the establishment of Lovelace Hospital. Along the surrounding walls next to the benches are plaques that communicate words like Hope, Temperance, and Faith. HOwever, it is the last plaque that emobies the Sister's role within the community, "In Unity There is Strength." This message defines the motto of not only *Sisters of Charity* but the strength and unity they brought to the commumnity of Martineztown and Albuquerque.
+The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. As you take a Walk around the base of the sculpture, the orgin of the Sister's story is illustrated through scences depicting the arrival of the Sisters and commencing with the establishment of the hospital. Along the surrounding walls are plaques that communicate words like Hope, Temperance, and Faith. HOwever, it is the last plaque that embodies the Sister's role within the community, "In Unity There is Strength." This message defines the motto of not only *Sisters of Charity* but the strength and unity they brought to the commumnity of Martineztown and Albuquerque.
 
 
 
@@ -114,7 +114,7 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 
 
 ## Why you should visit *Angelitas De Caridad* 
-You should visit *"Angelitas De Caridad"* because Martineztown Park offers a historic yet neightborhood feel amongst the choas of the city. Though the sculpture itself is hidden near the eastern corner of the park, the walk down the trail is worth the stroll. Every step offers a historical and artistic illustration through sculptures, plaques, and murals which radiate New Mexican heritage. And once you get to the *Angelitas De Caridad* sculpture, you will not be disappointed. Surrounded by benches, trees, and flowers the space enclosing the sculpture feels serene though it is in the heart of the city. With Lovelace and St. Joseph Hospitals as the backdrops, you feel the impact of the Sister's work and witness through *Angelitas De Caridad* the importance it had on the community. 
+You should visit *"Angelitas De Caridad"* because Martineztown Park offers a historic yet neightborhood feel amongst the chaos of the city. Though the sculpture itself is hidden near the eastern corner of the park, the walk down the trail is worth the stroll. Every step offers a historical and artistic illustration through sculptures, plaques, and murals which radiate New Mexican heritage. And once you get to the *Angelitas De Caridad* sculpture, you will not be disappointed. Surrounded by benches, trees, and flowers the space enclosing the sculpture feels serene though it is in the heart of the city. With Lovelace and St. Joseph Hospitals as the backdrops, you feel the impact of the Sister's work and witness through *Angelitas De Caridad* the importance it had on the community. 
 
 
 
