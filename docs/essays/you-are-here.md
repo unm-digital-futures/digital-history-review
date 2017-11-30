@@ -79,9 +79,9 @@ Figure 4. Mondragon, Jerome T., *Here 7*. 2017. Digital Image. Albuquerque, NM.
 
 [^source3]: Stevens, Rachel. ["You Are Here"](http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/) About This Project. *rachelstevenssculptor.com.* [n.d.]
 
-[^source4]: New Mexico State University [Board of Regents, New Mexico State University. "Rachel Stevens"](https://artdepartment.nmsu.edu/rachel-stevens/) *artdepartment.nmsu.edu/rachel-stevens/* [n.d.]
+[^source4]: New Mexico State University. [Board of Regents, New Mexico State University. "Rachel Stevens"](https://artdepartment.nmsu.edu/rachel-stevens/) *artdepartment.nmsu.edu/rachel-stevens/* [n.d.]
 
-[^source5]: City of Albuquerque ["Dedication Ceremony for 'You Are Here' by Rachel Stevens."](http://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens) *cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens* [ n.d.]
+[^source5]: City of Albuquerque. ["Dedication Ceremony for 'You Are Here' by Rachel Stevens."](http://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens) *cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens* [ n.d.]
 
 [^source6]: Stevens, Rachel. ["You Are Here"](http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/) About This Project. *rachelstevenssculptor.com.* [n.d.]
 
