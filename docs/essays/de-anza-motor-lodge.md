@@ -61,11 +61,12 @@ After WWII in the late 1950's, hotel chains began to pop up and eventually put l
   %}  
 ### The Art Left Behind
 The art of the De Anza is hidden from the public, not on purpose but for the sole reeason of preserving the history of [De Anza Motor Lodge](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/). The history of Albuquerque lies in the remains of what this art. THe art can be found in the basement of the main building or lobby.
+The culture of the Zuni people had been eteched into this building only for it to be hidden away. With the lack of ability to see this art how is the public supposed to be intrigued to save this piece of culture? 
 {% include aside.html
   class="pullquote"
   text="[HISTORIC](https://www.merriam-webster.com/dictionary/historic):having great and lasting importance."
  %} 
-The culture of the Zuni people had been eteched into this building only for it to be hidden away. With the lack of ability to see this art how is the public supposed to be intrigued to save this piece of culture? The public has to trust that the value of the mural out-weighs any other benefit. This exact thought represents the true meaning of a hidden gem. The De Anza can only speak through the mystery of what is the mural in the basement that the public hears of but may only see if entrusted to respect what it represents.
+The public has to trust that the value of the mural out-weighs any other benefit. This exact thought represents the true meaning of a hidden gem. The De Anza can only speak through the mystery of what is the mural in the basement that the public hears of but may only see if entrusted to respect what it represents.
 {% include figure.html
   class="img-center"
   width="45%"
