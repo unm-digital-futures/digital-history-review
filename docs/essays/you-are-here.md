@@ -58,14 +58,22 @@ According to the [Ventana Ranch Community Park Jumper Map](http://www.cabq.gov/p
 
 The convenient parking makes it completely accessible to view the artwork up close. A person can just step outside their vehicle and walk a short distance to view the artwork.  It can also be accessed by the sidewalks emerging from the playground or neighborhoods. The playground is directly located to the right of artwork.  A shopping center can be seen in the distance but isn’t too much of an interference to environment’s peacefulness.  
 
-Because of its concave arrangement, some trees block the view of the windows. The blocking trees make it difficult to fully appreciate the scope of the artwork. The same can also be said about the protruding light posts from the nearby parking lot. The artwork is also situated near the entrance of the park. The noise of the approaching vehicles occasionally interrupts the tranquility of
-the artwork.  It also makes viewing the artwork from the opposite side slightly hazardous because of the approaching vehicles.
+Because of its concave arrangement, some trees block the view of the windows. The blocking trees make it difficult to fully appreciate the scope of the artwork. The same can also be said about the protruding light posts from the nearby parking lot.
 
 {% include figure.html
   class="img-center"
   width="50%"
   caption="Figure 4. Here 7-Blocking trees and light post"
   src="images/here7.jpg" %}
+  
+The artwork is also situated near the entrance of the park. The noise of the approaching vehicles occasionally interrupts the tranquility of
+the artwork.  It also makes viewing the artwork from the opposite side slightly hazardous because of the approaching vehicles.
+
+{% include figure.html
+  class="img-center"
+  width="50%"
+  caption="Figure 5. Here 3-Entrance"
+  src="images/here3.jpg" %}
 
 ### Figures
 
@@ -76,6 +84,8 @@ Figure 2. Mondragon, Jerome T., *Here 2*. 2017. Digital Image. Albuquerque, NM.
 Figure 3. Mondragon, Jerome T., *Here 1*. 2017. Digital Image. Albuquerque, NM.
 
 Figure 4. Mondragon, Jerome T., *Here 7*. 2017. Digital Image. Albuquerque, NM.
+
+Figure 5. Mondragon, Jerome T., *Here 3*. 2017. Digital Image. Albuquerque, NM.
 
 ### Footnotes
 
