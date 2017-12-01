@@ -72,6 +72,11 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 
  Gaining statehood in 1912, New Mexico experienced an economic surgance as electricity was sweeping the nation. Companies like the *Albuquerque Gas & Electric Company* partnered with lumber companies like the *Sawmill Power Plant*, which provided the city with continuous electricy.[HistoryofPNM](http://www.pnmresources.com/about-us/history.aspx) Lured by cheap prices and work, families descended upon Martineztown turning the prime farm land into a new urban center. However, posperity would not be felt for long as the Stock Market Crash of 1929 and the Dust Bowl of 1930's put New Mexico in econimic ruin.[^OnlyinYourState]
  
+{% include aside.html
+  class="pullquote"
+  text=" 'American factories and plants had fallen, thousands of banks, with no money to lend and no cash on hand, closed their door.' [New Mexico during the Great Depression](https://themountainvoice.com/2017/07/29/new-mexico-during-the-great-depression/)" %}" %}
+ 
+ 
  ## World War II
  
  
