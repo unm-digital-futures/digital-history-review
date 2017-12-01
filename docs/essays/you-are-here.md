@@ -17,7 +17,7 @@ The “You Are Here” art project is the perfect place where one can relax and 
 
 ## Creation
 
-The artwork was designed and created by Rachel Stevens. The project was constructed by many groups including the Albuquerque Public Art Program, Dona Ana Community College, and New Mexico State University. The [Artwork Dedication](http://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens) was on April 13, 2013 at exactly 2:00p.m. [^source2] Rachel Stevens is a distinguished professor from New Mexico State University and is a sculpture instructor at the university. She learned ancient copper casting techniques during her extensive travels in Nepal. [^source3] 
+The artwork was designed and created by Rachel Stevens. The project was constructed by many groups including the Albuquerque Public Art Program, Dona Ana Community College, and New Mexico State University. The [Artwork Dedication](http://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens)  was held on April 13, 2013 at exactly 2:00p.m. [^source2] Rachel Stevens is a distinguished professor from New Mexico State University and is a sculpture instructor at the university. She learned ancient copper casting techniques during her extensive travels in Nepal. [^source3] 
 
 ## Location
 
