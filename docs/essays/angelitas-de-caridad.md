@@ -68,9 +68,11 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
   src="images/dmartinez_gas.jpg"
 %}
 
-## Martineztown and the new Boom
+## Martineztown and the New Boom
 
-The turn of the century saw great changes come to Martineztown as New Mexico was granted statehood in 1912. Electricity was sweeping the nation and the *Albuquerque Gas & Electric Company* offered low prices enticing new business and residents. By partnering with lumber companies like the _Sawmill Power Plant_, Albuquerque now had continuous electricity to sustain a full blown city. However, 
+ Gaining statehood in 1912, New Mexico experienced an economic surgance as electricity was sweeping the nation. Companies like the *Albuquerque Gas & Electric Company* partnered with lumber companies like the *Sawmill Power Plant*, which provided the city with continuous electricy. Lured by cheap prices and work, families descended upon Martineztown turning the prime farm land into a new urban center. However, posperity would not be felt for long as the Stock Market Crash of 1929 and the Dust Bowl of 1930's put New Mexico in econimic ruin.[^OnlyinYourState]
+ 
+ ## World War II
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_, and Albuquerque
 
@@ -146,6 +148,8 @@ You should visit *Angelitas De Caridad* because Martineztown Park offers a histo
 [^publicartarchive]: [Public Art Archive](http://www.publicartarchive.org/work/angelitos-de-caridad)
 
 [^MartineztownHistory]: [History of Martineztown](http://chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf)
+
+[^OnlyinYourState]: [Only in Your State](http://www.onlyinyourstate.com/new-mexico/photos-great-depression-nm/)
 
 [^tuberculosinnewmexico]: [Tuberculosis in New Mexico](http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.htm)
  
