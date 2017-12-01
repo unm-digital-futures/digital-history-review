@@ -101,8 +101,7 @@ Figure 5. Mondragon, Jerome T., *Here 3*. 2017. Digital Image. Albuquerque, NM.
 
 [^source6]: Stevens, Rachel. ["You Are Here"](http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/) About This Project. *rachelstevenssculptor.com*. [n.d.]
 
-[^source7]: City of Albuquerque. ["Ventana Ranch Community Park Jumper Map"](http://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view) *cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view*. Ventana Ranch Community. 2011.
- Ranch Community."](http://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view) *cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view* . 2012.
+[^source7]: City of Albuquerque. ["Ventana Ranch Community Park Jumper Map"](http://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view) *cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view*. Ventana Ranch Community. 2012.
 
 
 
