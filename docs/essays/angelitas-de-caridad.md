@@ -64,21 +64,23 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
  {% include figure.html
   class="img-left"
   width="33%"
-  caption="Albuquerque Gas, Electric, and Light Power crew"
+  caption="Albuquerque Gas, Electric, and Light power crew"
   src="images/dmartinez_gas.jpg"
 %}
 
 ## Martineztown and the New Boom
 
- Gaining statehood in 1912, New Mexico experienced an economic surgance as electricity was sweeping the nation. Companies like the *Albuquerque Gas & Electric Company* partnered with lumber companies like the *Sawmill Power Plant*, which provided the city with continuous electricy.[HistoryofPNM](http://www.pnmresources.com/about-us/history.aspx) Lured by cheap prices and work, families descended upon Martineztown turning the prime farm land into a new urban center. However, posperity would not be felt for long as the Stock Market Crash of 1929 and the Dust Bowl of 1930's put New Mexico in econimic ruin.[^OnlyinYourState]
+ Gaining statehood in 1912, New Mexico experienced an economic surgance as electricity was sweeping the nation. Companies like the *Albuquerque Gas & Electric Company* partnered with lumber companies like the *Sawmill Power Plant*, which provided the city with continuous electricity.[^HistoryofPNM] Lured by cheap prices and work, families descended upon Martineztown turning the prime farm land into a new urban center. However, posperity would not be felt for long as the Stock Market Crash of 1929 and the Dust Bowl of 1930's put New Mexico in econimic ruin.[^OnlyinYourState]
  
 {% include aside.html
   class="pullquote"
-  text=" 'American factories and plants had fallen, thousands of banks, with no money to lend and no cash on hand, closed their doors.' [New Mexico during the Great Depression](https://themountainvoice.com/2017/07/29/new-mexico-during-the-great-depression/)" %}"
-As President Franklin D. Roosevelt used federal funds under the _New Deal_ to try and boost the American economy, subsistence programs like *Public Works of Art Project* were putting places like Santa Fe and Taos on the map.[^NewMexicoandGreatDepression]  New Mexico would soon  
+  text=" 'American factories and plants had fallen, thousands of banks, with no money to lend and no cash on hand, closed their doors.' 
+[New Mexico during the Great Depression](https://themountainvoice.com/2017/07/29/new-mexico-during-the-great-depression/)" %}
+Under President Franklin D. Roosevelt's _New Deal_ subsistence programs were put into effect to try and boost the American economy. Programs like *Public Works of Art Project* attracted artists from all over the country putting Santa Fe and Taos on the map. New Mexico was now being promoted as a premier artistic destinations with Albuquerque as the stopover point.[^NewMexicoandGreatDepression] However,  
+ 
  ## World War II
  
-Subsiste
+
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_, and Albuquerque
 
