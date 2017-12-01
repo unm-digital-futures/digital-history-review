@@ -60,6 +60,10 @@ Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used
 
 In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown.[^MartineztownHistory] As the railroads urbanized cities across the country, New Mexico's climate offered something different, aid for Tuberculosis victims. The dry air and high elevations made Albuquerque the ideal place to live and establish hopsitals. Tuberculosis as the catalyst and the railroad as the facilitator, Martineztown became a new hub for Albuquerque society. Businesses would eventually enclose Martineztown Park to its current position, thus creating an timecaplse within the booming cityscape.  
 
+## Martineztown after the Boom
+
+The turn of the century saw even more changes come to Martineztown. New Mexico was granted statehood in 1912 and the 
+
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_, and Albuquerque
 
 
