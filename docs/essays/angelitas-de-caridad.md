@@ -70,7 +70,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 
 ## Martineztown and the new Boom
 
-The turn of the century saw great changes come to Martineztown as New Mexico was granted statehood in 1912. Electricity was sweeping the nation and the *Albuquerque Gas & Electric Company* offered low prices enticing new business and residents. By partnering with lumber companies like the _Sawmill Power Plant_, Albuquerque was now able to sustain a full blown city.   
+The turn of the century saw great changes come to Martineztown as New Mexico was granted statehood in 1912. Electricity was sweeping the nation and the *Albuquerque Gas & Electric Company* offered low prices enticing new business and residents. By partnering with lumber companies like the _Sawmill Power Plant_, Albuquerque now had continuous electricity to sustain a full blown city. However, 
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_, and Albuquerque
 
