@@ -6,7 +6,7 @@ css: angelitasdecaridad.css
 
 {% include jumbotron.html
 title="Angelitas De Caridad"
-image="images/dmartinez_oldpic(1).jpg"
+image="images/dmartinez_oldpic.jpg"
 text="'Sisters of Charity'"
 %} 
 
