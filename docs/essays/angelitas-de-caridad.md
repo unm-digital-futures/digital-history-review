@@ -70,9 +70,11 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 
 ## Martineztown and the New Boom
 
- Gaining statehood in 1912, New Mexico experienced an economic surgance as electricity was sweeping the nation. Companies like the *Albuquerque Gas & Electric Company* partnered with lumber companies like the *Sawmill Power Plant*, which provided the city with continuous electricy. Lured by cheap prices and work, families descended upon Martineztown turning the prime farm land into a new urban center. However, posperity would not be felt for long as the Stock Market Crash of 1929 and the Dust Bowl of 1930's put New Mexico in econimic ruin.[^OnlyinYourState]
+ Gaining statehood in 1912, New Mexico experienced an economic surgance as electricity was sweeping the nation. Companies like the *Albuquerque Gas & Electric Company* partnered with lumber companies like the *Sawmill Power Plant*, which provided the city with continuous electricy.[HistoryofPNM](http://www.pnmresources.com/about-us/history.aspx) Lured by cheap prices and work, families descended upon Martineztown turning the prime farm land into a new urban center. However, posperity would not be felt for long as the Stock Market Crash of 1929 and the Dust Bowl of 1930's put New Mexico in econimic ruin.[^OnlyinYourState]
  
  ## World War II
+ 
+ 
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_, and Albuquerque
 
