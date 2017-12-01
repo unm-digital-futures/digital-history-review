@@ -76,10 +76,11 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
   class="pullquote"
   text=" 'American factories and plants had fallen, thousands of banks, with no money to lend and no cash on hand, closed their doors.' 
 [New Mexico during the Great Depression](https://themountainvoice.com/2017/07/29/new-mexico-during-the-great-depression/)" %}
-Under President Franklin D. Roosevelt's _New Deal_ subsistence programs were put into effect to try and boost the American economy. Programs like *Public Works of Art Project* attracted artists from all over the country putting Santa Fe and Taos on the map. New Mexico was now being promoted as a premier artistic destinations with Albuquerque as the stopover point.[^NewMexicoandGreatDepression] However,  
+Under President Franklin D. Roosevelt's _New Deal_ subsistence programs were put into effect to try and boost the American economy. Programs like *Public Works of Art Project* attracted artists from all over the country putting Santa Fe and Taos on the map. New Mexico was now being promoted as a premier artistic destinations with Albuquerque as the stopover point.
+[^NewMexicoandGreatDepression] However, as tension increased across the ocean the country would soon be pulled into a new World War. 
  
  ## World War II
- 
+ New Mexico played 
 
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_, and Albuquerque
