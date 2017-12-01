@@ -32,7 +32,7 @@ The artwork is comprised of five windows but each is distinct in appearance. The
 
 {% include figure.html
   class="img-center"
-  width="30%"
+  width="40%"
   caption="Figure 2. Here 2- Bird and can"
   src="images/here2.jpg"
 %}
@@ -49,7 +49,7 @@ The artwork is perfectly located in a quiet, secluded, and open environment. The
 
 {% include figure.html
   class="img-center"
-  width="30%"
+  width="40%"
   caption="Figure 3. Here 1- Concave Appearance"
   src="images/here1.jpg"
 %}
@@ -62,7 +62,7 @@ Because of its concave arrangement, some trees block the view of the windows. Th
 
 {% include figure.html
   class="img-center"
-  width="30%"
+  width="40%"
   caption="Figure 4. Here 7-Blocking trees and light post"
   src="images/here7.jpg" %}
   
