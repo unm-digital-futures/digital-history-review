@@ -74,12 +74,11 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
  
 {% include aside.html
   class="pullquote"
-  text=" 'American factories and plants had fallen, thousands of banks, with no money to lend and no cash on hand, closed their door.' [New Mexico during the Great Depression](https://themountainvoice.com/2017/07/29/new-mexico-during-the-great-depression/)" %}" %}
- 
- 
+  text=" 'American factories and plants had fallen, thousands of banks, with no money to lend and no cash on hand, closed their doors.' [New Mexico during the Great Depression](https://themountainvoice.com/2017/07/29/new-mexico-during-the-great-depression/)" %}"
+As President Franklin D. Roosevelt used federal funds under the _New Deal_ to try and boost the American economy, subsistence programs like *Public Works of Art Project* were putting places like Santa Fe and Taos on the map.[^NewMexicoandGreatDepression]  New Mexico would soon  
  ## World War II
  
- 
+Subsiste
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_, and Albuquerque
 
@@ -157,6 +156,8 @@ You should visit *Angelitas De Caridad* because Martineztown Park offers a histo
 [^MartineztownHistory]: [History of Martineztown](http://chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf)
 
 [^OnlyinYourState]: [Only in Your State](http://www.onlyinyourstate.com/new-mexico/photos-great-depression-nm/)
+
+[^NewMexicoandGreatDepression] [New Mexico during the Great Depression](https://themountainvoice.com/2017/07/29/new-mexico-during-the-great-depression/)
 
 [^tuberculosinnewmexico]: [Tuberculosis in New Mexico](http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.htm)
  
