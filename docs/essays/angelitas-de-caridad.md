@@ -64,7 +64,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
  {% include figure.html
   class="img-left"
   width="33%"
-  caption="*Albuquerque Gas, Electric, and Light Power* crew"
+  caption="Albuquerque Gas, Electric, and Light Power crew"
   src="images/dmartinez_gas.jpg"
 %}
 
