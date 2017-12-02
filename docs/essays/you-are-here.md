@@ -11,7 +11,14 @@ image="images/here5.jpg"
 text="Windows to Glorious Landscapes"
 %} 
 
-Figure 1. Here 5- You Are Here
+<small>Figure 1. Here 5- You Are Here</small>
+
+{% include figure.html
+  class="img-right"
+  width="40%"
+  caption="Figure 2. Here 2- Bird and can"
+  src="images/here8.jpg"
+%}
 
 The “You Are Here” art project is the perfect place where one can relax and reflect on their surroundings. This artwork comprises of five colorful windows and is a representation of Albuquerque’s Ventanas Ranch community. The purpose of this artwork is to make the visitor slowdown from their bustling life and appreciate the calm environment. [^source1] 
 
@@ -30,10 +37,11 @@ The art project is located in the beautiful Ventanas Ranch Park in Albuquerque's
 ## Appearance
 The artwork is comprised of five windows but each is distinct in appearance. They're all made of steel and are painted in blue or green hues [^source5]. The first window is green and the pane appears to held up by a soda can. It also has a charming bird located on the top-right of the window.
 
+
 {% include figure.html
   class="img-center"
   width="40%"
-  caption="Figure 2. Here 2- Bird and can"
+  caption="Figure 2. Here 2- Bird pirched on a window."
   src="images/here2.jpg"
 %}
 
