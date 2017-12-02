@@ -11,14 +11,15 @@ image="images/here5.jpg"
 text="Windows to Glorious Landscapes"
 %} 
 
-<small><small>Figure 1. Here 5- You Are Here</small></small>
+<sub><sup>Figure 1. Here 5- You Are Here</sub></sup>
 
 {% include figure.html
   class="img-right"
   width="40%"
-  caption="Figure 2. Here 2- Bird and can"
+  caption="Figure 2. Here 2- Google Earth tilted view"
   src="images/here8.jpg"
 %}
+
 
 
 The “You Are Here” art project is the perfect place where one can relax and reflect on their surroundings. This artwork comprises of five colorful windows and is a representation of Albuquerque’s Ventanas Ranch community. The purpose of this artwork is to make the visitor slowdown from their bustling life and appreciate the calm environment. [^source1] 
@@ -42,7 +43,7 @@ The artwork is comprised of five windows but each is distinct in appearance. The
 {% include figure.html
   class="img-center"
   width="40%"
-  caption="Figure 2. Here 2- Bird pirched on a window."
+  caption="Figure 3. Here 2- Bird pirched on a window."
   src="images/here2.jpg"
 %}
 
@@ -59,7 +60,7 @@ The artwork is perfectly located in a quiet, secluded, and open environment. The
 {% include figure.html
   class="img-center"
   width="40%"
-  caption="Figure 3. Here 1- Concave Appearance"
+  caption="Figure 4. Here 1- Concave Appearance"
   src="images/here1.jpg"
 %}
 
@@ -72,7 +73,7 @@ Because of its concave arrangement, some trees block the view of the windows. Th
 {% include figure.html
   class="img-center"
   width="40%"
-  caption="Figure 4. Here 7-Trees and light post blocking the artwork"
+  caption="Figure 5. Here 7-Trees and light post blocking the artwork"
   src="images/here7.jpg" %}
   
 The artwork is also situated near the entrance of the park. The noise of the approaching vehicles occasionally interrupts the tranquility of
@@ -81,20 +82,24 @@ the artwork.  It also makes viewing the artwork from the opposite side slightly 
 {% include figure.html
   class="img-center"
   width="75%"
-  caption="Figure 5. Here 3-The road entrance to the park"
+  caption="Figure 6. Here 3-The road entrance to the park"
   src="images/here3.jpg" %}
 
 ### Figures
 
 Figure 1. Mondragon, Jerome T., *Here 5*. 2017. Digital Image. Albuquerque, NM.
 
-Figure 2. Mondragon, Jerome T., *Here 2*. 2017. Digital Image. Albuquerque, NM.
+Figure 2. Google earth V 9.2.47.2. (September 30, 2006). Albuquerque , New Mexico.
+35° 11’ 39”N, 106° 43’ 40”W, Eye alt 1.69 km.
+DigitalGlobe 2012. http://www.earth.google.com [December 1, 2017].
 
-Figure 3. Mondragon, Jerome T., *Here 1*. 2017. Digital Image. Albuquerque, NM.
+Figure 3. Mondragon, Jerome T., *Here 2*. 2017. Digital Image. Albuquerque, NM.
 
-Figure 4. Mondragon, Jerome T., *Here 7*. 2017. Digital Image. Albuquerque, NM.
+Figure 4. Mondragon, Jerome T., *Here 1*. 2017. Digital Image. Albuquerque, NM.
 
-Figure 5. Mondragon, Jerome T., *Here 3*. 2017. Digital Image. Albuquerque, NM.
+Figure 5. Mondragon, Jerome T., *Here 7*. 2017. Digital Image. Albuquerque, NM.
+
+Figure 6. Mondragon, Jerome T., *Here 3*. 2017. Digital Image. Albuquerque, NM.
 
 ### Footnotes
 
