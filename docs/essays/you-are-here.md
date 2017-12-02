@@ -15,7 +15,7 @@ text="Windows to Glorious Landscapes"
 {% include figure.html
   class="img-right"
   width="40%"
-  caption="Figure 2. Here 2- Google Earth tilted view"
+  caption="Figure 2. Here 8- Google Earth tilted view"
   src="images/here8.jpg"
 %}
 
