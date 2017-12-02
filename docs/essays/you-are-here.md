@@ -87,7 +87,7 @@ The artwork is also situated near the entrance of the park. The noise of the app
 
 Figure 1. Mondragon, Jerome T., *Here 5*. 2017. Digital Image. Albuquerque, NM.
 
-Figure 2. Google earth V 9.2.47.2. (September 30, 2006). Albuquerque , New Mexico.
+Figure 2. Google earth V 9.2.47.2. Albuquerque , New Mexico.
 35° 11’ 39”N, 106° 43’ 40”W, Eye alt 1.69 km.
 DigitalGlobe 2017. http://www.earth.google.com [December 1, 2017].
 
