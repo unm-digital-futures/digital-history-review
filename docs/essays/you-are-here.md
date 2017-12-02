@@ -10,8 +10,7 @@ title="You Are Here"
 image="images/here5.jpg"
 text="Windows to Glorious Landscapes"
 %} 
-
-<sub><sup>Figure 1. Here 5- You Are Here</sub></sup>
+<sub><sup>Figure 1. Here 5- You Are Here</sup></sub>
 
 {% include figure.html
   class="img-right"
@@ -76,8 +75,7 @@ Because of its concave arrangement, some trees block the view of the windows. Th
   caption="Figure 5. Here 7-Trees and light post blocking the artwork"
   src="images/here7.jpg" %}
   
-The artwork is also situated near the entrance of the park. The noise of the approaching vehicles occasionally interrupts the tranquility of
-the artwork.  It also makes viewing the artwork from the opposite side slightly hazardous because of the approaching vehicles.
+The artwork is also situated near the entrance of the park. The noise of the approaching vehicles occasionally interrupts the tranquility of the artwork. It also makes viewing the artwork from the opposite side slightly hazardous because of the approaching vehicles.
 
 {% include figure.html
   class="img-center"
@@ -91,7 +89,7 @@ Figure 1. Mondragon, Jerome T., *Here 5*. 2017. Digital Image. Albuquerque, NM.
 
 Figure 2. Google earth V 9.2.47.2. (September 30, 2006). Albuquerque , New Mexico.
 35° 11’ 39”N, 106° 43’ 40”W, Eye alt 1.69 km.
-DigitalGlobe 2012. http://www.earth.google.com [December 1, 2017].
+DigitalGlobe 2017. http://www.earth.google.com [December 1, 2017].
 
 Figure 3. Mondragon, Jerome T., *Here 2*. 2017. Digital Image. Albuquerque, NM.
 
