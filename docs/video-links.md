@@ -24,6 +24,6 @@ Native-Land.ca: [site](https://native-land.ca/) | [video review](https://www.you
 
 Cleveland Historical: [site](https://clevelandhistorical.org/) | [video review](https://www.youtube.com/watch?v=SVjPSqXh_tI)
 
-History of Mexico: [site] (http://www.history.com/topics/mexico/history-of-mexico) | [video review](https://www.youtube.com/watch?v=BzaZ2HHWWEY)
+History of Mexico: [site](http://www.history.com/topics/mexico/history-of-mexico) | [video review](https://www.youtube.com/watch?v=BzaZ2HHWWEY)
 
 Influenza Encyclopedia: [site](http://www.influenzaarchive.org/index.html) | [video review](https://www.youtube.com/watch?v=XlLub_NVoZM&t=2s)
