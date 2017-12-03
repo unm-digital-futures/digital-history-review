@@ -12,7 +12,7 @@ text="A Look into New Mexico's 300 Year Herb History"
 {% include figure.html
   class="img-right"
   width="45%"
-  caption="La Curandera"
+  caption="Map"
   src="images/la_curandera_8.png.jpg"
 %}
 
