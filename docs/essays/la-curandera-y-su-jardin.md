@@ -70,10 +70,6 @@ To understand the artpiece more, the term "Curandera" has to be fully understood
   src="images/la_curandera_4.png.jpg"
 %}
 
-{% include aside.html
-  class="pullquote"
-  text="The structure is a celebration of plants with healing capabilities."
-  %}
 
 The inspiration for the sculpture comes from the book "Bless Me, Ultima". The book is based on a Curandera, just like in the sculpture, she is asked for spiritual help. Curanderas are only available through "word-of-mouth". This is what happens in the book. When the book was adapted into a film, it was filmed entirely in New Mexico.
  {% include aside.html
