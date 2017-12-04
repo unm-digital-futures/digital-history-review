@@ -79,6 +79,14 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 Under President Franklin D. Roosevelt's _New Deal_ subsistence programs were put into effect to try and boost the American economy. Programs like *Public Works of Art Project* attracted artists from all over the country putting Santa Fe and Taos on the map. New Mexico was now being promoted as a premier artistic destinations with Albuquerque as the stopover point.
 [^NewMexicoGreatDepression] However, as tension increased across the ocean the country would soon be pulled into a new World War. 
  
+ 
+ {% include figure.html
+  class="img-left"
+  width="33%"
+  caption="Kirtland Airforce Base"
+  src="images/dmartinez_kirtland.jpg"
+%}
+ 
  ## New Mexico & the Birth of the Atomic Age 
  
  New Mexico played a significant role in World War II, by providing secure and remote locations for the creation and detonation of the *Manhattan Project* and enlisting *Navajo Code Talkers*, securing success in the war. Propelled by infrastructure and government subsidies, New Mexico saw a new influx of migration changing Martineztown once again. 
