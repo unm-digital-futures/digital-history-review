@@ -77,11 +77,11 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
   text=" 'American factories and plants had fallen, thousands of banks, with no money to lend and no cash on hand, closed their doors.' 
 [New Mexico during the Great Depression](https://themountainvoice.com/2017/07/29/new-mexico-during-the-great-depression/)" %}
 Under President Franklin D. Roosevelt's _New Deal_ subsistence programs were put into effect to try and boost the American economy. Programs like *Public Works of Art Project* attracted artists from all over the country putting Santa Fe and Taos on the map. New Mexico was now being promoted as a premier artistic destinations with Albuquerque as the stopover point.
-[^NewMexicoandGreatDepression] However, as tension increased across the ocean the country would soon be pulled into a new World War. 
+[^NewMexicoGreatDepression] However, as tension increased across the ocean the country would soon be pulled into a new World War. 
  
- ## New Mexico, birth of the Atomic Age 
+ ## New Mexico & the Birth of the Atomic Age 
  
- New Mexico played one of the most significant roles in World War II, providing a secure and remote location for the headquarters of the *Manhattan Project*. Unknown to the world, scientist were neslted away in the mountains of Los Alamos creating the most powerful weapon the world had ever seen, the atomic bomb. Creating nuclear laboratories and airforce bases New Mexico became  
+ New Mexico played a significant role in World War II, by providing secure and remote locations for the creation and detonation of the *Manhattan Project* and enlisting *Navajo Code Talkers*, securing success in the war. Propelled by infrastructure and government subsidies, New Mexico saw a new influx of migration changing Martineztown once again. 
 
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_, and Albuquerque
@@ -163,7 +163,7 @@ You should visit *Angelitas De Caridad* because Martineztown Park offers a histo
 
 [^OnlyinYourState]: [Only in Your State](http://www.onlyinyourstate.com/new-mexico/photos-great-depression-nm/)
 
-[^NewMexicoandGreatDepression] [New Mexico during the Great Depression](https://themountainvoice.com/2017/07/29/new-mexico-during-the-great-depression/)
+[^NewMexicoGreatDepression] [New Mexico during the Great Depression](https://themountainvoice.com/2017/07/29/new-mexico-during-the-great-depression/)
 
 [^tuberculosinnewmexico]: [Tuberculosis in New Mexico](http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.htm)
  
