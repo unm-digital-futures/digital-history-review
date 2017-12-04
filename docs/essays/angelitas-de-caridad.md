@@ -70,7 +70,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 
 ## Martineztown and the New Boom
 
- Gaining statehood in 1912, New Mexico experienced an economic surgance as electricity was sweeping the nation. Companies like the *Albuquerque Gas & Electric Company* partnered with lumber companies like the *Sawmill Power Plant*, which provided the city with continuous electricity.[^HistoryofPNM] Lured by cheap prices and work, families descended upon Martineztown turning the prime farm land into a new urban center. However, posperity would not be felt for long as the Stock Market Crash of 1929 and the Dust Bowl of 1930's put New Mexico in econimic ruin.[^OnlyinYourState]
+ Gaining statehood in 1912, New Mexico experienced an economic surgance as electricity was sweeping the nation. Companies like the *Albuquerque Gas & Electric Company* partnered with lumber companies like the *Sawmill Power Plant*, which provided the city with continuous electricity.[^HistoryofPNM] Lured by cheap prices and work, families descended upon Martineztown turning the prime farm land into a new urban center. However, posperity would not be felt for long as the Stock Market Crash of 1929 and the Dust Bowl of the 1930's put New Mexico in econimic ruin.[^OnlyinYourState]
  
 {% include aside.html
   class="pullquote"
@@ -79,8 +79,9 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 Under President Franklin D. Roosevelt's _New Deal_ subsistence programs were put into effect to try and boost the American economy. Programs like *Public Works of Art Project* attracted artists from all over the country putting Santa Fe and Taos on the map. New Mexico was now being promoted as a premier artistic destinations with Albuquerque as the stopover point.
 [^NewMexicoandGreatDepression] However, as tension increased across the ocean the country would soon be pulled into a new World War. 
  
- ## World War II
- New Mexico played 
+ ## New Mexico, birth of the Atomic Age 
+ 
+ New Mexico played one of the most significant roles in World War II, providing a secure and remote location for the headquarters of the *Manhattan Project*. Unknown to the world, scientist were neslted away in the mountains of Los Alamos creating the most powerful weapon the world had ever seen, the atomic bomb. Creating nuclear laboratories and airforce bases New Mexico became  
 
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_, and Albuquerque
@@ -157,6 +158,8 @@ You should visit *Angelitas De Caridad* because Martineztown Park offers a histo
 [^publicartarchive]: [Public Art Archive](http://www.publicartarchive.org/work/angelitos-de-caridad)
 
 [^MartineztownHistory]: [History of Martineztown](http://chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf)
+
+[^HistoryofPNM]: [History of PNM Resources](http://www.pnmresources.com/about-us/history.aspx)
 
 [^OnlyinYourState]: [Only in Your State](http://www.onlyinyourstate.com/new-mexico/photos-great-depression-nm/)
 
