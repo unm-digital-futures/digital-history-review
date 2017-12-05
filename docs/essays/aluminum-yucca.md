@@ -13,7 +13,7 @@ text="The way how an Aluminum Yucca was formed."
 {% include figure.html
   class="img-right"
   width="25%"
-  caption="Location relative in Albuquerque"
+  caption="Located at Albuquerque's East side"
   src="images/aluminumyucca2.PNG"
 %}
 
