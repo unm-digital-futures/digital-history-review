@@ -53,10 +53,7 @@ According to an Mountain View Telegraph article written by Mike Bush, published 
 
 ### The History Behind The Yucca
 
-{% include aside.html
-  class="pullquote"
-  text="This was the first one that was created because it was possibly the cheapest to make at only $124,000."
-  %}
+
 
 In April of 2003, the Aluminum Yucca was first set up, with the completion occuring in May of that same year. It was meant to be the first of many projects loacted at each of the entrances of Albuquerque. This was the first one that was created because it was possibly the cheapest to make at only $124,000. The price itself wasn't a burden to the Tax payers of Albuquerque however, as it was paid through a grant given by the U.S Department of Transportation. During this planning stage, according to the article in the Mountain View Telegraph, there were plans to creat a visitor center centered around the history of Route 66. To this day the Yucca is the only part of that project that still exsits. [^note4]
 
@@ -64,6 +61,11 @@ In April of 2003, the Aluminum Yucca was first set up, with the completion occur
 
 
 ### History of the Area
+
+{% include aside.html
+  class="pullquote"
+  text="This was the first one that was created because it was possibly the cheapest to make at only $124,000."
+  %}
 
 {% include figure.html
   class="img-left"
