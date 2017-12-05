@@ -31,3 +31,5 @@ Influenza Encyclopedia: [site](http://www.influenzaarchive.org/index.html) | [vi
 Black Past: [site](http://www.blackpast.org) | [video review]( https://www.youtube.com/watch?v=XSUZ0VjVL18&feature=youtu.be)
 
 AfricaMap: [site](http://worldmap.harvard.edu/africamap/) | [video review]
+
+Hidden Florence: [site](https://hiddenflorence.org/) | [video review](https://youtu.be/765LFIXUGiw)
