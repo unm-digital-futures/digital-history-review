@@ -11,12 +11,6 @@ image="images/TBImage2.png"
 text="Convenience & Luxury"
 %}
 
-{% include figure.html
-  class="img-left"
-  width="20%"
-  caption="View from the Apothecary Lounge."
-  src="images/TBImage7.png"
-%}
 
 {% include figure.html
   class="img-right"
@@ -24,15 +18,15 @@ text="Convenience & Luxury"
   caption="Physical address 806 Central Avenue SE, Albuquerque, New Mexico 87102."
   src="images/TBImage9.png"
 %}
+  
+A scenic view of the city of Albuquerque welcomes  anyone from the former mental institution's Apothecary Lounge, a place where history and modern [luxury](http://www.hvlinteriors.com/single_gallery_HPC.html#.WfEJFBOPIlU) meet. [The Parq Central Hotel](http://hotelparqcentral.com) was preserved for its significance in offering medical services for railway employees during its time as the Santa Fe Railway hospital[^Preservation].
+Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life.
 
 {% include aside.html
   class="pullquote"
   text="Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life."
   %}
   
-A scenic view of the city of Albuquerque welcomes  anyone from the former mental institution's Apothecary Lounge, a place where history and modern [luxury](http://www.hvlinteriors.com/single_gallery_HPC.html#.WfEJFBOPIlU) meet. [The Parq Central Hotel](http://hotelparqcentral.com) was preserved for its significance in offering medical services for railway employees during its time as the Santa Fe Railway hospital[^Preservation].
-Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life.
-
 ## History
 
 {% include figure.html
@@ -81,7 +75,7 @@ The chosen [Italianate architecture style](http://www.phmc.state.pa.us/portal/co
 
 {% include figure.html
   class="img-left"
-  width="40%"
+  width="30%"
   caption="Apothecary Lounge rooftop view of NE Albuquerque."
   src="images/TBImage10.png"
 %}
@@ -119,11 +113,11 @@ The Parq Central Hotel did serve its purpose in boosting the economy by using hi
 
 [^Preservation]: City of Albuquerque.["Historic Landmarks"](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks), Atchison, Topeka & Santa Fe Railway Memorial Hospital. _cabq.gov_. [n.d.].
 
-[^Injured-workers]: [Atchison, Topeka & Santa Fe Company Hospital, Albuquerque, New Mexico](http://www.kansasmemory.org/item/227818), Kansas Historical Society, 2017.
+[^Injured-workers]: Kansas Historical Society.["Atchison, Topeka & Santa Fe Company Hospital, Albuquerque, New Mexico"](http://www.kansasmemory.org/item/227818), _Kansasmemory.org_, 2017.
 
-[^Italianate]: [Italian Renaissance Revival Style 1890-1930](http://www.phmc.state.pa.us/portal/communities/architecture/styles/italian-renaissance.html), Pennsylvania Historical and Museum Commision, 2015.
+[^Italianate]: Pennsylvania Historical and Museum Commision.["Italian Renaissance Revival Style 1890-1930"](http://www.phmc.state.pa.us/portal/communities/architecture/styles/italian-renaissance.html), _phmc.state.pa.us_, 2015.
 
-[^Alb-press-club]: [Welcome to the Albuquerque Press Club](http://www.abqpressclub.com), The Albuquerque Press Club, 2017.
+[^Alb-press-club]: The Albuquerque Press Club.["Welcome to the Albuquerque Press Club"](http://www.abqpressclub.com), _abqpressclub_, 2017.
 
-[^Landmark]: [Atchison, Topeka & Santa Fe Railway Memorial Hospital](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks), City of Albuquerque, 2017.
+[^Landmark]: [City of Albuquerque.["Historic Landmarks"](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks), Atchison, Topeka & Santa Fe Railway Memorial Hospital. _cabq.gov_. [n.d.].
 
