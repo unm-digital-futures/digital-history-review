@@ -117,7 +117,7 @@ The Parq Central Hotel did serve its purpose in boosting the economy by using hi
 
 ### Footnotes
 
-[^Preservation]: [Atchison, Topeka & Santa Fe Railway Memorial Hospital](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks), City of Albuquerque, 2017.
+City of Albuquerque.[^Preservation]: ["Historic Landmarks"](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks), Atchison, Topeka & Santa Fe Railway Memorial Hospital. cabq.gov. [n.d.].
 
 [^Injured-workers]: [Atchison, Topeka & Santa Fe Company Hospital, Albuquerque, New Mexico](http://www.kansasmemory.org/item/227818), Kansas Historical Society, 2017.
 
