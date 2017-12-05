@@ -27,7 +27,7 @@ Walk through the same halls that railway workers and patients did with modern re
   text="Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life."
   %}
   
-## History
+## A Brief History
 
 {% include figure.html
   class="img-right"
@@ -41,7 +41,7 @@ The Parq Central Hotel is now a source of economic stability through the steady 
 
 
 
-## Santa Fe Railway Hospital & Memorial Hospital
+## Purpose of the Santa Fe Railway Hospital & Memorial Hospital
 
 {% include figure.html
   class="img-left"
@@ -55,7 +55,7 @@ The Parq Central Hotel is now a source of economic stability through the steady 
 
 
 
-## Architecture
+## About the Architecture
 
 {% include figure.html
   class="img-center"
@@ -98,7 +98,7 @@ Space is more than a geographical representation, mistakenly thought of as only 
   %}
 The Santa Fe Railway Hospital as well as the Memorial Hospital's original purpose was to provide medical treatment and then shifted to promoting economic growth and a place for social gatherings. The purpose affected the cultural memory of this space by influencing people's perception of it. Space is more than a physical place because it directly shapes our memory, which anyone can be a part of.
 
-## Economic Growth
+## Tourism
 
 {% include figure.html
   class="img-center"
