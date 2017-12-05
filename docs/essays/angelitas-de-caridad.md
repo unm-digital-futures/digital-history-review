@@ -106,7 +106,7 @@ However, Martineztown's centralized location made it a center for cultural and e
  {% include figure.html
   class="img-center"
   width="45%"
-  caption=" 'Martineztown is not for sale' protest [Waymarking](http://www.waymarking.com/waymarks/WMTKE1_Martineztown_Albuquerque_NM)"
+  caption=" 'Martineztown is not for sale' [Waymarking](http://www.waymarking.com/waymarks/WMTKE1_Martineztown_Albuquerque_NM)"
   src="images/dmartinez_protest.jpg"
 %}
 
