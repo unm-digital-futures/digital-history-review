@@ -60,7 +60,7 @@ The 2926 could be up and running later next year. The society plans to take pass
   class='img-center'
   width='100%'
   caption='We are almost ready to go on our journey.'
-  src='images/2926front.jpg'%}
+  src='images/2926front-me.jpg'%}
 At the train’s current resting place, a private railroad society is rebuilding the 2926 for an opportunity to run specialty tours up to Las Vegas, New Mexico. [train restoration](https://en.wikipedia.org/wiki/Santa_Fe_2926 http://krqe.com/2017/09/23/unique-steam-engine-restoration-near-completion/). A society member and I spoke a bit, he mentioned that so many repairs were needed, several retired mechanical engineers, machinists, and electrical retirees are spending time reinventing this marvel. The 2926 could be up and running later next year. The society plans to take passengers up to the Harvey House hotel (currently also being renovated by a conglomerated effort between the hotel and historical society.) and may go on further if the tours are successful. Making this the only 4-8-4 train on the tracks today.
 [Historical Train Society] (http://www.chucksville.com/steam.html) 
 
