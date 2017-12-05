@@ -68,7 +68,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
   src="images/dmartinez_gas.jpg"
 %}
 
-## Martineztown and the New Boom
+## Statehood and the Depression Era
 
  Gaining statehood in 1912, New Mexico experienced an economic surgance as electricity was sweeping the nation. Companies like the *Albuquerque Gas & Electric Company* partnered with lumber companies like the *Sawmill Power Plant*, which provided the city with continuous electricity.[^HistoryofPNM] Lured by cheap prices and work, families descended upon Martineztown turning the prime farm land into a new urban center. However, posperity would not be felt for long as the Stock Market Crash of 1929 and the Dust Bowl of the 1930's put New Mexico in econimic ruin.[^OnlyinYourState]
  
@@ -87,9 +87,9 @@ Under President Franklin D. Roosevelt's _New Deal_ subsistence programs were put
   src="images/dmartinez_kirtland.jpg"
 %}
  
- ## New Mexico & the Birth of the Atomic Age 
+ ## Birth of the Atomic Age and Urbanization 
  
- New Mexico played a significant role in World War II, by providing secure and remote locations for the creation and detonation of the *Manhattan Project* and enlisting *Navajo Code Talkers*, securing success in the war. Propelled by infrastructure and government subsidies, New Mexico saw a new influx of migration changing Martineztown once again. 
+ New Mexico played a significant role in World War II, in providing secure and remote locations for the creation and detonation of the *Manhattan Project*. Success in winning the war, development of Sandia Laboratories, and new government subsidies propelled not just an influx but a wave of migration. Infastructure rapdily expanded Albuquerque's territory and Martineztown recieived a new neighbor in the form of the I25 interstate freeway. Albuquerque was truly urbanzied. 
 
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_, and Albuquerque
