@@ -43,11 +43,6 @@ Located on the east end entrance of Albuquerque, there is a tall Alumninum Yucca
 
 ### The Idea Behind The Yucca
 
-{% include figure.html
-  class="img-right"
-  width="20%"
-  src="images/AYucca1.jpg"
-%}
 
 According to an Mountain View Telegraph article written by Mike Bush, published in 2013, the project was built around 2003. [^note2] For a long while this statue was left unexplained to drivers and all who saw it. This was finally answered in 2013 when an artist of the structure explained why this metal Yucca. The artists name is Gordon Huether from southern California. According to the artist's website  the purpose of this project was to celebrate a nostalgia or some sort of a romance for the West, that was located on Route 66 at one time. [^note3]
 
@@ -55,7 +50,11 @@ According to an Mountain View Telegraph article written by Mike Bush, published 
 
 ### The History Behind The Yucca
 
-
+{% include figure.html
+  class="img-right"
+  width="20%"
+  src="images/AYucca1.jpg"
+%}
 
 In April of 2003, the Aluminum Yucca was first set up, with the completion occuring in May of that same year. It was meant to be the first of many projects loacted at each of the entrances of Albuquerque. This was the first one that was created because it was possibly the cheapest to make at only $124,000. The price itself wasn't a burden to the Tax payers of Albuquerque however, as it was paid through a grant given by the U.S Department of Transportation. During this planning stage, according to the article in the Mountain View Telegraph, there were plans to creat a visitor center centered around the history of Route 66. To this day the Yucca is the only part of that project that still exsits. [^note4]
 
