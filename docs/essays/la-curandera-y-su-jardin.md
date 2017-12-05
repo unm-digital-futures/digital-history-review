@@ -4,7 +4,7 @@ Author: Will Moreno
 CSS: curandera.css
 ---
 {% include jumbotron.html
-title="la curandera"
+title="La Curandera"
 image="images/la_curandera_9.jpg"
 text="Women who Heal"
 %} 
