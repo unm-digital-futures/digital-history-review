@@ -96,7 +96,7 @@ However, as tension increased across the ocean the country would soon be pulled 
  
  ## Birth of the Atomic Age and Urbanization 
  
-New Mexico played a significant role in World War II in providing secure and remote locations for the creation and detonation of the *Manhattan Project*. Success in winning the war, development of Sandia Laboratories, and new government subsidies propelled not just an influx but a wave of migration. Infastructure rapdily expanded Albuquerque's territory and Martineztown recieived a new neighbor in the form of the I25 interstate highway. Albuquerque had become truly urbanzied. 
+New Mexico played a significant role in World War II in providing secure and remote locations for the creation and detonation of the *Manhattan Project*. Success in winning the war, development of Sandia Laboratories, and new government subsidies propelled not just an influx but a wave of migration. Infastructure rapdily expanded Albuquerque's territory and Martineztown received a new neighbor in the form of the I25 interstate highway. Albuquerque had become truly urbanzied. 
  
  {% include aside.html
   class="pullquote"
