@@ -59,7 +59,7 @@ Medical assistance was provided for railway workers and later medical treatment 
 
 {% include figure.html
   class="img-center"
-  width="40%"
+  width="30%"
   caption="Layout of Parq Central Hotel buildings."
   src="images/TBImage6.png"
 %}
