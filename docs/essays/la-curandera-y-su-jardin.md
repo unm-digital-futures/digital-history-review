@@ -104,7 +104,7 @@ The inspiration for the sculpture comes from the book "Bless Me, Ultima". The bo
 
 
 
-[^source ]: [Albuquerque Public Art](http://www.publicartarchive.org/work/la-curandera-y-su-jardin) Albuquerque Public Art
+[^source ]: [Albuquerque Public Art](www.publicartarchive.org/work/la-curandera-y-su-jardin) Albuquerque Public Art
 [^source 2]: [City of Albuquerque](https://www.cabq.gov/culturalservices/biopark/garden/exhibits/curandera-garden) City of Albuquerque
 
 
