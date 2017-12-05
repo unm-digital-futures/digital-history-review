@@ -184,7 +184,7 @@ You should visit *Angelitas De Caridad* because Martineztown Park offers a histo
 
 [^publicartarchive]: [Public Art Archive](http://www.publicartarchive.org/work/angelitos-de-caridad)
 
-[^MartineztownHistory]: [History of Martineztown](chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=file:///home/chronos/u-c90395d4493414debd433d73f117ff1a97b0ba0a/Downloads/SouthMartineztownSDP.pdf)
+[^MartineztownHistory]: [History of Martineztown](https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf)
 
 [^HistoryofPNM]: [History of PNM Resources](http://www.pnmresources.com/about-us/history.aspx)
 
