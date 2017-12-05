@@ -119,5 +119,5 @@ The Parq Central Hotel did serve its purpose in boosting the economy by using hi
 
 [^Alb-press-club]: The Albuquerque Press Club.["Welcome to the Albuquerque Press Club"](http://www.abqpressclub.com), _abqpressclub_, 2017.
 
-[^Landmark]: [City of Albuquerque.["Historic Landmarks"](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks), Atchison, Topeka & Santa Fe Railway Memorial Hospital. _cabq.gov_. [n.d.].
+[^Landmark]: City of Albuquerque.["Historic Landmarks"](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks), Atchison, Topeka & Santa Fe Railway Memorial Hospital. _cabq.gov_. [n.d.].
 
