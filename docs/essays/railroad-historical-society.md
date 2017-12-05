@@ -9,7 +9,7 @@ text='restored 2929 locomotive.'%}
   class="img-right"
   width="45%"
   caption="Map"
-  src="images/historical-railroad-museum.png"
+  src="images/historical-railroad-museum(2).png"
 %}
 
 {figure.html
