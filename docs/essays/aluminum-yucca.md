@@ -13,7 +13,7 @@ text="The way how an Aluminum Yucca was formed."
 {% include figure.html
   class="img-right"
   width="25%"
-  caption="Located Right Near Carneul exit on I-40"
+  caption="Location relative in Albuquerque"
   src="images/aluminumyucca2.PNG"
 %}
 
