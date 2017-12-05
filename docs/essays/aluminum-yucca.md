@@ -83,8 +83,8 @@ In this project, the Yucca serves as a gateway between Albuquerque and the East 
 
 ##### Footnotes
 
-[^note1]: Huether, Gordon. [About the Aluminum Yucca](https://www.gordonhuether.com/aluminum-yucca)_About the Project https://www.gordonhuether.com/aluminum-yucca, 2003 
-[^note2]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html)_Albuquerque Journal, May 19, 2013
-[^note3]: Huether, Gordon. [About the Aluminum Yucca](https://www.gordonhuether.com/aluminum-yucca)_About the Project https://www.gordonhuether.com/aluminum-yucca, 2003 
-[^note4]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html)_Albuquerque Journal, May 19, 2013
-[^note5]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html)_Albuquerque Journal, May 19, 2013
+[^note1]: Huether, Gordon. [About the Aluminum Yucca](https://www.gordonhuether.com/aluminum-yucca) _About the Project https://www.gordonhuether.com/aluminum-yucca, 2003 
+[^note2]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html) _Albuquerque Journal, May 19, 2013
+[^note3]: Huether, Gordon. [About the Aluminum Yucca](https://www.gordonhuether.com/aluminum-yucca) _About the Project https://www.gordonhuether.com/aluminum-yucca, 2003 
+[^note4]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html) _Albuquerque Journal, May 19, 2013
+[^note5]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html) _Albuquerque Journal, May 19, 2013
