@@ -4,7 +4,7 @@ Author: Will Moreno
 CSS: curandera.css
 ---
 {% include jumbotron.html
-title='women_who_heal'
+title='women who heal'
 image='images/la_curandera_9.jpg'
 text='A look at New Mexico Herb History'%} 
 {% include figure.html
