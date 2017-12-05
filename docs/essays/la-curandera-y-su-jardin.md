@@ -11,16 +11,20 @@ CSS: curandera.css
   src="images/la_curandera_8.png.png"
 %}
 
-
-
-
-
+{% include jumbotron.html
+title='women_who_heal'
+image='images/la_curandera_9.jpg'
+text='la_curandera_9.png'%} 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="45%"
-  caption="La Curandera"
-  src="images/la_curandera_2.png.jpg"
+  caption="Curanderas"
+  src="images/la_curandera_9.png"
 %}
+
+
+
+
 #### Will Moreno
 
 ## Intro
