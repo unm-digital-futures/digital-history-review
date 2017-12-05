@@ -103,7 +103,12 @@ New Mexico played a significant role in World War II in providing secure and rem
   text="'New houses go up in batches of 50 to 300 at a time and transform barren mesas before you get back from lunch' [AlbuquerqueHistoricSociety](http://www.albuqhistsoc.org/SecondSite/pkfiles/pk213neighborhoods.htm)"%}
 However, Martineztown's centralized location made it a center for cultural and economic marginalization. Gentrification and outrage over urban development rocked Martineztown. Using the solgan "Martineztown Not for Sale!" the community unified against the Urban Renewal Condemnation and was able kept Martineztown a neighborhood community.[Waymarking](http://www.waymarking.com/waymarks/WMTKE1_Martineztown_Albuquerque_NM) In 1968 *Martineztown Park* was established as a way to revitalize the neighborhood. Thus, through artworks like *Angelitas de Caridad* Martineztown has been able to communicate the growth and development of the community overtime. 
 
-
+ {% include figure.html
+  class="img-center"
+  width="33%"
+  caption=" 'Martineztown is not for sale' protest [Waymarking](http://www.waymarking.com/waymarks/WMTKE1_Martineztown_Albuquerque_NM)"
+  src="images/dmartinez_protest.jpg"
+%}
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_, and Albuquerque
 
