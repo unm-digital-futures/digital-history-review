@@ -15,7 +15,7 @@ text='A look at New Mexico Herb History'%}
 %}
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="46%"
   caption="Map"
   src="images/la_curandera_8.png.png"
 %}
