@@ -13,7 +13,7 @@ text="Would You Live in a High School?"
 ### By Audriana McManus  
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="33%"
   caption="ABQ High Front"
   src="images/ABQhighfront.jpg"
@@ -23,24 +23,32 @@ School buildings may not seem like the biggest historical landmark in a city; ho
 
 ## Dates For Old Albuquerque High
 
-The first building Albuquerque High occupied was not the same as what we today know as Old Albuquerque High. In fact, it was not the second, nor the third building. As the city grew and changed, the high school was constantly being moved from one building to another. Eventually, around the sixth move, the city decided that a permanent building should be built for their 12,000 residents, and in 1914 the 7th location opened its doors. [^batman] Critiques of the project thought that the first building built, which would come to be called "Old Main," was too big and would never be able to reach its capacity of 500 students. The city grew so much that just 13 years later, a second building was built and by 1940, there were five total. Albuquerque high remained the only high school until 1949.[^batman]
-
 {% include aside.html
   class="pullquote"
   text="Old Albuquerque High was thought to be unnecessarily too big; however, it quickly proved people wrong with Albuquerque's growing population."
   %}
 
+The first building Albuquerque High occupied was not the same as what we today know as Old Albuquerque High. In fact, it was not the second, nor the third building. As the city grew and changed, the high school was constantly being moved from one building to another. Eventually, around the sixth move, the city decided that a permanent building should be built for their 12,000 residents, and in 1914 the 7th location opened its doors. [^batman] Critiques of the project thought that the first building built, which would come to be called "Old Main," was too big and would never be able to reach its capacity of 500 students. The city grew so much that just 13 years later, a second building was built and by 1940, there were five total. Albuquerque high remained the only high school until 1949.[^batman]
+
 The area around the school was also in constant flux. One of the buildings, the Gymnasium, sat right next to an arroyo, which became a place for many social events. For example, the Albuquerque High school website mentions that:
 
 {% include full-width.html
   class="pullquote"
-  text=" The arroyo which ran along the north side was quite deep and it often was the ground used for settling disputes. In 1915, it was the meeting place of two rival gangs, the Capulets and the Montagues; and in 1917 the rival gangs who used the area were the Hatfields and the McCoys."
-%}[^batman]
+  text=" The arroyo which ran along the north side was quite deep and it often was the ground used for settling disputes. In 1915, it was the meeting place of two rival gangs, the Capulets and the Montagues; and in 1917 the rival gangs who used the area were the Hatfields and the McCoys."[^batman]
+%}
 
 The other buildings included the Manual Arts Building which was built in 1927, the Classroom Administration Building built in 1937, and the Library Building, the final structure, in 1940.[^catwoman]
 
 
 ## Architecture
+
+{% include figure.html
+class="img-right"
+width="33%"
+caption="ABQ High Courtyard"
+src="images/ABQhighcourtyard.jpg"
+%}
+
 
 Before the idea of Albuquerque High came about, the city had to be planned. With the coming of the railroad, actual roads were needed in new Albuquerque. Colonel Marmon was assigned to lay out main city streets. One of the first streets he laid ran parallel to the horse car line. This street was named Central. Marmon also plotted streets that the railroad did not request. The widest street in Albuquerque, which he named Broadway, was the start of four more streets east of it. The first street was Arno, named after Arno Huning who was a businessman in Albuquerque. Two of the streets were named after his own children, Edith and Walter, and the last street was called High.[^batman]
 
@@ -51,23 +59,11 @@ Before the idea of Albuquerque High came about, the city had to be planned. With
 
 When the first building was commisioned, it was created by an El Paso architect Henry C. Trost who designed it to face Central. Old Main was designed in the Gothic Revival style, which was mimicked by the next four buildings. The second building, the Manual Arts Building, was designed by local artist Gorge Williamson in 1927 on Arno Street. Another local architect, Louis Hesselden, was commissioned to create the last three buildings, due to New Deal funding and WPA manpower.[^batman]
 
-{% include figure.html
-class="img-rightt"
-width="33%"
-caption="ABQ High Courtyard"
-src="images/ABQhighcourtyard.jpg"
-%}
-
-
-
-
-
-
 ## What is it Now?
 
 {% include figure.html
 class="img-left"
-width="45%"
+width="42%"
 caption="The Lofts at Albuquerque"
 src="images/ABQhighrecent1.JPG"
 %}
