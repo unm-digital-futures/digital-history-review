@@ -58,7 +58,7 @@ Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used
   text=" 'As patients arrived and lived in rooming houses, tent cities, sanatoriums, and on the streets, hoping the mountain air would cure them, locals became infected.' [Lungers and their legacy](http://newmexicohistory.org/people/lungers-and-their-legacy)" %}
 
 
-In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown.[^MartineztownHistory] As the railroads urbanized cities across the country, New Mexico's climate offered something different, aid for Tuberculosis victims. The dry air and high elevations made Albuquerque the ideal place to live and establish hopsitals. Tuberculosis as the catalyst and the railroad as the facilitator, Martineztown became a new hub for Albuquerque society. Businesses would eventually enclose Martineztown Park to its current position, thus creating an timecaplse within the booming cityscape.  
+In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown.[^MartineztownHistory] As the railroads urbanized cities across the country, New Mexico's climate offered something different, aid for Tuberculosis victims. The dry air and high elevations made Albuquerque the ideal place to live and establish hopsitals. Tuberculosis as the catalyst and the railroad as the facilitator, Martineztown became a new hub for Albuquerque society. Businesses would eventually enclose Martineztown to its current position, thus creating an timecaplse within the booming cityscape.  
 
 
  {% include figure.html
@@ -89,7 +89,14 @@ Under President Franklin D. Roosevelt's _New Deal_ subsistence programs were put
  
  ## Birth of the Atomic Age and Urbanization 
  
- New Mexico played a significant role in World War II, in providing secure and remote locations for the creation and detonation of the *Manhattan Project*. Success in winning the war, development of Sandia Laboratories, and new government subsidies propelled not just an influx but a wave of migration. Infastructure rapdily expanded Albuquerque's territory and Martineztown recieived a new neighbor in the form of the I25 interstate freeway. Albuquerque was truly urbanzied. 
+ New Mexico played a significant role in World War II in providing secure and remote locations for the creation and detonation of the *Manhattan Project*. Success in winning the war, development of Sandia Laboratories, and new government subsidies propelled not just an influx but a wave of migration. Infastructure rapdily expanded Albuquerque's territory and Martineztown recieived a new neighbor in the form of the I25 interstate highway. Albuquerque had become truly urbanzied. 
+ 
+ {% include full-width.html
+  class="pullquote"
+  text="'New houses go up in batches of 50 to 300 at a time and transform barren mesas before you get back from lunch'[AlbuquerqueHistoricSociety](http://www.albuqhistsoc.org/SecondSite/pkfiles/pk213neighborhoods.htm)"
+%}
+However, Martineztown's centralized location made it a center for cultural and economic marginalization. Gentrification and outrage over urban development rocked Martineztown. Using the solgan "Martineztown Not for Sale!" the community unified against the Urban Renewal Condemnation and was able kept Martineztown a neighborhood community.[Waymarking](http://www.waymarking.com/waymarks/WMTKE1_Martineztown_Albuquerque_NM) In 1968 *Martineztown Park* was established as a way to revitalize the neighborhood. Thus, through artworks like *Angelitas de Caridad* Martineztown has been able to communicate the growth and development of the community overtime. 
+
 
 
 ## Tuberculosis, _The Sisters of Charity of Cincinnati_, and Albuquerque
@@ -170,8 +177,6 @@ You should visit *Angelitas De Caridad* because Martineztown Park offers a histo
 [^HistoryofPNM]: [History of PNM Resources](http://www.pnmresources.com/about-us/history.aspx)
 
 [^OnlyinYourState]: [Only in Your State](http://www.onlyinyourstate.com/new-mexico/photos-great-depression-nm/)
-
-[^NewMexicoGreatDepression] [New Mexico during the Great Depression](https://themountainvoice.com/2017/07/29/new-mexico-during-the-great-depression/)
 
 [^tuberculosinnewmexico]: [Tuberculosis in New Mexico](http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.htm)
  
