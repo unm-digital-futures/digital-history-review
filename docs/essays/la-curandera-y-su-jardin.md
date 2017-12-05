@@ -5,7 +5,7 @@ CSS: curandera.css
 ---
 {% include jumbotron.html
 title="La Curandera"
-image="images/la_curandera_9.jpg"
+image="images/la_curandera_3.jpg"
 text="Women who Heal"
 %} 
 {% include figure.html
