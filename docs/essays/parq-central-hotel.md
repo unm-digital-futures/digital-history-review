@@ -45,7 +45,7 @@ The Parq Central Hotel is now a source of economic stability through the steady 
 
 {% include figure.html
   class="img-left"
-  width="40%"
+  width="30%"
   caption="Memorial Hospital 1982-2006."
   src="images/TBImage1.png"
 %}
