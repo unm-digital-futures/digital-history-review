@@ -8,6 +8,7 @@ title="La Curandera"
 image="images/la_curandera_3.jpg"
 text="Women who Heal"
 %} 
+
 {% include figure.html
   class="img-right"
   width="46%"
