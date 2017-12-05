@@ -9,7 +9,7 @@ text='restored 2929 locomotive.'%}
   class="img-right"
   width="45%"
   caption="Map"
-  src="images/la_curandera_8.png.png"
+  src="images/historical-railroad-museum.png"
 %}
 
 {figure.html
