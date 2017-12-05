@@ -29,3 +29,5 @@ History of Mexico: [site](http://www.history.com/topics/mexico/history-of-mexico
 Influenza Encyclopedia: [site](http://www.influenzaarchive.org/index.html) | [video review](https://www.youtube.com/watch?v=XlLub_NVoZM&t=2s)
 
 Black Past: [site](http://www.blackpast.org) | [video review]( https://www.youtube.com/watch?v=XSUZ0VjVL18&feature=youtu.be)
+
+AfricaMap: [site](http://worldmap.harvard.edu/africamap/) | [video review]
