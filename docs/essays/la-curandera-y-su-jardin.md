@@ -3,7 +3,11 @@ Title: La Curandera y su Jardin
 Author: Will Moreno
 CSS: curandera.css
 ---
-
+{% include jumbotron.html
+title="La Curandera"
+image="images/la_curandera_9.png.png"
+text="Women who Heal"
+%} 
 
 {% include figure.html
   class="img-right"
