@@ -47,7 +47,7 @@ According to an Mountain View Telegraph article written by Mike Bush, published 
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="20%"
   src="images/AYucca1.jpg"
 %}
 
@@ -66,19 +66,21 @@ In April of 2003, the Aluminum Yucca was first set up, with the completion occur
 Overtime the space around the Aluminum Yucca, has served to travelers going in and out of Albuquerque's East side as a final or beginning into the culture of the city itself. It also shows an idea into what the history is behind the city is. This type of a history existing in a realm located in around the 1950's. It was during this time Albuquerque's ties to Kirkland and Sandia National Labs, were at the strong point. The sculpture itself is part of this feeling [^note5]  Currently, the Yucca is desgined to give off the feel of being in a desert. With the sun glistening down upon it, it gives off the idea of the type of city Albuquerque is. While at night the Yucca only glows green signalling a way home for the people who travle back to the East Mountains.
 
 {% include figure.html
-  class="img-left"
-  width="30%"
+  class="img-right"
+  width="20%"
   src="images/AYucca3.jpg"
 %}
 
 ### Conclusion
 
-In this project, the Yucca serves as a gateway between Albuquerque and the East Mountains along with the Estancia Valley.Made out of recycled fighter jet parts, and being lit up at night, it was the start of a project meant for a larger purpose. Unfortunately, its the only thing that remains from this project. Could it be because the funding falled through, or there was just no public interest in the project itself. Nobody will know. Where it stands now though it serves as a remind to Albuquerque's history with Sandia National Labs, Kirkland Air Force Base, and Route 66, with its retro style. Finally, the space where it shines the artwork does serves its purpose as a gateway between the city itself and the East Mountains.
-
 {% include aside.html
   class="pullquote"
   text="Yucca serves as a gateway between Albuquerque and the East Mountains along with the Estancia Valley."
   %}
+
+In this project, the Yucca serves as a gateway between Albuquerque and the East Mountains along with the Estancia Valley.Made out of recycled fighter jet parts, and being lit up at night, it was the start of a project meant for a larger purpose. Unfortunately, its the only thing that remains from this project. Could it be because the funding falled through, or there was just no public interest in the project itself. Nobody will know. Where it stands now though it serves as a remind to Albuquerque's history with Sandia National Labs, Kirkland Air Force Base, and Route 66, with its retro style. Finally, the space where it shines the artwork does serves its purpose as a gateway between the city itself and the East Mountains.
+
+
 
 
 ##### Footnotes
