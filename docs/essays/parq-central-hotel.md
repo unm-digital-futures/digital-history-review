@@ -18,14 +18,14 @@ text="Convenience & Luxury"
   caption="Physical address 806 Central Avenue SE, Albuquerque, New Mexico 87102."
   src="images/TBImage11.png"
 %}
-  
-A scenic view of the city of Albuquerque welcomes  anyone from the former mental institution's Apothecary Lounge, a place where history and modern [luxury](http://www.hvlinteriors.com/single_gallery_HPC.html#.WfEJFBOPIlU) meet. [The Parq Central Hotel](http://hotelparqcentral.com) was preserved for its significance in offering medical services for railway employees during its time as the Santa Fe Railway hospital[^Preservation].
-Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life.
-
-{% include aside.html
+ 
+ {% include aside.html
   class="pullquote"
   text="Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life."
   %}
+  
+A scenic view of the city of Albuquerque welcomes  anyone from the former mental institution's Apothecary Lounge, a place where history and modern [luxury](http://www.hvlinteriors.com/single_gallery_HPC.html#.WfEJFBOPIlU) meet. [The Parq Central Hotel](http://hotelparqcentral.com) was preserved for its significance in offering medical services for railway employees during its time as the Santa Fe Railway hospital[^Preservation].
+Walk through the same halls that railway workers and patients did with modern renovations bringing the history back to life.
   
 ## A Brief History
 
@@ -50,12 +50,12 @@ The Parq Central Hotel is now a source of economic stability through the steady 
   src="images/TBImage1.png"
 %}
 
- A plot of dirt transformed into medical assistance for railway workers and medical treatment for mentally ill children. Beyond this however, the cultural perception and meaning of the space literally began to create a community around it; later supporting another mode of transportation when the freeway and streets were built around it marking its importance.The [Santa Fe Railway Hospital](http://www.bbc.com/travel/story/20130520-a-hospital-turned-hotel-in-new-mexico) as well as the Memorial Hospital served their purpose by redefining the space in which it occupied.
+Medical assistance was provided for railway workers and later medical treatment for mentally ill children. Beyond this however, the cultural perception and meaning of the space literally began to create a community around it; later supporting another mode of transportation when the freeway and streets were built around it marking its importance.The [Santa Fe Railway Hospital](http://www.bbc.com/travel/story/20130520-a-hospital-turned-hotel-in-new-mexico) as well as the Memorial Hospital served their purpose by redefining the space in which it occupied.
 
 
 
 
-## About the Architecture
+## Italianate Architecture
 
 {% include figure.html
   class="img-center"
@@ -71,7 +71,7 @@ The Parq Central Hotel is now a source of economic stability through the steady 
   
 The chosen [Italianate architecture style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/late-19th-century-revival.html)[^Italianate] was popular from 1890-1930 reminiscent of the Italian Renaissance; this style was considered elegant, up-scale, and primarily used for designing mansions or public buildings. Recently, renovations to refurbish Memorial Hospital into the Parq Central Hotel consisted of reconditioning and reinstalling the original windows, maintaining the original interior doors (hospital building), utilizing the original buildings, and the addition of exterior suites.
 
-## Around the Hotel
+## Around Parq Central Hotel
 
 {% include figure.html
   class="img-left"
@@ -82,7 +82,7 @@ The chosen [Italianate architecture style](http://www.phmc.state.pa.us/portal/co
   
 Parq Central hotel is conveniently located next to the freeway for fast travel, Highland's Park for a relaxing afternoon walk, and has many local businesses close by. [The Albuquerque Press Club](http://www.abqpressclub.com) is less than a five minute walk away where membership allows you to have ownership of the club, discounts on drinks, and use of the club for private or public social gatherings[^Alb-press-club].
 
-## What is Space?
+## Cultural Memory and Space
 
 {% include figure.html
   class="img-right"
