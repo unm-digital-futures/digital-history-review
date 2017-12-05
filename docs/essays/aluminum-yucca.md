@@ -73,18 +73,18 @@ Overtime the space around the Aluminum Yucca, has served to travelers going in a
 
 ### Conclusion
 
+In this project, the Yucca serves as a gateway between Albuquerque and the East Mountains along with the Estancia Valley.Made out of recycled fighter jet parts, and being lit up at night, it was the start of a project meant for a larger purpose. Unfortunately, its the only thing that remains from this project. Could it be because the funding falled through, or there was just no public interest in the project itself. Nobody will know. Where it stands now though it serves as a remind to Albuquerque's history with Sandia National Labs, Kirkland Air Force Base, and Route 66, with its retro style. Finally, the space where it shines the artwork does serves its purpose as a gateway between the city itself and the East Mountains.
+
 {% include aside.html
   class="pullquote"
   text="Yucca serves as a gateway between Albuquerque and the East Mountains along with the Estancia Valley."
   %}
 
-In this project, the Yucca serves as a gateway between Albuquerque and the East Mountains along with the Estancia Valley.Made out of recycled fighter jet parts, and being lit up at night, it was the start of a project meant for a larger purpose. Unfortunately, its the only thing that remains from this project. Could it be because the funding falled through, or there was just no public interest in the project itself. Nobody will know. Where it stands now though it serves as a remind to Albuquerque's history with Sandia National Labs, Kirkland Air Force Base, and Route 66, with its retro style. Finally, the space where it shines the artwork does serves its purpose as a gateway between the city itself and the East Mountains.
-
 
 ##### Footnotes
 
-[^note1]: Huether, Gordon. [About the Aluminum Yucca](https://www.gordonhuether.com/aluminum-yucca) _About the Project https://www.gordonhuether.com/aluminum-yucca, 2003 
-[^note2]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html) _Albuquerque Journal, May 19, 2013
-[^note3]: Huether, Gordon. [About the Aluminum Yucca](https://www.gordonhuether.com/aluminum-yucca) _About the Project https://www.gordonhuether.com/aluminum-yucca, 2003 
-[^note4]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html) _Albuquerque Journal, May 19, 2013
-[^note5]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html) _Albuquerque Journal, May 19, 2013
+[^note1]: Huether, Gordon. [About the Aluminum Yucca](https://www.gordonhuether.com/aluminum-yucca) _About the Project_ https://www.gordonhuether.com/aluminum-yucca, 2003 
+[^note2]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html) _Albuquerque Journal,_ May 19, 2013
+[^note3]: Huether, Gordon. [About the Aluminum Yucca](https://www.gordonhuether.com/aluminum-yucca) _About the Project_ https://www.gordonhuether.com/aluminum-yucca, 2003 
+[^note4]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html) _Albuquerque Journal,_ May 19, 2013
+[^note5]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html) _Albuquerque Journal,_ May 19, 2013
