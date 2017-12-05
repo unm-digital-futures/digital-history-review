@@ -14,7 +14,7 @@ text="The way how an Aluminum Yucca was formed."
   class="img-right"
   width="25%"
   caption="Located Right Near Carneul exit on I-40"
-  src="images/aluminumyucca.PNG"
+  src="images/aluminumyucca2.PNG"
 %}
 
 
@@ -36,7 +36,7 @@ Located on the east end entrance of Albuquerque, there is a tall Alumninum Yucca
 
 {% include figure.html
   class="img-left"
-  width="20%"
+  width="15%"
   caption="The Yucca at night"
   src="images/AYucca2.jpg"
 %}
@@ -53,12 +53,14 @@ According to an Mountain View Telegraph article written by Mike Bush, published 
 
 ### The History Behind The Yucca
 
-In April of 2003, the Aluminum Yucca was first set up, with the completion occuring in May of that same year. It was meant to be the first of many projects loacted at each of the entrances of Albuquerque. This was the first one that was created because it was possibly the cheapest to make at only $124,000. The price itself wasn't a burden to the Tax payers of Albuquerque however, as it was paid through a grant given by the U.S Department of Transportation. During this planning stage, according to the article in the Mountain View Telegraph, there were plans to creat a visitor center centered around the history of Route 66. To this day the Yucca is the only part of that project that still exsits. [^note4]
-
 {% include aside.html
   class="pullquote"
   text="This was the first one that was created because it was possibly the cheapest to make at only $124,000."
   %}
+
+In April of 2003, the Aluminum Yucca was first set up, with the completion occuring in May of that same year. It was meant to be the first of many projects loacted at each of the entrances of Albuquerque. This was the first one that was created because it was possibly the cheapest to make at only $124,000. The price itself wasn't a burden to the Tax payers of Albuquerque however, as it was paid through a grant given by the U.S Department of Transportation. During this planning stage, according to the article in the Mountain View Telegraph, there were plans to creat a visitor center centered around the history of Route 66. To this day the Yucca is the only part of that project that still exsits. [^note4]
+
+
 
 
 ### History of the Area
@@ -70,7 +72,6 @@ In April of 2003, the Aluminum Yucca was first set up, with the completion occur
 %}
 
 Overtime the space around the Aluminum Yucca, has served to travelers going in and out of Albuquerque's East side as a final or beginning into the culture of the city itself. It also shows an idea into what the history is behind the city is. This type of a history existing in a realm located in around the 1950's. It was during this time Albuquerque's ties to Kirkland and Sandia National Labs, were at the strong point. The sculpture itself is part of this feeling [^note5]  Currently, the Yucca is desgined to give off the feel of being in a desert. With the sun glistening down upon it, it gives off the idea of the type of city Albuquerque is. While at night the Yucca only glows green signalling a way home for the people who travle back to the East Mountains.
-
 
 
 ### Conclusion
@@ -87,8 +88,8 @@ In this project, the Yucca serves as a gateway between Albuquerque and the East 
 
 ##### Footnotes
 
-[^note1]: Huether, Gordon. [About the Aluminum Yucca](https://www.gordonhuether.com/aluminum-yucca) _About the Project_ https://www.gordonhuether.com/aluminum-yucca, 2003 
+[^note1]: Huether, Gordon. [About the Aluminum Yucca](https://www.gordonhuether.com/aluminum-yucca) _About the Project gordonhuether.com_ 2003 
 [^note2]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html) _Albuquerque Journal,_ May 19, 2013
-[^note3]: Huether, Gordon. [About the Aluminum Yucca](https://www.gordonhuether.com/aluminum-yucca) _About the Project_ https://www.gordonhuether.com/aluminum-yucca, 2003 
+[^note3]: Huether, Gordon. [About the Aluminum Yucca](https://www.gordonhuether.com/aluminum-yucca) _About the Project gordonhuether.com_, 2003 
 [^note4]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html) _Albuquerque Journal,_ May 19, 2013
 [^note5]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html) _Albuquerque Journal,_ May 19, 2013
