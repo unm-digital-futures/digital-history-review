@@ -146,7 +146,7 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
 
 {% include full-width.html
   class="pullquote"
-  text=" Artist Linda DaBeau states, 'Overall I show how much the Sisters of Charity contributed to the spirituality, love of Christ and the overall growth and nurturing of the people of Martineztown and the surrounding area' [^srcharitycinti]: _Sisters of Charity of Cincinnati_, 10-2012."
+  text=" Artist Linda DaBeau states, 'Overall I show how much the Sisters of Charity contributed to the spirituality, love of Christ and the overall growth and nurturing of the people of Martineztown and the surrounding area' [Sister of Charity of Cincinnati](http://www.srcharitycinti.org/news_events/dabeau.htm)"
 %} 
 The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. As you take a Walk around the base of the sculpture, the orgin of the Sister's story is illustrated through scences depicting the arrival of the Sisters and commencing with the establishment of the hospital. Along the surrounding walls are plaques that communicate words like Hope, Temperance, and Faith. HOwever, it is the last plaque that embodies the Sister's role within the community, "In Unity There is Strength." This message defines the motto of not only *Sisters of Charity* but the strength and unity they brought to the commumnity of Martineztown and Albuquerque.
 
