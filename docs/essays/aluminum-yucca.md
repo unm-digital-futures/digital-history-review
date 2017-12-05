@@ -10,13 +10,22 @@ image="images/AYucca4.jpg"
 text="The way how an Aluminum Yucca was formed."
 %} 
 
+{% include figure.html
+  class="img-center"
+  width="20%"
+  caption="The Yucca at night"
+  src="images/aluminumyucca.PNG"
+%}
+
+
+
+
+Did you ever noticed a giant shiny yucca on the side of Mountain. If you have its located at the entrace of Albuquerque's east side, just before the Caneul exit on I-40. To get up close to the Yucca, it will require parking your car on the side of the road and a hike. The project itself was meant to serve a greater purpose, but things fell through. As to why it fell through, well nobody is not sure. In the end people can admire it for what its made of, the idea, a get a feel of the history behind it.
+
 {% include aside.html
   class="pullquote"
   text="The Yucca itself is made out of recycled tanks from an F-16 fighter jet, and was made to look like a Datil Yucca."
   %}
-
-
-Did you ever noticed a giant shiny yucca on the side of Mountain. If you have its located at the entrace of Albuquerque's east side, just before the Caneul exit on I-40. To get up close to the Yucca, it will require parking your car on the side of the road and a hike. The project itself was meant to serve a greater purpose, but things fell through. As to why it fell through, well nobody is not sure. In the end people can admire it for what its made of, the idea, a get a feel of the history behind it.
 
 
 
