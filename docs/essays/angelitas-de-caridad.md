@@ -184,7 +184,7 @@ You should visit *Angelitas De Caridad* because Martineztown Park offers a histo
 
 [^publicartarchive]: [Public Art Archive](http://www.publicartarchive.org/work/angelitos-de-caridad)
 
-[^MartineztownHistory]: [History of Martineztown](http://chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf)
+[^MartineztownHistory]: [History of Martineztown](chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=file:///home/chronos/u-c90395d4493414debd433d73f117ff1a97b0ba0a/Downloads/SouthMartineztownSDP.pdf)
 
 [^HistoryofPNM]: [History of PNM Resources](http://www.pnmresources.com/about-us/history.aspx)
 
@@ -192,7 +192,7 @@ You should visit *Angelitas De Caridad* because Martineztown Park offers a histo
 
 [^tuberculosinnewmexico]: [Tuberculosis in New Mexico](http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.htm)
  
-[^TuberculosisinNewMexico]: [TB in New Mexico](https://www.bizjournals.com/albuquerque/print-edition/2012/02/03/disease-played-major-role-in.html)
+[^TuberculosisinNewMexico]: [Tuberculosis New Mexico](https://www.bizjournals.com/albuquerque/print-edition/2012/02/03/disease-played-major-role-in.html)
 
 [^Lungers and their legacy]: [Lungers and their legacy](http://newmexicohistory.org/people/lungers-and-their-legacy)
 
