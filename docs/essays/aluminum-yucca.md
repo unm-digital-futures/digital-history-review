@@ -10,15 +10,13 @@ image="images/AYucca4.jpg"
 text="The way how an Aluminum Yucca was formed."
 %} 
 
-### Introduction
-
 {% include aside.html
   class="pullquote"
   text="The Yucca itself is made out of recycled tanks from an F-16 fighter jet, and was made to look like a Datil Yucca."
   %}
 
 
-The Aluminum Yucca can be seen day or night as you are entering the East Side of Albuquerque. It can currently be seen on the side of a mountain just sitting there. To get up close to the Yucca, it will require parking your car on the side of the road and a hike. The project itself was meant to serve a greater purpose, but things fell through. As to why it fell through, well nobody is not sure. In the end people can admire it for what its made of, the idea, a get a feel of the history behind it.
+Did you ever noticed a giant shiny yucca on the side of Mountain. If you have its located at the entrace of Albuquerque's east side, just before the Caneul exit on I-40. To get up close to the Yucca, it will require parking your car on the side of the road and a hike. The project itself was meant to serve a greater purpose, but things fell through. As to why it fell through, well nobody is not sure. In the end people can admire it for what its made of, the idea, a get a feel of the history behind it.
 
 
 
@@ -76,9 +74,8 @@ In this project, the Yucca serves as a gateway between Albuquerque and the East 
 
 ##### Footnotes
 
-[^note1]: [Gordon Huether- Yucca Lighting](https://www.gordonhuether.com/aluminum-yucca)
-[^note2]: [ABQ Journal Aluminum Yucca- Mountain View Telegraph](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html)
-[^note3]: [Gordon Huether- Jet Parts](https://www.gordonhuether.com/aluminum-yucca)
-[^note4]: [ABQ Journal Aluminum Yucca- Project](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html)
-[^note5]: [ABQ Journal Aluminum Yucca- Project's Purpose](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html)
-
+[^note1]: Huether, Gordon. [About the Aluminum Yucca](https://www.gordonhuether.com/aluminum-yucca)
+[^note2]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html)
+[^note3]: Huether, Gordon. [About the Aluminum Yucca](https://www.gordonhuether.com/aluminum-yucca)
+[^note4]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html)
+[^note5]: Bush, Mike. [Aluminum Yucca greets I-40 Drivers](https://www.abqjournal.com/200826/aluminum-yucca-greets-i40-drivers.html)
