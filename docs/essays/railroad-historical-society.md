@@ -5,7 +5,12 @@
 title='2929locomotive.jpg'
 image='images/2929locomotive.jpg'
 text='restored 2929 locomotive.'%} 
-
+{% include figure.html
+  class="img-right"
+  width="45%"
+  caption="Map"
+  src="images/la_curandera_8.png.png"
+%}
 
 {figure.html
   class='img-center'
