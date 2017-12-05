@@ -90,7 +90,7 @@ However, as tension increased across the ocean the country would soon be pulled 
  {% include figure.html
   class="img-left"
   width="33%"
-  caption="Kirtland Airforce Base"
+  caption="[Kirtland Airforce Base](https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base)"
   src="images/dmartinez_kirtland.jpg"
 %}
  
