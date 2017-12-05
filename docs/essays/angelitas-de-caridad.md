@@ -11,6 +11,13 @@ text="'At Historic Martineztown Park'"
 %} 
 
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="1825 Edith Blvd NE, Albuquerque, NM 87102"
+  src="images/dmartinez_screenshot.png"
+%}
+
 
 Encompassed by the urban sprawl of the central business district, *Martineztown Park* is a hidden gem within one of Albuquerque's oldest neighborhoods. The park is situated at the crossroads of Edith Boulevard and Dr. Martin Luther King Jr. Ave on the east side of downtown. Surrounded by Spanish Adobe homes, the historic Longfellow Elementary School, and Lovelace Hosptial, it is easy to see how this park may be overlooked by Albuquerque natives let alone tourist. However, it is once you venture into the park you begin to discover the areas rich history. 
 
@@ -89,12 +96,11 @@ Under President Franklin D. Roosevelt's _New Deal_ subsistence programs were put
  
  ## Birth of the Atomic Age and Urbanization 
  
- New Mexico played a significant role in World War II in providing secure and remote locations for the creation and detonation of the *Manhattan Project*. Success in winning the war, development of Sandia Laboratories, and new government subsidies propelled not just an influx but a wave of migration. Infastructure rapdily expanded Albuquerque's territory and Martineztown recieived a new neighbor in the form of the I25 interstate highway. Albuquerque had become truly urbanzied. 
+New Mexico played a significant role in World War II in providing secure and remote locations for the creation and detonation of the *Manhattan Project*. Success in winning the war, development of Sandia Laboratories, and new government subsidies propelled not just an influx but a wave of migration. Infastructure rapdily expanded Albuquerque's territory and Martineztown recieived a new neighbor in the form of the I25 interstate highway. Albuquerque had become truly urbanzied. 
  
  {% include full-width.html
   class="pullquote"
-  text="'New houses go up in batches of 50 to 300 at a time and transform barren mesas before you get back from lunch'[AlbuquerqueHistoricSociety](http://www.albuqhistsoc.org/SecondSite/pkfiles/pk213neighborhoods.htm)"
-%}
+  text="'New houses go up in batches of 50 to 300 at a time and transform barren mesas before you get back from lunch'[AlbuquerqueHistoricSociety](http://www.albuqhistsoc.org/SecondSite/pkfiles/pk213neighborhoods.htm)"%}
 However, Martineztown's centralized location made it a center for cultural and economic marginalization. Gentrification and outrage over urban development rocked Martineztown. Using the solgan "Martineztown Not for Sale!" the community unified against the Urban Renewal Condemnation and was able kept Martineztown a neighborhood community.[Waymarking](http://www.waymarking.com/waymarks/WMTKE1_Martineztown_Albuquerque_NM) In 1968 *Martineztown Park* was established as a way to revitalize the neighborhood. Thus, through artworks like *Angelitas de Caridad* Martineztown has been able to communicate the growth and development of the community overtime. 
 
 
