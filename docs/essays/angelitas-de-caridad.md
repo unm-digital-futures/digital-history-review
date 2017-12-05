@@ -13,9 +13,9 @@ text="'At Historic Martineztown Park'"
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="37%"
   caption="1825 Edith Blvd NE, Albuquerque, NM 87102"
-  src="images/dmartinez_screenshot.png"
+  src="images/dmartinez_screenshot.jpg"
 %}
 
 
@@ -84,7 +84,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
   text=" 'American factories and plants had fallen, thousands of banks, with no money to lend and no cash on hand, closed their doors.' 
 [New Mexico during the Great Depression](https://themountainvoice.com/2017/07/29/new-mexico-during-the-great-depression/)" %}
 Under President Franklin D. Roosevelt's _New Deal_ subsistence programs were put into effect to try and boost the American economy. Programs like *Public Works of Art Project* attracted artists from all over the country putting Santa Fe and Taos on the map. New Mexico was now being promoted as a premier artistic destinations with Albuquerque as the stopover point.
-[^NewMexicoGreatDepression] However, as tension increased across the ocean the country would soon be pulled into a new World War. 
+However, as tension increased across the ocean the country would soon be pulled into a new World War. 
  
  
  {% include figure.html
