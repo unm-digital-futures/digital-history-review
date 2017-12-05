@@ -21,6 +21,11 @@ text="Would You Live in a High School?"
 
 School buildings may not seem like the biggest historical landmark in a city; however, they have probably seen the most life and changes through the years. When Albuquerque was established, school was not the most important thing on the agenda. Though when the city began to grow larger and larger and more saloons established themselves on the street that would eventually be called Central, Albuquerque High was created.
 
+
+
+
+
+
 ## Dates For Old Albuquerque High
 
 {% include aside.html
@@ -30,11 +35,11 @@ School buildings may not seem like the biggest historical landmark in a city; ho
 
 The first building Albuquerque High occupied was not the same as what we today know as Old Albuquerque High. In fact, it was not the second, nor the third building. As the city grew and changed, the high school was constantly being moved from one building to another. Eventually, around the sixth move, the city decided that a permanent building should be built for their 12,000 residents, and in 1914 the 7th location opened its doors. [^batman] Critiques of the project thought that the first building built, which would come to be called "Old Main," was too big and would never be able to reach its capacity of 500 students. The city grew so much that just 13 years later, a second building was built and by 1940, there were five total. Albuquerque high remained the only high school until 1949.[^batman]
 
-The area around the school was also in constant flux. One of the buildings, the Gymnasium, sat right next to an arroyo, which became a place for many social events. For example, the Albuquerque High school website mentions that:
+The area around the school was also in constant flux. One of the buildings, the Gymnasium, sat right next to an arroyo, which became a place for many social events. For example, the [Albuquerque High school website](https://ahs-aps-nm.schoolloop.com/history) mentions that:
 
 {% include full-width.html
   class="pullquote"
-  text=" The arroyo which ran along the north side was quite deep and it often was the ground used for settling disputes. In 1915, it was the meeting place of two rival gangs, the Capulets and the Montagues; and in 1917 the rival gangs who used the area were the Hatfields and the McCoys.[^batman]"
+  text=" The arroyo which ran along the north side was quite deep and it often was the ground used for settling disputes. In 1915, it was the meeting place of two rival gangs, the Capulets and the Montagues; and in 1917 the rival gangs who used the area were the Hatfields and the McCoys."
 %}
 
 The other buildings included the Manual Arts Building which was built in 1927, the Classroom Administration Building built in 1937, and the Library Building, the final structure, in 1940.[^catwoman]
