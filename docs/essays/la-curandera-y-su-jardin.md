@@ -3,7 +3,16 @@ Title: La Curandera y su Jardin
 Author: Will Moreno
 CSS: curandera.css
 ---
-
+{% include jumbotron.html
+title='women_who_heal'
+image='images/la_curandera_9.jpg'
+text='A look at New Mexico Herb History'%} 
+{% include figure.html
+  class="img-right"
+  width="45%"
+  caption="Curanderas"
+  src="images/la_curandera_9.png"
+%}
 {% include figure.html
   class="img-right"
   width="45%"
@@ -11,16 +20,7 @@ CSS: curandera.css
   src="images/la_curandera_8.png.png"
 %}
 
-{% include jumbotron.html
-title='women_who_heal'
-image='images/la_curandera_9.jpg'
-text='la_curandera_9.png'%} 
-{% include figure.html
-  class="img-right"
-  width="45%"
-  caption="Curanderas"
-  src="images/la_curandera_9.png"
-%}
+
 
 
 
