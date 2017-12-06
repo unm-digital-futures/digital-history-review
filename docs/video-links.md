@@ -33,3 +33,5 @@ Black Past: [site](http://www.blackpast.org) | [video review]( https://www.youtu
 AfricaMap: [site](http://worldmap.harvard.edu/africamap/) | [video review](https://youtu.be/0o8wFFHlHBc)
 
 Hidden Florence: [site](https://hiddenflorence.org/) | [video review](https://youtu.be/765LFIXUGiw)
+
+US News Map: [site](http://usnewsmap.com/) | [video review](https://www.youtube.com/watch?v=IG4Ld0xleBU)
