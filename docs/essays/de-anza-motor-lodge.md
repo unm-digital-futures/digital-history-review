@@ -69,5 +69,5 @@ The public has to trust that the value of the mural out-weighs any other benefit
   src="images/TheDeAnzaNow.jpg"%}
 #### Footnotes
 [^source]: [National Park Services] (https://npgallery.nps.gov/NRHP/AssetDetail?assetID=1652f5f1-4ba9-4355-9a4b-4cecf5f17aa4) National Register of Historic Places Digital Assets, April 30, 2004
-[^source2]: [New Mexico National Park Service U.S. Department of the Interior]"De Anza Motor Lodge Albuquerque",(https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html)[n.d]
-[^source3]: [Albuquerque Rapid Transit] "The City of Albuquerque and ABQ Ride",(http://www.brtabq.com/AboutART)[n.d.] 
+[^source2]: [New Mexico National Park Service U.S. Department of the Interior](https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html) "De Anza Motor Lodge Albuquerque",[n.d]
+[^source3]: [Albuquerque Rapid Transit] (http://www.brtabq.com/AboutART) "The City of Albuquerque and ABQ Ride",[n.d.] 
