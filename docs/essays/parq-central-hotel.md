@@ -102,7 +102,7 @@ The Santa Fe Railway Hospital as well as the Memorial Hospital's original purpos
 
 {% include figure.html
   class="img-center"
-  width="40%"
+  width="30%"
   caption="Rennovation to the Parq Central Hotel."
   src="images/TBImage7.png"
 %}
