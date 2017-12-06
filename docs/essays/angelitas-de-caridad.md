@@ -7,9 +7,9 @@ css: angelitasdecaridad.css
 {% include jumbotron.html
 title="Angelitas De Caridad"
 image="images/dmartinez_1880.jpg"
-text="'At Historic Martineztown Park'"
+text="At Historic Martineztown Park"
 %} 
-
+Desiree' Martinez
 
 {% include figure.html
   class="img-right"
@@ -28,6 +28,8 @@ Encompassed by the urban sprawl of the central business district, *Martineztown 
   caption="Martineztown Park Trail at Dr. Martin Luther King Jr. Ave"
   src="images/dmartinez_trail.jpg"
 %}
+
+## Follow the Martineztown Park Trail
 
 Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you are transported back to the city's orgin through a series of displays that chronicle Native orgin, Spanish conquest, and community intergration. Plaques of Native trees, plants, and animals are distributed every few feet trying to giving a sense of what the landscape would've looked like prior to European contact. And once you reach the center of the park, laughter from the Longfellow Elementary School and noise from the busy streets can be heard. However, continue east into the park and you will experience quite and tranquility.  
 
@@ -56,7 +58,7 @@ In the late 19th century, New Mexico's growth was spurred by ranching, mining an
   src="images/dmartinez_Base_image.jpg"
 %}
 
-## History of Martineztown
+## Martineztown and the Boom
 
 Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used by prominent families for pastured lands and as a rest stop for travelers. In 1850 Don Miguel Martin built a permanent settlement along the *Acequia Madre de Los Barelas* and Martineztown was established.[^MartineztownHistory]  Slowly new businesses began to emerge connecting the old town with the new.
 
@@ -110,7 +112,7 @@ However, Martineztown's centralized location made it a center for cultural and e
   src="images/dmartinez_protest.jpg"
 %}
 
-## Tuberculosis, _The Sisters of Charity of Cincinnati_, and Albuquerque
+## _The Sisters of Charity_, Angeles of Martineztown
 
 
 {% include figure.html
@@ -149,7 +151,7 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
   text=" Artist Linda DaBeau states, 'Overall I show how much the Sisters of Charity contributed to the spirituality, love of Christ and the overall growth and nurturing of the people of Martineztown and the surrounding area' 
  [Sister of Charity of Cincinnati](http://www.srcharitycinti.org/news_events/dabeau.htm)"
 %} 
-The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. As you take a Walk around the base of the sculpture, the orgin of the Sister's story is illustrated through scences depicting the arrival of the Sisters and commencing with the establishment of the hospital. Along the surrounding walls are plaques that communicate words like Hope, Temperance, and Faith. HOwever, it is the last plaque that embodies the Sister's role within the community, "In Unity There is Strength." This message defines the motto of not only *Sisters of Charity* but the strength and unity they brought to the commumnity of Martineztown and Albuquerque.
+The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. As you take a Walk around the base of the sculpture, the origin of the Sister's story is illustrated through scences depicting the arrival of the Sisters and commencing with the establishment of the hospital. Along the surrounding walls are plaques that communicate words like Hope, Temperance, and Faith. HOwever, it is the last plaque that embodies the Sister's role within the community, "In Unity There is Strength." This message defines the motto of not only *Sisters of Charity* but the strength and unity they brought to the commumnity of Martineztown and Albuquerque.
 
 
 
