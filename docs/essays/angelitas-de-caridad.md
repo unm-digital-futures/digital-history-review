@@ -29,7 +29,7 @@ Encompassed by the urban sprawl of the central business district, *Martineztown 
   src="images/dmartinez_trail.jpg"
 %}
 
-## Follow the Martineztown Park Trail
+## Follow the Trail
 
 Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you are transported back to the city's orgin through a series of displays that chronicle Native orgin, Spanish conquest, and community intergration. Plaques of Native trees, plants, and animals are distributed every few feet trying to giving a sense of what the landscape would've looked like prior to European contact. And once you reach the center of the park, laughter from the Longfellow Elementary School and noise from the busy streets can be heard. However, continue east into the park and you will experience quite and tranquility.  
 
