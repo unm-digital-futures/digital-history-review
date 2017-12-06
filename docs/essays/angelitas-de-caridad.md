@@ -47,8 +47,8 @@ Neslted peacefully in the corner of the park at the bottom of the hill with Love
 
 {% include full-width.html
   class="pullquote"
-  text=" '
-In the late 19th century, New Mexico's growth was spurred by ranching, mining and the railroads. But in the years prior to and after statehood, the state's economy was driven by one thing: disease, tuberculosis in particular'"
+  text=" 
+In the late 19th century, New Mexico's growth was spurred by ranching, mining and the railroads. But in the years prior to and after statehood, the state's economy was driven by one thing: disease, tuberculosis in particular"
 %}[^bizjournal]: _New Mexico Centennial_, 02-02-12,.
 
 
@@ -65,7 +65,7 @@ Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used
 
 {% include aside.html
   class="pullquote"
-  text=" 'As patients arrived and lived in rooming houses, tent cities, sanatoriums, and on the streets, hoping the mountain air would cure them, locals became infected.' [Lungers and their legacy](http://newmexicohistory.org/people/lungers-and-their-legacy)" %}
+  text=" As patients arrived and lived in rooming houses, tent cities, sanatoriums, and on the streets, hoping the mountain air would cure them, locals became infected [Lungers and their legacy](http://newmexicohistory.org/people/lungers-and-their-legacy)" %}
 
 
 In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown.[^MartineztownHistory] As the railroads urbanized cities across the country, New Mexico's climate offered something different, aid for Tuberculosis victims. The dry air and high elevations made Albuquerque the ideal place to live and establish hopsitals. Tuberculosis as the catalyst and the railroad as the facilitator, Martineztown became a new hub for Albuquerque society. Businesses would eventually enclose Martineztown to its current position, thus creating an timecaplse within the booming cityscape.  
@@ -84,7 +84,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
  
 {% include aside.html
   class="pullquote"
-  text=" 'American factories and plants had fallen, thousands of banks, with no money to lend and no cash on hand, closed their doors.' 
+  text=" American factories and plants had fallen, thousands of banks, with no money to lend and no cash on hand, closed their doors 
 [New Mexico during the Great Depression](https://themountainvoice.com/2017/07/29/new-mexico-during-the-great-depression/)" %}
 Under President Franklin D. Roosevelt's _New Deal_ subsistence programs were put into effect to try and boost the American economy. Programs like *Public Works of Art Project* attracted artists from all over the country putting Santa Fe and Taos on the map. New Mexico was now being promoted as a premier artistic destinations with Albuquerque as the stopover point.
 However, as tension increased across the ocean the country would soon be pulled into a new World War. 
@@ -103,7 +103,7 @@ New Mexico played a significant role in World War II in providing secure and rem
  
  {% include aside.html
   class="pullquote"
-  text="'New houses go up in batches of 50 to 300 at a time and transform barren mesas before you get back from lunch' [AlbuquerqueHistoricSociety](http://www.albuqhistsoc.org/SecondSite/pkfiles/pk213neighborhoods.htm)"%}
+  text="New houses go up in batches of 50 to 300 at a time and transform barren mesas before you get back from lunch [AlbuquerqueHistoricSociety](http://www.albuqhistsoc.org/SecondSite/pkfiles/pk213neighborhoods.htm)"%}
 However, Martineztown's centralized location made it a center for cultural and economic marginalization. Gentrification and outrage over urban development rocked Martineztown. Using the solgan "Martineztown Not for Sale!" the community unified against the Urban Renewal Condemnation and was able kept Martineztown a neighborhood community.[Waymarking](http://www.waymarking.com/waymarks/WMTKE1_Martineztown_Albuquerque_NM) In 1968 *Martineztown Park* was established as a way to revitalize the neighborhood. Thus, through artworks like *Angelitas de Caridad* Martineztown has been able to communicate the growth and development of the community overtime. 
 
  {% include figure.html
@@ -158,7 +158,7 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 
 {% include aside.html
   class="pullquote"
-  text=" 'The legacy of the Sisters of Charity of Cincinnati exemplifies the pioneering spirit, to achieve long-lasting results by focusing on the health needs of the most vulnerable of our citizens' [St. Joseph's Hospital History](http://www.stjosephnm.org/History.aspx)"
+  text=" The legacy of the Sisters of Charity of Cincinnati exemplifies the pioneering spirit, to achieve long-lasting results by focusing on the health needs of the most vulnerable of our citizens [St. Joseph's Hospital History](http://www.stjosephnm.org/History.aspx)"
 %} 
 
 
