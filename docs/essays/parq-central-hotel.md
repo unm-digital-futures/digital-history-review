@@ -103,7 +103,7 @@ The Santa Fe Railway Hospital as well as the Memorial Hospital's original purpos
 {% include figure.html
   class="img-center"
   width="30%"
-  caption="Rennovation to the Parq Central Hotel."
+  caption="Apothecary Lounge view of downtown Albuquerque."
   src="images/TBImage7.png"
 %}
 
