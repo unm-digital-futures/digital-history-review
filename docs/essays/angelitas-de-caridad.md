@@ -77,7 +77,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
   src="images/dmartinez_gas.jpg"
 %}
 
-Gaining statehood in 1912, New Mexico experienced an economic surgance as electricity was sweeping the nation. Companies like the [Albuquerque Gas & Electric Company](http://www.pnmresources.com/about-us/history.aspx) partnered with lumber companies like the *Sawmill Power Plant*, which provided the city with continuous electricity.[^HistoryofPNM] Lured by cheap prices and work, families descended upon Martineztown turning the prime farm land into a new urban center. However, posperity would not be felt for long as the Stock Market Crash of 1929 and the Dust Bowl of the 1930's put New Mexico in econimic ruin.[^25 Rare Photos Taken In New Mexico During The Great Depression]
+Gaining statehood in 1912, New Mexico experienced an economic surgance as electricity was sweeping the nation. Companies like the [Albuquerque Gas & Electric Company](http://www.pnmresources.com/about-us/history.aspx) partnered with lumber companies like the *Sawmill Power Plant*, which provided the city with continuous electricity.[^HistoryofPNM] Lured by cheap prices and work, families descended upon Martineztown turning the prime farm land into a new urban center. However, posperity would not be felt for long as the Stock Market Crash of 1929 and the Dust Bowl of the 1930's put New Mexico in econimic ruin.[^25RarePhotosTakenInNewMexicoDuringTheGreatDepression]
  
 {% include aside.html
   class="pullquote"
@@ -118,7 +118,7 @@ However, Martineztown's centralized location made it a center for cultural and e
   src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
 %}
 
-[The Sisters of Charity](http://www.srcharitycinti.org/) were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing St. Josephs Sanitarium, present day [Albuquerque Regional Medical Center]9www.lovelace.com/), school and orphanages. [^Hospitals Have Deep Roots in Albuquerque] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
+[The Sisters of Charity](http://www.srcharitycinti.org/) were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing St. Josephs Sanitarium, present day [Albuquerque Regional Medical Center]9www.lovelace.com/), school and orphanages. [^HospitalsHaveDeepRootsinAlbuquerque] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
 
 {% include figure.html
   class="img-right"
@@ -162,9 +162,9 @@ South Martineztown Sector Development Plan.[^MartineztownHistory] (https://www.c
 
 PNM Resource. [^HistoryofPNM](http://www.pnmresources.com/about-us/history.aspx). 2017. 
 
-White, Julie. [^25 Rare Photos Taken In New Mexico During The Great Depression](http://www.onlyinyourstate.com/new-mexico/photos-great-depression-nm/). November 14, 2016.
+White, Julie. [^25RarePhotosTakenInNewMexicoDuringTheGreatDepression](http://www.onlyinyourstate.com/new-mexico/photos-great-depression-nm/). November 14, 2016.
 
-Mayfield, Dan. [^Hospitals Have Deep Roots in Albuquerque](https://www.abqjournal.com/news/metro/390889metro09-17-05.htm). September 17, 2015.
+Mayfield, Dan. [^HospitalsHaveDeepRootsinAlbuquerque](https://www.abqjournal.com/news/metro/390889metro09-17-05.htm). September 17, 2015.
 
 Sisters of Charity of Cincinnati. [^srcharitycinti]((http://www.srcharitycinti.org/news_events/dabeau.htm). 2012. 
 
