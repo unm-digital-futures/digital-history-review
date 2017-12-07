@@ -82,7 +82,7 @@ Gaining statehood in 1912, New Mexico experienced an economic surgance as electr
 Under President Franklin D. Roosevelt's _New Deal_ subsistence programs were put into effect to try and boost the American economy. Programs like *Public Works of Art Project* attracted artists from all over the country putting Santa Fe and Taos on the map. New Mexico was now being promoted as a premier artistic destinations with Albuquerque as the stopover point.
 However, as tension increased across the ocean the country would soon be pulled into a new World War. 
  
- ## Birth of the Atomic Age and Urbanization 
+## Birth of the Atomic Age and Urbanization 
  {% include figure.html
   class="img-left"
   width="33%"
@@ -106,21 +106,20 @@ However, Martineztown's centralized location made it a center for cultural and e
 
 ## _The Sisters of Charity_, Angeles of Martineztown
 {% include figure.html
-  class="img-right"
-  width="35%"
-  caption="[Sister of Charity of Cincinnati](http://http://www.srcharitycinti.org/news_events/dabeau.htm)"
-  src="images/dmartinez_sisters.jpg"
-%}
-
-The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing St. Josephs Sanitarium, present day Albuquerque Regional Medical Center, school and orphanages. [^HospitalHistory] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
-
-{% include figure.html
   class="img-left"
   width="20%"
   caption="Angelitas De Caridad"
   src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
 %}
 
+The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing St. Josephs Sanitarium, present day Albuquerque Regional Medical Center, school and orphanages. [^HospitalHistory] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
+
+{% include figure.html
+  class="img-right"
+  width="35%"
+  caption="[Sister of Charity of Cincinnati](http://http://www.srcharitycinti.org/news_events/dabeau.htm)"
+  src="images/dmartinez_sisters.jpg"
+%}
 
 The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters.[^srcharitycinti] Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
 
