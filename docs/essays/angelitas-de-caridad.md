@@ -157,7 +157,8 @@ You should visit *Angelitas De Caridad* because Martineztown Park offers a histo
 
 
 ### Footnotes
-South Martineztown Sector Development Plan. [^MartineztownHistory] (https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf). October 16, 1995.
+
+South Martineztown Sector Development Plan.[^MartineztownHistory] (https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf). October 16, 1995.
 
 PNM Resource. [^HistoryofPNM](http://www.pnmresources.com/about-us/history.aspx). 2017. 
 
