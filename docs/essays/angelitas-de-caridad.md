@@ -36,7 +36,7 @@ Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you
 
 {% include figure.html
   class="img-right"
-  width="30%"
+  width="33%"
   caption="Hidden among the trees, Angelitas De Caridad Sculpture at Martineztown Park"
   src="images/dmartinez_hiddenview.jpg"
 %}
