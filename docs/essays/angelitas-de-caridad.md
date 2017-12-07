@@ -120,6 +120,11 @@ However, Martineztown's centralized location made it a center for cultural and e
 
 [The Sisters of Charity](http://www.srcharitycinti.org/) were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing St. Josephs Sanitarium, present day [Albuquerque Regional Medical Center](www.lovelace.com/), school and orphanages. [^HospitalsHaveDeepRootsinAlbuquerque] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
 
+{% include aside.html
+  class="pullquote"
+  text=" The legacy of the Sisters of Charity of Cincinnati exemplifies the pioneering spirit, to achieve long-lasting results by focusing on the health needs of the [most vulnerable of our citizens](http://www.stjosephnm.org/History.aspx)"
+%} 
+
 The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters.[^srcharitycinti] Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
 
 ## What about*"Angelitas De Caridad"* Sculpture
@@ -138,10 +143,6 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
   text="As you take a Walk around the base of the sculpture, the origin of the Sister's story is illustrated through scences depicting the arrival of the Sisters to *Martineztown* and commencing with the establishment of Lovelace hospital"
 %} 
 The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. Along the surrounding walls are plaques that communicate words like Hope, Temperance, and Faith. However, it is the last plaque that embodies the Sister's role within the community, "In Unity There is Strength." This message defines the motto of not only the *Sisters of Charity* but signifies the strength and unity they brought to the commumnity of Martineztown which continues to thrive. 
-{% include aside.html
-  class="pullquote"
-  text=" The legacy of the Sisters of Charity of Cincinnati exemplifies the pioneering spirit, to achieve long-lasting results by focusing on the health needs of the [most vulnerable of our citizens](http://www.stjosephnm.org/History.aspx)"
-%} 
 
 
 ## Why you should visit *Angelitas De Caridad* 
