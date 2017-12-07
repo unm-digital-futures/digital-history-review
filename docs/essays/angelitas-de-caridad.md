@@ -181,7 +181,7 @@ White, Julie. [25 Rare Photos Taken In New Mexico During The Great Depression](h
 
 Mayfield, Dan. [Hospitals Have Deep Roots in Albuquerque](https://www.abqjournal.com/news/metro/390889metro09-17-05.htm). September 17, 2015.
 
-Sisters of Charity of Cincinnati. [srcharitycinti](http://www.srcharitycinti.org/news_events/dabeau.htm). 2012. 
+[^srcharitycinti] Sisters of Charity of Cincinnati. [srcharitycinti](http://www.srcharitycinti.org/news_events/dabeau.htm). 2012. 
 
 Public Art Archive. [Public Art Archive](http://www.publicartarchive.org/work/angelitos-de-caridad). 2010.
 
