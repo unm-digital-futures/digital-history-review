@@ -25,7 +25,7 @@ Encompassed by the urban sprawl of the central business district, [*Martineztown
 ## Follow the Trail
 {% include figure.html
   class="img-left"
-  width="40%"
+  width="33%"
   caption="Martineztown Park Trail at Dr. Martin Luther King Jr. Ave"
   src="images/dmartinez_trail.jpg"
 %}
@@ -35,7 +35,7 @@ Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you
 ## A Hidden Gem within the Sprawl
 {% include figure.html
   class="img-right"
-  width="40%"
+  width="33%"
   caption="Hidden among the trees, Angelitas De Caridad Sculpture at Martineztown Park"
   src="images/dmartinez_hiddenview.jpg"
 %}
@@ -111,7 +111,7 @@ However, Martineztown's centralized location made it a center for cultural and e
 
 {% include figure.html
   class="img-left"
-  width="20%"
+  width="33%"
   caption="Angelitas De Caridad"
   src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
 %}
@@ -120,7 +120,7 @@ However, Martineztown's centralized location made it a center for cultural and e
 
 {% include figure.html
   class="img-right"
-  width="35%"
+  width="33%"
   caption="[Sister of Charity of Cincinnati](http://http://www.srcharitycinti.org/news_events/dabeau.htm)"
   src="images/dmartinez_sisters.jpg"
 %}
