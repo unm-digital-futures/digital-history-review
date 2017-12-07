@@ -157,6 +157,10 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 
 You should visit *Angelitas De Caridad* because Martineztown Park offers a historic yet neightborhood feel amongst the chaos of the city. Though the sculpture itself is hidden near the eastern corner of the park, the walk down the trail is worth the stroll. Every step offers a historical and artistic illustration through sculptures, plaques, and murals which radiate New Mexican heritage. 
 
+{% include aside.html
+  class="pullquote"
+  text="the past seamlessly weaves through the fabric of present-day Albuquerque, making it a truly culturally rich [American destination](the past seamlessly weaves through the fabric of present-day Albuquerque, making it a truly culturally rich American destination)" %}
+
 Once you get to the *Angelitas De Caridad* sculpture, you will not be disappointed. Surrounded by benches, trees, and flowers the space enclosing the sculpture feels serene though it is in the heart of the city. With Lovelace and St. Joseph Hospitals as the backdrops, you feel the impact of the Sister's work and witness through *Angelitas De Caridad* the importance it had on the community. 
 
 
