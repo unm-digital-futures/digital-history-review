@@ -126,7 +126,7 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
 
 {% include figure.html
   class="img-left"
-  width="20%"
+  width="25%"
   caption="LInda DaBeau"
   src="images/dmartinez_linda_image10.jpg"
 %}
