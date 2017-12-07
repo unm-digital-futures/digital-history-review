@@ -139,7 +139,7 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
 
 Commissioned by the South Martineztown community and created by Albuquerque artist [Linda DaBeau](lindadabeau.com/), the sculpture is a limestone winged angel standing at 25 feet tall and 16 feet wide with a bronze wrap around fountain base feature. The base depicts 42 figures and 22 buildings as a narrative to the Sisters story.[^publicartarchive] Though it is situated in Martineztown Park and below the hill of Lovelace, the site itself is nestled away along the curving road of High St. enclosed by trees and flowers making it an almost hidden location within the park itself. Adobe homes beautifully line the north and west blocks maintaining its historic charm.   
 
-{% include full-width.html
+{% include aside.html
   class="pullquote"
   text="As you take a Walk around the base of the sculpture, the origin of the Sister's story is illustrated through scences depicting the arrival of the Sisters to *Martineztown* and commencing with the establishment of Lovelace hospital"
 %} 
@@ -156,10 +156,9 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 %}
 
 You should visit *Angelitas De Caridad* because Martineztown Park offers a historic yet neightborhood feel amongst the chaos of the city. Though the sculpture itself is hidden near the eastern corner of the park, the walk down the trail is worth the stroll. Every step offers a historical and artistic illustration through sculptures, plaques, and murals which radiate New Mexican heritage. 
-
-{% include aside.html
+{% include full-width.html
   class="pullquote"
-  text="the past seamlessly weaves through the fabric of present-day Albuquerque, making it a truly culturally rich [American destination](the past seamlessly weaves through the fabric of present-day Albuquerque, making it a truly culturally rich American destination)" %}
+text="the past seamlessly weaves through the fabric of present-day Albuquerque, making it a truly culturally rich [American destination](the past seamlessly weaves through the fabric of present-day Albuquerque, making it a truly culturally rich American destination)" %}
 
 Once you get to the *Angelitas De Caridad* sculpture, you will not be disappointed. Surrounded by benches, trees, and flowers the space enclosing the sculpture feels serene though it is in the heart of the city. With Lovelace and St. Joseph Hospitals as the backdrops, you feel the impact of the Sister's work and witness through *Angelitas De Caridad* the importance it had on the community. 
 
