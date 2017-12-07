@@ -41,7 +41,7 @@ When this series of train was operational, the 2926 and its stable mates regular
 
 ## What was around the outlying areas while this train was centralized?
 Just unexplored land, most of the freeways that we use today to get from state to state were not built yet and routes that the airlines travel were only going to major cities, so the only way to visit some cities, were by train. Some of the cities even built hospitals and apartment buildings by the railroad for passers-by. Some cities were just being built-up, just for the existence of the Atchison-Topeka railroad.
-## What is the future of the 2926?
+## What is the past of the 2926?
 {% include figure.html
 class='img-left'
 width='25%'
