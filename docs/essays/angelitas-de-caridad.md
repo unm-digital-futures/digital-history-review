@@ -13,7 +13,7 @@ Desiree' Martinez
 
 {% include figure.html
   class="img-right"
-  width="37%"
+  width="40%"
   caption="1825 Edith Blvd NE, Albuquerque, NM 87102"
   src="images/dmartinez_screenshot.jpg"
 %}
