@@ -20,7 +20,7 @@ To start, whoa! Never have I stood in front of a locomotive that immense, ever! 
 
 {% include figure.html
  class='img-center'
-  width='100%'
+  width='75%'
   caption='new brake system for future travel'
   src='images/2926-brake-system.jpg'%}
 ## Where is the train now?
