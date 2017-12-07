@@ -137,7 +137,7 @@ Commissioned by the South Martineztown community and created by Albuquerque arti
   class="pullquote"
   text="As you take a Walk around the base of the sculpture, the origin of the Sister's story is illustrated through scences depicting the arrival of the Sisters to *Martineztown* and commencing with the establishment of Lovelace hospital"
 %} 
-The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. Along the surrounding walls are plaques that communicate words like Hope, Temperance, and Faith. However, it is the last plaque that embodies the Sister's role within the community, "In Unity There is Strength." This message defines the motto of not only *Sisters of Charity* but the strength and unity they brought to the commumnity of Martineztown and Albuquerque.
+The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. Along the surrounding walls are plaques that communicate words like Hope, Temperance, and Faith. However, it is the last plaque that embodies the Sister's role within the community, "In Unity There is Strength." This message defines the motto of not only the *Sisters of Charity* but signifies the strength and unity they brought to the commumnity of Martineztown which continues to thrive. 
 {% include aside.html
   class="pullquote"
   text=" The legacy of the Sisters of Charity of Cincinnati exemplifies the pioneering spirit, to achieve long-lasting results by focusing on the health needs of the [most vulnerable of our citizens](http://www.stjosephnm.org/History.aspx)"
