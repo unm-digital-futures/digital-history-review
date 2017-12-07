@@ -109,7 +109,7 @@ However, Martineztown's centralized location made it a center for cultural and e
   src="images/dmartinez_protest.jpg"
 %}
 
-## _The Sisters of Charity_ the angeles of Martineztown
+## _The Sisters of Charity_ angeles of Martineztown
 
 {% include figure.html
   class="img-left"
@@ -125,7 +125,7 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
 ## What about*"Angelitas De Caridad"* Sculpture
 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="25%"
   caption="LInda DaBeau"
   src="images/dmartinez_linda_image10.jpg"
