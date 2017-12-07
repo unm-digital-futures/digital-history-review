@@ -112,7 +112,7 @@ However, Martineztown's centralized location made it a center for cultural and e
 ## _The Sisters of Charity_ the angeles of Martineztown
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="33%"
   caption="[Sister of Charity of Cincinnati](http://http://www.srcharitycinti.org/news_events/dabeau.htm)"
   src="images/dmartinez_sisters.jpg"
