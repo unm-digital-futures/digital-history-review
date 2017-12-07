@@ -185,3 +185,5 @@ You should visit *Angelitas De Caridad* because Martineztown Park offers a histo
 
 
 ### Footnotes
+South Martineztown Sector Development Plan.[^MartineztownHistory] (https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf). October 16, 1995.
+
