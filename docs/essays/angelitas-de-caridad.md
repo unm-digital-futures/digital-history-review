@@ -158,7 +158,7 @@ You should visit *Angelitas De Caridad* because Martineztown Park offers a histo
 
 ### Footnotes
 
-South Martineztown Sector Development Plan.[^MartineztownHistory] (https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf). October 16, 1995.
+South Martineztown Sector Development Plan.[^MartineztownHistory](https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf). October 16, 1995.
 
 PNM Resource. [^HistoryofPNM](http://www.pnmresources.com/about-us/history.aspx). 2017. 
 
@@ -166,9 +166,9 @@ White, Julie. [^25RarePhotosTakenInNewMexicoDuringTheGreatDepression](http://www
 
 Mayfield, Dan. [^HospitalsHaveDeepRootsinAlbuquerque](https://www.abqjournal.com/news/metro/390889metro09-17-05.htm). September 17, 2015.
 
-Sisters of Charity of Cincinnati. [^srcharitycinti]((http://www.srcharitycinti.org/news_events/dabeau.htm). 2012. 
+Sisters of Charity of Cincinnati. [^srcharitycinti](http://www.srcharitycinti.org/news_events/dabeau.htm). 2012. 
 
-Public Art Archive. [^publicartarchive]((http://www.publicartarchive.org/work/angelitos-de-caridad)). 2010.
+Public Art Archive. [^publicartarchive](http://www.publicartarchive.org/work/angelitos-de-caridad)). 2010.
 
 [^srcharitycinti]: [Sister of Charity of Cincinnati](http://www.srcharitycinti.org/news_events/dabeau.htm)
 
