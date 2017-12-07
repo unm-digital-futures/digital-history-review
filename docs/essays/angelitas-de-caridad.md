@@ -168,7 +168,7 @@ Mayfield, Dan. [^HospitalsHaveDeepRootsinAlbuquerque](https://www.abqjournal.com
 
 Sisters of Charity of Cincinnati. [^srcharitycinti](http://www.srcharitycinti.org/news_events/dabeau.htm). 2012. 
 
-Public Art Archive. [^publicartarchive](http://www.publicartarchive.org/work/angelitos-de-caridad)). 2010.
+Public Art Archive. [^publicartarchive](http://www.publicartarchive.org/work/angelitos-de-caridad). 2010.
 
 [^srcharitycinti]: [Sister of Charity of Cincinnati](http://www.srcharitycinti.org/news_events/dabeau.htm)
 
