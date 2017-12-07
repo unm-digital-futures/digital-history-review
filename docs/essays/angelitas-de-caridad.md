@@ -23,6 +23,7 @@ Encompassed by the urban sprawl of the central business district, [*Martineztown
 
 
 ## Follow the Trail
+
 {% include figure.html
   class="img-left"
   width="33%"
