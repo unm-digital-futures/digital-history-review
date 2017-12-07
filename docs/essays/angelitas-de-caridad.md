@@ -123,6 +123,7 @@ However, Martineztown's centralized location made it a center for cultural and e
 The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters.[^srcharitycinti] Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
 
 ## What about*"Angelitas De Caridad"* Sculpture
+
 {% include figure.html
   class="img-left"
   width="20%"
@@ -151,6 +152,7 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
   caption="Angelitas De Caridad"
   src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
 %}
+
 You should visit *Angelitas De Caridad* because Martineztown Park offers a historic yet neightborhood feel amongst the chaos of the city. Though the sculpture itself is hidden near the eastern corner of the park, the walk down the trail is worth the stroll. Every step offers a historical and artistic illustration through sculptures, plaques, and murals which radiate New Mexican heritage. And once you get to the *Angelitas De Caridad* sculpture, you will not be disappointed. Surrounded by benches, trees, and flowers the space enclosing the sculpture feels serene though it is in the heart of the city. With Lovelace and St. Joseph Hospitals as the backdrops, you feel the impact of the Sister's work and witness through *Angelitas De Caridad* the importance it had on the community. 
 
 
