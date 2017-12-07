@@ -149,7 +149,7 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 
 ## Why you should visit *Angelitas De Caridad* 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="33%"
   caption="Angelitas De Caridad"
   src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
