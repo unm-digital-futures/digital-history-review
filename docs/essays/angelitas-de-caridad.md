@@ -120,12 +120,12 @@ However, Martineztown's centralized location made it a center for cultural and e
 
 [The Sisters of Charity](http://www.srcharitycinti.org/) were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing St. Josephs Sanitarium, present day [Albuquerque Regional Medical Center](www.lovelace.com/), school and orphanages. [^HospitalsHaveDeepRootsinAlbuquerque] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
 
+The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters.[^srcharitycinti] Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
+
 {% include aside.html
   class="pullquote"
   text=" The legacy of the Sisters of Charity of Cincinnati exemplifies the pioneering spirit, to achieve long-lasting results by focusing on the health needs of the [most vulnerable of our citizens](http://www.stjosephnm.org/History.aspx)"
 %} 
-
-The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters.[^srcharitycinti] Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
 
 ## What about*"Angelitas De Caridad"* Sculpture
 
