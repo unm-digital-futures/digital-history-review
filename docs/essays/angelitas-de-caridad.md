@@ -25,7 +25,7 @@ Encompassed by the urban sprawl of the central business district, [*Martineztown
 ## Follow the Trail
 {% include figure.html
   class="img-left"
-  width="50%"
+  width="40%"
   caption="Martineztown Park Trail at Dr. Martin Luther King Jr. Ave"
   src="images/dmartinez_trail.jpg"
 %}
@@ -35,7 +35,7 @@ Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you
 ## A Hidden Gem within the Sprawl
 {% include figure.html
   class="img-right"
-  width="50%"
+  width="40%"
   caption="Hidden among the trees, Angelitas De Caridad Sculpture at Martineztown Park"
   src="images/dmartinez_hiddenview.jpg"
 %}
