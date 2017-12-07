@@ -269,7 +269,7 @@ The Monument is located in downtown Alburquerque[^source2]. Now for the monument
 
 
 
-## The Building Itself
+
 
 {% include aside.html
   class="pullquote"
@@ -279,6 +279,13 @@ The Monument is located in downtown Alburquerque[^source2]. Now for the monument
 
 
 
+
+
+
+
+
+
+## The Building Itself
 
 
 
