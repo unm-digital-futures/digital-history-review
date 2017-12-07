@@ -40,7 +40,7 @@ Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you
   src="images/dmartinez_hiddenview.jpg"
 %}
 
-Neslted peacefully in the corner of the park at the bottom of the hill with Lovelace Hosptial as the backdrop sits the sculpture, *"Angelitas De Caridad"* by Albuquerque artist Linda DaBeau. Though the sculpture feels hidden, its white limestone wings stands out amongst its surrounding. Dedicated to the *Sisters of Charity of Cincinnati* who came to New Mexico at the height of the Tuberculosis epedemic and aided the community by transforming St. Joseph's Sanitarium into present day St. Joseph's Hospital and [LovelaceHosptial](http://https://www.abqjournal.com/news/metro/390889metro09-17-05.htm). At the time Tuberculosis had killed more Americans than any other disease and continues to be one of the deadliest disease in the world. Therefore, *"Angelitas De Caridad"* sculpture beautifully illustrates the history of Martineztown and the significant role the "Angeles of Charity" played in our states history.
+Neslted peacefully in the corner of the park at the bottom of the hill with Lovelace Hosptial as the backdrop sits the sculpture, *"Angelitas De Caridad"* by Albuquerque artist Linda DaBeau. Though the sculpture feels hidden, its white limestone wings stands out amongst its surrounding. Dedicated to the [Sisters of Charity of Cincinnati](http://www.srcharitycinti.org/news_events/dabeau.htm) who came to New Mexico at the height of the Tuberculosis epedemic and aided the community by transforming St. Joseph's Sanitarium into present day St. Joseph's Hospital and [LovelaceHosptial](http://https://www.abqjournal.com/news/metro/390889metro09-17-05.htm). At the time Tuberculosis had killed more Americans than any other disease and continues to be one of the deadliest disease in the world. Therefore, *"Angelitas De Caridad"* sculpture beautifully illustrates the history of Martineztown and the significant role the "Angeles of Charity" played in our states history.
 
 {% include full-width.html
   class="pullquote"
@@ -56,7 +56,7 @@ In the late 19th century, New Mexico's growth was spurred by ranching, mining an
   src="images/dmartinez_Base_image.jpg"
 %}
 
-Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used by prominent families for pastured lands and as a rest stop for travelers. In 1850 Don Miguel Martin built a permanent settlement along the *Acequia Madre de Los Barelas* and Martineztown was established.[^MartineztownHistory]  Slowly new businesses began to emerge connecting the old town with the new.
+Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used by prominent families for pastured lands and as a rest stop for travelers. In 1850 Don Miguel Martin built a permanent settlement along the *Acequia Madre de Los Barelas* and [Martineztown was established](https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf). Slowly new businesses began to emerge connecting the old town with the new.
 
 {% include aside.html
   class="pullquote"
@@ -73,13 +73,13 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
   src="images/dmartinez_gas.jpg"
 %}
 
-Gaining statehood in 1912, New Mexico experienced an economic surgance as electricity was sweeping the nation. Companies like the *Albuquerque Gas & Electric Company* partnered with lumber companies like the *Sawmill Power Plant*, which provided the city with continuous electricity.[^HistoryofPNM] Lured by cheap prices and work, families descended upon Martineztown turning the prime farm land into a new urban center. However, posperity would not be felt for long as the Stock Market Crash of 1929 and the Dust Bowl of the 1930's put New Mexico in econimic ruin.[^OnlyinYourState]
+Gaining statehood in 1912, New Mexico experienced an economic surgance as electricity was sweeping the nation. Companies like the [Albuquerque Gas & Electric Company](http://www.pnmresources.com/about-us/history.aspx) partnered with lumber companies like the *Sawmill Power Plant*, which provided the city with continuous electricity.[^HistoryofPNM] Lured by cheap prices and work, families descended upon Martineztown turning the prime farm land into a new urban center. However, posperity would not be felt for long as the Stock Market Crash of 1929 and the Dust Bowl of the 1930's put New Mexico in econimic ruin.[^OnlyinYourState]
  
 {% include aside.html
   class="pullquote"
   text=" American factories and plants had fallen, thousands of banks, with no money to lend and no cash on hand,
 [closed their doors](https://themountainvoice.com/2017/07/29/new-mexico-during-the-great-depression/)" %}
-Under President Franklin D. Roosevelt's _New Deal_ subsistence programs were put into effect to try and boost the American economy. Programs like *Public Works of Art Project* attracted artists from all over the country putting Santa Fe and Taos on the map. New Mexico was now being promoted as a premier artistic destinations with Albuquerque as the stopover point.
+Under President Franklin D. Roosevelt's _New Deal_ subsistence programs were put into effect to try and boost the American economy. Programs like [Public Works of Art Project](https://en.wikipedia.org/wiki/Public_Works_of_Art_Project) attracted artists from all over the country putting Santa Fe and Taos on the map. New Mexico was now being promoted as a premier artistic destinations with Albuquerque as the stopover point.
 However, as tension increased across the ocean the country would soon be pulled into a new World War. 
  
 ## Birth of the Atomic Age and Urbanization 
@@ -90,7 +90,7 @@ However, as tension increased across the ocean the country would soon be pulled 
   src="images/dmartinez_kirtland.jpg"
 %} 
 
-New Mexico played a significant role in World War II in providing secure and remote locations for the creation and detonation of the *Manhattan Project*. Success in winning the war, development of Sandia Laboratories, and new government subsidies propelled not just an influx but a wave of migration. Infastructure rapdily expanded Albuquerque's territory and Martineztown received a new neighbor in the form of the I25 interstate highway. Albuquerque had become truly urbanzied. 
+New Mexico played a significant role in World War II in providing secure and remote locations for the creation and detonation of the [Manhattan Project](http://online.nmartmuseum.org/nmhistory/people-places-and-politics/the-great-depression/history-the-great-depression-and-world-war-ii.html). Success in winning the war, development of Sandia Laboratories, and new government subsidies propelled not just an influx but a wave of migration. Infastructure rapdily expanded Albuquerque's territory and Martineztown received a new neighbor in the form of the I25 interstate highway. Albuquerque had become truly urbanzied. 
  
  {% include aside.html
   class="pullquote"
@@ -112,7 +112,7 @@ However, Martineztown's centralized location made it a center for cultural and e
   src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
 %}
 
-The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing St. Josephs Sanitarium, present day Albuquerque Regional Medical Center, school and orphanages. [^HospitalHistory] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
+[The Sisters of Charity](http://www.srcharitycinti.org/) were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing St. Josephs Sanitarium, present day [Albuquerque Regional Medical Center]9www.lovelace.com/), school and orphanages. [^HospitalHistory] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
 
 {% include figure.html
   class="img-right"
@@ -131,23 +131,17 @@ The Sisters of Charity worked in the community for over 100 years and in 2002 wh
   src="images/dmartinez_linda_image10.jpg"
 %}
 
-Commissioned by the South Martineztown community and created by Albuquerque artist Linda DaBeau, the sculpture is a limestone winged angel standing at 25 feet tall and 16 feet wide with a bronze wrap around fountain base feature. The base depicts 42 figures and 22 buildings as a narrative to the Sisters story.[^publicartarchive] Though it is situated in Martineztown Park and below the hill of Lovelace, the site itself is nestled away along the curving road of High St. enclosed by trees and flowers making it an almost hidden location within the park itself. Adobe homes beautifully line the north and west blocks maintaining its historic charm.   
+Commissioned by the South Martineztown community and created by Albuquerque artist [Linda DaBeau](lindadabeau.com/), the sculpture is a limestone winged angel standing at 25 feet tall and 16 feet wide with a bronze wrap around fountain base feature. The base depicts 42 figures and 22 buildings as a narrative to the Sisters story.[^publicartarchive] Though it is situated in Martineztown Park and below the hill of Lovelace, the site itself is nestled away along the curving road of High St. enclosed by trees and flowers making it an almost hidden location within the park itself. Adobe homes beautifully line the north and west blocks maintaining its historic charm.   
 
 {% include full-width.html
   class="pullquote"
   text="As you take a Walk around the base of the sculpture, the origin of the Sister's story is illustrated through scences depicting the arrival of the Sisters and commencing with the establishment of the hospital"
 %} 
 The abstract yet angelic white limestone wings stand out amongst the brown and green hues of the scenery. Along the surrounding walls are plaques that communicate words like Hope, Temperance, and Faith. However, it is the last plaque that embodies the Sister's role within the community, "In Unity There is Strength." This message defines the motto of not only *Sisters of Charity* but the strength and unity they brought to the commumnity of Martineztown and Albuquerque.
-
 {% include aside.html
   class="pullquote"
   text=" The legacy of the Sisters of Charity of Cincinnati exemplifies the pioneering spirit, to achieve long-lasting results by focusing on the health needs of the [most vulnerable of our citizens](http://www.stjosephnm.org/History.aspx)"
 %} 
-
-
-
-
-
 
 
 ## Why you should visit *Angelitas De Caridad* 
