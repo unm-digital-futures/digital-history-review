@@ -29,6 +29,24 @@ It would be kind of crazy to think a place like Albuquerque, New Mexico would ha
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {% include figure.html
   class="img-right"
   width="33%"
