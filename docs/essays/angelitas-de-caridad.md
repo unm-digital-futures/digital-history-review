@@ -169,3 +169,27 @@ Mayfield, Dan. [^Hospitals Have Deep Roots in Albuquerque](https://www.abqjourna
 Sisters of Charity of Cincinnati. [^srcharitycinti]((http://www.srcharitycinti.org/news_events/dabeau.htm). 2012. 
 
 Public Art Archive. [^publicartarchive]((http://www.publicartarchive.org/work/angelitos-de-caridad)). 2010.
+
+[^srcharitycinti]: [Sister of Charity of Cincinnati](http://www.srcharitycinti.org/news_events/dabeau.htm)
+
+[^PublicArchive]: [Sister of Charity of Cincinnati](http://www.publicartarchive.org/work/angelitos-de-caridad)
+
+[^Lungerlegacy]: [Lunger's legacy in New Mexico](http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.html)
+
+[^HospitalHistory]: [HospitalHistory](https://www.abqjournal.com/news/metro/390889metro09-17-05.htm)
+
+[^srcharitycinti]: [Sister of Charity of Cincinnati](http://www.srcharitycinti.org/news_events/dabeau.htm)
+
+[^publicartarchive]: [Public Art Archive](http://www.publicartarchive.org/work/angelitos-de-caridad)
+
+[^MartineztownHistory]: [History of Martineztown](https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf)
+
+[^HistoryofPNM]: [History of PNM Resources](http://www.pnmresources.com/about-us/history.aspx)
+
+[^OnlyinYourState]: [Only in Your State](http://www.onlyinyourstate.com/new-mexico/photos-great-depression-nm/)
+
+[^tuberculosinnewmexico]: [Tuberculosis in New Mexico](http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.htm)
+
+[^TuberculosisinNewMexico]: [Tuberculosis New Mexico](https://www.bizjournals.com/albuquerque/print-edition/2012/02/03/disease-played-major-role-in.html)
+
+[^Lungers and their legacy]: [Lungers and their legacy](http://newmexicohistory.org/people/lungers-and-their-legacy)
