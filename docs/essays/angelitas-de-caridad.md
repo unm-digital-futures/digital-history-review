@@ -22,6 +22,7 @@ Desiree' Martinez
 Encompassed by the urban sprawl of the central business district, *Martineztown Park* is a hidden gem within one of Albuquerque's oldest neighborhoods. The park is situated at the crossroads of Edith Boulevard and Dr. Martin Luther King Jr. Ave on the east side of downtown. Surrounded by Spanish Adobe homes, the historic Longfellow Elementary School, and Lovelace Hosptial, it is easy to see how this park may be overlooked by Albuquerque natives let alone tourist. However, it is once you venture into the park you begin to discover the areas rich history. 
 
 
+## Follow the Trail
 {% include figure.html
   class="img-left"
   width="50%"
@@ -29,19 +30,15 @@ Encompassed by the urban sprawl of the central business district, *Martineztown 
   src="images/dmartinez_trail.jpg"
 %}
 
-## Follow the Trail
-
 Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you are transported back to the city's orgin through a series of displays that chronicle Native orgin, Spanish conquest, and community intergration. Plaques of Native trees, plants, and animals are distributed every few feet trying to giving a sense of what the landscape would've looked like prior to European contact. And once you reach the center of the park, laughter from the Longfellow Elementary School and noise from the busy streets can be heard. However, continue east into the park and you will experience quite and tranquility.  
 
-
+## A Hidden Gem within the Sprawl
 {% include figure.html
   class="img-right"
   width="50%"
   caption="Hidden among the trees, Angelitas De Caridad Sculpture at Martineztown Park"
   src="images/dmartinez_hiddenview.jpg"
 %}
-
-## A Hidden Gem within the Sprawl
 
 Neslted peacefully in the corner of the park at the bottom of the hill with Lovelace Hosptial as the backdrop sits the sculpture, *"Angelitas De Caridad"* by Albuquerque artist Linda DaBeau. Though the sculpture feels hidden, its white limestone wings stands out amongst its surrounding. Dedicated to the *Sisters of Charity of Cincinnati* who came to New Mexico at the height of the Tuberculosis epedemic and aided the community by transforming St. Joseph's Sanitarium into present day St. Joseph's Hospital and [LovelaceHosptial](http://https://www.abqjournal.com/news/metro/390889metro09-17-05.htm). At the time Tuberculosis had killed more Americans than any other disease and continues to be one of the deadliest disease in the world. Therefore, *"Angelitas De Caridad"* sculpture beautifully illustrates the history of Martineztown and the significant role the "Angeles of Charity" played in our states history.
 
@@ -51,15 +48,13 @@ Neslted peacefully in the corner of the park at the bottom of the hill with Love
 In the late 19th century, New Mexico's growth was spurred by ranching, mining and the railroads. But in the years prior to and after statehood, the state's economy was driven by one thing: disease, tuberculosis in particular"
 %}[^bizjournal]: _New Mexico Centennial_, 02-02-12,.
 
-
+## Martineztown and the Boom
  {% include figure.html
   class="img-left"
   width="33%"
   caption="Illustrations of the Sisters arriving to Martineztown"
   src="images/dmartinez_Base_image.jpg"
 %}
-
-## Martineztown and the Boom
 
 Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used by prominent families for pastured lands and as a rest stop for travelers. In 1850 Don Miguel Martin built a permanent settlement along the *Acequia Madre de Los Barelas* and Martineztown was established.[^MartineztownHistory]  Slowly new businesses began to emerge connecting the old town with the new.
 
@@ -70,17 +65,15 @@ Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used
 
 In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown.[^MartineztownHistory] As the railroads urbanized cities across the country, New Mexico's climate offered something different, aid for Tuberculosis victims. The dry air and high elevations made Albuquerque the ideal place to live and establish hopsitals. Tuberculosis as the catalyst and the railroad as the facilitator, Martineztown became a new hub for Albuquerque society. Businesses would eventually enclose Martineztown to its current position, thus creating an timecaplse within the booming cityscape.  
 
-
- {% include figure.html
+## Statehood and the Depression Era
+{% include figure.html
   class="img-left"
   width="33%"
   caption="Albuquerque Gas, Electric, and Light power crew"
   src="images/dmartinez_gas.jpg"
 %}
 
-## Statehood and the Depression Era
-
- Gaining statehood in 1912, New Mexico experienced an economic surgance as electricity was sweeping the nation. Companies like the *Albuquerque Gas & Electric Company* partnered with lumber companies like the *Sawmill Power Plant*, which provided the city with continuous electricity.[^HistoryofPNM] Lured by cheap prices and work, families descended upon Martineztown turning the prime farm land into a new urban center. However, posperity would not be felt for long as the Stock Market Crash of 1929 and the Dust Bowl of the 1930's put New Mexico in econimic ruin.[^OnlyinYourState]
+Gaining statehood in 1912, New Mexico experienced an economic surgance as electricity was sweeping the nation. Companies like the *Albuquerque Gas & Electric Company* partnered with lumber companies like the *Sawmill Power Plant*, which provided the city with continuous electricity.[^HistoryofPNM] Lured by cheap prices and work, families descended upon Martineztown turning the prime farm land into a new urban center. However, posperity would not be felt for long as the Stock Market Crash of 1929 and the Dust Bowl of the 1930's put New Mexico in econimic ruin.[^OnlyinYourState]
  
 {% include aside.html
   class="pullquote"
@@ -89,16 +82,14 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
 Under President Franklin D. Roosevelt's _New Deal_ subsistence programs were put into effect to try and boost the American economy. Programs like *Public Works of Art Project* attracted artists from all over the country putting Santa Fe and Taos on the map. New Mexico was now being promoted as a premier artistic destinations with Albuquerque as the stopover point.
 However, as tension increased across the ocean the country would soon be pulled into a new World War. 
  
- 
+ ## Birth of the Atomic Age and Urbanization 
  {% include figure.html
   class="img-left"
   width="33%"
   caption="[Kirtland Airforce Base](https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base)"
   src="images/dmartinez_kirtland.jpg"
-%}
- 
-## Birth of the Atomic Age and Urbanization 
- 
+%} 
+
 New Mexico played a significant role in World War II in providing secure and remote locations for the creation and detonation of the *Manhattan Project*. Success in winning the war, development of Sandia Laboratories, and new government subsidies propelled not just an influx but a wave of migration. Infastructure rapdily expanded Albuquerque's territory and Martineztown received a new neighbor in the form of the I25 interstate highway. Albuquerque had become truly urbanzied. 
  
  {% include aside.html
@@ -114,8 +105,6 @@ However, Martineztown's centralized location made it a center for cultural and e
 %}
 
 ## _The Sisters of Charity_, Angeles of Martineztown
-
-
 {% include figure.html
   class="img-right"
   width="35%"
@@ -136,16 +125,14 @@ The Sisters of Charity were founded in 1809 by Elizabeth Seton in Maryland and l
 The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters.[^srcharitycinti] Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
 
 ## *"Angelitas De Caridad"* Sculpture and Artist
-
-Commissioned by the South Martineztown community and created by Albuquerque artist Linda DaBeau, the sculpture is a limestone winged angel standing at 25 feet tall and 16 feet wide with a bronze wrap around fountain base feature. The base depicts 42 figures and 22 buildings as a narrative to the Sisters story.[^publicartarchive] Though it is situated in Martineztown Park and below the hill of Lovelace, the site itself is nestled away along the curving road of High St. enclosed by trees and flowers making it an almost hidden location within the park itself. Adobe homes beautifully line the north and west blocks maintaining its historic charm.   
-
-
 {% include figure.html
   class="img-left"
   width="25%"
   caption="LInda DaBeau"
   src="images/dmartinez_linda_image10.jpg"
 %}
+
+Commissioned by the South Martineztown community and created by Albuquerque artist Linda DaBeau, the sculpture is a limestone winged angel standing at 25 feet tall and 16 feet wide with a bronze wrap around fountain base feature. The base depicts 42 figures and 22 buildings as a narrative to the Sisters story.[^publicartarchive] Though it is situated in Martineztown Park and below the hill of Lovelace, the site itself is nestled away along the curving road of High St. enclosed by trees and flowers making it an almost hidden location within the park itself. Adobe homes beautifully line the north and west blocks maintaining its historic charm.   
 
 {% include full-width.html
   class="pullquote"
