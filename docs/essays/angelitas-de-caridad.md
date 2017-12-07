@@ -23,6 +23,7 @@ Encompassed by the urban sprawl of the central business district, [*Martineztown
 
 
 ## Follow the Trail
+
 {% include figure.html
   class="img-left"
   width="50%"
@@ -33,6 +34,7 @@ Encompassed by the urban sprawl of the central business district, [*Martineztown
 Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you are transported back to the city's orgin through a series of displays that chronicle Native orgin, Spanish conquest, and community intergration. Plaques of Native trees, plants, and animals are distributed every few feet trying to giving a sense of what the landscape would've looked like prior to European contact. And once you reach the center of the park, laughter from the Longfellow Elementary School and noise from the busy streets can be heard. However, continue east into the park and you will experience quite and tranquility.  
 
 ## A Hidden Gem within the Sprawl
+
 {% include figure.html
   class="img-right"
   width="50%"
@@ -49,6 +51,7 @@ In the late 19th century, New Mexico's growth was spurred by ranching, mining an
 %}[^bizjournal]: _New Mexico Centennial_, 02-02-12,.
 
 ## Martineztown and the Boom
+ 
  {% include figure.html
   class="img-left"
   width="33%"
@@ -66,6 +69,7 @@ Located 2 miles east of *Old Town* along sandy hills, Martineztown had been used
 In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever changed the landscape of Martineztown.[^MartineztownHistory] As the railroads urbanized cities across the country, New Mexico's climate offered something different, aid for Tuberculosis victims. The dry air and high elevations made Albuquerque the ideal place to live and establish hopsitals. Tuberculosis as the catalyst and the railroad as the facilitator, Martineztown became a new hub for Albuquerque society. Businesses would eventually enclose Martineztown to its current position, thus creating an timecaplse within the booming cityscape.  
 
 ## Statehood and the Depression Era
+
 {% include figure.html
   class="img-left"
   width="33%"
@@ -83,6 +87,7 @@ Under President Franklin D. Roosevelt's _New Deal_ subsistence programs were put
 However, as tension increased across the ocean the country would soon be pulled into a new World War. 
  
 ## Birth of the Atomic Age and Urbanization 
+ 
  {% include figure.html
   class="img-left"
   width="33%"
@@ -105,6 +110,7 @@ However, Martineztown's centralized location made it a center for cultural and e
 %}
 
 ## _The Sisters of Charity_, Angeles of Martineztown
+
 {% include figure.html
   class="img-left"
   width="20%"
@@ -124,6 +130,7 @@ However, Martineztown's centralized location made it a center for cultural and e
 The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters.[^srcharitycinti] Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
 
 ## *"Angelitas De Caridad"* Sculpture and Artist
+
 {% include figure.html
   class="img-left"
   width="25%"
