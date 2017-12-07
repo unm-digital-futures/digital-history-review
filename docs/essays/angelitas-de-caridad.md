@@ -77,7 +77,7 @@ In 1880 the Atchison, Topeka, Santa Fe Railway was established and forever chang
   src="images/dmartinez_gas.jpg"
 %}
 
-Gaining statehood in 1912, New Mexico experienced an economic surgance as electricity was sweeping the nation. Companies like the [Albuquerque Gas & Electric Company](http://www.pnmresources.com/about-us/history.aspx) partnered with lumber companies like the *Sawmill Power Plant*, which provided the city with continuous electricity.[^HistoryofPNM] Lured by cheap prices and work, families descended upon Martineztown turning the prime farm land into a new urban center. However, posperity would not be felt for long as the Stock Market Crash of 1929 and the Dust Bowl of the 1930's put New Mexico in econimic ruin.[^OnlyinYourState]
+Gaining statehood in 1912, New Mexico experienced an economic surgance as electricity was sweeping the nation. Companies like the [Albuquerque Gas & Electric Company](http://www.pnmresources.com/about-us/history.aspx) partnered with lumber companies like the *Sawmill Power Plant*, which provided the city with continuous electricity.[^HistoryofPNM] Lured by cheap prices and work, families descended upon Martineztown turning the prime farm land into a new urban center. However, posperity would not be felt for long as the Stock Market Crash of 1929 and the Dust Bowl of the 1930's put New Mexico in econimic ruin.[^25 Rare Photos Taken In New Mexico During The Great Depression]
  
 {% include aside.html
   class="pullquote"
@@ -118,7 +118,7 @@ However, Martineztown's centralized location made it a center for cultural and e
   src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
 %}
 
-[The Sisters of Charity](http://www.srcharitycinti.org/) were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing St. Josephs Sanitarium, present day [Albuquerque Regional Medical Center]9www.lovelace.com/), school and orphanages. [^HospitalHistory] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
+[The Sisters of Charity](http://www.srcharitycinti.org/) were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing St. Josephs Sanitarium, present day [Albuquerque Regional Medical Center]9www.lovelace.com/), school and orphanages. [^Hospitals Have Deep Roots in Albuquerque] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
 
 {% include figure.html
   class="img-right"
@@ -156,35 +156,15 @@ You should visit *Angelitas De Caridad* because Martineztown Park offers a histo
 
 
 
-
-
-
-[^srcharitycinti]: [Sister of Charity of Cincinnati](http://www.srcharitycinti.org/news_events/dabeau.htm)
-
-[^PublicArchive]: [Sister of Charity of Cincinnati](http://www.publicartarchive.org/work/angelitos-de-caridad)
-
-[^Lungerlegacy]: [Lunger's legacy in New Mexico](http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.html)
-
-[^HospitalHistory]: [HospitalHistory](https://www.abqjournal.com/news/metro/390889metro09-17-05.htm)
-
-[^srcharitycinti]: [Sister of Charity of Cincinnati](http://www.srcharitycinti.org/news_events/dabeau.htm)
-
-[^publicartarchive]: [Public Art Archive](http://www.publicartarchive.org/work/angelitos-de-caridad)
-
-[^MartineztownHistory]: [History of Martineztown](https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf)
-
-[^HistoryofPNM]: [History of PNM Resources](http://www.pnmresources.com/about-us/history.aspx)
-
-[^OnlyinYourState]: [Only in Your State](http://www.onlyinyourstate.com/new-mexico/photos-great-depression-nm/)
-
-[^tuberculosinnewmexico]: [Tuberculosis in New Mexico](http://www.santafenewmexican.com/pasatiempo/books/readings_signings/the-lungers-legacy-tuberculosis-patients-in-new-mexico/article_ac84c0eb-9da9-5edf-b207-baadc0406f73.htm)
- 
-[^TuberculosisinNewMexico]: [Tuberculosis New Mexico](https://www.bizjournals.com/albuquerque/print-edition/2012/02/03/disease-played-major-role-in.html)
-
-[^Lungers and their legacy]: [Lungers and their legacy](http://newmexicohistory.org/people/lungers-and-their-legacy)
-
-
-
 ### Footnotes
 South Martineztown Sector Development Plan.[^MartineztownHistory] (https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf). October 16, 1995.
 
+PNM Resource.[^HistoryofPNM](http://www.pnmresources.com/about-us/history.aspx). 2017. 
+
+White, Julie.[^25 Rare Photos Taken In New Mexico During The Great Depression](http://www.onlyinyourstate.com/new-mexico/photos-great-depression-nm/). November 14, 2016.
+
+Mayfield, Dan.[^Hospitals Have Deep Roots in Albuquerque](https://www.abqjournal.com/news/metro/390889metro09-17-05.htm). September 17, 2015.
+
+Sisters of Charity of Cincinnati.[^srcharitycinti]((http://www.srcharitycinti.org/news_events/dabeau.htm). 2012. 
+
+Public Art Archive.[^publicartarchive]((http://www.publicartarchive.org/work/angelitos-de-caridad)). 2010.
