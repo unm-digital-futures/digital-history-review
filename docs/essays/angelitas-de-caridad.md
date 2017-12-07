@@ -36,7 +36,7 @@ Starting at Dr. Martin Luther King Jr Ave. walking north down into the park, you
 ## A Hidden Gem within the Sprawl
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="33%"
   caption="Hidden among the trees, Angelitas De Caridad Sculpture at Martineztown Park"
   src="images/dmartinez_hiddenview.jpg"
@@ -104,21 +104,12 @@ However, Martineztown's centralized location made it a center for cultural and e
 
  {% include figure.html
   class="img-center"
-  width="50%"
+  width="60%"
   caption=" 'Martineztown is not for sale' [Waymarking](http://www.waymarking.com/waymarks/WMTKE1_Martineztown_Albuquerque_NM)"
   src="images/dmartinez_protest.jpg"
 %}
 
-## _The Sisters of Charity_, Angeles of Martineztown
-
-{% include figure.html
-  class="img-left"
-  width="33%"
-  caption="Angelitas De Caridad"
-  src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
-%}
-
-[The Sisters of Charity](http://www.srcharitycinti.org/) were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing St. Josephs Sanitarium, present day [Albuquerque Regional Medical Center](www.lovelace.com/), school and orphanages. [^HospitalsHaveDeepRootsinAlbuquerque] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
+## _The Sisters of Charity_ the angeles of Martineztown
 
 {% include figure.html
   class="img-right"
@@ -127,9 +118,11 @@ However, Martineztown's centralized location made it a center for cultural and e
   src="images/dmartinez_sisters.jpg"
 %}
 
+[The Sisters of Charity](http://www.srcharitycinti.org/) were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing St. Josephs Sanitarium, present day [Albuquerque Regional Medical Center](www.lovelace.com/), school and orphanages. [^HospitalsHaveDeepRootsinAlbuquerque] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
+
 The Sisters of Charity worked in the community for over 100 years and in 2002 when the hospital was sold, the community came together to dedicate the sculpture, *"Angelitas De Caridad"* or "Angels of Charity" to the Sisters.[^srcharitycinti] Lovelace Hosptial can be seen towering in the background as *"Angelitas De Caridad"* sits below the hill surrounded by trees and flowers reverencing its origin.  
 
-## *"Angelitas De Caridad"* Sculpture and Artist
+## What about*"Angelitas De Caridad"* Sculpture
 
 {% include figure.html
   class="img-left"
@@ -152,6 +145,12 @@ The abstract yet angelic white limestone wings stand out amongst the brown and g
 
 
 ## Why you should visit *Angelitas De Caridad* 
+{% include figure.html
+  class="img-left"
+  width="33%"
+  caption="Angelitas De Caridad"
+  src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
+%}
 You should visit *Angelitas De Caridad* because Martineztown Park offers a historic yet neightborhood feel amongst the chaos of the city. Though the sculpture itself is hidden near the eastern corner of the park, the walk down the trail is worth the stroll. Every step offers a historical and artistic illustration through sculptures, plaques, and murals which radiate New Mexican heritage. And once you get to the *Angelitas De Caridad* sculpture, you will not be disappointed. Surrounded by benches, trees, and flowers the space enclosing the sculpture feels serene though it is in the heart of the city. With Lovelace and St. Joseph Hospitals as the backdrops, you feel the impact of the Sister's work and witness through *Angelitas De Caridad* the importance it had on the community. 
 
 
