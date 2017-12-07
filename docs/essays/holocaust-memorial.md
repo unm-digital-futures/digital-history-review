@@ -23,6 +23,12 @@ It would be kind of crazy to think a place like Albuquerque, New Mexico would ha
 
 
 
+
+
+
+
+
+
 {% include figure.html
   class="img-right"
   width="33%"
@@ -86,12 +92,40 @@ The Monument is located in downtown Alburquerque[^source2]. Now for the monument
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 {% include figure.html
-  class="img-left"
+  class="img-center"
   width="33%"
   caption="Holocaust-4"
   src="images/Holocaust-4.jpg"
 %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -113,6 +147,10 @@ The Monument is located in downtown Alburquerque[^source2]. Now for the monument
   class="pullquote"
   text="Even though it's a jewish monument, it reminds people of the diverse culture here in NM"
   %}
+
+
+
+
 
 
 
