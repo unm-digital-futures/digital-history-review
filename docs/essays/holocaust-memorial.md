@@ -47,6 +47,26 @@ It would be kind of crazy to think a place like Albuquerque, New Mexico would ha
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {% include figure.html
   class="img-right"
   width="33%"
@@ -64,8 +84,70 @@ It would be kind of crazy to think a place like Albuquerque, New Mexico would ha
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## The Location
 The Monument is located in downtown Alburquerque[^source2]. Now for the monument there is pros and cons for it to be placed downtown. A pro can be the fact when most people come and visit, what do they like to ride through ? Obviously the downtown areas. Usually the downtown area is somewhere you can get the best feel for the city. That is also where most of the culture throughout the city can be found. A con be the same as the pro, is the fact that people just ride through downtown. They will not stop just to see a monument. This monument is actually kind of hidden behind another building. And surrounded By a parking garage. There is a couple of benches by the mounment, but not too many. So even though this is a very diverse piece it is very much hidden, in a well known area. Making this one New Mexico's hidden treasures.
+
+
+
+
+
+
+
 
 
 
@@ -174,12 +256,36 @@ The Monument is located in downtown Alburquerque[^source2]. Now for the monument
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## The Building Itself
 
 {% include aside.html
   class="pullquote"
   text="Even though it's a jewish monument, it reminds people of the diverse culture here in NM"
   %}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
