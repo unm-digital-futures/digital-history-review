@@ -118,7 +118,7 @@ However, Martineztown's centralized location made it a center for cultural and e
   src="images/dmartinez_AngelitasDeCaridad_image1.jpg"
 %}
 
-[The Sisters of Charity](http://www.srcharitycinti.org/) were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing St. Josephs Sanitarium, present day [Albuquerque Regional Medical Center]9www.lovelace.com/), school and orphanages. [^HospitalsHaveDeepRootsinAlbuquerque] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
+[The Sisters of Charity](http://www.srcharitycinti.org/) were founded in 1809 by Elizabeth Seton in Maryland and later moved to Cincinnati under the leadership of Margaret George. The Sisters are a Catholic group of woman who aid in missionary work around the country and came to New Mexico in 1877 establishing St. Josephs Sanitarium, present day [Albuquerque Regional Medical Center](www.lovelace.com/), school and orphanages. [^HospitalsHaveDeepRootsinAlbuquerque] In 1902 Sister Blandina Segale converted St. Joseph's Sanitarium into what is present day Lovelace Hospital becoming Albuquerque's first hospital and one of the only facility at the time to treat pulmonary disease in the Southwest.[^srcharitycinti] 
 
 {% include figure.html
   class="img-right"
