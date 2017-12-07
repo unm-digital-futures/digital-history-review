@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Bree+Serif');
-h2 {color:red;}
 
-h3 {color:red;}
-body {font-family: 'Bree Serif', serif;}
+p {font-family: 'Bree Serif', serif;}
+
+h2 {color:red; 
+font-family: 'Bree Serif', serif;}
+
+h3 {color:red;
+font-family: 'Bree Serif', serif;}
