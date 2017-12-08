@@ -173,7 +173,7 @@ Once you get to the *Angelitas De Caridad* sculpture, you will not be disappoint
 
 ### Footnotes
 
-[^MartineztownHistory] South Martineztown Sector Development Plan.[Martineztown History](https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf). *SouthMartineztownSDP.pdf*. October 16, 1995.
+[^MartineztownHistory]South Martineztown Sector Development Plan.[Martineztown History](https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf).*SouthMartineztownSDP.pdf*. October 16, 1995.
 
 [^HistoryofPNM] PNM Resource. [History of PNM](http://www.pnmresources.com/about-us/history.aspx). *PNM Resources*. 2017. 
 
