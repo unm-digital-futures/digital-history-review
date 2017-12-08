@@ -75,7 +75,7 @@ Because of its concave arrangement, some trees block the view of the windows. Th
   caption="Figure 5. Here 7-Trees and light post blocking the artwork"
   src="images/here7.jpg" %}
   
-The artwork is also situated near the entrance of the park. The noise of the approaching vehicles occasionally interrupts the tranquility of the artwork. It also makes viewing the artwork from the opposite side slightly hazardous because of the approaching vehicles.
+The artwork is also situated near the entrance of the park. The noise of the approaching vehicles occasionally interrupts the tranquility of the artwork. It also makes viewing the artwork from the opposite side slightly hazardous because of the approaching vehicles.The car noise can sometimes interfere with the overall tranquility.
 
 {% include figure.html
   class="img-center"
@@ -103,17 +103,17 @@ Figure 6. Mondragon, Jerome T., *Here 3*. 2017. Digital Image. Albuquerque, NM.
 
 [^source1]: Stevens, Rachel. ["You Are Here"](http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/) About This Project. *rachelstevenssculptor.com*. [n.d.]
 
-[^source2]: City of Albuquerque. ["Dedication Ceremony for'You Are Here' by Rachel Stevens."](http://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens) *cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens*. [n.d.]
+[^source2]: City of Albuquerque. ["Dedication Ceremony for'You Are Here' by Rachel Stevens."](http://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens)*cabq.gov*. [n.d.]
 
 [^source3]: Stevens, Rachel. ["You Are Here"](http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/) About This Project. *rachelstevenssculptor.com.* [n.d.]
 
-[^source4]: New Mexico State University. [Board of Regents, New Mexico State University. "Rachel Stevens"](https://artdepartment.nmsu.edu/rachel-stevens/) *artdepartment.nmsu.edu/rachel-stevens/*. [n.d.]
+[^source4]: New Mexico State University. [Board of Regents, New Mexico State University. "Rachel Stevens"](https://artdepartment.nmsu.edu/rachel-stevens/) *artdepartment.nmsu.edu*. [n.d.]
 
-[^source5]: City of Albuquerque. ["Dedication Ceremony for 'You Are Here' by Rachel Stevens."](http://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens) *cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens*. [ n.d.]
+[^source5]: City of Albuquerque. ["Dedication Ceremony for 'You Are Here' by Rachel Stevens."](http://www.cabq.gov/culturalservices/public-art/events/dedication-ceremony-for-you-are-here-by-rachel-stevens) *cabq.gov*. [ n.d.]
 
 [^source6]: Stevens, Rachel. ["You Are Here"](http://www.rachelstevenssculptor.com/portfolio_page/you-are-here-2/) About This Project. *rachelstevenssculptor.com*. [n.d.]
 
-[^source7]: City of Albuquerque. ["Ventana Ranch Community Park Jumper Map"](http://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view) *cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view*. Ventana Ranch Community. 2012.
+[^source7]: City of Albuquerque. ["Ventana Ranch Community Park Jumper Map"](http://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view) *cabq.gov*. Ventana Ranch Community. 2012.
 
 
 
