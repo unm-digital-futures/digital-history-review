@@ -20,8 +20,9 @@ body {
   background-color: #EEE8AA;
 }
 
-div.aside.pullquote {
-    outline-style: solid;
-    border-top-color: #Midnightblue;
-    border-bottom-color: #Midnightblue;
-}
+aside.pullquote {
+    border-top: .3rem solid #333;
+    border-bottom: .3rem solid #333;
+    margin-left: 1rem;
+    border-bottom-color: darkblue;
+    border-top-color: darkblue;
