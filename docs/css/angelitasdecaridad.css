@@ -19,3 +19,8 @@ div.full-width p {
 body {
   background-color: #EEE8AA;
 }
+
+div.aside p { border: 1px solidblue;
+    outline-style: solid;
+    outline-color: #midnightblue;
+}
