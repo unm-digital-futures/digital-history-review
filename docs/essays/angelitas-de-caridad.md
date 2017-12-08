@@ -175,14 +175,14 @@ Once you get to the *Angelitas De Caridad* sculpture, you will not be disappoint
 
 [^MartineztownHistory]: South Martineztown Sector Development Plan.[Martineztown History](https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf).*SouthMartineztownSDP.pdf*. October 16, 1995.
 
-[^HistoryofPNM] PNM Resource. [History of PNM](http://www.pnmresources.com/about-us/history.aspx). *PNM Resources*. 2017. 
+[^HistoryofPNM]: PNM Resource. [History of PNM](http://www.pnmresources.com/about-us/history.aspx). *PNM Resources*. 2017. 
 
 
-[^25RarePhotosTakenInNewMexicoDuringTheGreatDepression] White, Julie. [25 Rare Photos Taken In New Mexico During The Great Depression](http://www.onlyinyourstate.com/new-mexico/photos-great-depression-nm/). *Only in Your State*. November 14, 2016.
+[^25RarePhotosTakenInNewMexicoDuringTheGreatDepression]: White, Julie. [25 Rare Photos Taken In New Mexico During The Great Depression](http://www.onlyinyourstate.com/new-mexico/photos-great-depression-nm/). *Only in Your State*. November 14, 2016.
 
-[^HospitalsHaveDeepRootsinAlbuquerque] Mayfield, Dan. [Hospitals Have Deep Roots in Albuquerque](https://www.abqjournal.com/news/metro/390889metro09-17-05.htm). *Albuquerque Journal*. September 17, 2015.
+[^HospitalsHaveDeepRootsinAlbuquerque]: Mayfield, Dan. [Hospitals Have Deep Roots in Albuquerque](https://www.abqjournal.com/news/metro/390889metro09-17-05.htm). *Albuquerque Journal*. September 17, 2015.
 
-[^srcharitycinti] Sisters of Charity of Cincinnati. [srcharitycinti](http://www.srcharitycinti.org/news_events/dabeau.htm). *Sisters of Charity of Cincinnati*. 2012. 
+[^srcharitycinti]: Sisters of Charity of Cincinnati. [srcharitycinti](http://www.srcharitycinti.org/news_events/dabeau.htm). *Sisters of Charity of Cincinnati*. 2012. 
 
-[^PublicArchive] Public Art Archive. [Public Art Archive](http://www.publicartarchive.org/work/angelitos-de-caridad). *Public Art Archive*. 2010.
+[^PublicArchive]: Public Art Archive. [Public Art Archive](http://www.publicartarchive.org/work/angelitos-de-caridad). *Public Art Archive*. 2010.
 
