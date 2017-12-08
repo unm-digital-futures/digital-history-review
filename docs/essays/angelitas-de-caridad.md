@@ -173,17 +173,18 @@ Once you get to the *Angelitas De Caridad* sculpture, you will not be disappoint
 
 ### Footnotes
 
-South Martineztown Sector Development Plan.[Martineztown History](https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf). October 16, 1995.
+[^MartineztownHistory] South Martineztown Sector Development Plan.[Martineztown History](https://www.cabq.gov/planning/documents/SouthMartineztownSDP.pdf). October 16, 1995.
 
-PNM Resource. [History of PNM](http://www.pnmresources.com/about-us/history.aspx). 2017. 
+[^HistoryofPNM] PNM Resource. [History of PNM](http://www.pnmresources.com/about-us/history.aspx). 2017. 
 
-White, Julie. [25 Rare Photos Taken In New Mexico During The Great Depression](http://www.onlyinyourstate.com/new-mexico/photos-great-depression-nm/). November 14, 2016.
 
-Mayfield, Dan. [Hospitals Have Deep Roots in Albuquerque](https://www.abqjournal.com/news/metro/390889metro09-17-05.htm). September 17, 2015.
+[^25RarePhotosTakenInNewMexicoDuringTheGreatDepression] White, Julie. [25 Rare Photos Taken In New Mexico During The Great Depression](http://www.onlyinyourstate.com/new-mexico/photos-great-depression-nm/). November 14, 2016.
+
+[^HospitalsHaveDeepRootsinAlbuquerque] Mayfield, Dan. [Hospitals Have Deep Roots in Albuquerque](https://www.abqjournal.com/news/metro/390889metro09-17-05.htm). September 17, 2015.
 
 [^srcharitycinti] Sisters of Charity of Cincinnati. [srcharitycinti](http://www.srcharitycinti.org/news_events/dabeau.htm). 2012. 
 
-Public Art Archive. [Public Art Archive](http://www.publicartarchive.org/work/angelitos-de-caridad). 2010.
+[^PublicArchive] Public Art Archive. [Public Art Archive](http://www.publicartarchive.org/work/angelitos-de-caridad). 2010.
 
 [^srcharitycinti]: [Sister of Charity of Cincinnati](http://www.srcharitycinti.org/news_events/dabeau.htm)
 
