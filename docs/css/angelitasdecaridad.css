@@ -22,5 +22,5 @@ body {
 
 div.aside.pullquote p { border: 1px Midnightblue;
     outline-style: solid;
-    outline-color: #Midnightblue;
+    border-color: #Midnightblue;
 }
