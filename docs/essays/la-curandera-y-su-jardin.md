@@ -96,19 +96,17 @@ The inspiration for the sculpture comes from the book "Bless Me, Ultima". The bo
   class="pullquote"
   text="The structure is a celebration of plants with healing capabilities."
   %}
-  The structure is so big, and being a statue, it will be easy to spot, and also know that you are looking at a piece of art. The Botanical Garden is a representation of New Mexico herbs. Herbs have been an important part of New Mexico for centuries, as some historians would suggest. This structure gives visitors a feel for what New Mexico's history with herbs is like. From the herbs, the Curanderas recieve their living.
-  {% include figure.html
+  The structure is so big, and being a statue, it will be easy to spot, and also know that you are looking at a piece of art. The Botanical Garden is a representation of New Mexico herbs. Herbs have been an important part of New Mexico for centuries, as some historians would suggest. This structure gives visitors a feel for what New Mexico's history with herbs is like. From the herbs, the Curanderas recieve their living.The Botanical Garden does not dedicate itslef to Curanderas, but to the herbs. The structure will let visitors from other states know that the herbs in display are much more important to New Mexico's culture. With Curanderas being a big part of New Mexico's history, the Structure depicts an important part of New Mexico. The Medicinal Herb Display is the perfect location for the Sculpture. The herbs found feet away are the same herbs used by those Curanderas, who are a major part of New Mexico.
+
+
+
+
+{% include figure.html
   class="img-right"
-  width="75%"
+  width="100%"
   caption="La Curandera Statue"
   src="images/la_curandera_2.png.jpg"
 %}
-  The Botanical Garden does not dedicate itslef to Curanderas, but to the herbs. The structure will let visitors from other states know that the herbs in display are much more important to New Mexico's culture. With Curanderas being a big part of New Mexico's history, the Structure depicts an important part of New Mexico. The Medicinal Herb Display is the perfect location for the Sculpture. The herbs found feet away are the same herbs used by those Curanderas, who are a major part of New Mexico.
-
-
-
-
-
 
 
 
