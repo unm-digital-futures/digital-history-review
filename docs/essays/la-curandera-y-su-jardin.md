@@ -88,7 +88,7 @@ The inspiration for the sculpture comes from the book "Bless Me, Ultima". The bo
   class="img-left"
   width="50%"
   caption="Herbs"
-  src="images/la_curandera_2.png.jpg"
+  src="images/la_curandera_10.png.jpg"
 %}
 
   The Botanical Garden showcases mostly New Mexico plants such as yucca, agave, cholla, fairy duster, and apache plus, with some Mediterranean plants as well. These plants, native to New Mexico, are among the most popular plants used by the Curanderas.[^source2] The Structure which is in the Botonical Garden was revealed only two years after the Botanical Garden opened. The Garden is opened year round, so the Sculpture is always available, and the plants grow year round. The sculpture happens to be one of the biggest in the Botonical Garden, which is 36 acres. [^source3] It is situated in the Medicinal Herb display. These are the herbs Curanderas use for their work. Curanderas continue to grow such Medicinal herbs in their own extensive gardens for their spiritual healing and for food. Modern day curanderas use their herbs for everyday lives for themselves and their families, including their children.[^source5] The sculpture was placed here for this reason. Being located in the Botanical Garden, only those who visit the Botanical Garden will be able to see it. Although it represents a big part of New Mexico's history, it focuses on the Herbal history. Inside the Botanical Garden that history is represented with all the herbs. The structure is a celebration of plants with healing capabilities.
@@ -101,7 +101,7 @@ The inspiration for the sculpture comes from the book "Bless Me, Ultima". The bo
   class="img-left"
   width="100%"
   caption="La Curandera Statue"
-  src="images/la_curandera_6.png.jpg"
+  src="images/la_curandera_2.png.jpg"
 %}
 
 
