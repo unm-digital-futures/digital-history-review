@@ -108,11 +108,11 @@ The inspiration for the sculpture comes from the book "Bless Me, Ultima". The bo
   src="images/la_curandera_2.png.jpg"
 %}
 
-
-
-
-
-
+City of Albuquerque Program. "Making Public Art More Public," publicartarchive.org. [n.d.]
+City of Albuquerque. "Curandera Garden", ABQ BioPark. www.cabq.gov. [n.d.]  
+Stratton, Ali. "ABQ Botanic Garden Ranked 5th in the Nation", Albuquerque Journal, July 17, 2015
+American Public Garden Association. "ABQ BioPark Botanic Garden", publicgardens.org. [n.d.]
+Alibi. "El Jardin de la Curandera," alibi.com. [n.d]
 
 
 [^source1]: [Albuquerque Public Art](www.publicartarchive.org/work/la-curandera-y-su-jardin) Albuquerque Public Art
