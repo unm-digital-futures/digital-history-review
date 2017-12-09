@@ -99,7 +99,7 @@ The inspiration for the sculpture comes from the book "Bless Me, Ultima". The bo
   The structure is so big, and being a statue, it will be easy to spot, and also know that you are looking at a piece of art. The Botanical Garden is a representation of New Mexico herbs. Herbs have been an important part of New Mexico for centuries, as some historians would suggest. This structure gives visitors a feel for what New Mexico's history with herbs is like. From the herbs, the Curanderas recieve their living.
   {% include figure.html
   class="img-right"
-  width="50%"
+  width="75%"
   caption="La Curandera Statue"
   src="images/la_curandera_2.png.jpg"
 %}
