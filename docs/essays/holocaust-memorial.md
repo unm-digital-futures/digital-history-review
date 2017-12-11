@@ -269,7 +269,7 @@ The Holocaust mounment was built in 1998 by a sculptor Jake Lovato. There were a
 
 
 
-## Representation
+## Representation in the Piece
   This monmemt does represent the jewish people and shines light on holocaust, but this monment represents just more than the jewish community. It shines a light on the different cultures that can be found here in New Mexico. You can find different items symbolizing different cultures around here in New Mexico[^source2]. Like there are certain pieces of art representing the African American culture throughout the city of Alburquerque.This sticks out because not very many states have as many cultures as New Mexico does, or they don't embrace as much. This what help makes the New Mexico landscpae so great, is the diverse shown throughout the landscape.This helps shows the great deal of respect that New Mexico has for it's people and the places that they came from.
 
 
