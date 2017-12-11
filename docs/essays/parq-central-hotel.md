@@ -79,13 +79,13 @@ The chosen [Italianate architecture style](http://www.phmc.state.pa.us/portal/co
   caption="Apothecary Lounge rooftop view of NE Albuquerque."
   src="images/TBImage10.png"
 %}
-  
-Parq Central hotel is conveniently located next to the freeway for fast travel, Highland's Park for a relaxing afternoon walk, and has many local businesses close by. [The Albuquerque Press Club](http://www.abqpressclub.com) is less than a five minute walk away where membership allows you to have ownership of the club, discounts on drinks, and use of the club for private or public social gatherings[^Alb-press-club].The [66 Diner](https://66diner.com) is reminiscent of a 50's diner and close by for a good old fasion meal or a blend of New Mexico's signature [Hatch green chile](https://www.hatch-green-chile.com) with your breakfast. Parq Central hotel is located between downtown Albuquerque (Albuquerque's nightlife/entertainment) and the historic [Route 66](https://www.visitalbuquerque.org/about-abq/route-66/history/), now known as Central Avenue, best known for it's .
-
-{% include aside.html
+ 
+ {% include aside.html
   class="pullquote"
-  text="Parq Central hotel is located between downtown Albuquerque and the historic Route 66 highway, where the birth of Albuquerque's expansion began."
+  text="Parq Central hotel is located between downtown Albuquerque (Albuquerque's nightlife/entertainment) and the historic Route 66 (now known as Central Avenue), opening connections between rural and urban areas previously deprived of access."
   %}
+  
+Parq Central hotel is conveniently located next to the freeway for fast travel, Highland's Park for a relaxing afternoon walk, and has many local businesses close by. [The Albuquerque Press Club](http://www.abqpressclub.com) is less than a five minute walk away where membership allows you to have ownership of the club, discounts on drinks, and use of the club for private or public social gatherings[^Alb-press-club].The [66 Diner](https://66diner.com) is reminiscent of a 50's diner and close by for a good old fasion meal or a blend of New Mexico's signature [Hatch green chile](https://www.hatch-green-chile.com) with your breakfast. Parq Central hotel is located between downtown Albuquerque (Albuquerque's nightlife/entertainment) and the historic [Route 66](https://www.national66.org/history-of-route-66/)(now known as Central Avenue), opening connections between rural and urban areas previously deprived of access.
 
 ## Cultural Memory and Space
 
