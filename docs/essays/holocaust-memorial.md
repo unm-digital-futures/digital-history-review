@@ -112,96 +112,8 @@ It would be kind of crazy to think a place like Albuquerque, New Mexico would ha
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Busy Area
 The Monument is located in downtown Alburquerque[^source2]. Off of third and Tijeras, in a very busy part of that area. The monument is located in front of a Hyatt hotel, across the street from the a Bank of Albuquerque, right by a parking garage entrance.There are tons of trees without branches that surround the art piece, which makes the art piece hard to see because the way it blinds in with the trees so well. Yes the monument is in a very good place where it can be noticed, but it is also in a place where it can go unnoticed. Due to the places that are in the surrounding area of the monument, a lot of people just come and go. Not really looking at the monument realizing the art put into it. If a person is standing at the Bank of Alburquerque across the street, they honsetly just might think it's a tree. If a person is by the parking garage they might actually glance at the piece, but think nothing of it.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -223,45 +135,9 @@ The Monument is located in downtown Alburquerque[^source2]. Off of third and Tij
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Holocaust-43.jpg"
-  src="images/Holocaust-43.jpg"
+  caption="Holocaust-43jpg..png"
+  src="images/Holocaust-43jpg..png"
 %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
