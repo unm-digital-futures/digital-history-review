@@ -184,5 +184,5 @@ Once you get to the *Angelitas De Caridad* sculpture, you will not be disappoint
 
 [^srcharitycinti]: Sisters of Charity of Cincinnati. [srcharitycinti](http://www.srcharitycinti.org/news_events/dabeau.htm). *Sisters of Charity of Cincinnati*. 2012. 
 
-[^PublicArchive]: Public Art Archive. [Public Art Archive](http://www.publicartarchive.org/work/angelitos-de-caridad). *Public Art Archive*. 2010.
+[^publicartarchive]: Public Art Archive. [Public Art Archive](http://www.publicartarchive.org/work/angelitos-de-caridad). *Public Art Archive*. 2010.
 
