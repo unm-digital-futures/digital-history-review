@@ -147,6 +147,47 @@ The Monument is located in downtown Alburquerque[^source2]. Off of third and Tij
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {% include aside.html
   class="pullquote"
   text="Even though it's a jewish monument, it reminds people of the diverse culture here in NM"
