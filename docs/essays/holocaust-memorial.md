@@ -140,7 +140,7 @@ It would be kind of crazy to think a place like Albuquerque, New Mexico would ha
 
 
 ## The Location
-The Monument is located in downtown Alburquerque[^source2]. Even though this is very important monument, you'll be surprised that this piece is hidden. The monument is surrounded by a parking garage, couple of benches, and more important a sidewalk. Now this sidewalk means one or two things either a lot people pass by it, or nobody passes by it all. Usually the downtown area is somewhere you can get the best feel for the city. That is also where most of the culture throughout the city can be found. To be surrounded by other businesses can this piece of art hidden, and keeps this piece from standing out. With so much other businesses, restaurants, other kinds of attractions. This piece just becomes another statue that most people do not care to notice.
+The Monument is located in downtown Alburquerque[^source2]. Even though this is very important monument, you'll be surprised that this piece of art is hidden. The monument is very much out in the open, but the trees that surround it makes it hidden. The monument itself is placed of a Hyatt hotel, across the street from a Bank of Albuquerque It is legit right front of a parking garage entrance. With all these things around the monument and the way it blinds in with the trees makes it very hard to see.Especially where it is placed downtown, just does not makes it a well looked at art piece.
 
 
 
