@@ -94,56 +94,42 @@ Overall, the theater itself remains a main staple of the Sunshine Building and s
 [^source]: KRQE News article about Sushine Building Graffiti
 <https://www.krqe.com/2015/02/23/historic-sunshine-building-tagged-with-graffiti/>
 
-
-### *Footnotes*
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.abqjournal.com/biz/265961outlook12-02-04.htm>
 
-### *Footnotes*
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks>
 
-### *Footnotes*
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.city-data.com/articles/Sunshine-Building-Albuquerque-New-Mexico.html>
 
-### *Footnotes*
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.cinematreasures.org/theaters/10528>
 
-### *Footnotes*
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.en.wikipedia.org/wiki/Sunshine_Building>
 
-### *Footnotes*
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.flickr.com/photos/stevenm_61/34813178582>
 
-### *Footnotes*
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.henrytrost.org/buildings/sunshine-theatre-and-office-building/>
 
-### *Footnotes*
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.historicabq.org/sunshine-building.html>
 
-### *Footnotes*
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.nmhistoricpreservation.org/assets/files/historic-contexts-and-reports/Movie-Theaters-in-New-Mexico-MPDF-Final-Sent-to-NPS.pdf>
 
-### *Footnotes*
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.nmjhs.org/2014-conference/>
 
-### *Footnotes*
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.rjbuffalo.com/sunshine.html>
 
-### *Footnotes*
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.sunshinetheaterlive.com/page/about-sunshine-theater>
 
-### *Footnotes*
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.yelp.com/biz/sunshine-theater-albuquerque>
 
