@@ -223,8 +223,8 @@ The Monument is located in downtown Alburquerque[^source2]. Even though this is 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Holocaust-4"
-  src="images/Holocaust-4.jpg"
+  caption="Holocaust-43.jpg"
+  src="images/Holocaust-43.jpg"
 %}
 
 
