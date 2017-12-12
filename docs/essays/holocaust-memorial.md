@@ -26,8 +26,6 @@ Dequez Irving
 
 It would be kind of crazy to think a place like Albuquerque, New Mexico would have a holocaust memorial. And if they did then why would they ? Well for starters New Mexico is also a place of that has held numerous immigrants. With having people from different backgrounds means different cultures. Here in New Mexico there is many items around the state representing different cultures. As in the likes of artwork, food, music, clothes. Obviously the holocaust is apart the worlds history, but extremely apart of the jewish people's history.
 
-## Busy Area
-
 {% include figure.html
   class="img-left"
   width="33%"
@@ -35,13 +33,15 @@ It would be kind of crazy to think a place like Albuquerque, New Mexico would ha
   src="images/Holocaust-1.jpg"
 %}
 
+## Busy Area
+
 The Monument is located in downtown Alburquerque. Off of third and Tijeras, in a very busy part of that area. The monument is located in front of a Hyatt hotel, across the street from the a Bank of Albuquerque, right by a parking garage entrance.There are tons of trees without leaves on the branches that surround the art piece, which makes the art piece hard to see because the way it blinds in with the trees so well. Yes the monument is in a very good place where it can be noticed, but it is also in a place where it can go unnoticed. Due to the places that are in the surrounding area of the monument, a lot of people just come and go. Not really looking at the monument realizing that it is art and jus some tree look like. If a person is standing at the Bank of Alburquerque across the street, they honsetly just might think it's a tree. If a person is by the parking garage they might actually glance at the piece, but think nothing of it.
 
 {% include figure.html
   class="img-left"
   width="33%"
   caption="Holocaust"
-  src="images/Holocaust-43jpg..png"
+  src="images/Holocaust-43.png"
 %}
 
 {% include aside.html
