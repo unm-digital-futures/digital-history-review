@@ -43,9 +43,9 @@ The Monument is located in downtown Alburquerque. Off of third and Tijeras, in a
 Yes the monument is in a very good place where it can be noticed, but it is also in a place where it can go unnoticed. Due to the places that are in the surrounding area of the monument, a lot of people just come and go. Not really looking at the monument realizing that it is art and jus some tree look like. If a person is standing at the Bank of Alburquerque across the street, they honsetly just might think it's a tree. If a person is by the parking garage they might actually glance at the piece, but think nothing of it.
 
 {% include figure.html
-  class="img-left"
-  width="33%"
-  caption="Holocaust"
+  class="img-center"
+  width="100%"
+  caption="Street View"
   src="images/Holocaust-43.png"
 %}
 
@@ -55,8 +55,8 @@ Yes the monument is in a very good place where it can be noticed, but it is also
 The Holocaust mounment was built in 1998 by a sculptor Jake Lovato. There were also other designers on the building whose names are listed on the memorial. The date it was officially dediacted to the city was January 1st 1998.[^source] The monument was built with steel and granite pillars. The look of the building is a metal sculpture that depicts bodies rising in a smoke stack. Five triangular columns(panels) surrounding the sculpture and each columns includes info about the holocaust. Letting people know about important events of the holocaust and some things that went on during that period. Obviously with it being a memorial you can go visit it. Admission is free but some form of ID is required of the people visiting at the site. From a distance most people would think it is honestly nothing important. When the mounment lights at night or early in the afternoon when near it you can see the people and the smoke on the mounment.
 
 {% include figure.html
-  class="img-center"
-  width="100%"
+  class="img-right"
+  width="33%"
   caption="Holocaust"
   src="images/Holocaust-3.jpg"
 %}
