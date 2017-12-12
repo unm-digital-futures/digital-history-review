@@ -20,7 +20,7 @@ Dequez Irving
 {% include figure.html
   class="img-right"
   width="25%"
-  caption="arial view"
+  caption="aerial view"
   src="images/street-view-holocaust.png"
 %}
 
