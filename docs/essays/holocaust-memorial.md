@@ -29,7 +29,7 @@ It would be kind of crazy to think a place like Albuquerque, New Mexico would ha
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="Holocaust-1"
+  caption="Monument in the Day"
   src="images/Holocaust-1.jpg"
 %}
 
@@ -53,9 +53,9 @@ Yes the monument is in a very good place where it can be noticed, but it is also
 The Holocaust mounment was built in 1998 by a sculptor Jake Lovato. There were also other designers on the building whose names are listed on the memorial. The date it was officially dediacted to the city was January 1st 1998.[^source] The monument was built with steel and granite pillars. The look of the building is a metal sculpture that depicts bodies rising in a smoke stack. Five triangular columns(panels) surrounding the sculpture and each columns includes info about the holocaust. Letting people know about important events of the holocaust and some things that went on during that period. Obviously with it being a memorial you can go visit it. Admission is free but some form of ID is required of the people visiting at the site. From a distance most people would think it is honestly nothing important. When the mounment lights at night or early in the afternoon when near it you can see the people and the smoke on the mounment.
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="33%"
-  caption="Holocaust"
+  caption="Monument at Dusk"
   src="images/Holocaust-3.jpg"
 %}
 
@@ -63,15 +63,18 @@ The Holocaust mounment was built in 1998 by a sculptor Jake Lovato. There were a
   This monmemt does represent the jewish people and shines light on holocaust, but this monment represents just more than the jewish community. It shines a light on the different cultures that can be found here in New Mexico. You can find different items symbolizing different cultures around here in New Mexico[^source2]. Like there are certain pieces of art representing the African American culture throughout the city of Alburquerque.This sticks out because not very many states have as many cultures as New Mexico does, or they don't embrace as much. This what help makes the New Mexico landscpae so great, is the diverse shown throughout the landscape.This helps shows the great deal of respect that New Mexico has for it's people and the places that they came from.
 
 ## Invisible Art
- What makes this art piece so invisible is the fact people everyday walk, drive past it without really noticing that it's there.Even on the internet you won't find nothing more than the basic information on the piece. Google won't tell you why it was built, how the artist came up with this idea and etc. That is due to people simply not caring enough about the piece. Google hardly mentions the controversy surrounding the monument. While the monument was going through the process of getting built, there was a group of jewish people who did not want monument up. They felt like the monument was glorifying the holocaust, especially with people burning in smoke sculpted out on monument. Obviously knowing what happened in holocaust who would what to see a art piece like dat put out in the public. Nobody will never know the artist true intentions on building the monument, so for that all people can do is wonder. 
+
 {% include aside.html
   class="pullquote"
   text="Even the most controversial art can be very invisible."  
   %}
   
+ What makes this art piece so invisible is the fact people everyday walk, drive past it without really noticing that it's there.Even on the internet you won't find nothing more than the basic information on the piece. Google won't tell you why it was built, how the artist came up with this idea and etc. That is due to people simply not caring enough about the piece. Google hardly mentions the controversy surrounding the monument. While the monument was going through the process of getting built, there was a group of jewish people who did not want monument up. They felt like the monument was glorifying the holocaust, especially with people burning in smoke sculpted out on monument. Obviously knowing what happened in holocaust who would what to see a art piece like dat put out in the public. Nobody will never know the artist true intentions on building the monument, so for that all people can do is wonder. 
+
+  
 ## Sources
 - [Basic description on the of monument](http://www.publicartarchive.org/work/holocaust-memorial-0)
 - [Basic info on the monument](http://waymarking.com)
 ## Footnotes
-[^source]: decdiaction to city
+[^source]: dedication to city
 [^source2]:Diverse cultures
