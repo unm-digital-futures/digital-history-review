@@ -33,7 +33,7 @@ The artwork was designed and created by Rachel Stevens. The project was construc
   class="pullquote"
   text="The art project is located in the beautiful Ventanas Ranch Park in Albuquerque's Westside."  %}
 
-The art project is located in the beautiful Ventanas Ranch Park in Albuquerque's Westside. The park can be found at Universe Road near the Irving intersection. [^source4]. It's a fitting location because “ventana” is actually the Spanish word for “window.” Access to this location is quite difficult because of its distant location. This artwork can easily be overlooked while driving on the street if you don't know what to look for.  
+The art project is located in the beautiful Ventanas Ranch Park in Albuquerque's Westside. The park can be found at Universe Road near the Irving intersection. [^source4] It's a fitting location because “ventana” is actually the Spanish word for “window.” Access to this location is quite difficult because of its distant location. This artwork can easily be overlooked while driving on the street if you don't know what to look for.  
 
 ## Appearance
 The artwork is comprised of five windows but each is distinct in appearance. They're all made of steel and are painted in blue or green hues [^source5]. The first window is green and the pane appears to held up by a soda can. It also has a charming bird located on the top-right of the window.
@@ -63,9 +63,9 @@ The artwork is perfectly located in a quiet, secluded, and open environment. The
   src="images/here1.jpg"
 %}
 
-According to the [Ventana Ranch Community Park Jumper Map](http://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view)  provided by the City of Albuquerque, there was nothing but desert and dirt before 2013. Taken in August, 2012, the aerial photograph undoubtedly indicates that the Ventana Ranch Park didn't exist before August 2012. The original location is surrounded by the desert to the East, Universe Road to the West, and the shopping center to the South. Its current and vibrant location is drastically different from its desolate desert origins. [^source7]
+According to the [Ventana Ranch Community Park Jumper Map](http://www.cabq.gov/parksandrecreation/images/VENTANA%20RANCH%20COMMUNITY.jpg/view)  provided by the City of Albuquerque, the site was unrecognisable before 2013. Taken in August, 2012, the aerial photograph undoubtedly indicates that the Ventana Ranch Park didn't exist before August 2012. The site was surrounded by dirt and shrubbery. Just imagine, many years ago this site was a vast desert landscape which was simply inaccessible to visitors. In its current state, the artwork is surrounded by the desert to the East, Universe Road to the West, and the shopping center to the South. Its current and vibrant location is drastically different from its desolate desert origins. [^source7]
 
-The convenient parking makes it completely accessible to view the artwork up close. A person can just step outside their vehicle and walk a short distance to view the artwork.  It can also be accessed by the sidewalks emerging from the playground or neighborhoods. The playground is directly located to the right of artwork.  A shopping center can be seen in the distance but isn’t too much of an interference to environment’s peacefulness.  
+The convenient parking makes it completely accessible to view the artwork up close. A person can just step outside their vehicle and walk a short distance to view the artwork. It can also be accessed by the sidewalks emerging from the playground or neighborhoods. The playground is directly located to the right of artwork.  A shopping center can be seen in the distance but isn’t too much of an interference to environment’s peacefulness.  
 
 Because of its concave arrangement, some trees block the view of the windows. The blocking trees make it difficult to fully appreciate the scope of the artwork. The same can also be said about the protruding light posts from the nearby parking lot.
 
