@@ -56,7 +56,7 @@ The Holocaust mounment was built in 1998 by a sculptor Jake Lovato. There were a
 
 {% include figure.html
   class="img-center"
-  width="75%"
+  width="100%"
   caption="Holocaust"
   src="images/Holocaust-3.jpg"
 %}
