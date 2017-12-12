@@ -19,7 +19,7 @@ Dequez Irving
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="25%"
   caption="arial view"
   src="images/street-view-holocaust.png"
 %}
@@ -40,7 +40,7 @@ The Monument is located in downtown Alburquerque. Off of third and Tijeras, in a
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="Holocaust-43jpg..png"
+  caption="Holocaust"
   src="images/Holocaust-43jpg..png"
 %}
 
