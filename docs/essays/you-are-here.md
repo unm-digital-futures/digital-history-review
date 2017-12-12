@@ -36,7 +36,7 @@ The artwork was designed and created by Rachel Stevens. The project was construc
 The art project is located in the beautiful Ventanas Ranch Park in Albuquerque's Westside. The park can be found at Universe Road near the Irving intersection. [^source4] It's a fitting location because “ventana” is actually the Spanish word for “window.” Access to this location is quite difficult because of its distant location. This artwork can easily be overlooked while driving on the street if you don't know what to look for.  
 
 ## Appearance
-The artwork is comprised of five windows but each is distinct in appearance. They're all made of steel and are painted in blue or green hues [^source5]. The first window is green and the pane appears to held up by a soda can. It also has a charming bird located on the top-right of the window.
+The artwork is comprised of five windows but each is distinct in appearance. They're all made of steel and are painted in blue or green hues [^source5] The first window is green and the pane appears to held up by a soda can. It also has a charming bird located on the top-right of the window.
 
 
 {% include figure.html
@@ -75,7 +75,7 @@ Because of its concave arrangement, some trees block the view of the windows. Th
   caption="Figure 5. Here 7-Trees and light post blocking the artwork"
   src="images/here7.jpg" %}
   
-The artwork is also situated near the entrance of the park. The noise of the approaching vehicles occasionally interrupts the tranquility of the artwork. It also makes viewing the artwork from the opposite side slightly hazardous because of the approaching vehicles.The car noise can sometimes interfere with the overall tranquility.
+The artwork is also situated near the entrance of the park. The noise of the approaching vehicles occasionally interrupts the tranquility of the artwork. It also makes viewing the artwork from the opposite side slightly hazardous because of the approaching vehicles. The car noise can sometimes interfere with the overall tranquility.
 
 {% include figure.html
   class="img-center"
