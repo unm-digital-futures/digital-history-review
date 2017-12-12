@@ -91,5 +91,5 @@ The area around Zimmerman was once a empty space. Now it's the main attraction o
 President James Zimmerman and architect John Meem would be very pleased to find out that the university still values their visions. From 1938 till now the University of New Mexico strives to keep the culture of New Mexico alive and well on campus. Upgrading buildings when needed and using the adobe style to preserve that vision. The fact that Zimmerman Library was built in the 30s and is still going strong today 70 odd years later is all John Meem could've asked for. Essentially using Zimmerman library as a time capsule to celebrate the visions of great people and the culture of New Mexico.
 
 ### Footnotes
-[^source1]: University of New Mexico [Celebrating Zimmerman @75](http://library.unm.edu/zimmerman75/index.php)
+[^source1]: University of New Mexico. [Celebrating Zimmerman @75](http://library.unm.edu/zimmerman75/index.php)
 
