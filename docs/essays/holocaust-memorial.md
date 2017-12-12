@@ -35,7 +35,12 @@ It would be kind of crazy to think a place like Albuquerque, New Mexico would ha
 
 ## Busy Area
 
-The Monument is located in downtown Alburquerque. Off of third and Tijeras, in a very busy part of that area. The monument is located in front of a Hyatt hotel, across the street from the a Bank of Albuquerque, right by a parking garage entrance.There are tons of trees without leaves on the branches that surround the art piece, which makes the art piece hard to see because the way it blinds in with the trees so well. Yes the monument is in a very good place where it can be noticed, but it is also in a place where it can go unnoticed. Due to the places that are in the surrounding area of the monument, a lot of people just come and go. Not really looking at the monument realizing that it is art and jus some tree look like. If a person is standing at the Bank of Alburquerque across the street, they honsetly just might think it's a tree. If a person is by the parking garage they might actually glance at the piece, but think nothing of it.
+The Monument is located in downtown Alburquerque. Off of third and Tijeras, in a very busy part of that area. The monument is located in front of a Hyatt hotel, across the street from the a Bank of Albuquerque, right by a parking garage entrance.There are tons of trees without leaves on the branches that surround the art piece, which makes the art piece hard to see because the way it blinds in with the trees so well. 
+{% include aside.html
+  class="pullquote"
+  text="Even though it's a jewish monument, it reminds people of the diverse culture here in NM"
+  %}
+Yes the monument is in a very good place where it can be noticed, but it is also in a place where it can go unnoticed. Due to the places that are in the surrounding area of the monument, a lot of people just come and go. Not really looking at the monument realizing that it is art and jus some tree look like. If a person is standing at the Bank of Alburquerque across the street, they honsetly just might think it's a tree. If a person is by the parking garage they might actually glance at the piece, but think nothing of it.
 
 {% include figure.html
   class="img-left"
@@ -44,10 +49,7 @@ The Monument is located in downtown Alburquerque. Off of third and Tijeras, in a
   src="images/Holocaust-43.png"
 %}
 
-{% include aside.html
-  class="pullquote"
-  text="Even though it's a jewish monument, it reminds people of the diverse culture here in NM"
-  %}
+
 
 ## The Monument Itself
 The Holocaust mounment was built in 1998 by a sculptor Jake Lovato. There were also other designers on the building whose names are listed on the memorial. The date it was officially dediacted to the city was January 1st 1998.[^source] The monument was built with steel and granite pillars. The look of the building is a metal sculpture that depicts bodies rising in a smoke stack. Five triangular columns(panels) surrounding the sculpture and each columns includes info about the holocaust. Letting people know about important events of the holocaust and some things that went on during that period. Obviously with it being a memorial you can go visit it. Admission is free but some form of ID is required of the people visiting at the site. From a distance most people would think it is honestly nothing important. When the mounment lights at night or early in the afternoon when near it you can see the people and the smoke on the mounment.
@@ -55,7 +57,7 @@ The Holocaust mounment was built in 1998 by a sculptor Jake Lovato. There were a
 {% include figure.html
   class="img-center"
   width="75%"
-  caption="Holocaust-43jpg..png"
+  caption="Holocaust"
   src="images/Holocaust-3.jpg"
 %}
 
