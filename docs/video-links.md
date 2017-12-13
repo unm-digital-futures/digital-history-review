@@ -10,7 +10,7 @@ American Ten Pins: [site](http://www.americantenpins.com/) | [video review](http
 
 The Green Book: [site](http://publicdomain.nypl.org/greenbook-map/) | [video review](https://www.youtube.com/watch?v=C7tGm8KU7uA)
 
-Mapping the Gulag: [site](http://www.gulagmaps.org) | [video review](https://m.youtube.com/watch?v=wFMJK9HdhjA)
+Mapping the Gulag: [site](http://www.gulagmaps.org) | [video review](https://youtu.be/3QXH_b2Hcbo)
 
 Georgetown Slavery Archive: [site](http://slaveryarchive.georgetown.edu/about) | [video review](https://youtu.be/bifsQcL-CGw)
 
