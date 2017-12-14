@@ -18,7 +18,7 @@ In 1939, [C.G. Wallace and S.D. Hambaugh](https://www.nps.gov/nr/travel/route66/
 ## The Architecture & Location
 The Spanish and Pueblo inspired architecture played a large role in representing the vast culture Albuquerque had to offer. Adobe Pueblo style with arches and tight corners are shown in the structure of the De Anza. The main light brown colored buidling with white highlights and brick accents inspired by surrounding homes and houses on the reservation served as a marker for the De Anza.
 {% include juxtapose.html
-image1="/essays/images/Photo1.png"
+image1="/essays/images/Image1DeAnza.png"
 image2="/essays/images/Photo2DeAnza.png"
 caption="The De Anza Motor Lodge Ariel Shot"
 %}
