@@ -87,7 +87,7 @@ Parq Central hotel is conveniently located next to the freeway for fast travel, 
 {% include figure.html
   class="img-right"
   width="40%"
-  caption="Santa Fe Railway Hospital vs. the Parq Central Hotel experience (NW view of downtown Albuquerque)."
+  caption="Santa Fe Railway Hospital vs. the Parq Central Hotel experience."
   src="images/TBImage5.png"
 %}
 
