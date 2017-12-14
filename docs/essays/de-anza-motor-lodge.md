@@ -71,7 +71,7 @@ The culture of the Zuni people had been eteched into this building only for it t
 The public has to trust that the value of the mural out-weighs any other benefit. This exact thought represents the true meaning of a hidden gem. The De Anza can only speak through the mystery of the mural in the basement that the public hears of but may only see if entrusted to respect what it represents.
 {% include figure.html
   class="img-center"
-  width="45%"
+  width="50%"
   caption="The motor lodge today"
   src="images/TheDeAnzaNow.jpg"%}
 #### Footnotes
