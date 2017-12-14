@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Playball');
+
 .jumbotron h1 {
     color: #D44D5C;
+    font-family: 'Playball', cursive;
 }
 h2 {
   color: #071013;
