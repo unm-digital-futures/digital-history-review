@@ -6,8 +6,13 @@ h2{
  font-family: 'Anton', sans-serif;
  font-size: 30px;
 }
+
 h3{
  color:black;
  font-family: 'Anton', sans-serif;
  font-size: 20px;
+}
+
+blockquote{
+ color: sky blue;
 }
