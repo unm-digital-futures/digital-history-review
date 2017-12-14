@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Playball');
+@import url('https://fonts.googleapis.com/css?family=Niconne');
 
 .jumbotron h1 {
     color: #D44D5C;
     font-family: 'Playball', cursive;
 }
 h2 {
-  color: #071013;
+    color: #071013;
+    font-family: 'Niconne', cursive;
 }
 h3 {
   color: #773344; 
