@@ -30,7 +30,7 @@ Later on in the 1950's, a coffee shop and gift shop were added to the motor lodg
   text="[CULTURE](https://www.merriam-webster.com/dictionary/culture):the customary beliefs, social forms, and material traits of a racial, religious, or social group; the characteristic features of everyday existence (such as diversions or a way of life) shared by people in a place or time."%} 
 {% include figure.html
   class="img-left"
-  width="43%"
+  width="40%"
   caption="Postcard of The De Anza"
   src="images/TheDeAnzaPostcard.jpg"%} 
 The incorporation of both [Spanish and Pueblo inspiration](https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html) made the De Anza Motor Lodge different than the surrounding motor lodges. The influence not only came from the culture of the state and city but of the art from the Zuni tribe. The surroudning area lacked the cultural influence that the De Anza had. Severing the De Anza from surrounding buidlings was the fact that it sat on it's own property and did not share it with any other businesses other than the ones created by founder, Wallace, in an attempt to incorporate more into the motor lodge.
