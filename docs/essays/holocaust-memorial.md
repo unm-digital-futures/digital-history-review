@@ -60,7 +60,7 @@ The Holocaust mounment was built in 1998 by a sculptor Jake Lovato. The date it 
 %}
 
 ## Representation in the Piece
-  This monumemt does represent the jewish people and shines light on holocaust, but this monment represents just more than the jewish community. The artist himself Jake Lovato was using his gift of welding, to portray the Holocaust[^JakeLovato'sJob].  Due to the fact he learned a lot about the Holocaust, before he made the piece. In a interview Jake stated "This sculpture was a blessing for me to share my gift of welding and artistic talent. I learned a lot about the holocaust and the suffering of Jews"[^WhyJakeLovatoMadeThePiece]. So he used this piece to also shine light on the Jews pain. The piece also shines a light on the different cultures that can be found here in New Mexico. You can find different items symbolizing different cultures around here in New Mexico [^BasicInfoontheMonument]. Like there are certain pieces of art representing the African American culture throughout the city of Alburquerque.This sticks out because not very many states have as many cultures as New Mexico does, or they don't embrace as much. This what help makes the New Mexico landscpae so great, is the diverse shown throughout the landscape.This helps shows the great deal of respect that New Mexico has for it's people and the places that they came from.
+  This monumemt does represent the jewish people and shines light on holocaust, but this monment represents just more than the jewish community. The artist himself Jake Lovato was using his gift of welding, to portray the Holocaust[^JakeLovatosJob].  Due to the fact he learned a lot about the Holocaust, before he made the piece. In a interview Jake stated "This sculpture was a blessing for me to share my gift of welding and artistic talent. I learned a lot about the holocaust and the suffering of Jews"[^WhyJakeLovatoMadeThePiece]. So he used this piece to also shine light on the Jews pain. The piece also shines a light on the different cultures that can be found here in New Mexico. You can find different items symbolizing different cultures around here in New Mexico [^BasicInfoontheMonument]. Like there are certain pieces of art representing the African American culture throughout the city of Alburquerque.This sticks out because not very many states have as many cultures as New Mexico does, or they don't embrace as much. This what help makes the New Mexico landscpae so great, is the diverse shown throughout the landscape.This helps shows the great deal of respect that New Mexico has for it's people and the places that they came from.
 
 ## Invisible Art
 
@@ -76,9 +76,9 @@ The Holocaust mounment was built in 1998 by a sculptor Jake Lovato. The date it 
 
 [^BasicInfoontheMonument]: WayMarking. [The Holocaust Memorial- Albuquerque, NM](http://www.waymarking.com/waymarks/WM5JJ6_The_Holocaust_Memorial_Albuquerque_NM). *waymarking.com*. [n.d.] 
 
-[^WhyJakeLovatoMadeThePiece]: Sloppy Noodle. [Sloppy Noodle - Gallup, New Mexico]         (http://www.sloppynoodle.com/wp/on-art-hunting-running-and-outreach-a-day-with-artist-jake-lovato/). *sloppynoodle:On, Art, Hunting, Running, and Outreach: A Day with Artist, Jake Lovato*. [n.d.] 
+[^WhyJakeLovatoMadeThePiece]: Sloppy Noodle. [Sloppy Noodle - Gallup, New Mexico](http://www.sloppynoodle.com/wp/on-art-hunting-running-and-outreach-a-day-with-artist-jake-lovato/). *sloppynoodle:On, Art, Hunting, Running, and Outreach: A Day with Artist, Jake Lovato*. [n.d.] 
 
-[^JakeLovato'sJob]: Sante Fe Community College. [SFCC - Sante Fe, New Mexico]                   (https://www.sfcc.edu/person/jake-lovato/). *SFCC:Home, People, Jake Lovato*. [n.d]
+[^JakeLovatosJob]: Sante Fe Community College. [SFCC - Sante Fe, New Mexico](https://www.sfcc.edu/person/jake-lovato/). *SFCC:Home, People, Jake Lovato*. [n.d]
 
 [^StatueControversy]: The New York Times Magazine.[Holocaust Revulsionism - New York, New York](http://www.nytimes.com/1997/08/17/magazine/holocaust-revulsionism.html).*Holocaust Revulsionism: Magazine, Holocaust Revulsionsim*. [n.d.]
 
