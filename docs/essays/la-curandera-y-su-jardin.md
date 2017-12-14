@@ -38,7 +38,7 @@ Reynaldo "Sonny" Rivera is a homegrown New Mexican who is considered by most to 
 ## What is a Medicine Woman
 {% include figure.html
   class="img-left"
-  width="26%"
+  width="34%"
   caption="Curandera Close Up"
   src="images/la_curandera_3.png.jpg"
 %}
