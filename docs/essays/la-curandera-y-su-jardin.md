@@ -80,7 +80,7 @@ The inspiration for the sculpture comes from the book "Bless Me, Ultima". The bo
   The statue is located in the Botanical Garden. The Botanical Garden is a historic location for not just Albuquerque, but for New Mexico. The Botonical Garden is only one mile West of Old Town on the historic Route 66.
   {% include figure.html
   class="img-left"
-  width="36%"
+  width="34%"
   caption="Entrance Sign"
   src="images/la_curandera_5.png.jpg"
 %}
@@ -90,7 +90,7 @@ The inspiration for the sculpture comes from the book "Bless Me, Ultima". The bo
   
   {% include figure.html
   class="img-left"
-  width="50%"
+  width="47%"
   caption="Herbs"
   src="images/la_curandera_10.png.jpg"
 %} 
