@@ -28,12 +28,12 @@ Later on in the 1950's, a coffee shop and gift shop were added to the motor lodg
 {% include aside.html
   class="pullquote"
   text="[CULTURE](https://www.merriam-webster.com/dictionary/culture):the customary beliefs, social forms, and material traits of a racial, religious, or social group; the characteristic features of everyday existence (such as diversions or a way of life) shared by people in a place or time."%} 
+The incorporation of both [Spanish and Pueblo inspiration](https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html) made the De Anza Motor Lodge different than the surrounding motor lodges. The influence not only came from the culture of the state and city but of the art from the Zuni tribe. The surroudning area lacked the cultural influence that the De Anza had. Severing the De Anza from surrounding buidlings was the fact that it sat on it's own property and did not share it with any other businesses other than the ones created by founder, Wallace, in an attempt to incorporate more into the motor lodge.
 {% include figure.html
   class="img-left"
-  width="40%"
+  width="35%"
   caption="Postcard of The De Anza"
   src="images/TheDeAnzaPostcard.jpg"%} 
-The incorporation of both [Spanish and Pueblo inspiration](https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html) made the De Anza Motor Lodge different than the surrounding motor lodges. The influence not only came from the culture of the state and city but of the art from the Zuni tribe. The surroudning area lacked the cultural influence that the De Anza had. Severing the De Anza from surrounding buidlings was the fact that it sat on it's own property and did not share it with any other businesses other than the ones created by founder, Wallace, in an attempt to incorporate more into the motor lodge.
 ### De Anza Motor Lodge Today
 In 2004, the De Anza Motor Lodge was placed on The National Register of Historic Places. Owned by the city of Albuquerque, several community based businesses and Route 66 restorators are working endlessly to revive and restore all that Route 66 was in a classic manner. The De Anza Motor Lodge plays a major role in restoring what Route 66 was by being a landmark for culture. Redesigning the motor lodge owuld begin to restore it's rich hisotry and life. The De Anza Motor Lodge is currently under renovation to better serve it's history.
 {% include aside.html
