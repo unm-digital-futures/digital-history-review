@@ -36,7 +36,7 @@ The Parq Central Hotel is now a source of economic stability through the steady 
 
 
 
-## Purpose of the Santa Fe Railway Hospital & Memorial Hospital
+## The Santa Fe Railway Hospital & Memorial Hospital
 
 {% include figure.html
   class="img-right"
@@ -121,4 +121,4 @@ The Parq Central Hotel did serve its purpose in boosting the economy by using hi
 
 [^Landmark]: City of Albuquerque.["Historic Landmarks"](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks), Atchison, Topeka & Santa Fe Railway Memorial Hospital. _cabq.gov_. [n.d.].
 
-[^route-66]: stuff.["The History of Route 66"](https://www.national66.org/history-of-route-66/), _national66.org_,2017.
+[^route-66]: National Historic Route 66 Federation.["The History of Route 66"](https://www.national66.org/history-of-route-66/), _national66.org_,2017.
