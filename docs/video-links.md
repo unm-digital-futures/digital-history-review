@@ -16,7 +16,7 @@ Georgetown Slavery Archive: [site](http://slaveryarchive.georgetown.edu/about) |
 
 The Dictionary of Sydney: [site](http://home.dictionaryofsydney.org) | [video review](https://www.youtube.com/watch?v=skDsbUmXDmg&feature=youtu.be)
 
-The Down Survey of Ireland: [site](http://downsurvey.tcd.ie/index.html) | [video review](https://youtu.be/SSY7siRNEvk)
+The Down Survey of Ireland: [site](http://downsurvey.tcd.ie/index.html) | [video review](https://youtu.be/sDjDrNeRbfk)
 
 DiscoverEdina: [site](http://wwwold.edina.ac.uk/projects/discoveredina_summary.html) | [video review](https://youtu.be/1niMrVbeYVY)
 
