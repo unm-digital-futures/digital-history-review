@@ -20,7 +20,10 @@ caption="Where Kelly's sits"
 src="images/kellys-aerial-view.png"
 %}
 Picture this, you just flew into Albuquerque and after a long flight all you want is a refreshing drink and some delicously fried food. As you leave the airport you stop someone next to you and ask for suggestions. So following their recommendation you head down Central Ave. Parking in the back you walk around the building, find a seat outside and check out the menu. And there you see them, the core beers. Picking your favorite, you check the food section, your mouth watering as you read over the fried food section. Originally planning for a short lunch it turns hours long as you sip your beer and enjoy the eccentric gas station feel of [Kelly's Brew Pub](http://www.kellysbrewpub.com/).
-> Have a beer while soaking in the history around you!
+{% include full-width.html
+  class="pullquote"
+  text="Have a beer while soaking in the history around you!"
+%} 
 ## **Jones Motor Co.**
 
  {% include figure.html
