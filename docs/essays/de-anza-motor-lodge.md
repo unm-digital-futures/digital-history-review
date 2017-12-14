@@ -17,11 +17,12 @@ In 1939, [C.G. Wallace and S.D. Hambaugh](https://www.nps.gov/nr/travel/route66/
   src="images/Picturefrom1957.jpg"%}
 ## The Architecture & Location
 The Spanish and Pueblo inspired architecture played a large role in representing the vast culture Albuquerque had to offer. Adobe Pueblo style with arches and tight corners are shown in the structure of the De Anza. The main light brown colored buidling with white highlights and brick accents inspired by surrounding homes and houses on the reservation served as a marker for the De Anza.
-{% include figure.html
-  class="img-right"
-  width="35%"
-  caption="The De Anza Motor Lodge Ariel Shot"
-  src="images/Photo2DeAnza.png"%} The building itself was different than the others that flooded Route 66 but its not the outside of the De Anza that became famous but the inside. 
+{% include juxtapose.html
+image1="/essays/images/Photo1.png"
+image2="/essays/images/Photo2DeAnza.png"
+caption="The De Anza Motor Lodge Ariel Shot"
+%}
+The building itself was different than the others that flooded Route 66 but its not the outside of the De Anza that became famous but the inside. 
 Later on in the 1950's, a coffee shop and gift shop were added to the motor lodge along with several other buildings. In 1957 a swimming pool was added to the two-point-five acre lot along Route 66. The original structure of the motor lodge was a two-story building and several one story building in a U-shape. The U-Shape structure alloswed customers to park right in front of their rooms creating a more convenient stay.After WWII, Wallace decided to plan an [excavation](https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html) for a basement. This basement would become the great canvas putting indigenous art, culture, the city of Albuquerque, and the De Anza on everyone's map. 
 {% include aside.html
   class="pullquote"
