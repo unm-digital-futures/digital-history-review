@@ -22,7 +22,7 @@ The building itself was different than the others that flooded Route 66 but its 
   class="img-right"
   width="35%"
   caption="The De Anza Motor Lodge 1957 Postcard"
-  src="images/Image1DeAnza.png"%}
+  src="images/Image1DeAnza.jpeg"%}
 Later on in the 1950's, a coffee shop and gift shop were added to the motor lodge along with several other buildings. In 1957 a swimming pool was added to the two-point-five acre lot along Route 66. The original structure of the motor lodge was a two-story building and several one story building in a U-shape. The U-Shape structure alloswed customers to park right in front of their rooms creating a more convenient stay.After WWII, Wallace decided to plan an [excavation](https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html) for a basement. This basement would become the great canvas putting indigenous art, culture, the city of Albuquerque, and the De Anza on everyone's map. 
 {% include aside.html
   class="pullquote"
