@@ -76,4 +76,8 @@ The Holocaust mounment was built in 1998 by a sculptor Jake Lovato. There were a
 
 [^BasicInfoontheMonument]: WayMarking. [The Holocaust Memorial- Albuquerque, NM](http://www.waymarking.com/waymarks/WM5JJ6_The_Holocaust_Memorial_Albuquerque_NM). *waymarking.com*. [n.d.] 
 
-[^WhyJakeLovatoMadeThePiece]: Sloppy Noodle. [Sloppy Noodle - Gallup, New Mexico]            (http://www.sloppynoodle.com/wp/on-art-hunting-running-and-outreach-a-day-with-artist-jake-lovato/) 
+[^WhyJakeLovatoMadeThePiece]: Sloppy Noodle. [Sloppy Noodle - Gallup, New Mexico]         (http://www.sloppynoodle.com/wp/on-art-hunting-running-and-outreach-a-day-with-artist-jake-lovato/). *sloppynoodle:On, Art, Hunting, Running, and Outreach: A Day with Artist, Jake Lovato*. [n.d.] 
+
+[^JakeLovato'sJob]: Sante Fe Community College. [SFCC - Sante Fe, New Mexico]                   (https://www.sfcc.edu/person/jake-lovato/). *SFCC:Home, People, Jake Lovato*. [n.d]
+
+
