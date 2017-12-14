@@ -26,7 +26,7 @@ Cleveland Historical: [site](https://clevelandhistorical.org/) | [video review](
 
 History of Mexico: [site](http://www.history.com/topics/mexico/history-of-mexico) [site](http://history-world.org/mexico.htm) [site](http://www.geographia.com/mexico/mexicohistory.htm) [site](https://www.britannica.com/place/Mexico) | [video review](https://www.youtube.com/watch?v=BzaZ2HHWWEY)
 
-Influenza Encyclopedia: [site](http://www.influenzaarchive.org/index.html) | [video review](https://http://www.youtube.com/watch?v=MVO4LrztWPA)
+Influenza Encyclopedia: [site](http://www.influenzaarchive.org/index.html) | [video review](http://www.youtube.com/watch?v=MVO4LrztWPA)
 
 Black Past: [site](http://www.blackpast.org) | [video review](https://www.youtube.com/watch?v=20AY8reSV04&feature=youtu.be)
 
