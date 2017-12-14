@@ -12,7 +12,7 @@ text="The Hidden Art of Route 66"
 In 1939, [C.G. Wallace and S.D. Hambaugh](https://www.nps.gov/nr/travel/route66/de_anza_motor_lodge_albuquerque.html) took advantage of the automobile boom and built a motor lodge along busy Route 66 in Albuquerque, New Mexico. The motor lodge served as a cozy place for travellers to stay while driving through Albuquerque. Wallace developed a relationship with the Zuni Tribe through years of working on their reservation. After some time the De Anza Motor Lodge became a trading post that exposed travllers to indigenous art from the Zuni Tribe and gave opporunity for the Zuni tribe to gain a cash flow. 
 {% include figure.html
   class="img-left"
-  width="45%"
+  width="35%"
   caption="The De Anza Motor Lodge 1957 Postcard"
   src="images/Picturefrom1957.jpg"%}
 ## The Architecture & Location
