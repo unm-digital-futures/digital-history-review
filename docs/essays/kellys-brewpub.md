@@ -10,7 +10,7 @@ image="images/kellys-brewpub-panner.jpg"
 text="Eat, Drink and Explore"
 %} 
 
-Merin Rodgers
+*Merin Rodgers*
 
 
 {% include figure.html
