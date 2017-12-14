@@ -31,7 +31,7 @@ Walk through the same halls that railway workers and patients did with modern re
   src="images/TBImage3.png"
 %}
 
-The Parq Central Hotel is now a source of economic stability through the steady flow of tourists. However, it was originally known as the Santa Fe Railway Hospital which was [created out of necessity](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=65) in 1926 in order to [treat injured railway workers](http://www.kansasmemory.org/item/227818)[^Injured-workers]. Three buildings were created: the hospital, the physician's residence, and the boiler building. Later, it would be repurposed as a [mental institution](http://www.kansasmemory.org/item/227818) for [children](http://www.hotelparqcentral.com/press-articles/former-mental-hospital-made-into-hotel-building-was-once-memorial-hospital.htm) before it would be considered a [historic site](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks). [Rennovations](http://www.studioswarch.com/clone-hotel-parq-central) transformed the abandoned mental institution into what we now know as Parq Central Hotel.
+The Parq Central Hotel is now a source of economic stability through the steady flow of tourists. However, it was originally known as the Santa Fe Railway Hospital which was [created out of necessity](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=65) in 1926 in order to [treat injured railway workers](http://www.kansasmemory.org/item/227818)[^Injured-workers]. Three buildings were created: the hospital, the physician's residence, and the boiler building. Later, it would be repurposed as a [mental institution](http://www.kansasmemory.org/item/227818) for children before it would be considered a [historic site](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks). [Rennovations](http://www.studioswarch.com/clone-hotel-parq-central) transformed the abandoned mental institution into what we now know as Parq Central Hotel.
 
 
 
@@ -45,7 +45,7 @@ The Parq Central Hotel is now a source of economic stability through the steady 
   src="images/TBImage1.png"
 %}
 
-Medical assistance was provided for railway workers and later medical treatment for mentally ill children. Beyond this however, the cultural perception and meaning of the space literally began to create a community around it; later supporting another mode of transportation when the freeway and streets were built around it marking its importance.The [Santa Fe Railway Hospital](http://www.bbc.com/travel/story/20130520-a-hospital-turned-hotel-in-new-mexico) as well as the Memorial Hospital served their purpose by redefining the space in which it occupied.
+Medical assistance was provided for railway workers and later medical treatment for [mentally ill children](http://www.hotelparqcentral.com/press-articles/former-mental-hospital-made-into-hotel-building-was-once-memorial-hospital.htm). Beyond this however, the cultural perception and meaning of the space literally began to create a community around it; later supporting another mode of transportation when the freeway and streets were built around it marking its importance.The [Santa Fe Railway Hospital](http://www.bbc.com/travel/story/20130520-a-hospital-turned-hotel-in-new-mexico) as well as the Memorial Hospital served their purpose by redefining the space in which it occupied.
 
 
 
