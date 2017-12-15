@@ -10,6 +10,16 @@ image="images/ABQhighfront1.jpg"
 text="Would You Live in a High School?"
 %} 
 
+{% include figure.html
+  class="img-rightt"
+  width="25%"
+  caption="Google Street View"
+  src="images/GoogleViewABQHigh.PNG"
+%}GoogleViewABQHigh.PNG
+
+
+
+
 ### By Audriana McManus  
 
 {% include figure.html
@@ -69,7 +79,7 @@ Before the idea of Albuquerque High came about, the city had to be planned. With
   text="Old Albuquerque High was designed by 3 different architects through out many years."
   %}
 
-When the first building was commisioned, it was created by an El Paso architect Henry C. Trost who designed it to face Central. Old Main was designed in the Gothic Revival style, which was mimicked by the next four buildings. The second building, the Manual Arts Building, was designed by local artist Gorge Williamson in 1927 on Arno Street. Another local architect, Louis Hesselden, was commissioned to create the last three buildings, due to New Deal funding and WPA manpower.[^batman]
+When the first building was commissioned, it was created by an El Paso architect Henry C. Trost who designed it to face Central. Old Main was designed in the Gothic Revival style, which was mimicked by the next four buildings. The second building, the Manual Arts Building, was designed by local artist Gorge Williamson in 1927 on Arno Street. Another local architect, Louis Hesselden, was commissioned to create the last three buildings, due to New Deal funding and WPA manpower.[^batman]
 
 ## What is it Now?
 
@@ -80,7 +90,7 @@ caption="The Lofts at Albuquerque"
 src="images/ABQhighrecent1.JPG"
 %}
 
-The school was unable to keep up with new health codes and began to fall apart. A new Albuquerque High was built only about a mile away, and Old Albuquerque was closed in 1974. The building was eventually marked as a "blighted area" by City Council and was scheduled to be bulldozed and turned into a parking lot. The [Albuquerque High School Alumni Association](http://www.ahsalumniassoc.com/index.html), created in 1994, became the leaders in helping to preserve the old school.[^batgirl] Eventually, the developer Dekker, Perich, & Sabatini was brought on to convert the campus to office space and loft apartments.[^redhood] The project was completed in 2002[^joker] and was so successful that the city decided to draft a master plan in 2005 to guide further revitilization to the surrounding areas of the East Downtown District[^poisonivy]. As the school was considered a historic building at this point, the school walls, chalkboards, floors, and ceilings were preserved.  
+The school was unable to keep up with new health codes and began to fall apart. A new Albuquerque High was built only about a mile away, and Old Albuquerque was closed in 1974. The building was eventually marked as a "blighted area" by City Council and was scheduled to be bulldozed and turned into a parking lot. The [Albuquerque High School Alumni Association](http://www.ahsalumniassoc.com/index.html), created in 1994, became the leaders in helping to preserve the old school.[^batgirl] Eventually, the developer Dekker, Perich, & Sabatini was brought on to convert the campus to office space and loft apartments.[^redhood] The project was completed in 2002[^joker] and was so successful that the city decided to draft a master plan in 2005 to guide further revitalization to the surrounding areas of the East Downtown District[^poisonivy]. As the school was considered a historic building at this point, the school walls, chalkboards, floors, and ceilings were preserved.  
 
 {% include figure.html
 class="img-right"
@@ -91,7 +101,7 @@ src="images/ABQhighrecent2.jpg"
 
 ## Tourist Stop?
 
-The Old Albuquerque High, or as the business is called, The Lofts at Albuquerque High, is a stunning piece of architecture that blends history with functionality. If visiting Albuquerque and cruising down Central, it is a gorgeous place to wander around in as long as you don't disturb the residents. The history of this campus is rich and so many people are proud what it was and what it has become. It should be on everyones list to at least pass by.
+The Old Albuquerque High, or as the business is called, The Lofts at Albuquerque High, is a stunning piece of architecture that blends history with functionality. If visiting Albuquerque and cruising down Central, it is a gorgeous place to wander around in as long as you don't disturb the residents. The history of this campus is rich and so many people are proud what it was and what it has become. It should be on everyone's list to at least pass by.
 
 #### Sources
 
