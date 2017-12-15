@@ -25,15 +25,14 @@ text="Would You Live in a High School?"
 
 ### By Audriana McManus  
 
+School buildings may not seem like the biggest historical landmark in a city; however, they have probably seen the most life and changes through the years. When Albuquerque was established, school was not the most important thing on the agenda. Though when the city began to grow larger and larger and more saloons established themselves on the street that would eventually be called Central, Albuquerque High was created.
+
 {% include figure.html
-  class="img-left"
+  class="img-center"
   width="25%"
   caption="ABQ High Front"
   src="images/ABQhighfront.jpg"
 %}
-
-School buildings may not seem like the biggest historical landmark in a city; however, they have probably seen the most life and changes through the years. When Albuquerque was established, school was not the most important thing on the agenda. Though when the city began to grow larger and larger and more saloons established themselves on the street that would eventually be called Central, Albuquerque High was created.
-
 
 
 
