@@ -17,13 +17,13 @@ text="Would You Live in a High School?"
   src="images/GoogleViewABQHigh.PNG"
 %}
 
-### By Audriana McManus  
-
-
-{% include aside.html
+{% include full-width.html
   class="pullquote"
   text="312 Central Ave NE, Albuquerque, NM 87102"
-  %}
+%}
+
+
+### By Audriana McManus  
 
 School buildings may not seem like the biggest historical landmark in a city; however, they have probably seen the most life and changes through the years. When Albuquerque was established, school was not the most important thing on the agenda. Though when the city began to grow larger and larger and more saloons established themselves on the street that would eventually be called Central, Albuquerque High was created.
 
@@ -81,7 +81,7 @@ Before the idea of Albuquerque High came about, the city had to be planned. With
   text="Old Albuquerque High was designed by 3 different architects through out many years."
   %}
 
-When the first building was commissioned, it was created by an El Paso architect Henry C. Trost who designed it to face Central. Old Main was designed in the Gothic Revival style, which was mimicked by the next four buildings. The second building, the Manual Arts Building, was designed by local artist Gorge Williamson in 1927 on Arno Street. Another local architect, Louis Hesselden, was commissioned to create the last three buildings, due to New Deal funding and WPA manpower.[^batman4] 
+When the first building was commissioned, it was created by an El Paso architect Henry C. Trost who designed it to face Central. Old Main was designed in the [Gothic Revival style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/gothic-revival.html), which was mimicked by the next four buildings. The second building, the Manual Arts Building, was designed by local artist Gorge Williamson in 1927 on Arno Street. Another local architect, Louis Hesselden, was commissioned to create the last three buildings, due to New Deal funding and WPA manpower.[^batman4] 
 
 ## What is it Now?
 
