@@ -15,6 +15,23 @@ text="Would You Live in a High School?"
   text="312 Central Ave NE, Albuquerque, NM 87102"
   %}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {% include figure.html
   class="img-right"
   width="25%"
