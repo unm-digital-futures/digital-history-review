@@ -6,15 +6,13 @@
 
  ![native-land.ca Home Page](images/native-landCA.png "native-land.ca Home Page")
  
- under construction 
- 
- ### Maps
+
  
  under construction 
  
  ### Design
  
- under construction 
+ The design of this website is
  
  ![Languages](images/native-land1.png "Launguages of North America")
  
