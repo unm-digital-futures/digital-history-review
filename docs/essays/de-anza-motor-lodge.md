@@ -44,7 +44,7 @@ The De Anza Motor Lodge sat encased by four streets, Central and Copper running 
 The De Anza Motor Lodge sits on the same property that it was built on. The foundation in crumbles, the paint peeling, and the prpoperty guarded. Central, Route 66, ranges from a more modern to poverty stricken area. There ranges from thrift shops to modern shops to tents from homeless people. The motel sits within a mile of the University of New Mexico, which creates the surrounding neighborhood to be extremely diverse. Sitting next to it is a bank and on the other is shoe repair man store. Across from it lie a bar and a Thai resturant, a much different community than in it's prime. Currently, Central is under construction to introduce a new modern public transort system called A.R.T. (Albuquerque Rapod Transit). [^source3]
 {% include juxtapose.html
 image1="/essays/images/MapofDeAnza.png"
-image2="/essays/images/juxtaDeAnza.jpg"
+image2="/essays/images/juxtaDeAnza.PNG"
 caption="The images of above are of historic De Anza in the 50's and today in 2017."
 %}
 ## The Hidden Gem of the De Anza Motor Lodge
