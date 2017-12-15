@@ -62,7 +62,7 @@ Wallace asked an artist from the Zuni tribe, Anthony Edaakie Sr., to paint a mur
 ## The Fate Of The De Anza Motor Lodge
 After WWII in the late 1950's, hotel chains began to pop up and eventually put local motor lodges out of business. The remodling and changes Wallace had made to the De Anza had allowed it to stay in business much longer than many other motor lodges. The motor lodge was listed as American Automobile Association-approved accomodation until the ealry 1990's. C.G. Wallace died in 1993, shortly after the motor lodge was sold and continued this cycle until 2003 when it was purchased by the [City of Albuquerque](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks) to save it from demolition. [^source2]
 ### The Art Left Behind
-The art of the De Anza is hidden from the public, not on purpose but for the sole reeason of preserving the history of [De Anza Motor Lodge](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/). The history of Albuquerque lies in the remains of what this art. THe art can be found in the basement of the main building or lobby.
+The art of the De Anza is hidden from the public, not on purpose but for the sole reeason of preserving the history of [De Anza Motor Lodge](http://www.route66news.com/2017/05/24/redevelopment-de-anza-motor-lodge/). The history of the De Anza Motor Lodge lies in the art left behind. The art can be found in the basement of the main building or lobby.
 The culture of the Zuni people had been eteched into this building only for it to be hidden away. With the lack of ability to see this art how is the public supposed to be intrigued to save this piece of culture? 
 {% include aside.html
   class="pullquote"
