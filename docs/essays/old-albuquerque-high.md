@@ -10,28 +10,6 @@ image="images/ABQhighfront1.jpg"
 text="Would You Live in a High School?"
 %} 
 
-{% include aside.html
-  class="pullquote"
-  text="312 Central Ave NE, Albuquerque, NM 87102"
-  %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {% include figure.html
   class="img-right"
   width="25%"
@@ -42,6 +20,10 @@ text="Would You Live in a High School?"
 ### By Audriana McManus  
 
 
+{% include aside.html
+  class="pullquote"
+  text="312 Central Ave NE, Albuquerque, NM 87102"
+  %}
 
 School buildings may not seem like the biggest historical landmark in a city; however, they have probably seen the most life and changes through the years. When Albuquerque was established, school was not the most important thing on the agenda. Though when the city began to grow larger and larger and more saloons established themselves on the street that would eventually be called Central, Albuquerque High was created.
 
