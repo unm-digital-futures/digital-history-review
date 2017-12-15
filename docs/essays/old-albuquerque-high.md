@@ -11,11 +11,11 @@ text="Would You Live in a High School?"
 %} 
 
 {% include figure.html
-  class="img-rightt"
+  class="img-right"
   width="25%"
   caption="Google Street View"
   src="images/GoogleViewABQHigh.PNG"
-%}GoogleViewABQHigh.PNG
+%}
 
 
 
