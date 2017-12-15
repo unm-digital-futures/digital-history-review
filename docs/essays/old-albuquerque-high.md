@@ -17,7 +17,10 @@ text="Would You Live in a High School?"
   src="images/GoogleViewABQHigh.PNG"
 %}
 
-
+{% include aside.html
+  class="pullquote"
+  text="312 Central Ave NE, Albuquerque, NM 87102"
+  %}
 
 
 ### By Audriana McManus  
@@ -43,7 +46,7 @@ School buildings may not seem like the biggest historical landmark in a city; ho
 
 
 
-## Dates For Old Albuquerque High
+## How Old Albuquerque High Came to Be
 
 {% include aside.html
   class="pullquote"
@@ -59,7 +62,7 @@ The area around the school was also in constant flux. One of the buildings, the 
   text=" The arroyo which ran along the north side was quite deep and it often was the ground used for settling disputes. In 1915, it was the meeting place of two rival gangs, the Capulets and the Montagues; and in 1917 the rival gangs who used the area were the Hatfields and the McCoys."
 %}
 
-The other buildings included the Manual Arts Building which was built in 1927, the Classroom Administration Building built in 1937, and the Library Building, the final structure, in 1940.[^catwoman1]
+The other buildings included the Manual Arts Building which was built in 1927, the Classroom Administration Building built in 1937, and the Library Building, the final structure, in 1940.[^catwoman1] Around these buildings Albuquerque continued to grow, pushing further and further out from Central.
 
 
 ## Architecture
@@ -81,6 +84,8 @@ Before the idea of Albuquerque High came about, the city had to be planned. With
 
 When the first building was commissioned, it was created by an El Paso architect Henry C. Trost who designed it to face Central. Old Main was designed in the Gothic Revival style, which was mimicked by the next four buildings. The second building, the Manual Arts Building, was designed by local artist Gorge Williamson in 1927 on Arno Street. Another local architect, Louis Hesselden, was commissioned to create the last three buildings, due to New Deal funding and WPA manpower.[^batman4]
 
+
+
 ## What is it Now?
 
 {% include figure.html
@@ -99,7 +104,7 @@ caption="The Lofts at Albuquerque High"
 src="images/ABQhighrecent2.jpg"
 %}
 
-## Tourist Stop?
+## Beautiful place to stop and Appreciate
 
 The Old Albuquerque High, or as the business is called, The Lofts at Albuquerque High, is a stunning piece of architecture that blends history with functionality. If visiting Albuquerque and cruising down Central, it is a gorgeous place to wander around in as long as you don't disturb the residents. The history of this campus is rich and so many people are proud what it was and what it has become. It should be on everyone's list to at least pass by.
 
