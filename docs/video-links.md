@@ -18,7 +18,7 @@ The Dictionary of Sydney: [site](http://home.dictionaryofsydney.org) | [video re
 
 The Down Survey of Ireland: [site](http://downsurvey.tcd.ie/index.html) | [video review](https://youtu.be/sDjDrNeRbfk)
 
-DiscoverEdina: [site](http://wwwold.edina.ac.uk/projects/discoveredina_summary.html) | [video review](https://youtu.be/1niMrVbeYVY)
+The Atlas Of Early Printing: [site](http://atlas.lib.uiowa.edu/printing.php) | [video review](https://youtu.be/1niMrVbeYVY)
 
 Native-Land.ca: [site](https://native-land.ca/) | [video review](https://www.youtube.com/watch?v=_Umwe5gKH0A)
 
