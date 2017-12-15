@@ -94,7 +94,12 @@ src="images/ABQhighrecent1.JPG"
 
 The school was unable to keep up with new health codes and began to fall apart. A new Albuquerque High was built only about a mile away, and Old Albuquerque was closed in 1974. The building was eventually marked as a "blighted area" by City Council and was scheduled to be bulldozed and turned into a parking lot. The [Albuquerque High School Alumni Association](http://www.ahsalumniassoc.com/index.html), created in 1994, became the leaders in helping to preserve the old school.[^batgirl1] Eventually, the developer Dekker, Perich, & Sabatini was brought on to convert the campus to office space and loft apartments.[^redhood1] The project was completed in 2002[^joker1] and was so successful that the city decided to draft a master plan in 2005 to guide further revitalization to the surrounding areas of the East Downtown District[^poisonivy1]. As the school was considered a historic building at this point, the school walls, chalkboards, floors, and ceilings were preserved.  
 
-Due to the success of Old Albuquerque's revitalization, many other buildings on central were encouraged to fix up as well. The city encouraged historic Albuquerque to become a "park once" place and a "pedestrian first" place where everything should be within walking distance.[^nightwing1]
+{% include aside.html
+  class="pullquote"
+  text="Albuquerque was inspired to Revitalize."
+  %}
+
+Due to the success of Old Albuquerque's revitalization, many other buildings on central were encouraged to fix up as well. The city encouraged historic Albuquerque to become a "park once" place and a "pedestrian first" place where everything should be within walking distance.[^nightwing1] 
 
 {% include figure.html
 class="img-center"
