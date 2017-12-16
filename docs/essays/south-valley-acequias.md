@@ -69,16 +69,3 @@ Today, acequias of the South Valley serve the dual function of providing an beau
 [^source4]: Metzcar, Joseph V. "[Atrisco Grant](http://dev.newmexicohistory.org/filedetails.php?fileID=24405)," New Mexico Office of the State Historian. [n.d.]
 [^source5]: Garcia, Jorge. "[The Genesis of Acequias in Atrisco (South Valley)](http://greenfiretimes.com/2015/11/the-genesis-of-acequias-in-atrisco-the-south-valley/)," Green Fire Times. [n.d.]
 [^source6]: Center for Social Sustainable Systems, "[Agua es Sagrada Initiative](https://www.cesoss.org/agua-es-sagrada-initiative)," cesoss.org. [n.d.]
-
-http://www.albuqhistsoc.org/SecondSite/pkfiles/pk208landgrants.htm
-https://lajicarita.wordpress.com/2014/10/01/say-no-to-zombie-developments/
-https://en.wikipedia.org/wiki/Atrisco_Land_Grant
-https://en.wikipedia.org/wiki/South_Valley,_New_Mexico
-http://dev.newmexicohistory.org/filedetails.php?fileID=24405
-http://newmexicohistory.org/people/acequias-the-way-of-the-water
-https://www.farmflavor.com/new-mexico/ancient-traditions-keep-water-flowing-in-new-mexico/
-http://www.nmacequiacommission.state.nm.us/AcequiaCommission/Publications/kfrancis_harvard_proposal04.pdf
-http://newmexicohistory.org/people/iberian-origins-of-new-mexicos-community-acequias
-http://www.yesmagazine.org/issues/water-solutions/ancient-traditions-keep-desert-waters-flowing
-http://greenfiretimes.com/2015/11/the-genesis-of-acequias-in-atrisco-the-south-valley/
-http://rgis.unm.edu/getdata/
