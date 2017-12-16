@@ -11,6 +11,13 @@ image="images/acequia1.jpeg"
 text="Public Spaces of Tradition and Culture in the South Valley"
 %}
 
+{% include figure.html
+  class="img-right"
+  width="25%"
+  caption="Google Street View"
+  src="images/GoogleStreetView.jpeg"
+%}
+
 ### The Valle Atrisco (South Valley)
 
 {% include aside.html
