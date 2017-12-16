@@ -21,7 +21,7 @@ The inspiration and mastermind architect behind the creation of Zimmerman Librar
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Arial View"
+  caption="Aerial View"
   src="images/zimm9.jpg"
 %}
   
