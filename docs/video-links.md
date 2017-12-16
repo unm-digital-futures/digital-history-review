@@ -12,7 +12,7 @@ The Green Book: [site](http://publicdomain.nypl.org/greenbook-map/) | [video rev
 
 Mapping the Gulag: [site](http://www.gulagmaps.org) | [video review](https://youtu.be/3QXH_b2Hcbo)
 
-Georgetown Slavery Archive: [site](http://slaveryarchive.georgetown.edu/about) | [video review](hhttps://youtu.be/OHh3_QXjTn8)
+Georgetown Slavery Archive: [site](http://slaveryarchive.georgetown.edu/about) | [video review](https://youtu.be/OHh3_QXjTn8)
 
 The Dictionary of Sydney: [site](http://home.dictionaryofsydney.org) | [video review](https://www.youtube.com/watch?v=skDsbUmXDmg&feature=youtu.be)
 
