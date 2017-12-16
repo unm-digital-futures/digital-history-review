@@ -37,7 +37,7 @@ src="images/acequia1.jpeg"
 
 Despite the space surrounding the acequias of the South Valley changing exponentially over the past four centuries, acequias have managed to remain vital parts of the community, both as practical sources of substinance farming, and as cultural beacons that are honored and preserved. There are five acequias that currently run through the South Valley. They are the Arenal, Armijo, Atrisco, Los Padillas and Pajarito acequias.The Arenal acequia, specifically the area around the Sanchez Farms Open Space, is a great example of the dual importance of the acequias. Its location in the heart of the South Valley serves as the best represention of the importance of space to the very existence of the acequias. Additionally, it highlights how the space it occupies within the South Valley plays a unique role in shaping public interactions and notions of the aceuqias themselves.
 
-{% include figure.html class="img-right" width="50%" caption="Trail" src="images/acequia3.jpeg" %}
+{% include figure.html class="img-right" width="50%" caption="View of Downtown Albuquerque from the Barelas Neighborhood of the South Valley" src="images/SouthDowntownAlbuquerque.jpeg" %}
 
 What exsists today in the South Valley in terms of its environment is a mix of the rich agricultural lands centered around the acequias, and an expanding urban development spurred by the city of Albuquerque and private developers. The expansion of Albuquerque, largely due to factors like modernization and gentrification, has meant that acequias of the Atrisco operate in a semi-urban/semi-rural environment that is unique from most acequias, which tend to be rurally isolated.
 
