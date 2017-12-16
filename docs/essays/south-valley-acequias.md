@@ -33,6 +33,8 @@ caption="Tree lined trail along the acequia"
 src="images/acequia1.jpeg"
 %}
 
+
+
 ### The Arenal Acequia
 
 Despite the space surrounding the acequias of the South Valley changing exponentially over the past four centuries, acequias have managed to remain vital parts of the community, both as practical sources of substinance farming, and as cultural beacons that are honored and preserved. There are five acequias that currently run through the South Valley. They are the Arenal, Armijo, Atrisco, Los Padillas and Pajarito acequias.The Arenal acequia, specifically the area around the Sanchez Farms Open Space, is a great example of the dual importance of the acequias. Its location in the heart of the South Valley serves as the best represention of the importance of space to the very existence of the acequias. Additionally, it highlights how the space it occupies within the South Valley plays a unique role in shaping public interactions and notions of the aceuqias themselves.
