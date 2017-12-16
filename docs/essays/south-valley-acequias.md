@@ -64,8 +64,8 @@ Today, acequias of the South Valley serve the dual function of providing an beau
 
 [^source1]: Center for Social Sustainable Systems, "[Agua es Sagrada Initiative](https://www.cesoss.org/agua-es-sagrada-initiative)," cesoss.org. [n.d.]
 [^source2]: Center for Social Sustainable Systems, "[Agua es Sagrada Initiative](https://www.cesoss.org/agua-es-sagrada-initiative)," cesoss.org. [n.d.]
-[^source3]: Metzcar, Joseph V. "[Atrisco Grant](http://dev.newmexicohistory.org/)," New Mexico Office of the State Historian. [n.d.]
-[^source4]: Metzcar, Joseph V. "[Atrisco Grant](http://dev.newmexicohistory.org/)," New Mexico Office of the State Historian. [n.d.]
+[^source3]: Metzcar, Joseph V. "[Atrisco Grant](http://dev.newmexicohistory.org/filedetails.php?fileID=24405)," New Mexico Office of the State Historian. [n.d.]
+[^source4]: Metzcar, Joseph V. "[Atrisco Grant](http://dev.newmexicohistory.org/filedetails.php?fileID=24405)," New Mexico Office of the State Historian. [n.d.]
 [^source5]: Garcia, Jorge. "[The Genesis of Acequias in Atrisco (South Valley)](http://greenfiretimes.com/2015/11/the-genesis-of-acequias-in-atrisco-the-south-valley/)," Green Fire Times. [n.d.]
 [^source6]: Center for Social Sustainable Systems, "[Agua es Sagrada Initiative](https://www.cesoss.org/agua-es-sagrada-initiative)," cesoss.org. [n.d.]
 
