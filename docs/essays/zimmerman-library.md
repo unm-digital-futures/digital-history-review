@@ -79,10 +79,10 @@ The area around Zimmerman was once a empty space. Now it's the main attraction o
 
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="40%"
-  caption="Current day Zimmerman"
-  src="images/Zimm7.PNG"
+  caption="Zimmerman Library Aerial View"
+  src="images/zimm9.jpg"
 %}
 
 ## Closing Statement
