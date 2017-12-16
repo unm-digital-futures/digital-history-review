@@ -11,14 +11,21 @@ text="University of New Mexico's Prized Possesion."
 
 ***
 
-The inspiration and mastermind architect behind the creation of Zimmerman Library goes by the name of John Gaw Meem. Born in Brazil, Meem originally migrated to New York. After being diagnosed with tuberculosis, John Meem moved to a dryer climate. Eventually landing himself in Santa Fe from the attraction of the Santa Fe railroad. This is where his love for the architectural style of New Mexico was born. Meems first projects consisted of renovating adobe roofs on churches throughout the Pueblos of New Mexico. Thus helped improve Meems craft of building the unique style of adobe found in the southwest.
-
-{% include figure.html
+The inspiration and mastermind architect behind the creation of Zimmerman Library goes by the name of John Gaw Meem. Born in Brazil, Meem originally migrated to New York. After being diagnosed with tuberculosis, John Meem moved to a dryer climate. Eventually landing himself in Santa Fe from the attraction of the Santa Fe railroad.                                                                      {% include figure.html
   class="img-center"
   width="75%"
   caption="Historical Study Center"
-  src="images/Zimm1.PNG" %}
+  src="images/Zimm1.PNG" %} 
+  This is where his love for the architectural style of New Mexico was born. Meems first projects consisted of renovating adobe roofs on churches throughout the Pueblos of New Mexico. Thus helped improve Meems craft of building the unique style of adobe found in the southwest.
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Arial View"
+  src="images/zimm9.jpg"
+%}
+  
+  
 ## The Creation
 
 In the year 1929, one of the University of New Mexico's late presidents, James Zimmerman applied for federal money through the New deal. After receiving the financial help, the main plan was to build a core of buildings for the expanding university. President Zimmerman wanted the style of the new buildings to follow along with the culture of the adobe housing in New Mexico. John Meem, who was gaining a lot of attention through his southwest architectural style was the right man for the job. Meem was hired to commission multiple buildings on UNMs main campus. The building most famous from John Meems commissions was Zimmerman Library. [^source1]
