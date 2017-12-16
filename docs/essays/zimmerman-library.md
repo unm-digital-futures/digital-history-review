@@ -11,20 +11,14 @@ text="University of New Mexico's Prized Possesion."
 
 ***
 
-The inspiration and mastermind architect behind the creation of Zimmerman Library goes by the name of John Gaw Meem. Born in Brazil, Meem originally migrated to New York. After being diagnosed with tuberculosis, John Meem moved to a dryer climate. Eventually landing himself in Santa Fe from the attraction of the Santa Fe railroad.                                                                      {% include figure.html
+The inspiration and mastermind architect behind the creation of Zimmerman Library goes by the name of John Gaw Meem. Born in Brazil, Meem originally migrated to New York. After being diagnosed with tuberculosis, John Meem moved to a dryer climate. Eventually landing himself in Santa Fe from the attraction of the Santa Fe railroad. This is where his love for the architectural style of New Mexico was born. Meems first projects consisted of renovating adobe roofs on churches throughout the Pueblos of New Mexico. Thus helped improve Meems craft of building the unique style of adobe found in the southwest.
+
+{% include figure.html
   class="img-center"
   width="75%"
   caption="Historical Study Center"
-  src="images/Zimm1.PNG" %} 
-  This is where his love for the architectural style of New Mexico was born. Meems first projects consisted of renovating adobe roofs on churches throughout the Pueblos of New Mexico. Thus helped improve Meems craft of building the unique style of adobe found in the southwest.
+  src="images/Zimm1.PNG" %}
 
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Aerial View"
-  src="images/zimm9.jpg"
-%}
-  
   
 ## The Creation
 
@@ -63,12 +57,18 @@ Zimmerman Library was built with the Spanish Pueblo style of architecture. The l
 
 ## Spatial Space
 
-At the time of Zimmerman libraries creation, President Zimmerman wanted to preserve the culture of New Mexico. Making all the buildings adobe style created a very unique environment for the university. Being one of the first buildings put up on campus helped pave the way on how future buildings would be built. John Meems also built the library big enough to fill the needs of all the students. Not making the library too big right away helped allow for renovations through out the years. This was so Zimmerman Library could grow with the university in it's pre existing space. This philosophical building style can be attributed to how pueblo buildings are upgraded according to the occupants of that space. Which came from meems days of renovating Pueblo churches. Zimmerman library is now considered the heart of campus. [^source1] From the beginning of times where the library was placed on the unfinished part of campus to now where its a vibrant factor to the university. surrounded by the duck pond, student union building, and a couple different Halls is perfect for everywhere from any direction to come and have some quality study time. This may not be what John Meem imagined for the fututre, but the space where he erected this historical building was the perfect place to put the main library of campus. Not only is the building style with in the New Mexican culture, but also the ideology of upgrading and making a bigger library for the students of the university. Making every aspect of the building associated with President Zimmerman’s one goal.
-{% include aside.html
+At the time of Zimmerman libraries creation, President Zimmerman wanted to preserve the culture of New Mexico. Making all the buildings adobe style created a very unique environment for the university. Being one of the first buildings put up on campus helped pave the way on how future buildings would be built. John Meems also built the library big enough to fill the needs of all the students.             {% include aside.html
   class="pullquote"
   text="Making all the buildings adobe style created a very unique enviroment."
   %}
+  Not making the library too big right away helped allow for renovations through out the years. This was so Zimmerman Library could grow with the university in it's pre existing space. This philosophical building style can be attributed to how pueblo buildings are upgraded according to the occupants of that space. Which came from meems days of renovating Pueblo churches. Zimmerman library is now considered the heart of campus. [^source1] From the beginning of times where the library was placed on the unfinished part of campus to now where its a vibrant factor to the university. surrounded by the duck pond, student union building, and a couple different Halls is perfect for everywhere from any direction to come and have some quality study time. This may not be what John Meem imagined for the fututre, but the space where he erected this historical building was the perfect place to put the main library of campus. Not only is the building style with in the New Mexican culture, but also the ideology of upgrading and making a bigger library for the students of the university. Making every aspect of the building associated with President Zimmerman’s one goal.
 
+{% include figure.html
+  class="img-left"
+  width="33%"
+  caption="Zimmerman Library Aerial View"
+  src="images/zimm9.jpg"
+%}
 
 {% include figure.html
 class="img-right"
