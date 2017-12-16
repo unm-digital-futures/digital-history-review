@@ -54,7 +54,7 @@ The [Sanchez Farms Open Space](http://www.bernco.gov/community-services/sanchez-
 
 The trail running south along the acequia south from Sanchez Farms passes through a diverse range of old residential neighborhoods and lush farmlands. The trail is lined with trees throughout, which are especially beautiful in the fall months as the leaves become shades of golden yellow and red. Walking along the acequia it can be easy to forget that you are actually less than one hundred yards from major streets, intersections, and commercial shopping centers. This close proximity to commercial centers and residential neighborhoods has made the acequia popular amongst walkers, runners and bike riders.
 
-{% include figure.html class="img-right" width="50%" caption=". Photo courtesy of Asaavedra32 - Own work via wikipedia." src="images/acequia505.jpg" %}
+{% include figure.html class="img-right" width="50%" caption="Arenal Acequia. Photo courtesy of gentleartofwandering.com" src="images/acequia505.jpg" %}
 
 
 ### South Valley Acequias Today and into the Future
