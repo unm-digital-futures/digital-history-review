@@ -29,7 +29,7 @@ Acequias, sometimes referred to as ‘ditches’ or ‘arroyos’ are community-
 {% include figure.html
 class="img-right"
 width="50%"
-caption="Tree lined trail along the acequia. Photo courtesy of[Gentle Art of Wandering](http://www.gentleartofwandering.com/wandering-along-the-ditch-banks-of-albuquerques-south-valley/)
+caption="Tree lined trail along the acequia. Photo courtesy of [Gentle Art of Wandering](http://www.gentleartofwandering.com/wandering-along-the-ditch-banks-of-albuquerques-south-valley/)
 src="images/acequia1.jpeg"
 %}
 
