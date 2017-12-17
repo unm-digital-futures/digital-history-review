@@ -12,10 +12,10 @@ text="Albuquerque's Second Skyscraper."
 %} 
 
 {% include figure.html
-class="img-left"
+class="img-right"
 width="50%"
-caption="Modern day Sunshine Theater"
-src="images/Sunshine4.jpg"
+caption="Sunshine Theater from the street"
+src="images/sunshine-streetview.jpg"
 %}
 
 Enjoying a *[Marble Brewery](http://www.marblebrewery.com/) Pale Ale* while watching a reggae, hip-hop, or rock concert at Sunshine Theater is an experience that most people fail to appreciate for many reasons. First, some locals may think that the venue quality of Sunshine Theater is not as good as other venues downtown. Second, the aging building maintenance by current management is considered non-existent by some locals. Third, many lack any other historical knowledge about the building besides the use of a concert hall by locals. As Albuquerquens, it is our duty to carry the history of our city in to the future as well as to remember all the places that make up and have made up our city skyline. So, this essay is an attempt to give a greater understanding to importance of the Sunshine Building to the local community as well as visitors to Albuquerque.
