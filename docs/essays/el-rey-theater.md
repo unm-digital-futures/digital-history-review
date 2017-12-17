@@ -71,6 +71,6 @@ Not only is The Historic El Rey Theater building bold & artistic with its featur
   caption="One of its many murals"
   src="images/el-rey-theater_sidepic_photo7.jpg"
 %}
-https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/essays/images/el-rey-theater_sidepic_photo7.jpg?raw=true
 
+##FootNotes:
 [^mysource]: http://nmpoliticalreport.com/162823/he-will-not-divide-us-comes-to-abq/
