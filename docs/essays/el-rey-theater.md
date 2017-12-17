@@ -41,7 +41,6 @@ src="images/El Rey Theater_hewillnotdivideus_photo8.jpg"
 %}
 
 ## **The El Rey Today**
-The El Rey Theater functioning as a Movie Theater, or concert hall specifically, is a wonderful medium for facilitating artistic dissemination. Many musicians spanning across all the musical genres have been invited to play for anyone available to go in Downtown Albuquerque. The theater prides itself on having brought world renown artists and talent to the city including internationally famous acts from the Chicano Brothers to the Chemical Brothers and more. Upon entering the building you'll experience a unique dancefloor made of hardwood and get to see it's historical artwork on the walls.
 
 {% include figure.html
 class="img-left"
@@ -49,6 +48,10 @@ width="35%"
 caption="Storefront."
 src="images/el-rey-theater_frontpic_photo7.jpg"
 %}
+
+The El Rey Theater functioning as a Movie Theater, or concert hall specifically, is a wonderful medium for facilitating artistic dissemination. Many musicians spanning across all the musical genres have been invited to play for anyone available to go in Downtown Albuquerque. The theater prides itself on having brought world renown artists and talent to the city including internationally famous acts from the Chicano Brothers to the Chemical Brothers and more. Upon entering the building you'll experience a unique dancefloor made of hardwood and get to see it's historical artwork on the walls.
+
+
 
 The street the building resides on known as Central Ave. is the central axis of commerce in Albuquerque and is a fitting location for such a prestigeous building. The El Rey Theater's spatial position on this ever popular east-west street synergizes well with the city's commerce as it's commonly associated with good times and happy memories
 
