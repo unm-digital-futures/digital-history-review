@@ -18,7 +18,7 @@ text="The number one concert venue in the southwest!"
 ## **Past & History**
 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="44%"
   caption="El Rey Theater"
   src="https://i.gyazo.com/7c4b6f2542f76ceff6610e71766c2644.png"
@@ -45,13 +45,14 @@ The El Rey Theater functioning as a Movie Theater, or concert hall specifically,
 
 {% include figure.html
 class="img-left"
-width="45%"
+width="35%"
 caption="Storefront."
 src="images/el-rey-theater_frontpic_photo7.jpg"
 %}
+
 {% include figure.html
 class="img-right"
-width="45%"
+width="35%"
 caption="Marquee."
 src="images/El Rey Theater Marquee Photo5.jpg"
 %}
