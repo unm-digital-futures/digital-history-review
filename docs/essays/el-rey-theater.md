@@ -26,11 +26,13 @@ text="The number one concert venue in the southwest!"
 
 
 The *Historic El Rey Theater*, located [here](https://www.google.com/maps/place/The+Historic+El+Rey+Theater/@35.0849752,-106.6570599,17z/data=!4m16!1m10!4m9!1m6!1m2!1s0x87220cc724858d49:0x1b073e188c728dc!2sThe+Historic+El+Rey+Theater,+Central+Avenue+Southwest,+Albuquerque,+NM!2m2!1d-106.6550065!2d35.0846877!1m1!4e1!3m4!1s0x87220cc724858d49:0x1b073e188c728dc!8m2!3d35.0846877!4d-106.6550065) in downtown Albuquerque, has taken on many roles over the course of its spatial history. including a grocery store, a few different bars, various kinds of shops, but mostly a movie theater and a venue for shows. The architect, Joseph B. Burwinkle, combined his efforts with the Lembke Construction company to produce the El Rey Theater as it is today. Since 1981, the El Rey Theater building itself has solely been used to further bring art to as many people as possible in the form of musical shows. The architect's in-laws, the Bachechi's, built the *Kimo Theater* which, along with the El Rey Theater, is also an official *historical building of Albuequerque.*
+
 {% include aside.html
   class="pullquote"
   text="From Grocery Store to Saloon & Concert Hall to Nightclub, *The El Rey Theater* has had a lively spatial history and is currently making history as one of the premier concert venues of the midwest. "
   %}
-    Additionally, this location has breifly played host to some political happenings most well-known of which is the "He Will Not Divide Us" protest orchestrated and orginally thought up by modern movies own, Shia Labeouf. As controversial as they were, one cannot argue the relevancy of his peaceful protests and that they, at the very least, mark a time-stamp of sorts in history for the El Rey's spatial history and that this building, and the space it occupies, played a role during the historic Trump Election through "He Will Not Divide Us."
+  
+    Additionally, this location has breifly played host to some political happenings most well-known of which is the 'He Will Not Divide Us' protest orchestrated and orginally thought up by modern movies own, Shia Labeouf. As controversial as they were, one cannot argue the relevancy of his peaceful protests and that they, at the very least, mark a time-stamp of sorts in history for the El Rey's spatial history and that this building, and the space it occupies, played a role during the historic Trump Election through 'He Will Not Divide Us.' [^mysource]
 {% include figure.html
 class="img-left"
 width="50%"
@@ -42,9 +44,9 @@ src="digital-history-review/docs/essays/images/El Rey Theater_hewillnotdivideus_
 The El Rey Theater functioning as a Movie Theater, or concert hall specifically, is a wonderful medium for facilitating artistic dissemination. Many musicians spanning across all the musical genres have been invited to play for anyone available to go in Downtown Albuquerque. The theater prides itself on having brought world renown artists and talent to the city including internationally famous acts from the Chicano Brothers to the Chemical Brothers and more. Upon entering the building you'll experience a unique dancefloor made of hardwood and get to see it's historical artwork on the walls.
 
 {% include juxtapose.html
-image1="images/kimo-1928.jpg"
-image2="images/kimo-1938.jpg"
-caption="These sliders are way more effective the more closely you line up the before and after images."
+image1="digital-history-review/docs/essays/images/el-rey-theater_frontpic_photo7.jpg"
+image2="digital-history-review/docs/essays/images/El Rey Theater Marquee Photo5.jpg"
+caption="The Marque at different points in history."
 %}
 
 
@@ -55,3 +57,4 @@ The street the building resides on known as Central Ave. is the central axis of 
   
 Not only is The Historic El Rey Theater building bold & artistic with its featured marquee and traditional architecture but its popularity and function as a nightclub has brought an immeasurable amount of artistic audible excitement to the masses in the desert that is Albuquerque. Since the building's inception and throughout history, in many different ways, it has always served people from providing them with groceries to being a hotbed of entertainment where people can take a break from the mundane.
   
+[^mysource]: http://nmpoliticalreport.com/162823/he-will-not-divide-us-comes-to-abq/
