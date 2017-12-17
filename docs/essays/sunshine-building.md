@@ -75,7 +75,7 @@ Today, a quick drive by the Sunshine building or a google search on Google maps 
   caption="Sunshine Building Back side from street"
   src="images/Sunshine7.jpg" %}
   
-However, the building facade is a depiction of the decades that the building has seen through the aging yellow bricks that cover majority of the building. Also, the once vibrant neon sign that was attached to main entrance of the building was sold to a museum by the late owners of the building and has since then taken away the classic 'American home-town' feeling from that section of downtown central. Furthermore, locals might even argue that the current design of the [Century 14 Downtown](http://cinematreasures.org/theaters/44973) is representative of the Albuquerque's movie theatre days. The most recent headline of the Sunshine Building in the news was a graffiti incident that occurred in 2015 when vandals climbed to the top of the building and defaced the building’s facade. The news article explains that concerns of the buildings historic value and height of the building would make it difficult to clean up the graffiti [^source].
+However, the building facade is a depiction of the decades that the building has seen through the aging yellow bricks that cover majority of the building. Also, the once vibrant neon sign that was attached to main entrance of the building was sold to a museum by the late owners of the building and has since then taken away the classic 'American home-town' feeling from that section of downtown central. Furthermore, locals might even argue that the current design of the [Century 14 Downtown](http://cinematreasures.org/theaters/44973) is representative of the Albuquerque's movie theatre days. The most recent headline of the Sunshine Building in the news was a graffiti incident that occurred in 2015 when vandals climbed to the top of the building and defaced the building’s facade. The news article explains that concerns of the buildings historic value and height of the building would make it difficult to clean up the graffiti [^KRQE Sunshine Graffiti Article].
 
  {% include figure.html
 class="img-right"
@@ -91,8 +91,7 @@ Other than this article in the news, there is not much references about the hist
 Overall, the theater itself remains a main staple of the Sunshine Building and seems to not be facing any decline within the next chapters of downtown Albuquerque; but, as a fellow Albuquerquen, it is easy to wonder when the next challenge will come to the Sunshine Theater that will be the metaphorical straw that will break the camel's back. As a city, we should band together to create a new narrative for what downtown as well as all of Albuquerque means to us and this means advocating for city projects that will include items like restoration of historical sites, more art projects to make our streets beautiful, and actual histories of the city written by people from the city. Until then, people will going about their way downtown without noticing the Sunshine Buildings importance until be  any threats come the buildings way and will ultimately determine whether the building is as important as it once was to Albuquerque.
 
 ### *Footnotes*
-[^source]: KRQE News article about Sushine Building Graffiti
-<https://www.krqe.com/2015/02/23/historic-sunshine-building-tagged-with-graffiti/>
+[^KRQE Sunshine Graffiti Article]: KRQE News article about [historic sunshine building tagged with graffiti](https://www.krqe.com/2015/02/23/historic-sunshine-building-tagged-with-graffiti/) 
 
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.abqjournal.com/biz/265961outlook12-02-04.htm>
