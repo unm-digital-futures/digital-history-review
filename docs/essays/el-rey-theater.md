@@ -25,15 +25,17 @@ text="The number one concert venue in the southwest!"
 %}
 
 
-The *Historic El Rey Theater*, located [here](https://www.google.com/maps/place/The+Historic+El+Rey+Theater/@35.0849752,-106.6570599,17z/data=!4m16!1m10!4m9!1m6!1m2!1s0x87220cc724858d49:0x1b073e188c728dc!2sThe+Historic+El+Rey+Theater,+Central+Avenue+Southwest,+Albuquerque,+NM!2m2!1d-106.6550065!2d35.0846877!1m1!4e1!3m4!1s0x87220cc724858d49:0x1b073e188c728dc!8m2!3d35.0846877!4d-106.6550065) in downtown Albuquerque, has taken on many roles over the course of its spatial history. including a grocery store, a few different bars, various kinds of shops, but mostly a movie theater and a venue for shows. The architect, Joseph B. Burwinkle, combined his efforts with the Lembke Construction company to produce the El Rey Theater as it is today. Since 1981, the El Rey Theater building itself has solely been used to further bring art to as many people as possible in the form of musical shows. The architect's in-laws, the Bachechi's, built the *Kimo Theater* which, along with the El Rey Theater, is also an official *historical building of Albuequerque.*
+The *Historic El Rey Theater*, located [here](https://www.google.com/maps/place/The+Historic+El+Rey+Theater/@35.0849752,-106.6570599,17z/data=!4m16!1m10!4m9!1m6!1m2!1s0x87220cc724858d49:0x1b073e188c728dc!2sThe+Historic+El+Rey+Theater,+Central+Avenue+Southwest,+Albuquerque,+NM!2m2!1d-106.6550065!2d35.0846877!1m1!4e1!3m4!1s0x87220cc724858d49:0x1b073e188c728dc!8m2!3d35.0846877!4d-106.6550065) in downtown Albuquerque, has taken on many roles over the course of its spatial history. including a grocery store, a few different bars, various kinds of shops, but mostly a movie theater and a venue for shows.
+{% include aside.html
+class="pullquote"
+text="From Grocery Store to Saloon & Concert Hall to Nightclub, *The El Rey Theater* has had a lively spatial history and is currently making history as one of the premier concert venues of the midwest. "
+%}
+The architect, Joseph B. Burwinkle, combined his efforts with the Lembke Construction company to produce the El Rey Theater as it is today. Since 1981, the El Rey Theater building itself has solely been used to further bring art to as many people as possible in the form of musical shows. The architect's in-laws, the Bachechi's, built the *Kimo Theater* which, along with the El Rey Theater, is also an official *historical building of Albuequerque.*
+
 
   
 Additionally, this location has breifly played host to some political happenings most well-known of which is the 'He Will Not Divide Us' protest orchestrated and orginally thought up by modern movies own, Shia Labeouf. As controversial as they were, one cannot argue the relevancy of his peaceful protests and that they, at the very least, mark a time-stamp of sorts in history for the El Rey's spatial history and that this building, and the space it occupies, played a role during the historic Trump Election through 'He Will Not Divide Us.' [^mysource]
 
-{% include aside.html
-  class="pullquote"
-  text="From Grocery Store to Saloon & Concert Hall to Nightclub, *The El Rey Theater* has had a lively spatial history and is currently making history as one of the premier concert venues of the midwest. "
-%}
 
 {% include figure.html
 class="img-right"
@@ -75,7 +77,7 @@ Not only is The Historic El Rey Theater building bold & artistic with its featur
   
 {% include figure.html
   class="img-center"
-  width="75%"
+  width="60%"
   caption="One of its many murals"
   src="images/el-rey-theater_sidepic_photo7.jpg"
 %}
