@@ -18,8 +18,8 @@ text="The number one concert venue in the southwest!"
 ## **Past & History**
 
 {% include figure.html
-  class="img-right"
-  width="33%"
+  class="img-left"
+  width="44%"
   caption="El Rey Theater"
   src="https://i.gyazo.com/7c4b6f2542f76ceff6610e71766c2644.png"
 %}
@@ -32,7 +32,7 @@ The *Historic El Rey Theater*, located [here](https://www.google.com/maps/place/
   text="From Grocery Store to Saloon & Concert Hall to Nightclub, *The El Rey Theater* has had a lively spatial history and is currently making history as one of the premier concert venues of the midwest. "
   %}
   
-    Additionally, this location has breifly played host to some political happenings most well-known of which is the 'He Will Not Divide Us' protest orchestrated and orginally thought up by modern movies own, Shia Labeouf. As controversial as they were, one cannot argue the relevancy of his peaceful protests and that they, at the very least, mark a time-stamp of sorts in history for the El Rey's spatial history and that this building, and the space it occupies, played a role during the historic Trump Election through 'He Will Not Divide Us.' [^mysource]
+Additionally, this location has breifly played host to some political happenings most well-known of which is the 'He Will Not Divide Us' protest orchestrated and orginally thought up by modern movies own, Shia Labeouf. As controversial as they were, one cannot argue the relevancy of his peaceful protests and that they, at the very least, mark a time-stamp of sorts in history for the El Rey's spatial history and that this building, and the space it occupies, played a role during the historic Trump Election through 'He Will Not Divide Us.' [^mysource]
 {% include figure.html
 class="img-left"
 width="50%"
