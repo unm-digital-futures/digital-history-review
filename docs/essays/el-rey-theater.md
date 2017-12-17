@@ -37,7 +37,7 @@ Additionally, this location has breifly played host to some political happenings
 class="img-left"
 width="50%"
 caption="El Rey's stint in politics"
-src="digital-history-review/docs/essays/images/El Rey Theater_hewillnotdivideus_photo8.jpg"
+src="images/El Rey Theater_hewillnotdivideus_photo8.jpg"
 %}
 
 ## **The El Rey Today**
@@ -47,13 +47,13 @@ The El Rey Theater functioning as a Movie Theater, or concert hall specifically,
 class="img-left"
 width="50%"
 caption="Storefront."
-src="digital-history-review/docs/essays/images/el-rey-theater_frontpic_photo7.jpg"
+src="images/el-rey-theater_frontpic_photo7.jpg"
 %}
 {% include figure.html
 class="img-right"
 width="50%"
 caption="Marquee."
-src="digital-history-review/docs/essays/images/El Rey Theater Marquee Photo5.jpg"
+src="images/El Rey Theater Marquee Photo5.jpg"
 %}
 
 
