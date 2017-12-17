@@ -45,13 +45,13 @@ The El Rey Theater functioning as a Movie Theater, or concert hall specifically,
 
 {% include figure.html
 class="img-left"
-width="50%"
+width="45%"
 caption="Storefront."
 src="images/el-rey-theater_frontpic_photo7.jpg"
 %}
 {% include figure.html
 class="img-right"
-width="50%"
+width="45%"
 caption="Marquee."
 src="images/El Rey Theater Marquee Photo5.jpg"
 %}
@@ -72,5 +72,6 @@ Not only is The Historic El Rey Theater building bold & artistic with its featur
   src="images/el-rey-theater_sidepic_photo7.jpg"
 %}
 
-##FootNotes:
+## References:
+
 [^mysource]: http://nmpoliticalreport.com/162823/he-will-not-divide-us-comes-to-abq/
