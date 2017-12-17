@@ -14,7 +14,7 @@ text="Albuquerque's Second Skyscraper."
 {% include figure.html
 class="img-right"
 width="50%"
-caption="Sunshine Theater from the street"
+caption="Sunshine Building from the Second Street and Central"
 src="images/sunshine-streetview.png"
 %}
 
@@ -23,7 +23,7 @@ Enjoying a *[Marble Brewery](http://www.marblebrewery.com/) Pale Ale* while watc
 ### History
 
 {% include figure.html
-class="img-right"
+class="img-left"
 width="50%"
 caption="Historic Sunshine Theatre."
 src="images/SunshineB.jpg"
