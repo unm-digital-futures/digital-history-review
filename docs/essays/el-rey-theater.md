@@ -34,7 +34,7 @@ The *Historic El Rey Theater*, located [here](https://www.google.com/maps/place/
   
 Additionally, this location has breifly played host to some political happenings most well-known of which is the 'He Will Not Divide Us' protest orchestrated and orginally thought up by modern movies own, Shia Labeouf. As controversial as they were, one cannot argue the relevancy of his peaceful protests and that they, at the very least, mark a time-stamp of sorts in history for the El Rey's spatial history and that this building, and the space it occupies, played a role during the historic Trump Election through 'He Will Not Divide Us.' [^mysource]
 {% include figure.html
-class="img-left"
+class="img-right"
 width="50%"
 caption="El Rey's stint in politics"
 src="images/El Rey Theater_hewillnotdivideus_photo8.jpg"
@@ -50,6 +50,8 @@ caption="Storefront."
 src="images/el-rey-theater_frontpic_photo7.jpg"
 %}
 
+The street the building resides on known as Central Ave. is the central axis of commerce in Albuquerque and is a fitting location for such a prestigeous building. The El Rey Theater's spatial position on this ever popular east-west street synergizes well with the city's commerce as it's commonly associated with good times and happy memories
+
 {% include figure.html
 class="img-right"
 width="35%"
@@ -60,7 +62,7 @@ src="images/El Rey Theater Marquee Photo5.jpg"
 
 
 
-The street the building resides on known as Central Ave. is the central axis of commerce in Albuquerque and is a fitting location for such a prestigeous building. The El Rey Theater's spatial position on this ever popular east-west street synergizes well with the city's commerce as it's commonly associated with good times and happy memories 
+
 
 ## **In Conclusion**
   
