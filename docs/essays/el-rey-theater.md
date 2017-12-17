@@ -43,11 +43,19 @@ src="digital-history-review/docs/essays/images/El Rey Theater_hewillnotdivideus_
 ## **The El Rey Today**
 The El Rey Theater functioning as a Movie Theater, or concert hall specifically, is a wonderful medium for facilitating artistic dissemination. Many musicians spanning across all the musical genres have been invited to play for anyone available to go in Downtown Albuquerque. The theater prides itself on having brought world renown artists and talent to the city including internationally famous acts from the Chicano Brothers to the Chemical Brothers and more. Upon entering the building you'll experience a unique dancefloor made of hardwood and get to see it's historical artwork on the walls.
 
-{% include juxtapose.html
-image1="digital-history-review/docs/essays/images/el-rey-theater_frontpic_photo7.jpg"
-image2="digital-history-review/docs/essays/images/El Rey Theater Marquee Photo5.jpg"
-caption="The Marque at different points in history."
+{% include figure.html
+class="img-left"
+width="50%"
+caption="Storefront."
+src="digital-history-review/docs/essays/images/el-rey-theater_frontpic_photo7.jpg"
 %}
+{% include figure.html
+class="img-right"
+width="50%"
+caption="Marquee."
+src="digital-history-review/docs/essays/images/El Rey Theater Marquee Photo5.jpg"
+%}
+
 
 
 
@@ -57,4 +65,11 @@ The street the building resides on known as Central Ave. is the central axis of 
   
 Not only is The Historic El Rey Theater building bold & artistic with its featured marquee and traditional architecture but its popularity and function as a nightclub has brought an immeasurable amount of artistic audible excitement to the masses in the desert that is Albuquerque. Since the building's inception and throughout history, in many different ways, it has always served people from providing them with groceries to being a hotbed of entertainment where people can take a break from the mundane.
   
+{% include figure.html
+  class="img-center"
+  width="75%"
+  caption="One of its many murals"
+  src="digital-history-review/docs/essays/images/el-rey-theater_sidepic_photo7.jpg"
+%}
+
 [^mysource]: http://nmpoliticalreport.com/162823/he-will-not-divide-us-comes-to-abq/
