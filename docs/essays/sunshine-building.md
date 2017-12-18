@@ -35,10 +35,10 @@ The theater was built in "a symmetrical Beaux Arts style not unlike the detailin
 
 {% include full-width.html
   class="pullquote"
-  text=" incorporated into a two-part vertical block, the theater’s marquee and entry provided a visual base to the building with the five story vertical shaft rising above to the decorative cornice capping the building [9]."
+  text=" incorporated into a two-part vertical block, the theater’s marquee and entry provided a visual base to the building with the five story vertical shaft rising above to the decorative cornice capping the building [^NM-Historic-preservation]."
 %}
 
-In addition to the building was a neon Sunshine sign which later added to the facade and created the classic 'American home-town' feeling when visiting the theatre. Another notable historical fact in the building of the 'Sunshine theatre' is that Trost also led southwest construction techniques with the use of reinforced concrete as a construction material which was then covered with the yellow brick and is the facade that currently exists today. Also, the building included an attendant operated elevator used for patrons viewing the from the balcony of the 'theatre' which is what gave the building historic value, along with the oak lobby boasts and facade, when it was registered for the National Registrar of Historic Places in 1985 [8]. The theatre opened its doors on May 1, 1924 with the showing of "Scaramouche" featuring actor Ramon Navarro and included a live orchestra to accompany the silent black and white film.
+In addition to the building was a neon Sunshine sign which was later added to the facade and created the classic 'American home-town' feeling when visiting the theatre. Another notable historical fact in the building of the 'Sunshine theatre' is that Trost also led southwest construction techniques with the use of reinforced concrete as a construction material which was then covered with the yellow brick and is the facade that currently exists today[^NM-Historic-preservation]. Also, the building included an attendant operated elevator used for patrons viewing the from the balcony of the 'theatre' which is what gave the building historic value, along with the oak lobby boasts and facade, when it was registered for the National Registrar of Historic Places in 1985 [^city-data-article]. The theatre opened its doors on May 1, 1924 with the showing of "Scaramouche" featuring actor Ramon Navarro and included a live orchestra to accompany the silent black and white film.
 
 {% include figure.html
   class="img-center"
@@ -46,7 +46,7 @@ In addition to the building was a neon Sunshine sign which later added to the fa
   caption="Historic Albuquerque Skyline"
   src="images/SunshineA.jpg" %}
 
-The building also includes offices on the upper levels of the building that housed F.D. Fogg and Company, a fine jewelry retailer that closed in 1970 [1]and was also the site of the first meetings of Congregation B’nai Israel which connects the building to history of the current day New Mexico Historical Jewish Society. The theatre continued to show films in to the 1960s when the interior was almost completely remodeled to allow an installation of a large movie screen for feature film screenings. Sunshine remained in operation until 1974 when the theatre stopped showing first-run movies but then eventually closed its doors as a movie theatre in 1980 and was seriously threatened with demolition in 1984 [7]. The efforts to save the iconic Sunshine building were finally appeased when the city declared it as a historic landmark in 1985. The final renovation to the building came in 1990s when the theatre was renovated its current day purpose in the downtown which is a live music performance venue and has hosted some well-known acts such as: Strokes, Snoop Dogg, Stone Temple Pilots, The Smashing Pumpkins, Modest Mouse, Rancid, Coheed and Cambria, Social Distortion, Deftones, Deadmau5, and many others.
+The building also includes offices on the upper levels of the building that housed F.D. Fogg and Company, a fine jewelry retailer that closed in 1970[^ABQ-Journal-article] and was also the site of the first meetings of Congregation B’nai Israel which connects the building to history of the current day New Mexico Historical Jewish Society. The theatre continued to show films in to the 1960s when the interior was almost completely remodeled to allow an installation of a large movie screen for feature film screenings. Sunshine remained in operation until 1974 when the theatre stopped showing first-run movies but then eventually closed its doors as a movie theatre in 1980 and was seriously threatened with demolition in 1984 [7]. The efforts to save the iconic Sunshine building were finally appeased when the city declared it as a historic landmark in 1985. The final renovation to the building came in 1990s when the theatre was renovated its current day purpose in the downtown which is a live music performance venue and has hosted some well-known acts such as: Strokes, Snoop Dogg, Stone Temple Pilots, The Smashing Pumpkins, Modest Mouse, Rancid, Coheed and Cambria, Social Distortion, Deftones, Deadmau5, and many others.
 
 {% include figure.html
   class="img-left"
@@ -91,21 +91,19 @@ Other than this article in the news, there is not much references about the hist
 Overall, the theater itself remains a main staple of the Sunshine Building and seems to not be facing any decline within the next chapters of downtown Albuquerque; but, as a fellow Albuquerquen, it is easy to wonder when the next challenge will come to the Sunshine Theater that will be the metaphorical straw that will break the camel's back. As a city, we should band together to create a new narrative for what downtown as well as all of Albuquerque means to us and this means advocating for city projects that will include items like restoration of historical sites, more art projects to make our streets beautiful, and actual histories of the city written by people from the city. Until then, people will going about their way downtown without noticing the Sunshine Buildings importance until be  any threats come the buildings way and will ultimately determine whether the building is as important as it once was to Albuquerque.
 
 ### *Footnotes*
-[^KRQE-Article]: KRQE News article about [historic sunshine building tagged with graffiti](https://www.krqe.com/2015/02/23/historic-sunshine-building-tagged-with-graffiti/) 
+[^KRQE-Article]: KRQE News article about [historic sunshine building tagged with graffiti](https://www.krqe.com/2015/02/23/historic-sunshine-building-tagged-with-graffiti/).
 
-[^Yelp-reviews]: Yelp reviews on [Sunshine Theater Albuquerque](https://www.yelp.com/biz/sunshine-theater-albuquerque)
+[^Yelp-reviews]: Yelp reviews on [Sunshine Theater Albuquerque](https://www.yelp.com/biz/sunshine-theater-albuquerque).
 
-[^city-data-article]: City-data article on [Sunshine Building Albuquerque](https://www.city-data.com/articles/Sunshine-Building-Albuquerque-New-Mexico.html) 
+[^city-data-article]: City-data article on [Sunshine Building Albuquerque](https://www.city-data.com/articles/Sunshine-Building-Albuquerque-New-Mexico.html). 
 
-[^historic-abq]: Article about the history of [Sunshine Building](https://www.historicabq.org/sunshine-building.html)
+[^historic-abq]: Article about the history of [Sunshine Building](https://www.historicabq.org/sunshine-building.html).
 
 [^city-of-Abq-Historical-landmarks]: City of Albuquerque's [Historical landmarks](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks) listing.
 
+[^NM-Historic-preservation]: Historical Report on [Movie Theaters in New Mexico](https://www.nmhistoricpreservation.org/assets/files/historic-contexts-and-reports/Movie-Theaters-in-New-Mexico-MPDF-Final-Sent-to-NPS.pdf) which includes Sunshine Theater.
 
-
-
-[^source]: ENTER SOURCE NOTE HERE
-<https://www.abqjournal.com/biz/265961outlook12-02-04.htm>
+[^ABQ-Journal-article]: Article in [Albuquerque Journal](https://www.abqjournal.com/biz/265961outlook12-02-04.htm) on jewelry store.
 
 
 
@@ -121,11 +119,7 @@ Overall, the theater itself remains a main staple of the Sunshine Building and s
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.henrytrost.org/buildings/sunshine-theatre-and-office-building/>
 
-[^source]: ENTER SOURCE NOTE HERE
-<https://www.historicabq.org/sunshine-building.html>
 
-[^source]: ENTER SOURCE NOTE HERE
-<https://www.nmhistoricpreservation.org/assets/files/historic-contexts-and-reports/Movie-Theaters-in-New-Mexico-MPDF-Final-Sent-to-NPS.pdf>
 
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.nmjhs.org/2014-conference/>
