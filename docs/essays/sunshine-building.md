@@ -18,6 +18,8 @@ caption="Sunshine Building from the Second Street and Central"
 src="images/sunshine-streetview.png"
 %}
 
+Written by Lorilei Chavez
+
 Enjoying a *[Marble Brewery](http://www.marblebrewery.com/) Pale Ale* while watching a reggae, hip-hop, or rock concert at Sunshine Theater is an experience that most people fail to appreciate for many reasons. First, some locals may think that the venue quality of Sunshine Theater is not as good as other venues downtown. Second, the aging building maintenance by current management is considered non-existent by some locals[^Yelp-reviews]. Third, many lack any other historical knowledge about the building besides the use of a concert hall by locals. As Albuquerquens, it is our duty to carry the history of our city in to the future as well as to remember all the places that make up and have made up our city skyline. So, this essay is an attempt to give a greater understanding to importance of the Sunshine Building to the local community as well as visitors to Albuquerque.
 
 
@@ -44,7 +46,7 @@ The theater was built in "a symmetrical Beaux Arts style not unlike the detailin
   caption="Historic Albuquerque Skyline"
   src="images/SunshineA.jpg" %}
 
-The building also includes offices on the upper levels of the building that housed F.D. Fogg and Company, a fine jewelry retailer that closed in 1970[^ABQ-Journal-article] and was also the site of the first meetings of Congregation B’nai Israel which connects the building to history of the current day New Mexico Historical Jewish Society[^NMJS-website]. The theatre continued to show films in to the 1960s when the interior was almost completely remodeled to allow an installation of a large movie screen for feature film screenings. Sunshine remained in operation until 1974 when the theatre stopped showing first-run movies but then eventually closed its doors as a movie theatre in 1980 and was seriously threatened with demolition in 1984 [7]. The efforts to save the iconic Sunshine building were finally appeased when the city declared it as a historic landmark in 1985. The final renovation to the building came in 1990s when the theatre was renovated its current day purpose in the downtown which is a live music performance venue and has hosted some well-known acts such as: Strokes, Snoop Dogg, Stone Temple Pilots, The Smashing Pumpkins, Modest Mouse, Rancid, Coheed and Cambria, Social Distortion, Deftones, Deadmau5, and many others.
+The building also includes offices on the upper levels of the building that housed F.D. Fogg and Company, a fine jewelry retailer that closed in 1970[^ABQ-Journal-article] and was also the site of the first meetings of Congregation B’nai Israel which connects the building to history of the current day New Mexico Historical Jewish Society[^NMJS-website]. The theatre continued to show films in to the 1960s when the interior was almost completely remodeled to allow an installation of a large movie screen for feature film screenings. Sunshine remained in operation until 1974 when the theatre stopped showing first-run movies but then eventually closed its doors as a movie theatre in 1980 and was seriously threatened with demolition in 1984 [^HCT-historical-organization]. The efforts to save the iconic Sunshine building were finally appeased when the city declared it as a historic landmark in 1985. The final renovation to the building came in 1990s when the theatre was renovated its current day purpose in the downtown which is a live music performance venue and has hosted some well-known acts such as: Strokes, Snoop Dogg, Stone Temple Pilots, The Smashing Pumpkins, Modest Mouse, Rancid, Coheed and Cambria, Social Distortion, Deftones, Deadmau5, and many others[^Sunshine-live].
 
 {% include figure.html
   class="img-left"
@@ -62,9 +64,9 @@ caption="The images of above are of historic Sunshine Building in 1940s and curr
 
 {% include aside.html
   class="pullquote"
-  text="it is much more of an intimate setting which allows for anyone in the  theater to have the opportunity to be in the front row of any concert and makes for more of an memorable experience."
+  text="Sunshine Theater is much more of an intimate setting which allows for anyone in the theater to have the opportunity to be in the front row of any concert and makes for more of an memorable experience."
   %}
-Today, a quick drive by the Sunshine building or a google search on Google maps will reveal that is now a concert stage for artists visiting Albuquerque and more specifically important to the youth being one of the few underage concert venues in town. Another quick search on google will also reveal yelp reviews of the venues current condition which include: sound quality in theater being really bad, restrooms falling apart, venue layout being too small for crowds that tickets sales allow, the balcony not being opened for concerts, and the most commented on was the customer service given by staff, bartenders, and security in the venue. One review, from a resident that moved to Albuquerque, praised the small venue sized because it is much more of an intimate setting which allows for anyone in the  theater to have the opportunity to be in the front row of any concert and makes for more of an memorable experience. Furthermore, if any patron goes early or stays after the concert, then there is a chance that they can get a glimpse or even a picture with the band or artist through the back stage entrance that leads out on to the street. 
+Today, a quick drive by the Sunshine building or a google search on Google maps will reveal that is now a concert stage for artists visiting Albuquerque and more specifically important to the youth being one of the few underage concert venues in town. Another quick search on google will also reveal yelp reviews of the venues current condition which include: sound quality in theater being really bad, restrooms falling apart, venue layout being too small for crowds that tickets sales allow, the balcony not being opened for concerts, and the most commented on was the customer service given by staff, bartenders, and security in the venue[^Yelp-reviews]. One review, from a resident that moved to Albuquerque, praised the small venue sized because it is much more of an intimate setting which allows for anyone in the theater to have the opportunity to be in the front row of any concert and makes for more of an memorable experience. Furthermore, if any patron goes early or stays after the concert, then there is a chance that they can get a glimpse or even a picture with the band or artist through the back stage entrance that leads out on to the street[^Personal-account]. 
 
 {% include figure.html
   class="img-center"
@@ -105,6 +107,12 @@ Overall, the theater itself remains a main staple of the Sunshine Building and s
 
 [^NMJS-website]: [New Mexico Jewish Society website](https://www.nmjhs.org/2014-conference/) from 2014 conference with historical photos of Sunshine Building.
 
+[^HCT-historical-organization]: Remarks about possible demolition published by [Henry C. Trost Historical Organization](https://www.henrytrost.org/buildings/sunshine-theatre-and-office-building/).
+
+[^Sunshine-live]: Current [Sunshine Theater website](https://www.sunshinetheaterlive.com/page/about-sunshine-theater) where information can be found on upcoming events, venue information, and short history on building.
+
+[^Personal-account]: At a 
+
 
 
 [^source]: ENTER SOURCE NOTE HERE
@@ -116,8 +124,6 @@ Overall, the theater itself remains a main staple of the Sunshine Building and s
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.flickr.com/photos/stevenm_61/34813178582>
 
-[^source]: ENTER SOURCE NOTE HERE
-<https://www.henrytrost.org/buildings/sunshine-theatre-and-office-building/>
 
 
 
@@ -125,8 +131,6 @@ Overall, the theater itself remains a main staple of the Sunshine Building and s
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.rjbuffalo.com/sunshine.html>
 
-[^source]: ENTER SOURCE NOTE HERE
-<https://www.sunshinetheaterlive.com/page/about-sunshine-theater>
 
 
 
