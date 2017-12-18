@@ -1,16 +1,18 @@
-h2 {
-  color:FireBrick;
+h2 {  color:FireBrick;
+ font-family: 'Permanent Marker', cursive;
+}
+h3 {  color:FireBrick;
+ font-family: 'Permanent Marker', cursive;
+}
+h4 {
+    color:FireBrick;
  font-family: 'Permanent Marker', cursive;
 }
 
-div.full-width p {
-    width: 100%;
-    padding: 0 15%;
-    margin: 0;
-    font-style: oblique;
-    font-size:20px;
-  color: #00008B;
-
 body {
-  background-color: #e6ffff;
+  background-color: #E6FFFF
+}   
+p {
+ line-height: 1.75em; 
 }
+
