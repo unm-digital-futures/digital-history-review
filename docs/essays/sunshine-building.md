@@ -80,7 +80,7 @@ Today, due to the building's size, the Sunshine has two buisness adresses for th
   caption="Sunshine Theater currently the main attraction of the building"
   src="images/Sunshine4.jpg" %}
   
-However, the building facade is a depiction of the decades that the building has seen through the aging yellow bricks that cover majority of the building. 
+However, the building facade is a depiction of the decades that the building has seen through the aging yellow bricks that cover majority of the building. The window ornamets that were added to the faced of the buikding cover up window trimmings that . There is not many remnents of the old movie theatre that existed in the current music venue.
 
 {% include figure.html
 class="img-left"
