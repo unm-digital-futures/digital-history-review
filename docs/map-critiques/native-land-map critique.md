@@ -29,18 +29,19 @@ The same goes for the 'language' selection on the web app which also allows user
 
 The data that is correlated to develop map web app is displayed on the [Resources](https://native-land.ca/resources.html) page of the site and displays links to the many different resources used to provide information on territories, languages, and treaties. The majority of links used to display 'languages' and 'territories' are from *[Native-Land.org](http://www.native-languages.org/)* which hosts information on both languages and territories of Indigenous people within North America. Additional data comes from websites of specific tribes or sites containing information specific to Indigenous languages and territories within North America. 
 
-The information provided that makes up the data for the 'treaties' selection comes from a variety of many different sites which host maps of Indigenous lands or territories as well as when they were acquired which provided that data needed to give the parameters need to display in the territory or treaty that allotted the land to tribes within the mapping tool.
+The information provided that makes up the data for the 'treaties' selection comes from a variety of many different sites which hosts maps of Indigenous lands or territories as well as when those lands were acquired which provided that data needed to give the parameters required to display the territory or treaty that allotted the land to tribes within the mapping tool.
  
   ### Critique
  
- The design of this website is
+The usefulness of this web app for North Americans can be easily overshadowed by the interactive display of the map when a selection is made because the web app allows for many different colors deliniate the territories, languages, and treaties. The web map app can also become confusing to the user if they began to try the many factes of the site. 
  
  ![native-land.ca with all items selected](images/native-land5.png "native-land.ca with zoomed in to specific zip code in 'Albuquerque, NM'")
  
- 
+First, when imputing a zip code, the site will automatically zooms completely in to the area specified within the zip code selection which makes the areas selected very difficult to comprehend in a greater context because the zoom function does not allow you to see the territory, language, or treaty in relation to other areas.
  
  ![native-land.ca with all items selected](images/native-landCA.png "native-land.ca with all selected treaties, territories, and Languages")
 
+Second, if the user were to select all three options available at one time, the map becomes overwhelmingly confusing because of the overload of data that is shown on the map. When all are selected it is hard to determine one selection from another and there are times when one map layer overlays a different map layer it makes the data or information on the selection unavailable or difficult to access.
  
  under construction 
  
