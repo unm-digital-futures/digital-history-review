@@ -27,6 +27,8 @@ The same goes for the 'language' selection on the web app which also allows user
  
  ### Data
 
+The data that is correlated to develop map web app is displayed on the [Resources](https://native-land.ca/resources.html) page of the site and displays links to the many different resources used to provide information on territories, languages, and treaties
+
  ![native-land.ca with all items selected](images/native-landCA.png "native-land.ca with all selected treaties, territories, and Languages")
  
  
