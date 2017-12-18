@@ -16,7 +16,7 @@ Lorilei Chavez
 
 {% include figure.html
 class="img-right"
-width="40%"
+width="20%"
 caption="Sunshine Building from Second Street and Central courtesy of Google Streetview"
 src="images/sunshine-streetview.png"
 %}
@@ -44,7 +44,11 @@ The theater was built in a symmetrical Beaux Arts style not unlike the detailing
   caption="Historic Albuquerque Skyline"
   src="images/SunshineA.jpg" %}
 
-The building also includes offices on the upper levels of the building that housed F.D. Fogg and Company, a fine jewelry retailer that closed in 1970[^ABQ-Journal-article] and was also the site of the first meetings of Congregation B’nai Israel which connects the building to history of the current day New Mexico Historical Jewish Society[^NMJS-website]. The theatre continued to show films in to the 1960s when the interior was almost completely remodeled to allow an installation of a large movie screen for feature film screenings. Sunshine remained in operation until 1974 when the theatre stopped showing first-run movies but then eventually closed its doors as a movie theatre in 1980 and was seriously threatened with demolition in 1984 [^HCT-historical-organization]. 
+The building also includes offices on the upper levels of the building that housed F.D. Fogg and Company, a fine jewelry retailer that closed in 1970[^ABQ-Journal-article] and was also the site of the first meetings of Congregation B’nai Israel which connects the building to history of the current day New Mexico Historical Jewish Society[^NMJS-website]. The theatre continued to show films in to the 1960s when the interior was almost completely remodeled to allow an installation of a large movie screen for feature film screenings. 
+
+> 'It was there that I would watch [Charlie Chaplin](http://www.imdb.com/name/nm0000122/) and [Harold Lloyd](http://www.imdb.com/name/nm0516001/) and [Mae West](http://www.imdb.com/name/nm0922213/) and the [Marx Brothers](http://www.imdb.com/name/nm2580347/) and [Buster Keaton](http://www.imdb.com/name/nm0000036/?ref_=nv_sr_1) and [WC Fields](http://www.imdb.com/name/nm0001211/?ref_=nv_sr_1). It was there that I discovered such trivial but thoroughly enjoyable junk as *[Libeled Lady](http://www.imdb.com/title/tt0027884/?ref_=nv_sr_2)* and *[It Happened One Night](http://www.imdb.com/title/tt0025316/?ref_=nv_sr_1)* and *[North by Northwest](http://www.imdb.com/title/tt0053125/?ref_=nv_sr_1)* and so forth. Delightful days. I enjoyed myself. It was sad that so few people showed up. In an auditorium the size of the Carlsbad Caverns, it was disheartening that the typical audience was only a dozen or so people[^RJ-Buffalo-Article].'
+
+Sunshine remained in operation until 1974 when the theatre stopped showing first-run movies but then eventually closed its doors as a movie theatre in 1980 and was seriously threatened with demolition in 1984 [^HCT-historical-organization]. 
 
 {% include figure.html
   class="img-left"
@@ -76,7 +80,7 @@ Today, a quick drive by the Sunshine building or a google search on Google maps 
   caption="Sunshine Theater currently the main attraction of the building"
   src="images/Sunshine4.jpg" %}
   
-However, the building facade is a depiction of the decades that the building has seen through the aging yellow bricks that cover majority of the building. Also, the once vibrant neon sign that was attached to main entrance of the building was sold to a museum by the late owners of the building[^RJ-Buffalo-Article] and has since then taken away the classic 'American home-town' feeling from that section of downtown central. Furthermore, locals might even argue that the current design of the [Century 14 Downtown](http://cinematreasures.org/theaters/44973) is representative of the Albuquerque's movie theatre days. 
+However, the building facade is a depiction of the decades that the building has seen through the aging yellow bricks that cover majority of the building. Also, the once vibrant neon sign that was attached to main entrance of the building was sold to a museum by the late owners of the building[^RJ-Buffalo-Article] and has since then taken away the classic 'American home-town' feeling from that section of downtown central. Furthermore, locals might even argue that the current design of the [Century 14 Downtown](http://cinematreasures.org/theaters/44973) is an attempt to represent of the Albuquerque's movie theatre days which is ironic being that the Sunshine Theatre was orginally just around corner. 
 
  {% include figure.html
 class="img-right"
