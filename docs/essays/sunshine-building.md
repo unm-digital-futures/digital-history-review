@@ -105,44 +105,38 @@ The most recent headline of the Sunshine Building in the news was a graffiti inc
   
 ### Sunshine Building in the future
 
-{% include figure.html
-class="img-left"
-width="50%"
-caption="Historic Sunshine Building."
-src="images/SunshineC.jpg"
-%}
-
 Overall, the theater and moonlight lounge remain a main staple of the Sunshine Building and seems to not be facing any decline within the next chapters of downtown Albuquerque[^Cinema-Treasures]; but, as a fellow Albuquerquen, it is easy to wonder when the next challenge will come to the Sunshine Theater that will be the metaphorical straw that will break the camel's back. As a city, we should band together to create a new narrative for what downtown as well as all of Albuquerque means to us and this means advocating for city projects that will include items like restoration of historical sites, more art projects to make our streets beautiful, and actual histories of the city written by people from the city. Until then, people will going about their way downtown without noticing the Sunshine Buildings importance until be  any threats come the buildings way and will ultimately determine whether the building is as important as it once was to Albuquerque.
 
 ### *Footnotes*
-[^KRQE-Article]: KRQE News article about [historic sunshine building tagged with graffiti](https://www.krqe.com/2015/02/23/historic-sunshine-building-tagged-with-graffiti/).
 
-[^Yelp-reviews]: Yelp reviews on [Sunshine Theater Albuquerque](https://www.yelp.com/biz/sunshine-theater-albuquerque).
+[^NMJS-website]: '[2014 Conference](https://www.nmjhs.org/2014-conference/).' *New Mexico Jewish Historical Society* 2014.
 
-[^city-data-article]: City-data article on [Sunshine Building Albuquerque](https://www.city-data.com/articles/Sunshine-Building-Albuquerque-New-Mexico.html). 
+[^Sunshine-live]: '[About Sunshine Theater](https://www.sunshinetheaterlive.com/page/about-sunshine-theater).' *Sunshinetheaterlive.com,* 2017.
 
-[^historic-abq]: Article about the history of [Sunshine Building](https://www.historicabq.org/sunshine-building.html).
+[^Personal-account]: Chavez, Lorilei. Personal Account: At a Tribal Seeds concert in March 15, 2015, I was able to watch the show front row and meet the band as they were loading their tour bus at the end of the show.
 
-[^city-of-Abq-Historical-landmarks]: City of Albuquerque's [Historical landmarks](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks) listing.
+[^city-of-Abq-Historical-landmarks]:'[Historic landmarks](https://www.cabq.gov/planning/boards-commissions/landmarks-urban-conservation-commission/historic-landmarks).'*cabq.gov,* 2017.
 
-[^NM-Historic-preservation]: Historical Report on [Movie Theaters in New Mexico](https://www.nmhistoricpreservation.org/assets/files/historic-contexts-and-reports/Movie-Theaters-in-New-Mexico-MPDF-Final-Sent-to-NPS.pdf) which includes Sunshine Theater.
+[^ABQ-Journal-article]: '[Jewelry store closing after 83 years in ABQ](https://www.abqjournal.com/biz/265961outlook12-02-04.htm).' *Albuquerque Journal,* December 2004.
 
-[^ABQ-Journal-article]: Article in [Albuquerque Journal](https://www.abqjournal.com/biz/265961outlook12-02-04.htm) on jewelry store.
+[^NM-Historic-preservation]: Kammer Ph. D., David. '[The Historical Development of Motion Picture Theaters in New Mexico, 1905-1960
+](https://www.nmhistoricpreservation.org/assets/files/historic-contexts-and-reports/Movie-Theaters-in-New-Mexico-MPDF-Final-Sent-to-NPS.pdf).'*Nmhistoricpreservation.org,* April 2006.
 
-[^NMJS-website]: [New Mexico Jewish Society website](https://www.nmjhs.org/2014-conference/) from 2014 conference with historical photos of Sunshine Building.
+[^KRQE-Article]: McKee, Chris. '[Historic ABQ building hit with graffiti](https://www.krqe.com/2015/02/23/historic-sunshine-building-tagged-with-graffiti/).' *KRQE News,* February 23, 2015.
 
-[^HCT-historical-organization]: Remarks about possible demolition published by [Henry C. Trost Historical Organization](https://www.henrytrost.org/buildings/sunshine-theatre-and-office-building/).
+[^RJ-Buffalo-Article]: Sandhu, Ranjit. '[The Sunshine Theatre: A Most Informal and Personal Story](https://www.rjbuffalo.com/sunshine.html).' *rjbuffalo.com,* 2009.
 
-[^Sunshine-live]: Current [Sunshine Theater website](https://www.sunshinetheaterlive.com/page/about-sunshine-theater) where information can be found on upcoming events, venue information, and short history on building.
+[^city-data-article]:'[Sunshine Building Albuquerque](https://www.city-data.com/articles/Sunshine-Building-Albuquerque-New-Mexico.html).' *city-data.com,* 2017.
 
-[^Personal-account]: At a Tribal Seeds concert in 2015 I was able to watch the show front row and meet the band as they were loading their tour bus at the end of the show.
+[^historic-abq]: '[Sunshine Building](https://www.historicabq.org/sunshine-building.html).' *Historic ABQ Inc.,* 1999.
 
-[^RJ-Buffalo-Article]: [Personal Essay](https://www.rjbuffalo.com/sunshine.html) wriiten on Sunshine Theater.
+[^Yelp-reviews]: '[Sunshine Theater Albuquerque](https://www.yelp.com/biz/sunshine-theater-albuquerque).'*yelp.com,* 2014.
 
-[^Wikipedia-Sunshine-Building]: Wikipedia page for the [Sunshine Building](https://www.en.wikipedia.org/wiki/Sunshine_Building)
+[^HCT-historical-organization]: '[Sunshine Theatre and Office Building](https://www.henrytrost.org/buildings/sunshine-theatre-and-office-building/).'*Henrytrost.org,* 1990.
 
-[^Cinema-Treasures]: Vogal, Joe. '[Sunshine Theatre](https://www.cinematreasures.org/theaters/10528).' *Cinema Treasures.org* 2006
+[^Cinema-Treasures]: Vogal, Joe. '[Sunshine Theatre](https://www.cinematreasures.org/theaters/10528).' *Cinema Treasures.org,* 2006.
 
+[^Wikipedia-Sunshine-Building]: '[Sunshine Building](https://www.en.wikipedia.org/wiki/Sunshine_Building).' *Wikipedia,* 2017.
 
 
 
