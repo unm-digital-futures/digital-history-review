@@ -6,7 +6,7 @@ Native Land is 'a [web app](https://github.com/tempranova/Native-Land/blob/maste
 
  ![native-land.ca Home Page](images/native-land6.png "native-land.ca Home Page")
 
- ![native-land.ca with all items selected](images/native-land6.png "native-land.ca with all selected treaties, territories, and Languages")
+ ![native-land.ca with all items selected](images/native-landCA.png "native-land.ca with all selected treaties, territories, and Languages")
  
 
  
