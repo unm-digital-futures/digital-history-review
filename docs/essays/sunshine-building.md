@@ -96,7 +96,7 @@ Also, There are not many photos of the old movie theatre that existed in the cur
 
  {% include figure.html
 class="img-right"
-width="40%"
+width="35%"
 caption="Sunshine Building graffiti in 2015."
 src="images/Sunshine6.jpg"
 %}
