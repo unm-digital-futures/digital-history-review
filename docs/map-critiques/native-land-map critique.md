@@ -27,12 +27,11 @@ The same goes for the 'language' selection on the web app which also allows user
  
  ### Data
 
-The data that is correlated to develop map web app is displayed on the [Resources](https://native-land.ca/resources.html) page of the site and displays links to the many different resources used to provide information on territories, languages, and treaties. The majority of links used to display 'languages' and 'territories' are from *[Native-Land.org](http://www.native-languages.org/)* which hosts information on both languages and territories of Indigenous people within North America. Additional data comes from website of a specific tribe or site containing information specific to Indigenous languages and territories within North America. 
+The data that is correlated to develop map web app is displayed on the [Resources](https://native-land.ca/resources.html) page of the site and displays links to the many different resources used to provide information on territories, languages, and treaties. The majority of links used to display 'languages' and 'territories' are from *[Native-Land.org](http://www.native-languages.org/)* which hosts information on both languages and territories of Indigenous people within North America. Additional data comes from websites of specific tribes or sites containing information specific to Indigenous languages and territories within North America. 
 
+The information provided that makes up the data for the 'treaties' selection comes from a variety of many different sites which host maps of Indigenous lands or territories as well as when they were acquired which provided that data needed to give the parameters need to display in the territory or treaty that allotted the land to tribes within the mapping tool.
  
- 
-
- ### Critique
+  ### Critique
  
  The design of this website is
  
