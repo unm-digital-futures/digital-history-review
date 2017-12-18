@@ -107,7 +107,7 @@ The most recent headline of the Sunshine Building in the news was a graffiti inc
 
 {% include figure.html
 class="img-left"
-width="100%"
+width="50%"
 caption="Historic Sunshine Building."
 src="images/SunshineC.jpg"
 %}
