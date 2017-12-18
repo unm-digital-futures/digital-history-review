@@ -1,7 +1,16 @@
 h2 {
-  color:brown;
-}
-h3 {
-  color:brown;
+  color:FireBrick;
+ font-family: 'Permanent Marker', cursive;
 }
 
+div.full-width p {
+    width: 100%;
+    padding: 0 15%;
+    margin: 0;
+    font-style: oblique;
+    font-size:20px;
+  color: #00008B;
+
+body {
+  background-color: #e6ffff;
+}
