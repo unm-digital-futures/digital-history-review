@@ -4,7 +4,9 @@
  
 Native Land is 'a [web app](https://github.com/tempranova/Native-Land/blob/master/README.md) with Google Maps API for mapping Indigenous territories, languages, and treaties across Turtle Island (North America). This app is simply meant to sit on top of Google maps and provide a map of native land.
 
- ![native-land.ca Home Page](images/native-landCA.png "native-land.ca Home Page")
+ ![native-land.ca Home Page](images/native-land6.png "native-land.ca Home Page")
+
+ ![native-land.ca with all items selected](images/native-land6.png "native-land.ca with all selected treaties, territories, and Languages")
  
 
  
