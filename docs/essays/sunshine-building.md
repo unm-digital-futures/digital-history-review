@@ -133,8 +133,7 @@ Overall, the theater and moonlight lounge remain a main staple of the Sunshine B
 
 [^Wikipedia-Sunshine-Building]: Wikipedia page for the [Sunshine Building](https://www.en.wikipedia.org/wiki/Sunshine_Building)
 
-[^Cinema-Treasures]: ENTER SOURCE NOTE HERE
-<https://www.cinematreasures.org/theaters/10528>
+[^Cinema-Treasures]: Vogal, Joe. '[Sunshine Theatre](https://www.cinematreasures.org/theaters/10528).' *Cinema Treasures.org* 2006
 
 
 
