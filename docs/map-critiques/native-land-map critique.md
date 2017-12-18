@@ -2,7 +2,7 @@
  
  by Lorilei Chavez
  
- Native-Land.ca is a Spacial History Project focusing on mapping languages and territories as well as treaties that are in reference to Indigenous peoples of North America. 
+Native Land is 'a [web app](https://github.com/tempranova/Native-Land/blob/master/README.md) with Google Maps API for mapping Indigenous territories, languages, and treaties across Turtle Island (North America). This app is simply meant to sit on top of Google maps and provide a map of native land.
 
  ![native-land.ca Home Page](images/native-landCA.png "native-land.ca Home Page")
  
