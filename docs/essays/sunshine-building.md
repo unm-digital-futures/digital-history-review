@@ -77,8 +77,8 @@ Futher searching on a google will also reveal yelp reviews of the venues current
 
 {% include figure.html
   class="img-right"
-  width="50%"
-  height="50%"
+  width="40%"
+  height="40%"
   caption="Sunshine Theater currently the main attraction of the building"
   src="images/Sunshine4.jpg" %}
   
@@ -86,7 +86,7 @@ However, the building facade is a depiction of the decades that the building has
 
 {% include figure.html
 class="img-left"
-width="50%"
+width="40%"
 caption="Window ornaments added to facade of Sunshine Building."
 src="images/Sunshine5.jpg"
 %}
