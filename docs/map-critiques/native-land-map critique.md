@@ -43,12 +43,11 @@ First, when imputing a zip code, the site will automatically zooms completely in
 
 Second, if the user were to select all three options available at one time, the map becomes overwhelmingly confusing because of the overload of data that is shown on the map. When all are selected it is hard to determine one selection from another and there are times when one map layer overlays a different map layer it makes the data or information on the selection unavailable or difficult to access.
 
-Lastly, the site does include a teachers guide that was developed after the site developer recieved questions about being an educational resource. However, the 'teachers guide' does not offer much but having student discuss the website and give feedback which seems like more of a ploy to get input from users. If the guide include an example of an acutal lesson plan or rubric, then it can be useful for educators with a classroom context. 
+Lastly, the site does include a teacher’s guide that was developed after the site developer received questions about being an educational resource. However, the 'teachers guide' does not offer much but having student discuss the website and give feedback which seems like more of a ploy to get input from users. If the guide include an example of an actual lesson plan or rubric, then it can be useful for educators with a classroom context.
 
  ### Final Thoughts
  
-Overall, Native Land has allowed users to view North American adresseses and zip codes within an Indigenous perspective by overlaying territories, languages, and treaties on to familiar places which allows for futhur thought of history that has shaped local boundaries. Furthermore, it allows for acknowledgement of Indigenous peoples lands regardless oftreaties that allowed for relocation or allotment through crossreferencing language and terriorties. 
-
+Overall, Native Land has allowed users to view North American addressees and zip codes within an Indigenous perspective by overlaying territories, languages, and treaties on to familiar places which allows for deeper thought in to how history that has shaped local boundaries. Furthermore, it allows for acknowledgement of Indigenous peoples lands regardless of treaties that allowed for relocation or allotment through cross-referencing language and territories.
 
  
 
