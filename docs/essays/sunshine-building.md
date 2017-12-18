@@ -76,7 +76,7 @@ caption="The images of above are of historic Sunshine Building in 1940s and curr
 Futher searching on a google will also reveal yelp reviews of the venues current condition which include: sound quality in theater being really bad, restrooms falling apart, venue layout being too small for crowds that tickets sales allow, the balcony not being opened for concerts, and the most commented on was the customer service given by staff, bartenders, and security in the venue[^Yelp-reviews]. One review, from a resident that moved to Albuquerque, praised the small venue sized because it is much more of an intimate setting which allows for anyone in the theater to have the opportunity to be in the front row of any concert and makes for more of an memorable experience. Furthermore, if any patron goes early or stays after the concert, then there is a chance that they can get a glimpse or even a picture with the band or artist through the back stage entrance that leads out on to the street[^Personal-account]. 
 
 {% include figure.html
-  class="img-center"
+  class="img-right"
   width="50%"
   height="50%"
   caption="Sunshine Theater currently the main attraction of the building"
