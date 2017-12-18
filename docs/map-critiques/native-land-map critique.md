@@ -8,7 +8,7 @@ Native Land, according to the founder Temperanova, is 'a [web app](https://githu
  
  ### Overview
  
-The main functionality of the web app is to allow for user to enter a town or address to find out what Indigenous territories, languages, and treaties exist in current day North America. The goal of the web app is to simply meant to sit on top of Google maps and provide a map of native land. The audience that this website is geared toward is North Americans interested in learning more about their local history. Furthermore, it could be inferred that this website could be used as an educational resource for both High school and post-secondary classes.
+The main functionality of the web app is to allow for user to enter a town or address to find out what Indigenous territories, languages, and treaties exist in current day North America. The goal of the web app is simply meant to sit on top of Google maps and provide a map of native land. The audience that this website is geared toward are North Americans interested in learning more about their local history. The site can also be applied within history classes or Indigenous studies courses as an educational resource or to create a discussion surrounding the information provided in the map. 
 
 The main selections of the mapping web app are: the 'territories' option, the 'languages' option, and the 'treaties' option. 
 
@@ -33,7 +33,7 @@ The information provided that makes up the data for the 'treaties' selection com
  
   ### Critique
  
-The usefulness of this web app for North Americans can be easily overshadowed by the interactive display of the map when a selection is made because the web app allows for many different colors deliniate the territories, languages, and treaties. The web map app can also become confusing to the user if they began to try the many factes of the site. 
+The usefulness of this web app for North Americans can be easily overshadowed by the interactive display of the map when a selection is made because the web app allows for many different colors delineate the territories, languages, and treaties. The web map app can also become confusing to the user if they began to try the many facets of the site. 
  
  ![native-land.ca with all items selected](images/native-land5.png "native-land.ca with zoomed in to specific zip code in 'Albuquerque, NM'")
  
@@ -42,12 +42,14 @@ First, when imputing a zip code, the site will automatically zooms completely in
  ![native-land.ca with all items selected](images/native-landCA.png "native-land.ca with all selected treaties, territories, and Languages")
 
 Second, if the user were to select all three options available at one time, the map becomes overwhelmingly confusing because of the overload of data that is shown on the map. When all are selected it is hard to determine one selection from another and there are times when one map layer overlays a different map layer it makes the data or information on the selection unavailable or difficult to access.
- 
- under construction 
- 
+
+Lastly, the site does include a teachers guide that was developed after the site developer recieved questions about being an educational resource. However, the 'teachers guide' does not offer much but having student discuss the website and give feedback which seems like more of a ploy to get input from users. If the guide include an example of an acutal lesson plan or rubric, then it can be useful for educators with a classroom context. 
+
  ### Final Thoughts
  
- under construction 
+Overall, Native Land has allowed users to view North American adresseses and zip codes within an Indigenous perspective by overlaying territories, languages, and treaties on to familiar places which allows for futhur thought of history that has shaped local boundaries. Furthermore, it allows for acknowledgement of Indigenous peoples lands regardless oftreaties that allowed for relocation or allotment through crossreferencing language and terriorties. 
+
+
  
 
  
