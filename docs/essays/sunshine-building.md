@@ -35,7 +35,7 @@ The theater was built in "a symmetrical Beaux Arts style not unlike the detailin
 
 {% include full-width.html
   class="pullquote"
-  text=" incorporated into a two-part vertical block, the theater’s marquee and entry provided a visual base to the building with the five story vertical shaft rising above to the decorative cornice capping the building [^NM-Historic-preservation]."
+  text=" incorporated into a two-part vertical block, the theater’s marquee and entry provided a visual base to the building with the five story vertical shaft rising above to the decorative cornice capping the building[^NM-Historic-preservation]."
 %}
 
 In addition to the building was a neon Sunshine sign which was later added to the facade and created the classic 'American home-town' feeling when visiting the theatre. Another notable historical fact in the building of the 'Sunshine theatre' is that Trost also led southwest construction techniques with the use of reinforced concrete as a construction material which was then covered with the yellow brick and is the facade that currently exists today[^NM-Historic-preservation]. Also, the building included an attendant operated elevator used for patrons viewing the from the balcony of the 'theatre' which is what gave the building historic value, along with the oak lobby boasts and facade, when it was registered for the National Registrar of Historic Places in 1985 [^city-data-article]. The theatre opened its doors on May 1, 1924 with the showing of "Scaramouche" featuring actor Ramon Navarro and included a live orchestra to accompany the silent black and white film.
@@ -46,7 +46,7 @@ In addition to the building was a neon Sunshine sign which was later added to th
   caption="Historic Albuquerque Skyline"
   src="images/SunshineA.jpg" %}
 
-The building also includes offices on the upper levels of the building that housed F.D. Fogg and Company, a fine jewelry retailer that closed in 1970[^ABQ-Journal-article] and was also the site of the first meetings of Congregation B’nai Israel which connects the building to history of the current day New Mexico Historical Jewish Society. The theatre continued to show films in to the 1960s when the interior was almost completely remodeled to allow an installation of a large movie screen for feature film screenings. Sunshine remained in operation until 1974 when the theatre stopped showing first-run movies but then eventually closed its doors as a movie theatre in 1980 and was seriously threatened with demolition in 1984 [7]. The efforts to save the iconic Sunshine building were finally appeased when the city declared it as a historic landmark in 1985. The final renovation to the building came in 1990s when the theatre was renovated its current day purpose in the downtown which is a live music performance venue and has hosted some well-known acts such as: Strokes, Snoop Dogg, Stone Temple Pilots, The Smashing Pumpkins, Modest Mouse, Rancid, Coheed and Cambria, Social Distortion, Deftones, Deadmau5, and many others.
+The building also includes offices on the upper levels of the building that housed F.D. Fogg and Company, a fine jewelry retailer that closed in 1970[^ABQ-Journal-article] and was also the site of the first meetings of Congregation B’nai Israel which connects the building to history of the current day New Mexico Historical Jewish Society[^NMJS-website]. The theatre continued to show films in to the 1960s when the interior was almost completely remodeled to allow an installation of a large movie screen for feature film screenings. Sunshine remained in operation until 1974 when the theatre stopped showing first-run movies but then eventually closed its doors as a movie theatre in 1980 and was seriously threatened with demolition in 1984 [7]. The efforts to save the iconic Sunshine building were finally appeased when the city declared it as a historic landmark in 1985. The final renovation to the building came in 1990s when the theatre was renovated its current day purpose in the downtown which is a live music performance venue and has hosted some well-known acts such as: Strokes, Snoop Dogg, Stone Temple Pilots, The Smashing Pumpkins, Modest Mouse, Rancid, Coheed and Cambria, Social Distortion, Deftones, Deadmau5, and many others.
 
 {% include figure.html
   class="img-left"
@@ -105,6 +105,8 @@ Overall, the theater itself remains a main staple of the Sunshine Building and s
 
 [^ABQ-Journal-article]: Article in [Albuquerque Journal](https://www.abqjournal.com/biz/265961outlook12-02-04.htm) on jewelry store.
 
+[^NMJS-website]: [New Mexico Jewish Society website](https://www.nmjhs.org/2014-conference/) from 2014 conference with historical photos of Sunshine Building.
+
 
 
 [^source]: ENTER SOURCE NOTE HERE
@@ -121,8 +123,6 @@ Overall, the theater itself remains a main staple of the Sunshine Building and s
 
 
 
-[^source]: ENTER SOURCE NOTE HERE
-<https://www.nmjhs.org/2014-conference/>
 
 [^source]: ENTER SOURCE NOTE HERE
 <https://www.rjbuffalo.com/sunshine.html>
