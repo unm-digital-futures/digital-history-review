@@ -11,6 +11,9 @@ image="images/SunshineF.jpg"
 text="Albuquerque's Second Skyscraper."
 %} 
 
+Written by Lorilei Chavez
+
+
 {% include figure.html
 class="img-right"
 width="50%"
@@ -18,11 +21,7 @@ caption="Sunshine Building from Second Street and Central courtesy of Google Str
 src="images/sunshine-streetview.png"
 %}
 
-Written by Lorilei Chavez
-
-Enjoying a *[Marble Brewery](http://www.marblebrewery.com/) Pale Ale* while watching a reggae, hip-hop, or rock concert at Sunshine Theater is an experience that most people fail to appreciate for many reasons. First, some locals may think that the venue quality of Sunshine Theater is not as good as other venues downtown. Second, the aging building maintenance by current management is considered non-existent by some locals[^Yelp-reviews]. Third, many lack any other historical knowledge about the building besides the use of a concert hall by locals. As Albuquerquens, it is our duty to carry the history of our city in to the future as well as to remember all the places that make up and have made up our city skyline. So, this essay is an attempt to give a greater understanding to importance of the Sunshine Building to the local community as well as visitors to Albuquerque.
-
-
+Enjoying a *[Marble Brewery](http://www.marblebrewery.com/) Pale Ale* while watching a reggae, hip-hop, or rock concert at Sunshine Theater is an experience that most people fail to appreciate for many reasons. First, some locals may think that the venue quality of Sunshine Theater is not as good as other venues downtown. Second, the aging building maintenance by current management is considered non-existent by some locals[^Yelp-reviews]. Third, many lack any other historical knowledge about the building besides the use of a concert hall by locals. As Albuquerquens, it is our duty to carry the history of our city in to the future as well as to remember all the places that make up and have made up our city skyline. So, this essay is an attempt to give a greater understanding to importance of the Sunshine Building to the local community,visitors to Albuquerque, as well as the future generations who will either continue to enjoy it and fight for its survival or allow for its ultimate demise .
 
 {% include figure.html
 class="img-left"
@@ -30,6 +29,7 @@ width="50%"
 caption="Historic Sunshine Theatre."
 src="images/SunshineB.jpg"
 %}
+
 ### History
 The Sunshine building is most famously known to some as "Albuquerque's original cinematic palace [^city-data-article]." However, it is important to look at the overall influence that the construction of the Sunshine "theatre" had on the history of Albuquerque alongside being one of the city's first movie theaters. Before the Sunshine building was built, it was located on what was known as The White Elephant which was a saloon that closed down in 1920 due to prohibition[^historic-abq]. The saloon was owned by Joseph Barnett who moved to New Mexico from New York in 1883 and was involved in real estate until he eventually became a local entertainment entrepreneur whom, at one point, owned most of the city's theaters[^historic-abq]. Barnett then went on to hire noted architect Henry C. Trost of Trost & Trost in El Paso to build Sunshine Theatre which would include a 920 seat theater and become the second 'sky scraper' in downtown Albuquerque [^NM-Historic-preservation].
 {% include aside.html
