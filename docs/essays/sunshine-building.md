@@ -44,13 +44,15 @@ The theater was built in a symmetrical Beaux Arts style not unlike the detailing
   caption="Historic Albuquerque Skyline"
   src="images/SunshineA.jpg" %}
 
-The building also includes offices on the upper levels of the building that housed F.D. Fogg and Company, a fine jewelry retailer that closed in 1970[^ABQ-Journal-article] and was also the site of the first meetings of Congregation B’nai Israel which connects the building to history of the current day New Mexico Historical Jewish Society[^NMJS-website]. The theatre continued to show films in to the 1960s when the interior was almost completely remodeled to allow an installation of a large movie screen for feature film screenings. Sunshine remained in operation until 1974 when the theatre stopped showing first-run movies but then eventually closed its doors as a movie theatre in 1980 and was seriously threatened with demolition in 1984 [^HCT-historical-organization]. The efforts to save the iconic Sunshine building were finally appeased when the city declared it as a historic landmark in 1985. The final renovation to the building came in 1990s when the theatre was renovated its current day purpose in the downtown which is a live music performance venue and has hosted some well-known acts such as: Strokes, Snoop Dogg, Stone Temple Pilots, The Smashing Pumpkins, Modest Mouse, Rancid, Coheed and Cambria, Social Distortion, Deftones, Deadmau5, and many others[^Sunshine-live].
+The building also includes offices on the upper levels of the building that housed F.D. Fogg and Company, a fine jewelry retailer that closed in 1970[^ABQ-Journal-article] and was also the site of the first meetings of Congregation B’nai Israel which connects the building to history of the current day New Mexico Historical Jewish Society[^NMJS-website]. The theatre continued to show films in to the 1960s when the interior was almost completely remodeled to allow an installation of a large movie screen for feature film screenings. Sunshine remained in operation until 1974 when the theatre stopped showing first-run movies but then eventually closed its doors as a movie theatre in 1980 and was seriously threatened with demolition in 1984 [^HCT-historical-organization]. 
 
 {% include figure.html
   class="img-left"
   width="100%"
   caption="Last days of Sunshine Theatre before closure in 1980"
   src="images/SunshineE.jpg" %}
+  
+The efforts to save the iconic Sunshine building were finally appeased when the city declared it as a historic landmark in 1985. The final renovation to the building came in 1990s when the theatre was renovated its current day purpose in the downtown which is a live music performance venue and has hosted some well-known acts such as: Strokes, Snoop Dogg, Stone Temple Pilots, The Smashing Pumpkins, Modest Mouse, Rancid, Coheed and Cambria, Social Distortion, Deftones, Deadmau5, and many others[^Sunshine-live].
 
 ### Sunshine Building Today
 
@@ -74,7 +76,7 @@ Today, a quick drive by the Sunshine building or a google search on Google maps 
   caption="Sunshine Theater currently the main attraction of the building"
   src="images/Sunshine4.jpg" %}
   
-However, the building facade is a depiction of the decades that the building has seen through the aging yellow bricks that cover majority of the building. Also, the once vibrant neon sign that was attached to main entrance of the building was sold to a museum by the late owners of the building[^RJ-Buffalo-Article] and has since then taken away the classic 'American home-town' feeling from that section of downtown central. Furthermore, locals might even argue that the current design of the [Century 14 Downtown](http://cinematreasures.org/theaters/44973) is representative of the Albuquerque's movie theatre days. The most recent headline of the Sunshine Building in the news was a graffiti incident that occurred in 2015 when vandals climbed to the top of the building and defaced the building’s facade. The news article explains that concerns of the buildings historic value and height of the building would make it difficult to clean up the graffiti [^KRQE-Article].
+However, the building facade is a depiction of the decades that the building has seen through the aging yellow bricks that cover majority of the building. Also, the once vibrant neon sign that was attached to main entrance of the building was sold to a museum by the late owners of the building[^RJ-Buffalo-Article] and has since then taken away the classic 'American home-town' feeling from that section of downtown central. Furthermore, locals might even argue that the current design of the [Century 14 Downtown](http://cinematreasures.org/theaters/44973) is representative of the Albuquerque's movie theatre days. 
 
  {% include figure.html
 class="img-right"
@@ -83,7 +85,7 @@ caption="Sunshine Building graffiti in 2015."
 src="images/Sunshine6.jpg"
 %}
 
-Other than this article in the news, there is not much references about the historic value of the Sunshine Building to the city of Albuquerque which is only solidified upon visiting the theater for a concert and seeing the shambles the building is in versus the prestige it once held.
+The most recent headline of the Sunshine Building in the news was a graffiti incident that occurred in 2015 when vandals climbed to the top of the building and defaced the building’s facade. The news article explains that concerns of the buildings historic value and height of the building would make it difficult to clean up the graffiti [^KRQE-Article]. Other than this article in the news, there is not much references about the historic value of the Sunshine Building to the city of Albuquerque which is only solidified upon visiting the theater for a concert and seeing the shambles the building is in versus the prestige it once held.
   
 ### Sunshine Building in the future
 
