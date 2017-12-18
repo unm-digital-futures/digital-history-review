@@ -14,7 +14,7 @@ text="Albuquerque's Second Skyscraper."
 {% include figure.html
 class="img-right"
 width="50%"
-caption="Sunshine Building from the Second Street and Central"
+caption="Sunshine Building from Second Street and Central courtesy of Google Streetview"
 src="images/sunshine-streetview.png"
 %}
 
@@ -74,7 +74,7 @@ Today, a quick drive by the Sunshine building or a google search on Google maps 
   caption="Sunshine Theater currently the main attraction of the building"
   src="images/Sunshine4.jpg" %}
   
-However, the building facade is a depiction of the decades that the building has seen through the aging yellow bricks that cover majority of the building. Also, the once vibrant neon sign that was attached to main entrance of the building was sold to a museum by the late owners of the building and has since then taken away the classic 'American home-town' feeling from that section of downtown central. Furthermore, locals might even argue that the current design of the [Century 14 Downtown](http://cinematreasures.org/theaters/44973) is representative of the Albuquerque's movie theatre days. The most recent headline of the Sunshine Building in the news was a graffiti incident that occurred in 2015 when vandals climbed to the top of the building and defaced the building’s facade. The news article explains that concerns of the buildings historic value and height of the building would make it difficult to clean up the graffiti [^KRQE-Article].
+However, the building facade is a depiction of the decades that the building has seen through the aging yellow bricks that cover majority of the building. Also, the once vibrant neon sign that was attached to main entrance of the building was sold to a museum by the late owners of the building[^RJ-Buffalo-Article] and has since then taken away the classic 'American home-town' feeling from that section of downtown central. Furthermore, locals might even argue that the current design of the [Century 14 Downtown](http://cinematreasures.org/theaters/44973) is representative of the Albuquerque's movie theatre days. The most recent headline of the Sunshine Building in the news was a graffiti incident that occurred in 2015 when vandals climbed to the top of the building and defaced the building’s facade. The news article explains that concerns of the buildings historic value and height of the building would make it difficult to clean up the graffiti [^KRQE-Article].
 
  {% include figure.html
 class="img-right"
@@ -110,7 +110,13 @@ Overall, the theater itself remains a main staple of the Sunshine Building and s
 
 [^Sunshine-live]: Current [Sunshine Theater website](https://www.sunshinetheaterlive.com/page/about-sunshine-theater) where information can be found on upcoming events, venue information, and short history on building.
 
-[^Personal-account]: At a 
+[^Personal-account]: At a Tribal Seeds concert in 2015 I was able to watch the show front row and meet the band as they were loading their tour bus at the end of the show.
+
+[^RJ-Buffalo-Article]: [Personal Essay](https://www.rjbuffalo.com/sunshine.html) wriiten on Sunshine Theater.
+
+
+
+
 
 
 
@@ -127,8 +133,7 @@ Overall, the theater itself remains a main staple of the Sunshine Building and s
 
 
 
-[^source]: ENTER SOURCE NOTE HERE
-<https://www.rjbuffalo.com/sunshine.html>
+
 
 
 
