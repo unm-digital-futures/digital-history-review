@@ -1,10 +1,17 @@
 # Mapping Project Critique- [Native-Land.CA ](https://native-land.ca/)
+
+Lorilei Chavez
  
- by Lorilei Chavez
+Native Land, according to the founder Temperanova, is 'a [web app](https://github.com/tempranova/Native-Land/blob/master/README.md) with Google Maps API for mapping Indigenous territories, languages, and treaties across Turtle Island (North America). This app is simply meant to sit on top of Google maps and provide a map of native land.' 
+
+ ### Overview
  
-Native Land is 'a [web app](https://github.com/tempranova/Native-Land/blob/master/README.md) with Google Maps API for mapping Indigenous territories, languages, and treaties across Turtle Island (North America). This app is simply meant to sit on top of Google maps and provide a map of native land.
+ The main functionality of the web app is to allow for user to 
 
  ![native-land.ca Home Page](images/native-land6.png "native-land.ca Home Page")
+ 
+ 
+ ### Design
 
  ![native-land.ca with all items selected](images/native-landCA.png "native-land.ca with all selected treaties, territories, and Languages")
  
