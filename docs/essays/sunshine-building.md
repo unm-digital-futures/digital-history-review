@@ -61,7 +61,7 @@ The efforts to save the iconic Sunshine building were finally appeased when the 
 
 ### Sunshine Building Today
 
-Today, due to the building's size, the Sunshine has two buisness adresses for the north entrance and businesses on the west facing section of the buidling. A quick google search will reveal that is now a concert stage for artists visiting Albuquerque and is one of the most popular venues in town[^Wikipedia-Sunshine-Building]. More specifically important to the youth,it is one of the few underage concert venues in town.
+Today, due to the building's size, the Sunshine has two business addresses for the north entrance and businesses on the west facing section of the building. A quick google search will reveal that is now a concert stage for artists visiting Albuquerque and is one of the most popular venues in town[^Wikipedia-Sunshine-Building]. More specifically important to the youth, as it is one of the few underage concert venues in town.
 
 {% include juxtapose.html
 image1="/essays/images/SunshineD.jpg"
@@ -74,7 +74,7 @@ caption="The images of above are of historic Sunshine Building in 1940s and curr
   text="[Sunshine Theater](http://www.sunshinetheaterlive.com/) is much more of an intimate setting which allows for anyone in the theater to have the opportunity to be in the front row of any concert and makes for more of an memorable experience."
   %}
   
-Futher searching on a google will also reveal yelp reviews of the venues current condition which include: sound quality in theater being really bad, restrooms falling apart, venue layout being too small for crowds that tickets sales allow, the balcony not being opened for concerts, and the most commented on was the customer service given by staff, bartenders, and security in the venue[^Yelp-reviews]. One review, from a resident that moved to Albuquerque, praised the small venue sized because it is much more of an intimate setting which allows for anyone in the theater to have the opportunity to be in the front row of any concert and makes for more of an memorable experience. Furthermore, if any patron goes early or stays after the concert, then there is a chance that they can get a glimpse or even a picture with the band or artist through the back stage entrance that leads out on to the street[^Personal-account]. 
+Further searching on a google will also reveal yelp reviews of the venues current condition which include: sound quality in theater being really bad, restrooms falling apart, venue layout being too small for crowds that tickets sales allow, the balcony not being opened for concerts, and the most commented on was the customer service given by staff, bartenders, and security in the venue[^Yelp-reviews]. One review, from a resident that moved to Albuquerque, praised the small venue sized because it is much more of an intimate setting which allows for anyone in the theater to have the opportunity to be in the front row of any concert and makes for more of a memorable experience. Furthermore, if any patron goes early or stays after the concert, then there is a chance that they can get a glimpse or even a picture with the band or artist through the back stage entrance that leads out on to the street[^Personal-account]. 
 
 {% include figure.html
   class="img-right"
@@ -83,7 +83,7 @@ Futher searching on a google will also reveal yelp reviews of the venues current
   caption="Sunshine Theater currently the main attraction of the building"
   src="images/Sunshine4.jpg" %}
   
-However, the building facade is a depiction of the decades that the building has seen through the aging yellow bricks that cover majority of the building. The window ornaments that were added in the 1950s to the facade of the building cover up window trimmings that are from the original conostruction in the 1920s. Also, the once vibrant neon sign that was attached to main entrance of the building was sold to a museum by the late owners of the building[^RJ-Buffalo-Article] and has since then taken away the classic 'American home-town' feeling from that section of downtown central. 
+However, the building facade is a depiction of the decades that the building has seen through the aging yellow bricks that cover majority of the building. The window ornaments that were added in the 1950s to the facade of the building cover up window trimmings that are from the original construction in the 1920s. Also, the once vibrant neon sign that was attached to main entrance of the building was sold to a museum by the late owners of the building[^RJ-Buffalo-Article] and has since then taken away the classic 'American home-town' feeling from that section of downtown central. 
 
 {% include figure.html
 class="img-left"
@@ -92,7 +92,7 @@ caption="Window ornaments added to facade of Sunshine Building."
 src="images/Sunshine5.jpg"
 %}
 
-Also, There are not many photos of the old movie theatre that existed in the current music venue and one of the few is only of an exit sign that was pictured in a news article advertising its opening in May of 1924. The last remaining detail of the old theatre is the balcony but is not always open to the public during events at the venue. Furthermore, some might even argue that the current design of the [Century 14 Downtown](http://cinematreasures.org/theaters/44973) is an attempt to represent of the classic movie theatre days which is ironic being that the Sunshine Theatre is just around corner and was orginally where the movie theater industry in Albuquerque ordinated. 
+Also, There are not many photos of the old movie theatre that existed in the current music venue and one of the few is only of an exit sign that was pictured in a news article advertising its opening in May of 1924. The last remaining detail of the old theatre is the balcony but is not always open to the public during events at the venue. Furthermore, some might even argue that the current design of the [Century 14 Downtown](http://cinematreasures.org/theaters/44973) is an attempt to represent of the classic movie theatre days which is ironic being that the Sunshine Theatre is just around corner and was originally where the movie theater industry in Albuquerque ordinated. 
 
  {% include figure.html
 class="img-right"
@@ -119,8 +119,7 @@ Overall, the theater and moonlight lounge remain a main staple of the Sunshine B
 
 [^ABQ-Journal-article]: '[Jewelry store closing after 83 years in ABQ](https://www.abqjournal.com/biz/265961outlook12-02-04.htm).' *Albuquerque Journal,* December 2004.
 
-[^NM-Historic-preservation]: Kammer Ph. D., David. '[The Historical Development of Motion Picture Theaters in New Mexico, 1905-1960
-](https://www.nmhistoricpreservation.org/assets/files/historic-contexts-and-reports/Movie-Theaters-in-New-Mexico-MPDF-Final-Sent-to-NPS.pdf).'*Nmhistoricpreservation.org,* April 2006.
+[^NM-Historic-preservation]: Kammer Ph. D., David. '[The Historical Development of Motion Picture Theaters in New Mexico, 1905-1960](https://www.nmhistoricpreservation.org/assets/files/historic-contexts-and-reports/Movie-Theaters-in-New-Mexico-MPDF-Final-Sent-to-NPS.pdf).'*Nmhistoricpreservation.org,* April 2006.
 
 [^KRQE-Article]: McKee, Chris. '[Historic ABQ building hit with graffiti](https://www.krqe.com/2015/02/23/historic-sunshine-building-tagged-with-graffiti/).' *KRQE News,* February 23, 2015.
 
