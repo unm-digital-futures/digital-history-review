@@ -11,12 +11,12 @@ image="images/SunshineF.jpg"
 text="Albuquerque's Second Skyscraper."
 %} 
 
-Written by Lorilei Chavez
+Lorilei Chavez
 
 
 {% include figure.html
 class="img-right"
-width="50%"
+width="40%"
 caption="Sunshine Building from Second Street and Central courtesy of Google Streetview"
 src="images/sunshine-streetview.png"
 %}
