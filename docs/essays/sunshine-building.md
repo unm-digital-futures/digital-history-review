@@ -80,7 +80,16 @@ Today, a quick drive by the Sunshine building or a google search on Google maps 
   caption="Sunshine Theater currently the main attraction of the building"
   src="images/Sunshine4.jpg" %}
   
-However, the building facade is a depiction of the decades that the building has seen through the aging yellow bricks that cover majority of the building. Also, the once vibrant neon sign that was attached to main entrance of the building was sold to a museum by the late owners of the building[^RJ-Buffalo-Article] and has since then taken away the classic 'American home-town' feeling from that section of downtown central. Furthermore, locals might even argue that the current design of the [Century 14 Downtown](http://cinematreasures.org/theaters/44973) is an attempt to represent of the Albuquerque's movie theatre days which is ironic being that the Sunshine Theatre was orginally just around corner. 
+However, the building facade is a depiction of the decades that the building has seen through the aging yellow bricks that cover majority of the building. 
+
+{% include figure.html
+class="img-left"
+width="50%"
+caption="Window ornaments added to facade of Sunshine Building."
+src="images/Sunshine5.jpg"
+%}
+
+Also, the once vibrant neon sign that was attached to main entrance of the building was sold to a museum by the late owners of the building[^RJ-Buffalo-Article] and has since then taken away the classic 'American home-town' feeling from that section of downtown central. Furthermore, locals might even argue that the current design of the [Century 14 Downtown](http://cinematreasures.org/theaters/44973) is an attempt to represent of the Albuquerque's movie theatre days which is ironic being that the Sunshine Theatre was orginally just around corner. 
 
  {% include figure.html
 class="img-right"
