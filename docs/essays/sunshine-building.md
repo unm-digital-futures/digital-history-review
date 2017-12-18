@@ -26,6 +26,7 @@ Enjoying a *[Marble Brewery](http://www.marblebrewery.com/) Pale Ale* while watc
 {% include figure.html
 class="img-left"
 width="50%"
+height="40%"
 caption="Historic Sunshine Theatre."
 src="images/SunshineB.jpg"
 %}
@@ -95,7 +96,7 @@ Also, There are not many photos of the old movie theatre that existed in the cur
 
  {% include figure.html
 class="img-right"
-width="30%"
+width="40%"
 caption="Sunshine Building graffiti in 2015."
 src="images/Sunshine6.jpg"
 %}
@@ -103,6 +104,13 @@ src="images/Sunshine6.jpg"
 The most recent headline of the Sunshine Building in the news was a graffiti incident that occurred in 2015 when vandals climbed to the top of the building and defaced the building’s facade. The news article explains that concerns of the buildings historic value and height of the building would make it difficult to clean up the graffiti [^KRQE-Article]. Other than this article in the news, there is not much references about the historic value of the Sunshine Building to the city of Albuquerque which is only solidified upon visiting the theater for a concert and seeing the shambles the building is in versus the prestige it once held.
   
 ### Sunshine Building in the future
+
+{% include figure.html
+class="img-left"
+width="100%"
+caption="Historic Sunshine Building."
+src="images/SunshineC.jpg"
+%}
 
 Overall, the theater and moonlight lounge remain a main staple of the Sunshine Building and seems to not be facing any decline within the next chapters of downtown Albuquerque[^Cinema-Treasures]; but, as a fellow Albuquerquen, it is easy to wonder when the next challenge will come to the Sunshine Theater that will be the metaphorical straw that will break the camel's back. As a city, we should band together to create a new narrative for what downtown as well as all of Albuquerque means to us and this means advocating for city projects that will include items like restoration of historical sites, more art projects to make our streets beautiful, and actual histories of the city written by people from the city. Until then, people will going about their way downtown without noticing the Sunshine Buildings importance until be  any threats come the buildings way and will ultimately determine whether the building is as important as it once was to Albuquerque.
 
