@@ -6,9 +6,9 @@ date: 2017-11-07
 ---
 
 {% include jumbotron.html
-title="Acequias"
+title="Valle de Atrisco Acequias"
 image="images/acequia1.jpeg"
-text="Public Spaces of Tradition and Culture in the South Valley"
+text="Spaces of Tradition and Culture in the South Valley"
 %}
 
 {% include figure.html
@@ -31,7 +31,7 @@ The Valle de Atrisco, commonly referred to as the South Valley, is one of the ol
   
 ### What is an Acequia?
 
-Acequias, sometimes referred to as ‘ditches’ or ‘arroyos’ are community-based forms of water sharing used for irrigation, first introduced to the region that is today New Mexico by the Spanish in the seventeenth-century.[^source6] The acequia system itself is much older, dating back to methods developed by the Moors and brought to the Iberian Peninsula during their occupation of the region (ca.700-1492).
+Acequias, sometimes referred to as ‘ditches’ or ‘arroyos’ are community-based forms of water sharing used for irrigation, first introduced to the region that is today New Mexico by the Spanish in the seventeenth-century.[^source6] The acequia system itself is much older, dating back to methods developed by the Moors and brought to the Iberian Peninsula during their occupation of the region (ca. 700-1492).
 
 {% include figure.html
 class="img-right"
