@@ -22,7 +22,7 @@ text="Spaces of Tradition and Culture in the South Valley"
 
 {% include aside.html
   class="pullquote"
-  text="Acequias are community-based forms of water sharing used for irrigation, first introduced to the region by the Spanish in the seventeenth-century."
+  text="Acequias are community-based forms of water sharing used for irrigation, first introduced to the region by Spanish settlers in the seventeenth-century."
   %}
 
 The Valle de Atrisco, commonly referred to as the South Valley, is one of the oldest and most historic areas of Albuquerque, owing its name to the Atrisco Land Grant of 1692.[^source1] The word "Atrisco" is derived from the Nahuatl word "Atlixo", which means “surface of a body of water" and is an indication of how important acequias and water systems are to the area.[^source2] The land grant was designed to spur settlement in the area and is still relatively intact to this day as families and individuals whose histories date back centuries still claim rights to land and water in the area.[^source3] The acequia system played an integral part in irrigating the land to cultivate corn, wheat, beans, alfalfa, and allowed the area to grow and prosper throughout the seventeenth and eighteenth centuries.[^source4] Acequias were the critical point around which farmlands were built and maintained. The space around the acequias from the colonial period of the seventeenth century through World War II consisted of rural farmland subdivided between families.[^source5] Today, due to factors of modernization and urbanization, acequias of the South Valley function as unique sources of public space and cultural tradition.
