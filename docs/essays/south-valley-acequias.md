@@ -1,7 +1,7 @@
 ---
-title: South Valley Acequias
+title: Valle de Atrisco Acequias
 author: James Gleason
-css: southvalleyacequias.css
+css: valledeatriscoacequias.css
 date: 2017-11-07
 ---
 
